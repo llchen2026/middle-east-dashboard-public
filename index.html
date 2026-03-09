@@ -74,8 +74,14 @@
       overflow: auto;
       padding-right: 4px;
     }
-    .asset-item, .timeline-item { border: 1px solid var(--border); border-radius: 18px; padding: 16px; background: #fff; }
-    .asset-item, .timeline-item { min-height: 280px; }
+    .asset-item, .timeline-item {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 16px;
+      background: #fff;
+      min-height: fit-content;
+      height: auto;
+    }
     .asset-top, .timeline-top { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
     .asset-meta, .timeline-meta { color: var(--muted); font-size: 13px; margin-bottom: 4px; }
     .asset-name, .timeline-title { font-size: 17px; font-weight: 600; }
