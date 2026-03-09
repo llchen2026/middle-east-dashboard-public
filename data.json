@@ -1397,48 +1397,6 @@
       ]
     },
     {
-      "product": "尿素 (Urea)",
-      "country": "中东",
-      "hub": "区域性",
-      "status": "已受影响",
-      "directImpactValue": null,
-      "directImpactUnit": "",
-      "indirectImpactValue": null,
-      "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停尿素生产。中东地区颗粒尿素肥料价格近期每吨上涨130美元。全球约三分之一尿素出口来自海湾，霍尔木兹海峡承载25%-35%贸易，封锁致供应担忧，价格飙升。伊朗本土约900万吨尿素产能面临停产风险。",
-      "sources": [
-        {
-          "label": "受美国和伊朗之间战争的影响，中东地区供应链发生动摇，化肥和煤炭价格同时上涨。 5日（当地时间），据全球原材料专门媒体\"Argus\"报道，中东地区颗粒尿素肥料价格最近每吨上涨了130美元（约19万韩元.. - MK",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNZhYotm-mLsizPVawG9GCyKrcyBxKKlcYfZd8356icKe40esI0fbFkqWdV8EKuPT5m536nHvk5oBRScKIIkm5-2ITgbBi8ZvrU_EGPiJbJo0nZjO4PssIrAt7oEJh0z35g=="
-        },
-        {
-          "label": "供应告急，国际尿素价格飙升！为何国内市场“波澜不惊”？ - 网易",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwCTVCjtCFyv0KQpeSnXHamF2T2lQRBXdw6fHVjNOwfSdcUQnB1xJfzxqjVtn37HpB-SHBwP7XzIy93N3_9yMNoat14FdXjR2uOGZMbucWHVfFEf1EpC5kDE4p2OwHxrI-mVVlcb2FudqD58Q-eQ=="
-        },
-        {
-          "label": "研报分析 - 奇货可查",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMJryaNqO6_9Q3hsDOvcp18rcB7zlAcnOpW1LXZEQpamDv5RMaHWPeNKhW0g5hsdHl6-Wy_qxhpHXNscCx_OFe6aQurgBMg34yyKZSBJwqFTVr1ClwwatSctn_E7InkWh9A_cSAbgHiWKlp6mb3wrqUbSZhYxqUEtRLoZRiGDcLNOic4PRYq8sOj6-qDSlQy1gotpF_FXwd9CezDE="
-        }
-      ]
-    },
-    {
-      "product": "氨 (Ammonia)",
-      "country": "中东",
-      "hub": "区域性",
-      "status": "已受影响",
-      "directImpactValue": null,
-      "directImpactUnit": "",
-      "indirectImpactValue": null,
-      "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停氨生产。霍尔木兹海峡承载全球25%-35%的氨贸易，封锁引发供应担忧。全球最大氨生产商CF实业股价上涨，反映市场对供应链中断的担忧。",
-      "sources": [
-        {
-          "label": "以色列有限恢复商业航班离境 - 财联社",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBp2KQyFdMnJ1gcoxvJyaRC7rcfU2ywQMv9nx8e5gceP02wk3WPY8_d4hGdJrRJH63SaCIwSho0MQvYk6jiHtOM1C2_OTPKhazezQr6wcWB17HbSNt_MK0DdQD"
-        }
-      ]
-    },
-    {
       "product": "液化石油气 (LPG)",
       "country": "中东",
       "hub": "区域性",
@@ -1557,8 +1515,20 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停尿素生产。全球约三分之一尿素出口来自海湾，霍尔木兹海峡封锁致供应担忧，价格飙升。",
+      "current": "卡塔尔3月2日暂停尿素生产。中东地区颗粒尿素肥料价格近期每吨上涨130美元。全球约三分之一尿素出口来自海湾，霍尔木兹海峡承载25%-35%贸易，封锁致供应担忧，价格飙升。伊朗本土约900万吨尿素产能面临停产风险。",
       "sources": [
+        {
+          "label": "受美国和伊朗之间战争的影响，中东地区供应链发生动摇，化肥和煤炭价格同时上涨。 5日（当地时间），据全球原材料专门媒体\"Argus\"报道，中东地区颗粒尿素肥料价格最近每吨上涨了130美元（约19万韩元.. - MK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNZhYotm-mLsizPVawG9GCyKrcyBxKKlcYfZd8356icKe40esI0fbFkqWdV8EKuPT5m536nHvk5oBRScKIIkm5-2ITgbBi8ZvrU_EGPiJbJo0nZjO4PssIrAt7oEJh0z35g=="
+        },
+        {
+          "label": "供应告急，国际尿素价格飙升！为何国内市场“波澜不惊”？ - 网易",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwCTVCjtCFyv0KQpeSnXHamF2T2lQRBXdw6fHVjNOwfSdcUQnB1xJfzxqjVtn37HpB-SHBwP7XzIy93N3_9yMNoat14FdXjR2uOGZMbucWHVfFEf1EpC5kDE4p2OwHxrI-mVVlcb2FudqD58Q-eQ=="
+        },
+        {
+          "label": "研报分析 - 奇货可查",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMJryaNqO6_9Q3hsDOvcp18rcB7zlAcnOpW1LXZEQpamDv5RMaHWPeNKhW0g5hsdHl6-Wy_qxhpHXNscCx_OFe6aQurgBMg34yyKZSBJwqFTVr1ClwwatSctn_E7InkWh9A_cSAbgHiWKlp6mb3wrqUbSZhYxqUEtRLoZRiGDcLNOic4PRYq8sOj6-qDSlQy1gotpF_FXwd9CezDE="
+        },
         {
           "label": "ChemNet News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBSRIQfy4sAGQ4bKRk0E9u15TI6sOZ75Jws2yfQSp98byOZBRXHuTYUR9ayimlRWFl5NZtiIIP_Ex5NsBBAqPDAau_lFdsR34XDommGamaoOMyg6EpdYhWS6PowEHXsgHwMw=="
@@ -1662,8 +1632,12 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "霍尔木兹海峡为氨重要运输通道，承载全球25%-35%贸易，封锁引发供应担忧。",
+      "current": "卡塔尔3月2日暂停氨生产。霍尔木兹海峡承载全球25%-35%的氨贸易，封锁引发供应担忧。全球最大氨生产商CF实业股价上涨，反映市场对供应链中断的担忧。",
       "sources": [
+        {
+          "label": "以色列有限恢复商业航班离境 - 财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBp2KQyFdMnJ1gcoxvJyaRC7rcfU2ywQMv9nx8e5gceP02wk3WPY8_d4hGdJrRJH63SaCIwSho0MQvYk6jiHtOM1C2_OTPKhazezQr6wcWB17HbSNt_MK0DdQD"
+        },
         {
           "label": "SunSirs",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2km6hwu17Xdx7aBUUD2CBNUvUsMKacoLC8PqnxmnnSrqT2H0dHLcsXJmb6qi_KBCUfJHD4mgMaElUN4hbOMJ5VEGnFm3WKmFfqko_HRrYbGby40KIzjvvjkM8DDml-_AF-7OZNCrUtw38YxqvKppPi6A"
