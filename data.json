@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09 21:16（北京时间）",
+  "lastUpdated": "2026-03-09 21:20（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -685,7 +685,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "卡塔尔能源公司3月2日宣布，拉斯拉凡及梅赛义德工业城设施遭军事袭击，已暂停聚合物、尿素及甲醇等下游产品生产。挪威海德鲁投资的卡塔尔铝冶炼厂亦停产，因无法采购冶炼所需LNG燃料。",
+      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡设施遭袭暂停LNG生产；3月3日进一步暂停聚合物、尿素、甲醇等下游产品生产。外交部同日表示设施受损可控，正进行技术评估。",
       "sources": [
         {
           "label": "阿联酋通讯社",
@@ -693,7 +693,12 @@
         }
       ],
       "baselineSources": [],
-      "products": []
+      "products": [
+        "聚合物",
+        "尿素",
+        "甲醇",
+        "液化天然气"
+      ]
     },
     {
       "country": "阿联酋",
@@ -1335,6 +1340,189 @@
       "current": "边佳兰炼油厂一套7万桶/日的汽油生产装置（RFCC）于2月初意外停产检修至4月，导致整体产能降至约50%，2月和3月汽柴油出口量相应减少。",
       "sources": [],
       "baselineSources": []
+    },
+    {
+      "country": "伊朗",
+      "facility": "德黑兰南部炼油厂",
+      "category": "炼厂",
+      "status": "遭轰炸",
+      "current": "3月7日，伊朗伊斯兰革命卫队确认德黑兰南部一座炼油厂遭轰炸。",
+      "products": [],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "affectedValue": null,
+      "normalizedValue": null,
+      "designUnit": "暂无",
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "伊朗",
+      "facility": "卡拉季地区油库",
+      "category": "油库",
+      "status": "遭袭击",
+      "current": "3月7日晚，以色列战机袭击德黑兰附近卡拉季地区等三处油库。",
+      "products": [
+        "原油",
+        "成品油"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "affectedValue": null,
+      "normalizedValue": null,
+      "designUnit": "暂无",
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "沙特",
+      "facility": "拉斯塔努拉炼油厂",
+      "category": "炼厂",
+      "designValue": 550,
+      "designUnit": "kbpd",
+      "status": "预防性关闭",
+      "current": "3月2日，沙特阿美公司出于预防考虑，关闭波斯湾沿岸最大炼油厂拉斯塔努拉以评估损失，此前该地区遭无人机空袭。",
+      "products": [
+        "柴油",
+        "汽油",
+        "航空煤油",
+        "燃料油"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "巴林",
+      "facility": "锡特拉炼油厂",
+      "category": "炼厂",
+      "designValue": 448,
+      "designUnit": "kbpd",
+      "status": "部分停运",
+      "current": "3月5日，巴林国家石油公司（BAPCO）因中东冲突关闭日产44.8万桶的锡特拉炼油厂两套原油装置。",
+      "products": [
+        "原油"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "巴林",
+      "facility": "阿尔马米尔石油设施",
+      "category": "石油设施",
+      "status": "遭袭击 / 起火",
+      "current": "3月9日，伊朗袭击巴林阿尔马米尔石油设施，引发火灾并造成财产损失。",
+      "products": [],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "affectedValue": null,
+      "normalizedValue": null,
+      "designUnit": "暂无",
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "科威特",
+      "facility": "全国石油生产",
+      "category": "原油生产",
+      "designValue": 2600,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "减产",
+      "current": "3月7日，科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，对原油生产和提炼实施预防性削减。3月8日，科威特石油公司表示正在降低油田和炼油厂产量。",
+      "products": [
+        "原油",
+        "成品油"
+      ],
+      "sources": [],
+      "baselineSources": []
+    },
+    {
+      "country": "阿联酋",
+      "facility": "全国石油生产",
+      "category": "原油生产",
+      "status": "减产",
+      "current": "3月8日，阿联酋开始削减石油产量。阿布扎比国家石油公司表示正管理海上生产水平以应对存储需求。",
+      "products": [
+        "原油"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "affectedValue": null,
+      "normalizedValue": null,
+      "designUnit": "暂无",
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "伊拉克",
+      "facility": "全国石油生产",
+      "category": "原油生产",
+      "affectedValue": 1500,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 1500,
+      "status": "减产",
+      "current": "3月7日，伊拉克官员表示因储存能力接近极限，已将石油产量每日削减150万桶。",
+      "products": [
+        "原油"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "designUnit": "暂无"
+    },
+    {
+      "country": "中东",
+      "facility": "霍尔木兹海峡",
+      "category": "航运 / 运输",
+      "designValue": 20,
+      "designUnit": "%全球石油运输量",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "关闭 / 受阻",
+      "current": "3月2日深夜，伊朗伊斯兰革命卫队司令顾问表示霍尔木兹海峡已关闭，伊方将打击所有试图通过的船只。中东战事已使该狭窄水道几乎完全关闭。",
+      "products": [
+        "原油",
+        "液化天然气",
+        "成品油"
+      ],
+      "sources": [],
+      "baselineSources": []
+    },
+    {
+      "country": "巴林",
+      "facility": "海水淡化厂",
+      "category": "公用事业",
+      "status": "遭袭击 / 受损",
+      "current": "3月8日，巴林指责伊朗不加区分攻击民用目标，损毁一座海水淡化厂。",
+      "products": [
+        "淡水"
+      ],
+      "sources": [],
+      "baselineSources": [],
+      "designValue": null,
+      "affectedValue": null,
+      "normalizedValue": null,
+      "designUnit": "暂无",
+      "affectedUnit": "暂无",
+      "normalizedType": "oil"
     }
   ],
   "timeline": [
