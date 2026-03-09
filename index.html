@@ -383,6 +383,17 @@
       return Number(value).toFixed(digits).replace(/\.0$/, '');
     }
 
+    function displayUnit(item, kind) {
+      const raw = kind === 'design' ? item.designUnit : item.affectedUnit;
+      if (raw && raw !== '暂无') return raw;
+      const hasValue = typeof (kind === 'design' ? item.designValue : item.affectedValue) === 'number';
+      if (!hasValue) return '暂无';
+      if (item.normalizedType === 'lng') return 'mtpa';
+      if (item.normalizedType === 'gas') return 'mcm/d';
+      if (item.normalizedType === 'oil') return 'kbpd';
+      return '暂无';
+    }
+
     function renderSourceGroup(sources, label) {
       const usable = getUsableSources(sources);
       if (!usable.length) return '';
@@ -466,11 +477,11 @@
             <div class="asset-grid">
               <div class="mini mini-design">
                 <div class="mini-label">设计产能 / 产量</div>
-                <div class="mini-value">${item.designValue ?? '暂无'} ${item.designUnit}</div>
+                <div class="mini-value">${item.designValue ?? '暂无'} ${displayUnit(item, 'design')}</div>
               </div>
               <div class="mini mini-affected">
                 <div class="mini-label">受影响产能 / 产量</div>
-                <div class="mini-value">${item.affectedValue ?? '暂无'} ${item.affectedUnit}</div>
+                <div class="mini-value">${item.affectedValue ?? '暂无'} ${displayUnit(item, 'affected')}</div>
               </div>
               <div class="mini mini-current">
                 <div class="mini-label">当前动态</div>
