@@ -15,6 +15,10 @@
       "current": "伊朗原油出口重要枢纽哈尔克岛附近发生爆炸，部分产能临时中断。3月7日，以色列对德黑兰燃油存储设施发动袭击，德黑兰南部一座炼油厂及卡拉季地区三处油库遭轰炸。",
       "sources": [
         {
+          "label": "中国石油新闻中心",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxlFekmkXQ7qMmnUAnMYdoUtVTWs3JR25lyXxJ1HjzN7EFippufnvD0FPdI46FcvJB4s_bZja1Nee1K9kggjrMmbuEX2oJJboRpBPqawHxS_-0j3PDzuis6rX-JfaEIgdsNzwV6kUGLLA7dWZ9YfQOdwp0Ng=="
+        },
+        {
           "label": "以军称袭击伊朗首都燃料罐 - 澳广视新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4enDF-3ss4FjjF4GHQvWpE20LwsXSSKazeSTKxHEIclXKl2nhHRxYxv6nqdU7n0JDjPhZhjdtpCOiPwHsr91Z0WR8EHPic7GMRlMl2TLF0v8DkU5BrBha17Wk5mrFAZjJOLfqJ0q-sVc-3o4VyejI3kdA73lT3Rpg3k7sNGUHJ38KAEh1RyYQ"
         },
@@ -72,11 +76,759 @@
       "normalizedType": "oil",
       "normalizedValue": 0,
       "status": "未确认直接受影响",
-      "current": "该时间窗内未见公开确认遭袭或停产。",
+      "current": "3月7日，以色列军方袭击德黑兰多处燃油储存设施及一座炼油厂，导致部分产能临时中断。3月8日，德黑兰上空出现黑色“石油雨”，显示袭击影响持续。",
       "sources": [
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6buEvuc6VcNnf5r3WCpHYe0sVbqu3F-xSaHQ5J4eN8yLMDZ6xZ_sMk8lanCdXZNxeSuSYXClHniWcMRiDV6IQbfzsJLF0sZPmBHR2I68Gphrcucc19RHEap-wlw_u0JrC7CN7IXbnP8IfWliRxTkHKlkIiTu-"
+        },
+        {
+          "label": "华文西贡解放日报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHitagYQUmjtozzNL6ZLKUOOm32qg9jM7--0Z6OVZKrXolKavGk5a_X4f2hfxHFrQZOEhGsps78pMNIFkCsGP1zpbidZB1NqJS50DTpON4NFBluyFd34ShLXpuGXJw_e8tfexz4ExP-DjBv_Yy6K09nzHKVkEG_Elae2NSFySGIAoCQMikRQh2UFHFL3FRXkcee3HbF8CxyEs-eukXKyLsDT6FCcVdwxxU6Xr5YOdIb4SoJY-spXsTwawaYzTXjKSTLw2RPLjDebpE1c66DkIHswCZXxEW4l18Bjh4iT-wkWGY="
+        },
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6PkhxWGp4_QirokFoKlUsikCMsR7nyySBAp9DjJCJcQzM7Qq-kKundMOD7VbMrBoQITzA-0YSnvyh-r_Rw52vt_hMOwFtZan3Dl8BY7ShNOcjJMjwXU7_BdtwZsziQcsCtOLh560oWcpKQz8fAM4sUkl7bkI3wUC_d75e9TakR9OH_J0gYwtty-thoXhc10Q"
+        },
+        {
+          "label": "中國報China Press",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrw9-vQNeKcls6GbrqtoV7a0sdIp2hdesOZe5btBfhN3NGbHRt4xBDbrttLmNIrvukf0P0lElFNryht_FHc0HqC3rKNDO9qSvqTcpBFr1nNg9WKv8TuDjvb3SWRqOj_jAwucLJeQAQrq2ekLRfAkkywqQw51reZkc_4GWpRcM7Q0B_Td6xoMdHI6P2jA_9JtKsKzWp-sq6vnSKOimI7JUm01mTqCk0V2B5tAiuEkbjcHHoIPnsiDrOrscw-Ba-b9jEk2ML1e28e0ZuWJW_vsohg5kve5iGC9bs1InZcEAPULzqjxKOMGP-hAepWrHTCNTO8jyypo-PzfKXhsBTkMLC--pxd915ior6_itl2r2-6-z8kOz3CQfr3MaOb_LvC_80mB4VmsLYYDe72g=="
+        },
         {
           "label": "Offshore Technology",
           "url": "https://www.offshore-technology.com/projects/persian-gulf-star-refinery/"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "油田",
+      "facility": "Rumaila油田",
+      "designValue": 1400,
+      "designUnit": "kbpd",
+      "affectedValue": 1400,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 1400,
+      "status": "已停产",
+      "current": "伊拉克石油部声明已关闭南部鲁迈拉油田，该油田生产石油、天然气及液化石油气。此前无人机落入油田后外籍员工撤离，产量显著下降。",
+      "sources": [
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2XJGiQWaXCCMMmOigUuMprh9T8s1vd0oZoIsN-tAeil8ylKjHiuqVb-WXTFKzh_-JYtBDtgbFIrPMmy32mhT-0KYJJPwD2lLyjE7HJTcAUZQEi-aF6vKIWqGpc-kgIKK1YmyZZUG2LuoEELROAf2KzCd4x0T1AUMnp_7EDOQqTSP2WwfAaw=="
+        },
+        {
+          "label": "中财网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV5YhdTrV8GnUzbHq8ILV5J_LnIWM04Q121dooIpPcGdeLuR7er_bZolHbJ4xKouYFsQK92CGJU_0NYJ5kJC4X3MT_ELScr0gUd6f3S43GmkRAiLZa8DF1ub1rxIC1BpAALqF5mlM="
+        },
+        {
+          "label": "东方财富股吧",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOJtobCjqvK_Ox8J-_-IWrcAzHb-XaN0wbHz1qjGQfUbAFitaPcQ_n0EmaPUmwmnJXS1KVYWBb3OlGghC4u7g_hU8tZx4hU-KKREFuxa3tlePjFhU3NqcxCKIrVQnYSpv-3-RRLv7O3N_YPmUNlrVRlQ=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "油田",
+      "facility": "West Qurna 2油田",
+      "designValue": 480,
+      "designUnit": "kbpd",
+      "affectedValue": 460,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 460,
+      "status": "已受影响",
+      "current": "因出口中断导致储罐趋满，伊拉克于3月3日将西库尔纳2号油田产量削减45万桶/日。",
+      "sources": [
+        {
+          "label": "Lukoil",
+          "url": "https://mideast.lukoil.com/en/Activities/Iraq"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPaf1ONEK28qhDWdBcqzk9SRgEWOsill6VXoo16PQX3dHSfZz7ncQMKD1T5K9wpze-IXjYhXjRlkzlqG81CucMJWoQ0KhalTe9ZouL4izc34Y0sbnHbM9A9q7ZSg=="
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFC_fHrdcxy70aZ1XLJH_7UUTdUmtBbOkEYmW2yHS4Gu8iGBF-sl3SE_nBvjhD61IvpwKXCrvHKJQpO4tGbPCsGbLBk4ggh7YRZEnEzxSEuRcGde4bIO1FEy1SwoDUyr3rRSxnQgoJHLCGD-qn3TV_-RKjootzVD7Ha6aA2q5F0p_-Lt8"
+        },
+        {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8PpTdrtsO1iiRYbnAC7HxpGKTSeSV3HX5iYMLa0bmY6Dpi0j81dp2pEzB7R-DtW9jnzTMeOreP_uiRWq_qBdaOtdGlBTpDtDv7D80kO_0on9cVBYJ9RNpYNG4_8-JBt4C-KkgTdfnHIKE0XH--A_kKXJDw0aarJU"
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
+        },
+        {
+          "label": "东方财富",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi72qtw-FAUOw_-5WKetXbGFb1MyzvyUi6GlsX3-87JubY1Pb69j3RAUsFs4ldrpbU2rYpPXFTJHdECMxzDQIDbgG3_s0J47ZF8flWvuQOPn7pey-rOo9m8haOcu4LZiDgaoxCHHVETagTA6Gmyt7_qrmJ7d7jff87wEI="
+        },
+        {
+          "label": "上海有色网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzhWdr02peVuoYWAhg1BxjAhBBfVMfw-svaGYN2387UD7pGPBUr2qJRJDR9ejtUP9sUd4MdWsFlvtd_n6Z8cRMfk56qett0n7WhsaILB1O5450XMJtC3CveM0aOgk=="
+        },
+        {
+          "label": "Roic AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA3Rt-FS9YliFxNfW07p8bOMWQhzFErZ3yA0BPJFXIxew4UpK5xw3o1FJDcZj-crQzPsIANxbvORaPqmoi3m663rU8l1TISvj9PUNmsmIlBQAQTzqQ4sEW71qnwUf30Va0j1_kHgZbyFJT3fxsRSWbeefvtjZfOSe3zz7DeQTx-uAIEBHOqL3tIZACKG9xTFu6YxmZH6ZYEtrskQmE_lnSfG0wyBMdLvplXeSoZYfdfjO7w3NFGv6roW6D-Ag1u5s7E0V1WL0c"
+        },
+        {
+          "label": "ReliefWeb",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECBGLxpGYP0iAFNVyUrBSl7bd40RvIxXqNhXdvQcRTSXsi9XGwbI5EkvPJM7Y0V28DzEHQZ6meAWu2lWld5kS6d1mM_19GKLToZ43ZSN28gv1D-cGWLptHG2WdySNyLrzjpj1mJ4gnkA8iKm19TqyGOvp5yJlpxh6SFn8XsKHyvB-QhPjTmLdSuRcA6z2JwQEIesfGKA0-olJryrviRnF-J0AdbULy2eyPe4ak8sAu0wad"
+        },
+        {
+          "label": "MEED",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpQXo8oWxVxl1DUzsC5hBmj75Q5ZzVmKEpsOD4iC8Kwp2gPufNmodDCRqY-JV3paoMo73XWPbZcXnWPxEw9KbbRjWY_xIUHnBtNqRsLZSmbxYY4yvTrcnoZ-d4oJaLige5zLgpwdTerhII19Wgeg06pwncvUcrE0lh42WpbkhCigTUTRQn4FoM56w0Jg=="
+        },
+        {
+          "label": "生意社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-01_6WLbjeuL_aKZKk4E-fIj77CKH05O_KUdwRR2vHJ8KQxjTfBBDT_EaWTx_mSW5d1rV9QfXWRGK5KSaEClp9I5Otp5B4A608UV_fCYLoBmoq4jP6rJy-NVrG5TrgvzeK5DfjseUirXZZZjr2m_NGFe_"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "油田",
+      "facility": "Maysan油田群",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": 325,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 325,
+      "status": "已受影响",
+      "current": "因原油储罐已满，伊拉克3月3日将迈桑油田日产量削减32.5万桶。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
+        },
+        {
+          "label": "东方财富",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEurMUGJGRqQ2fVNSlZct0nig9oM4PlolaiMUl1wUQqz0KhAkloWSZjjAAoOPPk1BdAORNJp3KgrTOo2QOxsN9oi5cP3euCkwvpmKSVaCyl-ccUOXttTwkAveTX5197tU0oED8c8Jva1poVh3k_DA=="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYwAw9tqhlN7Nv2KXVfPdQNQuFoZ_1rphrssX8CVDy4AYRqH-KbuCjOHjRItZ9be8l-XFY00fRhZYzmCp1eIPSdn8sqgUa9pXsbCSJqwBuQ12TGRUh7ZSCe4lTOZaDMkveQ2wG4cma2XYlT2MHFA=="
+        },
+        {
+          "label": "FX168财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0MZxl941pFMLhFhwlRjNdvK9Rj0RTvGEeIMiMvedA0pweQ0iGLCQhNvTgT3cQP8fJHPYDLpuiK_UPT_Rh9xVz3zRiolrltSnhFWVJES9BRNqbdcnT-2NAjh2N-dlbpmp3ICmtGjZ9Uz_VtEFQ=="
+        },
+        {
+          "label": "Canadian Energy News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSYlLXZLA5rtSeQBlkxFpBdQAhMF3O3dy3jwl-mB5cHiSYgjDjWN_M_4Q5tY7AI5E1-vcBJ9yrdTU9SpUTT-MlVRVtveWWcmrPk-Wr6tw1kdB-l2nOswg1qTjWsS0nM0RCjnDLZfWWnIKxioTNC83UKol4XReVPewG_C0Gh5GgTVfHmRnPq29qmXgMFMk77emb7Cz27B7n2VQUHZ_xSo6dvIvxMHuelOy2OlOK4gQ4Ptkc2GlcI4="
+        },
+        {
+          "label": "生意社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-01_6WLbjeuL_aKZKk4E-fIj77CKH05O_KUdwRR2vHJ8KQxjTfBBDT_EaWTx_mSW5d1rV9QfXWRGK5KSaEClp9I5Otp5B4A608UV_fCYLoBmoq4jP6rJy-NVrG5TrgvzeK5DfjseUirXZZZjr2m_NGFe_"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "油田",
+      "facility": "Sarsang油田",
+      "designValue": 30,
+      "designUnit": "kbpd",
+      "affectedValue": 30,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 30,
+      "status": "已受影响",
+      "current": "无人机袭击引发火灾导致停产。伊拉克库区部分能源资产采取预防性停产。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/oilfield-iraqi-kurdistan-halts-production-after-drone-strike-sources-say-2026-03-05/"
+        },
+        {
+          "label": "东方财富",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvQjpKFJT20tigQ9tgk8a_CdKr3J6SbyAjZjrxtNOUB5Vp73xhzdfT0LCMjYZOCqlCKQaVg8NkLeG6i9peJi2pCA8mM9bmh1C2-sFX64R52qgk0-Tr0aQNWxTpMpxBSmASDWTY1WWYm5V_m3W5ktOmdcI="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHEJrwa-fVGjFrNhK2xYOYZPbplKttAMMFe6beoyunfCNEo5BmmCnkZTdPNiDTuTKer717XANI4Z9bP1L6E4Ev4PJSmCp5intGjUl8ewWzvul3apRMt76bm1aY2A=="
+        },
+        {
+          "label": "Binance",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB0AY8OY6TF6kxqyM_VfrEtIqu02JcEjrKG3R3duJnSZ_GA2I-HgqDJ7yQzv4FhGL9qoWi5wLq_oUrjmJoI0q1Q6mwEl34jNEtO6LBONXa4q7DuuVh4yMg4H3dH4Dck0GSWUR_TILFjU5r3xtEQUmZpLL4VQg=="
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXrebiPhlXU-FK0f7X2Ozlx0DmlsFIwPpIP7TQRS3KZHnqNvBe9xlQXAkHz5y0QJV-s9NrpqnP0ygTu6kaqFurLU1ZhnSKdXWPLHPTaeIEkJdCVOF-Qf_YlfjINTsokmeuwxHIDdf-H4GBIqnuR_USD3GzHZzzq1uZx00ReEatFg=="
+        },
+        {
+          "label": "群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAFMJifWj7zAWTzMgf0RPvsuL8b83Pej7esFNEik7mthXeGWQ5O3lmPwjYmInyRAW8llDkxo2cJlyYXG5VCW4ZpAUAhMC6YGZmt96Sf8t3TEor0j417yBkGLAINEBMtNtTIBEvr-S9z5pavGjckiyCtt0bzEA5QZeO_AHckd003_bMdQh8MSzSJtEChU4j2fIUwTzu_2Pj"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "气田",
+      "facility": "Khor Mor气田",
+      "designValue": 750,
+      "designUnit": "百万标准立方英尺/日",
+      "affectedValue": null,
+      "affectedUnit": "百万标准立方英尺/日",
+      "normalizedType": "gas",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "地区安全局势导致预防性停产或暂停，但未披露精确受影响量。",
+      "sources": [
+        {
+          "label": "Dana Gas",
+          "url": "https://www.danagas.com/wp-content/uploads/2025/10/20251014-KM250-Completion-Joint-PR-En.pdf"
+        },
+        {
+          "label": "ZAWYA-PROJECTS",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyOGz9KYwTaBgUnBfPSzlbBHQsvrQusAA9TKD4umIvTh9NLukIRSxndTaX_NlVndpSLiKK07bOgAJS25Sh5Dpr-AobFG3-geANWBTKxG_j7AybeDDg1JH3cZWpbAgsBq-z9W7EWeRg9P6aW4XKx9YGTxjoKetdDtQmbtTsq2EKzZd_mPRR8mrkxXAvHy79xV5nUL9gaF_3THIYYubqRtT8nA9dTvF64goG6FudpWw8mrqTKTrKXM9hf0UXTslWFe9SYa3pSAzam7U4g9d5NzHZQ=="
+        },
+        {
+          "label": "ReliefWeb",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECBGLxpGYP0iAFNVyUrBSl7bd40RvIxXqNhXdvQcRTSXsi9XGwbI5EkvPJM7Y0V28DzEHQZ6meAWu2lWld5kS6d1mM_19GKLToZ43ZSN28gv1D-cGWLptHG2WdySNyLrzjpj1mJ4gnkA8iKm19TqyGOvp5yJlpxh6SFn8XsKHyvB-QhPjTmLdSuRcA6z2JwQEIesfGKA0-olJryrviRnF-J0AdbULy2eyPe4ak8sAu0wad"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "炼厂 / 化工",
+      "facility": "Basra炼厂",
+      "designValue": 210,
+      "designUnit": "kbpd",
+      "affectedValue": 0,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 0,
+      "status": "未确认直接受影响",
+      "current": "炼厂系统维持运行，未见公开确认直接受袭。伊拉克炼厂满负荷运行供应国内市场。",
+      "sources": [
+        {
+          "label": "Argus",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2747938-iraq-s-basra-refinery-completes-upgrades"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm9p8bCybOU2G3YoQzd3TGfZjYYWAEaL0j_DUTER2axHP9cmjiphE-Ymm2mMYzZQ5E7wuaHyPMhFPbVxko_l93cIgt4DU2flJuKSuuGubAIO4PfOB45NYC5s7gZZD7fVW9X62QsqO1b390283a9wUDzkeMYazdDQxwDy7JCQlARBzDRbiWABoYZ1gKRBPkZcubTOisH8m_m5TMJh-ZjLQ82NSAplNIMoHkzGu2ZmlZ2bdxzgp28gklz0Rb7aSKLAr9Yb8HKUu-EqZP"
+        },
+        {
+          "label": "ZAWYA-PROJECTS",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyOGz9KYwTaBgUnBfPSzlbBHQsvrQusAA9TKD4umIvTh9NLukIRSxndTaX_NlVndpSLiKK07bOgAJS25Sh5Dpr-AobFG3-geANWBTKxG_j7AybeDDg1JH3cZWpbAgsBq-z9W7EWeRg9P6aW4XKx9YGTxjoKetdDtQmbtTsq2EKzZd_mPRR8mrkxXAvHy79xV5nUL9gaF_3THIYYubqRtT8nA9dTvF64goG6FudpWw8mrqTKTrKXM9hf0UXTslWFe9SYa3pSAzam7U4g9d5NzHZQ=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "炼厂 / 化工",
+      "facility": "Karbala炼厂",
+      "designValue": 140,
+      "designUnit": "kbpd",
+      "affectedValue": 0,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 0,
+      "status": "未确认直接受影响",
+      "current": "该时间窗内未见公开确认受袭或停产。伊拉克炼厂满负荷运行供应国内市场。",
+      "sources": [
+        {
+          "label": "Iraqi News",
+          "url": "https://www.iraqinews.com/iraq/iraq-new-refineries-full-capacity-oil-ministry/"
+        },
+        {
+          "label": "ZAWYA-PROJECTS",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEyOGz9KYwTaBgUnBfPSzlbBHQsvrQusAA9TKD4umIvTh9NLukIRSxndTaX_NlVndpSLiKK07bOgAJS25Sh5Dpr-AobFG3-geANWBTKxG_j7AybeDDg1JH3cZWpbAgsBq-z9W7EWeRg9P6aW4XKx9YGTxjoKetdDtQmbtTsq2EKzZd_mPRR8mrkxXAvHy79xV5nUL9gaF_3THIYYubqRtT8nA9dTvF64goG6FudpWw8mrqTKTrKXM9hf0UXTslWFe9SYa3pSAzam7U4g9d5NzHZQ=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "科威特",
+      "category": "油田",
+      "facility": "Burgan油田",
+      "designValue": 1700,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，开始削减原油产量及炼油加工量，因霍尔木兹海峡航行安全受威胁及运输船只短缺。",
+      "sources": [
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYvN8WZW0TUq35bTGSBZXvln4cWEeNwWEAwdOF8RVbqdGUQiPUBd5eR87HPf22tb8tTTeQwWTQN-qtDayXhhSj9zPPQzCjw1lVI4nNvu_sLpgSdRFyXnCsNvAKwZ7PRPgsKjUuxgm7NzufAiL4kaY1rU0jXcNh4GxYHLQ3kYPniMj74aIyBONdJGGIYtUfQH6I"
+        },
+        {
+          "label": "澳门广播电视",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5VA7kopGYwo-AVp9dBGd6NCdYGzszRiB8ogvgk4-Jt6XveUh88ew4RFt8DfGwgI2Y_bIgCVYgzu24IvUXIgwakF6cSJReat6944YxZx0OeQ9EUlXx1e7QDrF8s6pbu8CEbkzhijThcoBLSQbgG-z2tIJj0LKh_cQtfKywJDFzK3KjNlSwGAb"
+        },
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFftvlTgwkK-5XPTIdiMaDFLAQQK28-SQ_4x32pZH8C_qiigmyC73vgrLR_GqicLj_cbB745MrCS-LMkgR2E78DP4lRLWpo4G9fVTfT3zw2quWDYmgClk7J06oGFtPpIscd0aMFYiQio4QH2XCrDdaehAKBK5WHVGf-TgHSLAHUoCOcb4fUlUYOMYhVNLiGdNRd"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFksEJy6WJljfuhHAOAGqVJ0suW5Mf_LM2s61Ok4sEEhPWqiqO28gV5tqqjPB0FCgeHvNgrMxD9qDwcIak-QrXqyjqZR3xMXmBdl3BBT0DUdxd7aBc7jIwLfuuJOJyxSeRpGbHULXdUINBhpSTQ9bA0-a8Wbmee"
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEd9KGP5-P9G86S2umHAPGZkf9-Vj-2ZnkB9BkWX12D4JIWF6WcU4KGSswhc831_ruXas3sAG93RxZH91ys9Il8GnMuXqkFP2FNJT5E-SkhCnWMDqIEiDi_viqCfUg1hwtPuvlnmdWOYTdLwNnJFAYeXX92GytCSscljpRkjYi336thfsTSmXj"
+        },
+        {
+          "label": "东方财富网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeScY7vf4iB4WPzVxc-6_CVYkwQ3OCuBotS04fr5e5pPuDttktKKvyeamZs-8W_hmIKyQ_0hcMkLLhW_mpYaC4oaNWJbnh9nIaMX5zxwpNlZP9x47yqu4-HipluuuV2LdoMEdteZsd_aTf5A8PirmJczA="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "科威特",
+      "category": "炼厂 / 化工",
+      "facility": "Mina Al-Ahmadi炼厂",
+      "designValue": 346,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，该国炼厂已降低加工率。",
+      "sources": [
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYvN8WZW0TUq35bTGSBZXvln4cWEeNwWEAwdOF8RVbqdGUQiPUBd5eR87HPf22tb8tTTeQwWTQN-qtDayXhhSj9zPPQzCjw1lVI4nNvu_sLpgSdRFyXnCsNvAKwZ7PRPgsKjUuxgm7NzufAiL4kaY1rU0jXcNh4GxYHLQ3kYPniMj74aIyBONdJGGIYtUfQH6I"
+        },
+        {
+          "label": "澳门广播电视",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5VA7kopGYwo-AVp9dBGd6NCdYGzszRiB8ogvgk4-Jt6XveUh88ew4RFt8DfGwgI2Y_bIgCVYgzu24IvUXIgwakF6cSJReat6944YxZx0OeQ9EUlXx1e7QDrF8s6pbu8CEbkzhijThcoBLSQbgG-z2tIJj0LKh_cQtfKywJDFzK3KjNlSwGAb"
+        },
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFftvlTgwkK-5XPTIdiMaDFLAQQK28-SQ_4x32pZH8C_qiigmyC73vgrLR_GqicLj_cbB745MrCS-LMkgR2E78DP4lRLWpo4G9fVTfT3zw2quWDYmgClk7J06oGFtPpIscd0aMFYiQio4QH2XCrDdaehAKBK5WHVGf-TgHSLAHUoCOcb4fUlUYOMYhVNLiGdNRd"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFksEJy6WJljfuhHAOAGqVJ0suW5Mf_LM2s61Ok4sEEhPWqiqO28gV5tqqjPB0FCgeHvNgrMxD9qDwcIak-QrXqyjqZR3xMXmBdl3BBT0DUdxd7aBc7jIwLfuuJOJyxSeRpGbHULXdUINBhpSTQ9bA0-a8Wbmee"
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEd9KGP5-P9G86S2umHAPGZkf9-Vj-2ZnkB9BkWX12D4JIWF6WcU4KGSswhc831_ruXas3sAG93RxZH91ys9Il8GnMuXqkFP2FNJT5E-SkhCnWMDqIEiDi_viqCfUg1hwtPuvlnmdWOYTdLwNnJFAYeXX92GytCSscljpRj"
+        },
+        {
+          "label": "东方财富网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeScY7vf4iB4WPzVxc-6_CVYkwQ3OCuBotS04fr5e5pPuDttktKKvyeamZs-8W_hmIKyQ_0hcMkLLhW_mpYaC4oaNWJbnh9nIaMX5zxwpNlZP9x47yqu4-HipluuuV2LdoMEdteZsd_aTf5A8PirmJczA="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "科威特",
+      "category": "炼厂 / 化工",
+      "facility": "Al-Zour炼厂",
+      "designValue": 615,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，祖尔炼厂已降低加工率。",
+      "sources": [
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYvN8WZW0TUq35bTGSBZXvln4cWEeNwWEAwdOF8RVbqdGUQiPUBd5eR87HPf22tb8tTTeQwWTQN-qtDayXhhSj9zPPQzCjw1lVI4nNvu_sLpgSdRFyXnCsNvAKwZ7PRPgsKjUuxgm7NzufAiL4kaY1rU0jXcNh4GxYHLQ3kYPniMj74aIyBONdJGGIYtUfQH6I"
+        },
+        {
+          "label": "澳门广播电视",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5VA7kopGYwo-AVp9dBGd6NCdYGzszRiB8ogvgk4-Jt6XveUh88ew4RFt8DfGwgI2Y_bIgCVYgzu24IvUXIgwakF6cSJReat6944YxZx0OeQ9EUlXx1e7QDrF8s6pbu8CEbkzhijThcoBLSQbgG-z2tIJj0LKh_cQtfKywJDFzK3KjNlSwGAb"
+        },
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFftvlTgwkK-5XPTIdiMaDFLAQQK28-SQ_4x32pZH8C_qiigmyC73vgrLR_GqicLj_cbB745MrCS-LMkgR2E78DP4lRLWpo4G9fVTfT3zw2quWDYmgClk7J06oGFtPpIscd0aMFYiQio4QH2XCrDdaehAKBK5WHVGf-TgHSLAHUoCOcb4fUlUYOMYhVNLiGdNRd"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFksEJy6WJljfuhHAOAGqVJ0suW5Mf_LM2s61Ok4sEEhPWqiqO28gV5tqqjPB0FCgeHvNgrMxD9qDwcIak-QrXqyjqZR3xMXmBdl3BBT0DUdxd7aBc7jIwLfuuJOJyxSeRpGbHULXdUINBhpSTQ9bA0-a8Wbmee"
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEd9KGP5-P9G86S2umHAPGZkf9-Vj-2ZnkB9BkWX12D4JIWF6WcU4KGSswhc831_ruXas3sAG93RxZH91ys9Il8GnMuXqkFP2FNJT5E-SkhCnWMDqIEiDi_viqCfUg1hwtPuvlnmdWOYTdLwNnJFAYeXX92GytCSscljpRj"
+        },
+        {
+          "label": "东方财富网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeScY7vf4iB4WPzVxc-6_CVYkwQ3OCuBotS04fr5e5pPuDttktKKvyeamZs-8W_hmIKyQ_0hcMkLLhW_mpYaC4oaNWJbnh9nIaMX5zxwpNlZP9x47yqu4-HipluuuV2LdoMEdteZsd_aTf5A8PirmJczA="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "沙特",
+      "category": "油田",
+      "facility": "萨法尼亚油田",
+      "designValue": 1500,
+      "designUnit": "kbpd",
+      "affectedValue": 0,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 0,
+      "status": "未确认直接受影响",
+      "current": "该时段未见公开确认油田本体受袭。",
+      "sources": [
+        {
+          "label": "Saudi Pedia",
+          "url": "https://saudipedia.com/en/article/2352/economy-and-business/energy-and-natural-resources/safaniya-oil-field"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "沙特",
+      "category": "出口终端 / LNG",
+      "facility": "Ras Tanura原油出口终端",
+      "designValue": null,
+      "designUnit": "暂无",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "沙特阿拉伯将原油出口转至红海航线，3月前七天亚布和Al Muajjiz码头超级油轮装载量创历史新高，以应对霍尔木兹海峡中断。",
+      "sources": [
+        {
+          "label": "中财网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRhr2YnZymRUfWVWhzVHv4MqEtQ7XhybBT0mMLgWwbWVCoMwNPoH1B2lESsEhILaOL_PRcQPTG0I9U3InvvUXSxdekNzgYjN0TcOrnbO3XYUqc34E4GOGdHdhwdVuRTa_gNM7Axs="
+        },
+        {
+          "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtY9Dt-A3EfCJDB_Ms3A82MG-rGVMAy0ef2vx-w1G9672S6slJ44XRoRxX75D54FU_-z4wn1iEyd9NkLcfbGjVj2foFf9yXocyIjphGZX6TwG8GS4gRPPCG7nLtx8Wh4KPU3qk-wr7eoTJyJmOaAcF0R4JOc8ItM3WyLHFEMcba8HNSN5C3npMHVUzhfaLBomy"
+        },
+        {
+          "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7KjmzNehssPB3jGDNBmlrlrsUIL830-4MdD3pI8ssr_T3JOmU6SMxg2_-9hfEFArbAtSue6whk261BGC2p1cKUphEeet828lBwk6yFQnTxpgwVii7a3IGCwAH0YvLI33Q_we-4VgnVqpw"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "沙特",
+      "category": "炼厂 / 化工",
+      "facility": "Ras Tanura炼厂",
+      "designValue": 550,
+      "designUnit": "kbpd",
+      "affectedValue": 550,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 550,
+      "status": "已受影响",
+      "current": "3月2日遭无人机袭击后预防性关闭，造成轻微损害。3月4日再次被不明弹体击中，但沙特能源部称未造成损害且未影响供应。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/"
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm0D8hdX94DSqfkR4GOTIuU_leZQkNa58pUig2uxCXhrRsnOJT3_6jduWqswPAK1Jm_3oGzRbxpxgFKNrc1d3JnPws55P0RhDZe35pj_H-PDvcW8mQHDSRELM6SCPIrM-teioc_xIEJHYuAcBbSt_nxVl6ZMKsrjAL0ghFw0QlcetUS4kn2yMcvdK81i8-UtY7FsLEVbKrdKXLipLaYN3yDI69N-GPhNRAiVvZwR6VrBi7tRzLiZvSVnYy1G0U3-pAe8Ma_gQhFpiqYf9-Vg=="
+        },
+        {
+          "label": "金十数据",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxaQhZC3NqTjLooPz665xZ4RmgDr2mmJ6OJaYfLPPvDfsTM2zrC9x-noYMGuLPfnBRXqjzbNuzDjm7Te9NIVZj5-0c02lWO6g2F6IsGtsuLRIrafvK7g-NEtYTU4jh_uFGg_WHGGsoMq8iBtRZ6w=="
+        },
+        {
+          "label": "东方财富",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxvPBR4vP-aLHkPQFWAum_lXkor_qWFoHp5LhFV2acTmAOrnZOsKMyGJYGOhwUk3R6eYg_H7TLyfvUQIYwW88Kd_21oTU4jXkcGc32XE_EDwxwWh2Z-LHIRR1WW5wfSNzZrhd-fC_l5T1Osy9SI7Y46Dke931sMuPQNkVyEGMLAkNW1NK9_bKqPgI"
+        },
+        {
+          "label": "经济日报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDfRNSML7S4CGCfS4yJm7LoadoncftxVPp2yt-FVgP_ag97f_pmQQWJZ_oKcwDRHmEZrWlRW5g992yoGEYNtuQgDpdPvwzi99o240-YwCWdMpZvawk_P2Mjz8s9df9bVz6c1Tx_Y7vWo=="
+        },
+        {
+          "label": "e南洋",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXZzlrQk4yTxXtHpcGSwaF0Ps-QomkY2o86PKizDTO6oUG9VRm64ucFPHfaDcLXrOKaW_GNhiDBNgVX7W7uEzmWzWmJMsgIi_ic-2sxwTeTNlMtE2d0P7zvLXmkGJQ6pRGMPbDQe_HcuuEsBRYe5U8"
+        },
+        {
+          "label": "2026 Aramco refinery attack - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcJERCZSmXCSp5-fRBhzxIyOynCAxZNkBDt5sDz1pnBwQPiQCU_MI8y6A5lwDugsApXO6axf8cKtE_8lmRpEUGygAYPEc9Ool3AQhucIUK1r9MuoTVZiOOPEz7R6pIN6GDBZ02_9FBTR782w9rRSyb_YE2"
+        },
+        {
+          "label": "Modern Diplomacy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwf0UVj-cpGLH9DwHggJdCiE2Z8bQXIYadnCKk7RCawyX1JsyjbXWGyYGW9q97fiRqxscRtIBSPi_AGuC299csL7RBrY7485veQrkrjLuCJbngGoB5lxTyedmCYlvu2ZSm_6FqGCTyZ6MyDjswlhoLT_WcZi14XvYiYIwz_PNb3mo_rFFu360wjpvHUSsdqTWAOQWC14U5dX7SXK3K"
+        },
+        {
+          "label": "CP24",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI7mrt4iBD_EfDuWNRDTZr4ZUFDe8QhmlYHd4Lnh6od3CROiEuAMK85zpXz_CFIz9GXOpsnsDuhMR-_OxKbFSbQ6rDpltl8qgieMFZaZPEFcf4nrt1rGGbsN0RnUIu5BqvKlgJs3S1Xp7peEMRPsoPCu7-uWLKh5JDDPnQeeiurFbE2JFUKeSS0f-Vh1YDgmuMJf7Hs83d_NPW0FQqwx1jCFfOdgzi2A=="
+        },
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyWRbP7lScEGXlsrc96pDw23ihq_lwwJ-vpfi8CIHj9zL0xKarLsvpuN0Mz__hyEyFyGAzMM6FTBrZXvaBf745JQsot4JZ-TbGjqD2FHCvyMDS9q1go0jYUE3kF4facs32ZGNwMHMP-EvFkgWn-cmTXArAyt1bs0X0-qzNqZE4r1MGEDM0vwXqnrJ_TpwupQS13M08lGlxBlB0Cs9MzgCNBWriJ52WO5ZlKFwZVlQvConLEfKkKL6p"
+        },
+        {
+          "label": "New Vision",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-wvfJI75rg6Wr_54Aqm3FxtfFrWzrSwqN1YFko-4NdN5AlHtIyUMOTfsSiWyudPxrAOav5u7RVfspI8xUm3nLGBRMscSArLfpyd9o33z1jfPymiOgW0TaX2T6HxOPUZxxmh0ZexerumRjtoF0VE6dcQezjK-fr79Ps14_UDCKY470JkB304frEnVBXzGHzE9uwS5Yp2vSwiHNHQ67ouhR5V8="
+        },
+        {
+          "label": "Axios",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXl0YqkHbdHlcBPAlQEg77M8CrNVMkawlXtejd0-XIdVJiej8UYJF_9z3rPCgOfc6nFZhd9JPL5NOBdUbLUopJe_ickYAQrEC7xp9vYP_njMuImiNssQYQMuJI-PM0eqfIYYnrguQ-KH6UVPPzXzCUqG3WoQqX"
+        },
+        {
+          "label": "Qatar news agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVrJBtmWCHaKwhvpJCnqsqL84BUJ2yC5SLA0NuPKCLkNGFP9mhywdzZ43Viyh2ZV1eHlOfnRaS7JEZ6r_-L-5arSqY4i8MdslV3Ni8CVByFf_s21juZj6XQ0Ik0HdN3TnqYoVZefnyAacaNPDHK2Ph3mz-5Xn4jgDF1oM1keOluH0G-29-Rz-MyYDAxM7CVRuwkjG2FTgyIZryAuooYaIg6LSDTbsZ1huPicVgEUykmu7t17SSv6DQ4DQTmfmjEg8z7J5-ZlI="
+        },
+        {
+          "label": "The Straits Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIN_QOMOPh5r-nyar-LjpXBS0yMOUV-Hd5_yihzQ01Nk4w4zRXnmjjVqpoYsZVtCDMMCLfwifhyxWu8x1CTcbTwoLUCzUNFIl8dnIW5AyP2aC4VSKFHGtzSxGJ-eUNiRrfhZ2VX4_t0m6uTKcWdJTHEl8CEUALcNRrgXkmmt-4q7tPzErtLdr5jo_2Zn5aARWMxlmHNsYgfZvJCnglyA6L5LPpXM1S_wZVWL8UZaZwFJKcUftK"
+        },
+        {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZLu_zN2NFtgr2wcX05zequ81YbhuMxa5HlIhzGpe9lYd4qtehERtq6MPPIe6_h3E1EQpOva9FWdHbwuB-fTbSYp0X7ZC3dPg4amIgpqiIIpj1GIpU0f4UPC5VUHc1b4XycFkAca_rULqMtD73MXHWb3H4K7wtjVp_MneYWO9aJR8AYfdmVewCPg6ZQ=="
+        },
+        {
+          "label": "联合新闻网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGFSsaUXDlAveIHPrcErvjJ3VPb3nKyOWqTpBUtgzEUHOZcpms3UI2zTpDQVArt2yrZlEeWi5enjPU52VzorY7sx-fNUNHNI5o9id_ZB0w4A1av73jCXjCKF1J0zm7wImZyMJX7yxvCPF1shhKnWEJDgZkBt86KBGTJrnDms3Mw4ZNgsHC2dxx_X8="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "沙特",
+      "category": "炼厂 / 化工",
+      "facility": "Jazan炼厂 / 红海体系",
+      "designValue": 400,
+      "designUnit": "kbpd",
+      "affectedValue": 0,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 0,
+      "status": "未确认直接受影响",
+      "current": "作为西海岸替代炼化与外运体系发挥分流作用。",
+      "sources": [
+        {
+          "label": "Aramco",
+          "url": "https://europe.aramco.com/en/news-media/elements-magazine/2022/jazan-complex"
+        },
+        {
+          "label": "Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq1rdRcqmzunF3Z8G0wTjoT_0We1xRTbSeAVSh9GvW2j9fOR1oJvPOXIICgVykZbuxHce2d4826wTDWH-Uz018fGkUwGCL5tVbe6WEtJiJWQb_HX2_WD92hwNoSBkDaFGH4-tfv5IvVzD_aOf0xcl1wWr9jDsqSO3cTiKp5BIuisTO"
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "Aramco",
+          "url": "https://europe.aramco.com/en/news-media/elements-magazine/2022/jazan-complex"
+        }
+      ]
+    },
+    {
+      "country": "巴林",
+      "category": "炼厂 / 化工",
+      "facility": "Sitra炼厂",
+      "designValue": 400,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "巴林国家石油公司Sitra炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。3月9日该炼厂方向再次冒烟，巴林政府证实锡特拉岛因伊朗无人机袭击致30余人受伤及财产损失。",
+      "sources": [
+        {
+          "label": "TVBS - LINE TODAY",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwk8CneveK61hitTpmHtH2X3OxZMEJply15DminjsnEznC_8Zo0aPfHlBlJ_3zj4WxuPHBwwp7v3uR2eAvfgknInxKR-FnY0W9v0cZJRmX2l2DHni0tIFLscQAUskVJf-YjXGQ0kI="
+        },
+        {
+          "label": "中國評論新聞",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMu_O61zoAnChmVoIiLsCF_1y2dbFU-M3nbuquMAjXyv9wtVGyhNgwLSQCreyET31_pmD969vtoVSkWWpiDOl-ddSd5CoaxUvKPLy76pzCbbqfRQdzb41rJK_yakCcS8mSdcNayGPw8k1SAGYgWR-UjBd"
+        },
+        {
+          "label": "新华网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoMXzHrqttdi0hRqfUSV_zaBYSa5GFGpl-_5rQKCdJf3aiCgnJAmXT3UCznkzUsYOLwvJbFRV2TdIcXpF60nWDGJzE1DCfNEMc-d-D4O3gXKHwH4VjrPLkrm6mHONvca43QfBHs08NL5dzAlVNOOpZO5lBS5bDjigj0dqsspA="
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgaxpHklOhknAgna3_to9ESNHJmayZtmQ5Y5KEEq-Hl_3FKAc2_eCsyUFjRqHTsBE_IFF76YoWtTCe-wQIbfNYVQFxjYrFv88T9QzDkyCZ4uMAZHyAdPLdmOdFEaKaHLWc2kRSAV_zgoqH_FlWz-10JGqiP-nNFPKpNXS4r5Q="
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdhLAhiPpQ6oWFbfV86nBZBhOgLssi8FyxrGd5pHLHPxwxbFzuGbiqZFWcd90NtycGpNOgbbbJIfqbOBH_eDaJfPegFxd4rp7rS3fV7heUArC249Gxn1pwCH7sA9uh3HlrliE3g5abfMImfT6lZ6c_6mh74CKOsS"
+        },
+        {
+          "label": "巴林Bapco Energies宣布运营遭遇不可抗力 - 新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNhE-u9q8d9OKc6ciqWprxL60SESNlcHoHMAvgApI2xBGxbAVgM8u-LWUelgzSOOa4jEkB-zZZZHDKxOOCc9vIyv2FGnJhD44jD_mv9UJsTzruFR8j4L6eG8ImqXAB3WzZZVYRvaMptON_hfEU-AG0SF31WwIPjNVeDzAY9VNi2L15vA3g8DeouBYrgIQ="
+        },
+        {
+          "label": "巴林炼油厂遭伊朗无人机袭击，能源中断加剧 - AiCoin",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFUK90-QAILAhU08yRKSDVn_7bSWzku8ljCmUlTi38zOC063A4srBt-Dao3UlE8x2idFkDg_DrxtFGWkO13CnEFT-DBFWps9sTeTCgU0HpYF_o2CSYweqqUjjzl7j2RQvficrf"
+        },
+        {
+          "label": "巴林Bapco Energies宣布运营遭遇不可抗力 - 新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeL_O7pYo-QS8bCwumwiadZTsTwPJSjEir1Lblv02h1C-iLUk1jjPYJySu6ExJliw-6tMj7t7nEduWYh0KF6soEoxGOFOVUmnT9AW3-TGPqhGD22uwWfyY35n5pKo00c5qO4NOaKfqvZEb4-FRWH9HNl5TM5cDNHXLMpIv_S32rqWFCbKoaHekR9f0sslgynWoIfoZQoxOqe0KfCCTSbFSiqDxyr-D474lX83vHwXfWz2j7hqZ-KyVnCeNmMYVkxy6UdVXzzvo6T4zV-cloUYD0jOGQxXaLGURhsP_d7zWovcRSnkoT1FIkMvozPkWcFDWdk22Tg=="
+        },
+        {
+          "label": "财联社3月9日电，巴林Bapco能源公司宣布遭遇不可抗力，影响运营。",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXi1mBQvkQetBu4TelUbA0_Bx4anwC9nKs84XE--VihhkfF89ZaR3cWLPenQCKyunNsjntn2mk_A2uAkoppq9K0hB4DV9VL1wltRhfZgKrIQMLIo4MX2bbCySBw=="
+        },
+        {
+          "label": "巴林唯一鍊油廠據報遭伊朗襲擊，能源中斷持續加劇 - TradingView",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmqyUfVk0z4H4FucH3M-NhPNzCxxZJcw_X7oC322k29BELrIOe77nyJnrahumB4RhRJkZPyrt1slhn0vGDZmoStzFIeG_Q-XDaNt8_CcDYoANuS3LhurkuAPD0NTVhnfsxxh4H9ljB-S5QXstE3QgXJCs="
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVyxWDOoCjjX3M-3h5YbI5jYVg6LAraW5cVAFUGlzYnG8aJSPPEKkq4fIhc15CMmod9qiyYN__zEJCjZcxqGgDXSIuj8Xt6hc3Bc7kkI-Ch2RyIrIKxcK7q1D8G6o7mAcqZbYdCh0QZm37QuaK52_kOyvsCq2ylUyo7IraqCYzlSj8rQZSaqCwDUaGZESK54hEp2-A1ANWPHo-PnyYPzfqS3jvmItiDY0xVwGPiLMABNbDU0kOMyevBXtmsWc="
+        },
+        {
+          "label": "Hydrocarbon Processing",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ITGo0A6STXp1yD3NFjNjzPh6ydUoZV895E4zvP1UiA1XfZllIFmdH2SYKBUg41BufYdpnqs95NJS8B-6e11Av4i4DODjjo7sozpMMpm5aCQ3knecjYzDPgvUUi8sWUJTal9yH9vnNd5p-65AZdYcZdaghYS7vK_528cq5M9fWWgebcuk-d4oXlP3b6rTan5S6BlVCo7J41rJr76Ic-abETIFCxpV0QPTb_o="
+        },
+        {
+          "label": "Industrial Info",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK7uvc5dOJo1XEGvq52pwjwgVSGFi3mB0wiuVdLzIXF-wMMDMMz34ImmGE_St-bWvhE6_adBoEodkV9oq1QOiOata2GGJffN5VEf9nMa9-IKkEAWzpVDKT2E1DOZlA3gi8xutf17bgru72yZYm678o_-u4rFgEdsT9BTbFqzG2nQczIAerpX0u_ytqrdoxsObpQX6V3l8XdlxTKlZMsPddwKelMY0tbyp6gbTIO3Chfd-F"
+        },
+        {
+          "label": "MEES",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoh06y-MeUh1m4BMfvu2OS8s-zq0e4KUSR5I9MST4QNV753Zvi1S2Fqw3X1hbUkjb10gBL773jCGPWP7Cc679WJeTjf-GguYfLV5_7U_T52mALfouh_bAQq224kI0UvyJg497tNfbtLFIcFksUDo-q5DSI9WJC8lQN-N2tZspfNahseEL3j-NaghOziqDN9X2LUwpZk3YJSx9Xg2U1i_8qMtg7rLOdd6b3K246SWt6WF59-a1ncAz7dj8h88vTvLLqjA=="
+        },
+        {
+          "label": "Portfolio-pplus.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVBXnpHARiCNUMI9nQIeilN7_FotaIE1_K0g0Lr6XyvcfAy4rXf6KKQrX78pfgqOgLxXMO4u1fDZsEDyPhsCqOMCJUrH7toaU04P6BlGA5QS7LXKRy2OQl671Xe6rJhx6bmW8wkyw88bV9I9aPWdF6xFQJ4H2mReUVI3YC"
+        },
+        {
+          "label": "中国石化新闻网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqboRnJdWVOGeMUDI2AUZ6XjVfvZd5NgUOg6akIuFxZJA0E8L3nCGzS3tdArj5iTi_u5Zuoa4ASiQpF2O0fxLLAJLu79k8PNuf6L4YkfnlmXNUDJK0Ugb72r_dUIivvA=="
+        },
+        {
+          "label": "商务部",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDNaji5AABxWYU_yRiv7S9QbjG_iCF496DFDAfrKmGHi535AUbjgjt7SAzFwsjMs5lRgzltYPKfEJooksph6ntwDFdNoTjkiXcFzUXzwykTjRNrlLZZcHweZrcEdCjLaDlUhSLUVwXvHkDdJlOfq6NuE8j51BJW6IZEYKH2UDL9O87_upnSsE-Y1KR"
+        }
+      ]
+    },
+    {
+      "country": "卡塔尔",
+      "category": "气田",
+      "facility": "North Field气田",
+      "designValue": 108,
+      "designUnit": "十亿立方米/年等价上游基数",
+      "affectedValue": null,
+      "affectedUnit": "十亿立方米/年",
+      "normalizedType": "gas",
+      "normalizedValue": null,
+      "status": "间接受限",
+      "current": "未确认井口直接受袭；冲击主要集中于液化和出口系统。",
+      "sources": [
+        {
+          "label": "ENI",
+          "url": "https://www.eni.com/en-IT/media/press-release/2023/10/eni-signs-long-term-in-qatar.html"
+        },
+        {
+          "label": "Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHEt9MdrYLKk4ZHTHY8lOQDD6CC1oXcEnjfNdnmKe4q7MmWud8ODXx4ZolciuoZidzwuxHQ_T_C3ApBVsaBw22MNQGsySjbQEpxAW6HiEVPDUPp_-aWX769ibwv9I7aZniQTEmwMt_MfIUFWLBW9NhZaXASGIyOKJG0uw3S9eUXJOUNmOalrEfaqsYnzUA3dukRhVSaVwMQw=="
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "ENI",
+          "url": "https://www.eni.com/en-IT/media/press-release/2023/10/eni-signs-long-term-in-qatar.html"
+        }
+      ]
+    },
+    {
+      "country": "卡塔尔",
+      "category": "出口终端 / LNG",
+      "facility": "Ras Laffan LNG / 出口综合体",
+      "designValue": 77,
+      "designUnit": "百万吨/年",
+      "affectedValue": 77,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "lng",
+      "normalizedValue": 77,
+      "status": "已受影响",
+      "current": "卡塔尔能源公司3月2日宣布，拉斯拉凡工业城及梅赛义德工业城设施遭军事袭击，储罐迅速饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。该国已将至少两艘长期租用的LNG运输船对外出租。",
+      "sources": [
+        {
+          "label": "阿联酋通讯社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zF9Nwk1Z9l8BNIPF3A5DAFdKvwbB08k581y3txf84U3MTsYF6hTCy4ccy0VVDIbhm8aCtGe0idw5jHCDjxBBskLQsYjqz_X1lUWiSYJ7J6gZnVBW_qY0hxic1GbEHsFPwIT483gqtyG94Ws0CqQYgNFo9TdaXZHwtGm5aRVuWDo1Jw3vXbFSAtCYi_9K28qeGV0-75RnJ5jRYHUkvZS7RleQpOFOLc79YRekKwv35D8YiP_fZCPp-lsXyczuqpttWGzJnPRkm-GdukZ2E7aWfVKehU0NqYExUeqbSE-EB-6ZDw=="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAfPdZm7rrW1BpqZIeE3HNnD99ZQGjm0LazP_yUpj8kD6u8Pu2pIzwXegN_hCRumAzDSu6mamLAzcX58ZUm3D1xsljL4sycqaL8JXfAKHwppVDmxpoAw8ToavV0g=="
+        },
+        {
+          "label": "新浪财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW5j5mu8_okk-fl-ZSOMHzzTyv0A5Hztl8QmkwVBpBEmDnZNXLefzgBz_qua-aRs483qC9v9GNBAg7hXWB2khhvgWCUiR67uSrPuYC1R61mPuTY8bEP6tWVbrGM1VHdmfHOZxyE4hgQ4Ix1LqQUGt7PSa2_AiD2ZDYAAYTDpRTol0W7P1Mtu4nqQIsfKDVmNNzbcGudZ_ENRSN0LnJMtiGNyfOfDJsVeJKvS4xaZmoh0D7yYl9iMFTW4eDmVLMSDCZla_oUTlPT00ZQIJi0oE="
+        },
+        {
+          "label": "华尔街见闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hjXB_tiQ973jpakz6bZiKHPRzjswpAFPpk6hy3aPjFXDvf7VpDRmNN0AGs_Dws7954oem3jnOfOlmB7OCAMFg1TtA2y7kMwhGAklGdGeogvyG_Y9qM7hHQKhMC2iSxSyiGj9"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/qatarenergy-declares-force-majeure-lng-shipments-2026-03-04/"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "卡塔尔",
+      "category": "炼厂 / 化工",
+      "facility": "Laffan炼厂",
+      "designValue": 306.6,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "情况不明 / 未确认",
+      "current": "公开报道重点在LNG系统，炼厂本体停产规模未被明确确认。",
+      "sources": [
+        {
+          "label": "QatarEnergy LNG",
+          "url": "https://www.qatarenergylng.qa/english/Operations/Laffan-Refinery"
+        },
+        {
+          "label": "MEED",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2Hfsaq62Nem7k_n6Ft-WAfdZ2GGiHSa_HpHHr4tTH0fJFUJuhD-8_G1_Eq7V2mu4FY3RqY5stfdSvMOr1SrRAbrySkbztVQdtD_Fi1PE8ZyW1nrbZ8kW0LlwIZgS7QhNrBP4hwDs5oKk0RbL-Pmn_AzgC0t7jocACDz8VBlUNzzLu"
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "QatarEnergy LNG",
+          "url": "https://www.qatarenergylng.qa/english/Operations/Laffan-Refinery"
+        }
+      ]
+    },
+    {
+      "country": "卡塔尔",
+      "category": "炼厂 / 化工",
+      "facility": "Mesaieed石化工业区",
+      "designValue": null,
+      "designUnit": "暂无",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已受影响",
+      "current": "卡塔尔能源公司3月2日宣布，拉斯拉凡及梅赛义德工业城设施遭军事袭击，已暂停聚合物、尿素及甲醇等下游产品生产。挪威海德鲁投资的卡塔尔铝冶炼厂亦停产，因无法采购冶炼所需LNG燃料。",
+      "sources": [
+        {
+          "label": "阿联酋通讯社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zF9Nwk1Z9l8BNIPF3A5DAFdKvwbB08k581y3txf84U3MTsYF6hTCy4ccy0VVDIbhm8aCtGe0idw5jHCDjxBBskLQsYjqz_X1lUWiSYJ7J6gZnVBW_qY0hxic1GbEHsFPwIT483gqtyG94Ws0CqQYgNFo9TdaXZHwtGm5aRVuWDo1Jw3vXbFSAtCYi_9K28qeGV0-75RnJ5jRYHUkvZS7RleQpOFOLc79YRekKwv35D8YiP_fZCPp-lsXyczuqpttWGzJnPRkm-GdukZ2E7aWfVKehU0NqYExUeqbSE-EB-6ZDw=="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAfPdZm7rrW1BpqZIeE3HNnD99ZQGjm0LazP_yUpj8kD6u8Pu2pIzwXegN_hCRumAzDSu6mamLAzcX58ZUm3D1xsljL4sycqaL8JXfAKHwppVDmxpoAw8ToavV0g=="
         }
       ],
       "baselineSources": []
@@ -94,6 +846,10 @@
       "status": "间接受限",
       "current": "井场未确认受袭。ADNOC表示正'管理海上生产水平以应对存储需求'，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。",
       "sources": [
+        {
+          "label": "中财网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRhr2YnZymRUfWVWhzVHv4MqEtQ7XhybBT0mMLgWwbWVCoMwNPoH1B2lESsEhILaOL_PRcQPTG0I9U3InvvUXSxdekNzgYjN0TcOrnbO3XYUqc34E4GOGdHdhwdVuRTa_gNM7Axs="
+        },
         {
           "label": "阿布扎比国家石油公司称正在“管理”海上石油产量以应对存储需求 - 新浪财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKW509872tJl7yyYwOJTZsQhR3XvT30a_gEeZg5V7zA3TAhtfL4O4Gqd7nw-qmqbHfo_JDnSN4X3E2hOBdQzzGlXelF9ZNfd3ZbTFgIh1hy5HpBXDONR--rk_mWnJdMWCXNFR9ToazUqqXXgjbFtdZ0pX63Nacq_p-1zs2-rFzUmPHUdIw365Sf8_1YunTAH9x_ccWWgU"
@@ -133,11 +889,31 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "无人机袭击并引发火情，但官方称运营未受影响。",
+      "current": "无人机袭击引发火情，火势迅速控制，官方称运营未受影响。",
       "sources": [
         {
           "label": "Reuters",
           "url": "https://www.reuters.com/world/middle-east/drone-attack-targets-uaes-musaffah-fuel-tank-terminal-no-impact-operations-2026-03-02/"
+        },
+        {
+          "label": "Lebanon News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy7OgYZjW135eW_Zw3-UWYcO0zMNItG0MpBNOiROprhakHGQQGa-hiQ_TwXhbKutTizpVd3qG-KEvVtW0La9UbcXbll6npJmHz1EfcVNZqzag6XARYSLD4q7R_QSHVFuzKBJf20gFW-MZuEBJotdKNRK9EbNFhRYthoD_Cd_7A4VmU0NZRNYXds0DdHfOCtel_j3oD1OAfXN50_O0HhjHNOi3PUzjOoZucuv7KvJ-ctTmz664M6w=="
+        },
+        {
+          "label": "Arabian Post - Medium",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsBS5R5VD0T44ykhSnjItevaI-S0IvLUSlbBTtrm3q3HI5Iein4FdmktK-KWxQ71mFH17pkZsMmyBB6u8IrvQPtNPmIivZH8OKMXkE1ATQATjc5-F0TKtMDYLPo_ulU8nZimAZXN5QtTU3ZkJUfC1wD3ITCmnZZ7LHz4OK6gzKSe_qfcCGOJ41zcmK-XNZhTDMKUdD"
+        },
+        {
+          "label": "PortAI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH06F5fzpz0o_AzZP6aOJJtahn-VT4VrwA_xclABst3jNDCL1kT57rPo3Gbbbgfu3oL3yIDZyl90VvT-g-Bq5l4dWXJ-GdmZf3ZhW53xptqjqiAjLYN798XofzI44vD9Keycw=="
+        },
+        {
+          "label": "Gulf News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-pmbNV66I6gz3ZqSbDGbBtCqN9-bbU5vQfS48lEpgf-HYTGelLTEC28mZtYJFAKsPMbrsjUmafuPhtUqcn1aUnkgagWKZ4DFdEdVtjNftc9jjcXoO1HWqy4xO__lKcwuyGE5zl8LR0E__99JP3_K6qcz_GkeXMo33a5dokZnrw1xCsxOZiiyLIyopVIT2UrJrr7NY-dhCBGIS7B63cyGrW7M7"
+        },
+        {
+          "label": "Sharjah24",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFDzomkbNdAvzC634_5uqUxgOInjyzhiT2rwOHAMGkPIdYCHmtMn9m6El504viCyvvnFw-gyT_KwaEqvpkUJGeZln9ceQRIQ8n8BM-wXQUWpiNGrgVb7-2T7lVMHYeqj9ciNpxTb3CIR0="
         }
       ],
       "baselineSources": []
@@ -153,317 +929,23 @@
       "normalizedType": "oil",
       "normalizedValue": 0,
       "status": "未确认直接受影响",
-      "current": "未见公开确认停产；ADNOC表示业务继续正常运行。",
-      "sources": [],
+      "current": "未见公开确认停产；ADNOC表示业务继续正常运行。Musaffah终端与Ruwais炼化系统相关联，但Ruwais本体未受直接袭击。",
+      "sources": [
+        {
+          "label": "ADNOC",
+          "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2021/adnoc-commits-to-make-it-in-the-emirates-through-growth-of-downstream-industry-operations-and-icv/"
+        },
+        {
+          "label": "Arabian Post - Medium",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsBS5R5VD0T44ykhSnjItevaI-S0IvLUSlbBTtrm3q3HI5Iein4FdmktK-KWxQ71mFH17pkZsMmyBB6u8IrvQPtNPmIivZH8OKMXkE1ATQATjc5-F0TKtMDYLPo_ulU8nZimAZXN5QtTU3ZkJUfC1wD3ITCmnZZ7LHz4OK6gzKSe_qfcCGOJ41zcmK-XNZhTDMKUdD"
+        }
+      ],
       "baselineSources": [
         {
           "label": "ADNOC",
           "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2021/adnoc-commits-to-make-it-in-the-emirates-through-growth-of-downstream-industry-operations-and-icv/"
         }
       ]
-    },
-    {
-      "country": "沙特",
-      "category": "油田",
-      "facility": "萨法尼亚油田",
-      "designValue": 1500,
-      "designUnit": "kbpd",
-      "affectedValue": 0,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 0,
-      "status": "未确认直接受影响",
-      "current": "该时段未见公开确认油田本体受袭。",
-      "sources": [
-        {
-          "label": "Saudi Pedia",
-          "url": "https://saudipedia.com/en/article/2352/economy-and-business/energy-and-natural-resources/safaniya-oil-field"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "沙特",
-      "category": "出口终端 / LNG",
-      "facility": "Ras Tanura原油出口终端",
-      "designValue": null,
-      "designUnit": "暂无",
-      "affectedValue": null,
-      "affectedUnit": "暂无",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "受袭后出口承压，沙特正通过Yanbu和东西管道加速分流，3月前五天Yanbu装船已升至约190万桶/日。",
-      "sources": [
-        {
-          "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 21财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtY9Dt-A3EfCJDB_Ms3A82MG-rGVMAy0ef2vx-w1G9672S6slJ44XRoRxX75D54FU_-z4wn1iEyd9NkLcfbGjVj2foFf9yXocyIjphGZX6TwG8GS4gRPPCG7nLtx8Wh4KPU3qk-wr7eoTJyJmOaAcF0R4JOc8ItM3WyLHFEMcba8HNSN5C3npMHVUzhfaLBomy"
-        },
-        {
-          "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7KjmzNehssPB3jGDNBmlrlrsUIL830-4MdD3pI8ssr_T3JOmU6SMxg2_-9hfEFArbAtSue6whk261BGC2p1cKUphEeet828lBwk6yFQnTxpgwVii7a3IGCwAH0YvLI33Q_we-4VgnVqpw"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "沙特",
-      "category": "炼厂 / 化工",
-      "facility": "Ras Tanura炼厂",
-      "designValue": 550,
-      "designUnit": "kbpd",
-      "affectedValue": 550,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 550,
-      "status": "已受影响",
-      "current": "遭无人机袭击后以预防性方式关闭。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "沙特",
-      "category": "炼厂 / 化工",
-      "facility": "Jazan炼厂 / 红海体系",
-      "designValue": 400,
-      "designUnit": "kbpd",
-      "affectedValue": 0,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 0,
-      "status": "未确认直接受影响",
-      "current": "作为西海岸替代炼化与外运体系发挥分流作用。",
-      "sources": [],
-      "baselineSources": [
-        {
-          "label": "Aramco",
-          "url": "https://europe.aramco.com/en/news-media/elements-magazine/2022/jazan-complex"
-        }
-      ]
-    },
-    {
-      "country": "伊拉克",
-      "category": "油田",
-      "facility": "Rumaila油田",
-      "designValue": 1400,
-      "designUnit": "kbpd",
-      "affectedValue": 1400,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 1400,
-      "status": "已停产",
-      "current": "伊拉克石油部声明已关闭南部鲁迈拉油田，该油田生产石油、天然气及液化石油气。此前无人机落入油田后外籍员工撤离，产量显著下降。",
-      "sources": [
-        {
-          "label": "东方财富股吧",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOJtobCjqvK_Ox8J-_-IWrcAzHb-XaN0wbHz1qjGQfUbAFitaPcQ_n0EmaPUmwmnJXS1KVYWBb3OlGghC4u7g_hU8tZx4hU-KKREFuxa3tlePjFhU3NqcxCKIrVQnYSpv-3-RRLv7O3N_YPmUNlrVRlQ=="
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "油田",
-      "facility": "West Qurna 2油田",
-      "designValue": 480,
-      "designUnit": "kbpd",
-      "affectedValue": 460,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 460,
-      "status": "已受影响",
-      "current": "因出口中断导致储罐趋满，产量大幅压缩。",
-      "sources": [
-        {
-          "label": "Lukoil",
-          "url": "https://mideast.lukoil.com/en/Activities/Iraq"
-        },
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "油田",
-      "facility": "Maysan油田群",
-      "designValue": null,
-      "designUnit": "kbpd",
-      "affectedValue": 325,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 325,
-      "status": "已受影响",
-      "current": "主要因物流与储存瓶颈被动减产，未见公开确认井场本体受袭。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "油田",
-      "facility": "Sarsang油田",
-      "designValue": 30,
-      "designUnit": "kbpd",
-      "affectedValue": 30,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 30,
-      "status": "已受影响",
-      "current": "无人机袭击引发火灾并导致停产。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/oilfield-iraqi-kurdistan-halts-production-after-drone-strike-sources-say-2026-03-05/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "气田",
-      "facility": "Khor Mor气田",
-      "designValue": 750,
-      "designUnit": "百万标准立方英尺/日",
-      "affectedValue": null,
-      "affectedUnit": "百万标准立方英尺/日",
-      "normalizedType": "gas",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "地区安全局势导致预防性停产或暂停，但未披露精确受影响量。",
-      "sources": [
-        {
-          "label": "Dana Gas",
-          "url": "https://www.danagas.com/wp-content/uploads/2025/10/20251014-KM250-Completion-Joint-PR-En.pdf"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "炼厂 / 化工",
-      "facility": "Basra炼厂",
-      "designValue": 210,
-      "designUnit": "kbpd",
-      "affectedValue": 0,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 0,
-      "status": "未确认直接受影响",
-      "current": "炼厂系统维持运行，未见公开确认直接受袭。",
-      "sources": [
-        {
-          "label": "Argus",
-          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2747938-iraq-s-basra-refinery-completes-upgrades"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "伊拉克",
-      "category": "炼厂 / 化工",
-      "facility": "Karbala炼厂",
-      "designValue": 140,
-      "designUnit": "kbpd",
-      "affectedValue": 0,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": 0,
-      "status": "未确认直接受影响",
-      "current": "该时间窗内未见公开确认受袭或停产。",
-      "sources": [
-        {
-          "label": "Iraqi News",
-          "url": "https://www.iraqinews.com/iraq/iraq-new-refineries-full-capacity-oil-ministry/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "卡塔尔",
-      "category": "气田",
-      "facility": "North Field气田",
-      "designValue": 108,
-      "designUnit": "十亿立方米/年等价上游基数",
-      "affectedValue": null,
-      "affectedUnit": "十亿立方米/年",
-      "normalizedType": "gas",
-      "normalizedValue": null,
-      "status": "间接受限",
-      "current": "未确认井口直接受袭；冲击主要集中于液化和出口系统。",
-      "sources": [],
-      "baselineSources": [
-        {
-          "label": "ENI",
-          "url": "https://www.eni.com/en-IT/media/press-release/2023/10/eni-signs-long-term-in-qatar.html"
-        }
-      ]
-    },
-    {
-      "country": "卡塔尔",
-      "category": "出口终端 / LNG",
-      "facility": "Ras Laffan LNG / 出口综合体",
-      "designValue": 77,
-      "designUnit": "百万吨/年",
-      "affectedValue": 77,
-      "affectedUnit": "百万吨/年",
-      "normalizedType": "lng",
-      "normalizedValue": 77,
-      "status": "已受影响",
-      "current": "已宣布不可抗力，液化与出口系统大范围停摆；最新公开表述是恢复正常交付可能需要数周到数月。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/energy/qatarenergy-declares-force-majeure-lng-shipments-2026-03-04/"
-        }
-      ],
-      "baselineSources": []
-    },
-    {
-      "country": "卡塔尔",
-      "category": "炼厂 / 化工",
-      "facility": "Laffan炼厂",
-      "designValue": 306.6,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "情况不明 / 未确认",
-      "current": "公开报道重点在LNG系统，炼厂本体停产规模未被明确确认。",
-      "sources": [],
-      "baselineSources": [
-        {
-          "label": "QatarEnergy LNG",
-          "url": "https://www.qatarenergylng.qa/english/Operations/Laffan-Refinery"
-        }
-      ]
-    },
-    {
-      "country": "卡塔尔",
-      "category": "炼厂 / 化工",
-      "facility": "Mesaieed石化工业区",
-      "designValue": null,
-      "designUnit": "暂无",
-      "affectedValue": null,
-      "affectedUnit": "暂无",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "工业区被报道遭袭，但未细化到装置级别的停工产能。",
-      "sources": [],
-      "baselineSources": []
     },
     {
       "country": "阿曼",
@@ -496,8 +978,12 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "燃料罐遭无人机袭击，损害受控，未见公开确认全港停摆。",
+      "current": "3月1日杜库姆港遭无人机袭击，一座燃料罐被击中，造成一名工人受伤，港口作业实施部分管制。阿曼岸边一艘油轮同时遭攻击，致4名水手受伤。杜库姆港、杜库姆阿西亚德干船坞及塞拉莱港件杂货码头已暂停运营，恢复时间另行通知。",
       "sources": [
+        {
+          "label": "太報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo3jtYkqLNAChbC2U9z4Uh_9XOgLPNBpEBBofIpSWbCQxTzaRGruABxT1bl6g2QYu9jQ4tTDbAsrS83d43c_ENzWiH0Zi6sFVffXeLGYbOkQ1c5LTwyzRfQf4mlcka0Ocn5jDCkVdQTiFe_Q=="
+        },
         {
           "label": "Reuters",
           "url": "https://www.reuters.com/world/middle-east/drone-hits-fuel-tank-omans-duqm-port-2026-03-03/"
@@ -560,74 +1046,101 @@
         }
       ],
       "baselineSources": []
-    },
-    {
-      "country": "巴林",
-      "category": "炼厂 / 化工",
-      "facility": "Sitra炼厂",
-      "designValue": 400,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "3月9日，巴林Bapco能源公司宣布因伊朗无人机袭击炼厂设施而遭遇不可抗力，影响运营。",
-      "sources": [
-        {
-          "label": "巴林Bapco Energies宣布运营遭遇不可抗力 - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNhE-u9q8d9OKc6ciqWprxL60SESNlcHoHMAvgApI2xBGxbAVgM8u-LWUelgzSOOa4jEkB-zZZZHDKxOOCc9vIyv2FGnJhD44jD_mv9UJsTzruFR8j4L6eG8ImqXAB3WzZZVYRvaMptON_hfEU-AG0SF31WwIPjNVeDzAY9VNi2L15vA3g8DeouBYrgIQ="
-        },
-        {
-          "label": "巴林炼油厂遭伊朗无人机袭击，能源中断加剧 - AiCoin",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFUK90-QAILAhU08yRKSDVn_7bSWzku8ljCmUlTi38zOC063A4srBt-Dao3UlE8x2idFkDg_DrxtFGWkO13CnEFT-DBFWps9sTeTCgU0HpYF_o2CSYweqqUjjzl7j2RQvficrf"
-        },
-        {
-          "label": "巴林Bapco Energies宣布运营遭遇不可抗力 - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeL_O7pYo-QS8bCwumwiadZTsTwPJSjEir1Lblv02h1C-iLUk1jjPYJySu6ExJliw-6tMj7t7nEduWYh0KF6soEoxGOFOVUmnT9AW3-TGPqhGD22uwWfyY35n5pKo00c5qO4NOaKfqvZEb4-FRWH9HNl5TM5cDNHXLMpIv_S32rqWFCbKoaHekR9f0sslgynWoIfoZQoxOqe0KfCCTSbFSiqDxyr-D474lX83vHwXfWz2j7hqZ-KyVnCeNmMYVkxy6UdVXzzvo6T4zV-cloUYD0jOGQxXaLGURhsP_d7zWovcRSnkoT1FIkMvozPkWcFDWdk22Tg=="
-        },
-        {
-          "label": "财联社3月9日电，巴林Bapco能源公司宣布遭遇不可抗力，影响运营。",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXi1mBQvkQetBu4TelUbA0_Bx4anwC9nKs84XE--VihhkfF89ZaR3cWLPenQCKyunNsjntn2mk_A2uAkoppq9K0hB4DV9VL1wltRhfZgKrIQMLIo4MX2bbCySBw=="
-        },
-        {
-          "label": "巴林唯一鍊油廠據報遭伊朗襲擊，能源中斷持續加劇 - TradingView",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmqyUfVk0z4H4FucH3M-NhPNzCxxZJcw_X7oC322k29BELrIOe77nyJnrahumB4RhRJkZPyrt1slhn0vGDZmoStzFIeG_Q-XDaNt8_CcDYoANuS3LhurkuAPD0NTVhnfsxxh4H9ljB-S5QXstE3QgXJCs="
-        }
-      ],
-      "baselineSources": [
-        {
-          "label": "Argus Media",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVyxWDOoCjjX3M-3h5YbI5jYVg6LAraW5cVAFUGlzYnG8aJSPPEKkq4fIhc15CMmod9qiyYN__zEJCjZcxqGgDXSIuj8Xt6hc3Bc7kkI-Ch2RyIrIKxcK7q1D8G6o7mAcqZbYdCh0QZm37QuaK52_kOyvsCq2ylUyo7IraqCYzlSj8rQZSaqCwDUaGZESK54hEp2-A1ANWPHo-PnyYPzfqS3jvmItiDY0xVwGPiLMABNbDU0kOMyevBXtmsWc="
-        },
-        {
-          "label": "Hydrocarbon Processing",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ITGo0A6STXp1yD3NFjNjzPh6ydUoZV895E4zvP1UiA1XfZllIFmdH2SYKBUg41BufYdpnqs95NJS8B-6e11Av4i4DODjjo7sozpMMpm5aCQ3knecjYzDPgvUUi8sWUJTal9yH9vnNd5p-65AZdYcZdaghYS7vK_528cq5M9fWWgebcuk-d4oXlP3b6rTan5S6BlVCo7J41rJr76Ic-abETIFCxpV0QPTb_o="
-        },
-        {
-          "label": "Industrial Info",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK7uvc5dOJo1XEGvq52pwjwgVSGFi3mB0wiuVdLzIXF-wMMDMMz34ImmGE_St-bWvhE6_adBoEodkV9oq1QOiOata2GGJffN5VEf9nMa9-IKkEAWzpVDKT2E1DOZlA3gi8xutf17bgru72yZYm678o_-u4rFgEdsT9BTbFqzG2nQczIAerpX0u_ytqrdoxsObpQX6V3l8XdlxTKlZMsPddwKelMY0tbyp6gbTIO3Chfd-F"
-        },
-        {
-          "label": "MEES",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoh06y-MeUh1m4BMfvu2OS8s-zq0e4KUSR5I9MST4QNV753Zvi1S2Fqw3X1hbUkjb10gBL773jCGPWP7Cc679WJeTjf-GguYfLV5_7U_T52mALfouh_bAQq224kI0UvyJg497tNfbtLFIcFksUDo-q5DSI9WJC8lQN-N2tZspfNahseEL3j-NaghOziqDN9X2LUwpZk3YJSx9Xg2U1i_8qMtg7rLOdd6b3K246SWt6WF59-a1ncAz7dj8h88vTvLLqjA=="
-        },
-        {
-          "label": "Portfolio-pplus.com",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVBXnpHARiCNUMI9nQIeilN7_FotaIE1_K0g0Lr6XyvcfAy4rXf6KKQrX78pfgqOgLxXMO4u1fDZsEDyPhsCqOMCJUrH7toaU04P6BlGA5QS7LXKRy2OQl671Xe6rJhx6bmW8wkyw88bV9I9aPWdF6xFQJ4H2mReUVI3YC"
-        },
-        {
-          "label": "中国石化新闻网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqboRnJdWVOGeMUDI2AUZ6XjVfvZd5NgUOg6akIuFxZJA0E8L3nCGzS3tdArj5iTi_u5Zuoa4ASiQpF2O0fxLLAJLu79k8PNuf6L4YkfnlmXNUDJK0Ugb72r_dUIivvA=="
-        },
-        {
-          "label": "商务部",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDNaji5AABxWYU_yRiv7S9QbjG_iCF496DFDAfrKmGHi535AUbjgjt7SAzFwsjMs5lRgzltYPKfEJooksph6ntwDFdNoTjkiXcFzUXzwykTjRNrlLZZcHweZrcEdCjLaDlUhSLUVwXvHkDdJlOfq6NuE8j51BJW6IZEYKH2UDL9O87_upnSsE-Y1KR"
-        }
-      ]
     }
   ],
   "timeline": [
+    {
+      "date": "2026-02-28",
+      "title": "冲突升级首日，伊朗出口节点风险抬升，库区资产开始预防性停产",
+      "type": "冲突升级",
+      "text": "伊朗哈格岛附近传出爆炸声；同日伊拉克库区部分能源资产采取预防性停产措施，市场开始重新定价霍尔木兹风险。",
+      "sources": [
+        {
+          "label": "Reuters 伊朗能源概览",
+          "url": "https://www.reuters.com/world/middle-east/an-overview-irans-energy-industry-infrastructure-2026-02-28/"
+        },
+        {
+          "label": "Reuters DNO",
+          "url": "https://www.reuters.com/business/energy/dno-shuts-oil-output-iraqi-kurdistan-precaution-after-strikes-iran-2026-02-28/"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "title": "海湾下游与终端设施遭袭，沙特与卡塔尔成为核心冲击点",
+      "type": "设施受袭",
+      "text": "沙特Ras Tanura炼厂关闭，阿联酋Musaffah终端起火但维持运行；卡塔尔Ras Laffan与Mesaieed相关设施受袭，全球LNG供应担忧快速升温。",
+      "sources": [
+        {
+          "label": "Reuters 沙特",
+          "url": "https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/"
+        },
+        {
+          "label": "Reuters 阿联酋",
+          "url": "https://www.reuters.com/world/middle-east/drone-attack-targets-uaes-musaffah-fuel-tank-terminal-no-impact-operations-2026-03-02/"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "title": "伊拉克南部与库区被动压产扩大，阿曼Duqm港储设施受袭",
+      "type": "减产扩大",
+      "text": "伊拉克因霍尔木兹中断和储罐趋满开始大幅压产；阿曼Duqm港一座燃料罐遭无人机袭击，海湾边缘能源物流风险外溢。",
+      "sources": [
+        {
+          "label": "Reuters 伊拉克",
+          "url": "https://www.reuters.com/business/energy/iraq-reduces-oil-output-more-cuts-come-if-hormuz-disruptions-persist-iraqi-oil-2026-03-03/"
+        },
+        {
+          "label": "Reuters 阿曼",
+          "url": "https://www.reuters.com/world/middle-east/drone-hits-fuel-tank-omans-duqm-port-2026-03-03/"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "title": "QatarEnergy宣布不可抗力，Ras Laffan停摆正式坐实",
+      "type": "LNG停摆",
+      "text": "QatarEnergy对LNG装运宣布不可抗力，卡塔尔液化与出口系统大范围停摆，全球LNG贸易链进入紧张状态。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/qatarenergy-declares-force-majeure-lng-shipments-2026-03-04/"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "title": "伊拉克Rumaila与Sarsang冲击坐实，人员撤离与停产加深",
+      "type": "上游受损",
+      "text": "Rumaila油田发生无人机落入事件后外籍员工撤离；Sarsang油田遭袭起火并停产，伊拉克成为本轮上游冲击最明确的国家。",
+      "sources": [
+        {
+          "label": "Reuters Rumaila",
+          "url": "https://www.reuters.com/world/middle-east/bps-foreign-staff-evacuated-iraq-oilfield-after-drones-landed-field-sources-say-2026-03-05/"
+        },
+        {
+          "label": "Reuters Sarsang",
+          "url": "https://www.reuters.com/world/middle-east/oilfield-iraqi-kurdistan-halts-production-after-drone-strike-sources-say-2026-03-05/"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "title": "沙特通过Yanbu分流出口，卡塔尔恢复周期预期拉长",
+      "type": "分流与恢复预期",
+      "text": "沙特加快通过红海Yanbu及东西管道分流；市场对卡塔尔LNG恢复时间预期从数周进一步拉长。",
+      "sources": [
+        {
+          "label": "Reuters 沙特",
+          "url": "https://www.reuters.com/business/energy/saudi-aramco-boosts-red-sea-oil-shipments-hormuz-disruption-curbs-exports-2026-03-06/"
+        },
+        {
+          "label": "Reuters 卡塔尔",
+          "url": "https://www.reuters.com/business/energy/qatarenergy-offers-10-lng-tankers-lease-amid-production-halt-soaring-shipping-2026-03-06/"
+        }
+      ]
+    },
     {
       "date": "2026-03-07",
       "title": "以色列对伊朗多处燃油设施发动新一轮打击",
@@ -645,66 +1158,6 @@
       ]
     },
     {
-      "date": "2026-03-07",
-      "title": "以色列打击伊朗燃油设施",
-      "type": "设施受袭",
-      "text": "3月7日，以色列对德黑兰燃油设施发动袭击，德黑兰南部炼油厂及卡拉季地区油库遭轰炸。",
-      "sources": [
-        {
-          "label": "以军称袭击伊朗首都燃料罐 - 澳广视新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4enDF-3ss4FjjF4GHQvWpE20LwsXSSKazeSTKxHEIclXKl2nhHRxYxv6nqdU7n0JDjPhZhjdtpCOiPwHsr91Z0WR8EHPic7GMRlMl2TLF0v8DkU5BrBha17Wk5mrFAZjJOLfqJ0q-sVc-3o4VyejI3kdA73lT3Rpg3k7sNGUHJ38KAEh1RyYQ"
-        },
-        {
-          "label": "以军称袭击伊朗首都燃料罐 - 新华网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWmGzD327EGvam0HnFzyb6OBXy5CTIX30bE29fHQBq1AElWAt_r7MIHNVnMp5Q7ppwC8EV_pSBNt_b16j8qRDhLpahOpn_bDqRxEeAPoSA5IsbX9zG-D_nPwUUaXoo3KVLsliX9QbdHACp9VXner9yboQEocGb_F4bTEcwUOmFaf2rkI"
-        },
-        {
-          "label": "美以打击伊朗油库油价牵动欧美“神经” - 人民网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBinH7KP0PaUcsc00m11kQ5XdmRzbOZWr4WtzPj-LejZiIZVALkHygFq-DzkW9J6iloCeXPqyO4ML8wESUdxe4CIp_z4KSZeBAPJPhLEeC83sNcfg-oDif-gAKWLKi5S2USMOEKJx2qvPBqKhozrAzMZW71r9y"
-        },
-        {
-          "label": "美国被曝对以袭击伊朗燃料存储设施不满 - 人民网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlhcGZBzldC_-VivXfNLf6vRlqf-Dn2pzmE2RbN80YVybfkXFegBIcCkUKtR7Wi0V-2f5pHIDDStJAzOrEWp2XvOpbnoUTJpGeAxHSs0bDtqRUSosVU5tGKL3MMnukacINg6GvYeZIzsW9Ocx18iF6UYpXpReR"
-        },
-        {
-          "label": "现裂痕，美对以“不满”：WTF-观察者网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWBNXSAlPwfPHF4GefPrhYK3AEvPM1YxCELD65YhAmayx9UxvAPccNow9IxosdUsHSeCIogYhY_n7XM-SLY9jwNKDPGX7XiOfEoD43jXW-REwgFHRdUuQM298BVJYcThDTRmTgDwBoy9Iymwlk7TSrn0qf3uI"
-        },
-        {
-          "label": "据伊朗迈赫尔通讯社：伊朗方面表示，炼油厂本身并未受到攻击，但旁边的一个油库遭到了袭击。",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_n7GZibyfa2TOuLHbDD_-MmVKyqvWR74UsBqfb5G8aKtAPfepA2HII_OiAMEoiwIC-vj5HTEjDIZ_WA050S1YwqWidkkSXkC-nu3AB5HMwDMjpVHNSGlzSiK69aazfP5gTG6sLrxfGgSoOEkQ"
-        }
-      ]
-    },
-    {
-      "date": "2026-03-07—03-08",
-      "title": "阿联酋海上产量管理性调节",
-      "type": "系统性约束",
-      "text": "ADNOC管理海上产量，陆上运行正常；市场关注出口链和储罐的持续约束。",
-      "sources": [
-        {
-          "label": "阿布扎比国家石油公司称正在“管理”海上石油产量以应对存储需求 - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKW509872tJl7yyYwOJTZsQhR3XvT30a_gEeZg5V7zA3TAhtfL4O4Gqd7nw-qmqbHfo_JDnSN4X3E2hOBdQzzGlXelF9ZNfd3ZbTFgIh1hy5HpBXDONR--rk_mWnJdMWCXNFR9ToazUqqXXgjbFtdZ0pX63Nacq_p-1zs2-rFzUmPHUdIw365Sf8_1YunTAH9x_ccWWgU"
-        },
-        {
-          "label": "阿布扎比国家石油公司：陆上作业仍继续正管理离岸产量 - HK01",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtW0yYl_fRae4Ie7INWC65YV0RDsq2AyKS8BoC3ZveMuOPuTnzumiFRozX6mmwbBN8SpOx3spHYsDs-naNcU5J91-GmEwVHC-aY72lU-mJczxQGrf4jRGCUbfybcIblCwNnzTXBH73Zr17VKlJIn9o0snuC5_TkXS091Yt_VVy-kzt4GoOxw1wZ0dnIB8cQm-gyLOK6UnMJVG6CEkTgSHp1w3cCnyvaScmL1k6CSHTvXxPBqt0Zaewu1VuZrPSn9RMb5klXCnP-TV4tXyzSaBVaXRWC5tbmtQswrUaxkx6M_t5HlvKbxb6AKmKL5Z1VoJEfx-QCoYvKJ79VsVd_qAw20l5UrXf0IMPLT239Ko3TqhNjoWI0yVaPgxr0kH0CEfAA_sMWt_FBQSiCsYSLU7tPLklAel9cizOLMm97L2p8MiiivgrmePxDTsHUTHqbvp-03wsWtqwVg0tXi0"
-        },
-        {
-          "label": "阿布扎比国家石油公司称正在“管理”海上石油产量以应对存储需求 - 新浪财经",
-          "url": "https://vertexaisearch.google.com/grounding/api/redirect?url=https://finance.sina.com.cn/stock/usstock/c/2026-03-08/doc-imxaxhkr7481079.shtml"
-        },
-        {
-          "label": "由于库存问题，阿联酋国家石油公司（ADNOC）正在“管控” 海上石油产量。 - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRILiAy8yhyyBiQiVV5csJ1vvsKGOd944lvn3X7TFgyJkZZ3tDScEJEuHn2dcmzHc1cJ6m9yAeSyTwuUMVhy0nFtkvP8k8O-duiq332AF211ZMsnOiVNtt9h0q5knSBvFnW59upQnljcqIPs-EShrEayo_dYPCFaX1By__4ZDFMXjp_nmRbvf4SPOK"
-        },
-        {
-          "label": "阿布扎比国家石油公司称正在“管理”海上石油产量以应对存储需求 - QQ.com",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRQnYaVrheJ72qFV5CmRRQ3QPyX1p9TMHTT6BoCLP2JKcHoRfv0WoyPsybtYd7k8OsNZ15QbUuc2X9UXiwJn0EA6pOmDZCBZxKidDqXuFmuE6ld_bbhBFeqZohykV8dnukQ6M_4nE="
-        }
-      ]
-    },
-    {
       "date": "2026-03-07—03-08",
       "title": "阿联酋海上产量进入管理性调节，市场关注长期系统性约束",
       "type": "系统性约束",
@@ -718,22 +1171,6 @@
     },
     {
       "date": "2026-03-08",
-      "title": "伊拉克石油产量暴跌60%",
-      "type": "减产扩大",
-      "text": "霍尔木兹海峡出口受阻，伊拉克石油产量下降约60%，至170万-180万桶/日。",
-      "sources": [
-        {
-          "label": "Investing.com 香港",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZIOX4OMDGmCApT6FKKVXZUa2kzjnOys8sa08esmn6W4KUk8RqSGaH_JXyIyElN-YaRbkvoe-0nRpu2q5Wku9yMZOaccUgMpWE6Ht6XThOqGyAfszpUykHkgwrM5M2ftjRhCTlwNadlgMErF6yXY9D6CxV0tE="
-        },
-        {
-          "label": "中东冲突引爆能源危机：为何国内油价涨幅远超国际？ - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHgEzImMMXK6T9jwjDZsg9SzdI2tnZX25DHD0Sf8PtHqVJKRWOyTY6oePMXdM3lFLS2Jk6NwHDBU4w3YrG1vyS2qx0r6-cAo3uZAXLARAiXjkwbTXRypSYMFcPoS_264fcsycc0THpmH4GVJ7_rJ5cicTiA1KcBIc="
-        }
-      ]
-    },
-    {
-      "date": "2026-03-08",
       "title": "伊拉克石油产量暴跌约60%",
       "type": "减产扩大",
       "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约60%，至每日170万至180万桶。",
@@ -741,38 +1178,6 @@
         {
           "label": "Investing.com 香港",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZIOX4OMDGmCApT6FKKVXZUa2kzjnOys8sa08esmn6W4KUk8RqSGaH_JXyIyElN-YaRbkvoe-0nRpu2q5Wku9yMZOaccUgMpWE6Ht6XThOqGyAfszpUykHkgwrM5M2ftjRhCTlwNadlgMErF6yXY9D6CxV0tE="
-        }
-      ]
-    },
-    {
-      "date": "2026-03-08",
-      "title": "科威特宣布不可抗力",
-      "type": "减产",
-      "text": "科威特3月7日宣布因油轮无法通过波斯湾进入不可抗力状态，实施预防性减产。",
-      "sources": [
-        {
-          "label": "AASTOCKS 财经新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
-        },
-        {
-          "label": "南方财经网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH23wgAlnoWHkuKI_WkElz7XtyIs0QqBNL0mXyrKqcapMY03RFWe40pu05icW7T6ySWrhFEYUqmy5ENxqcqCWsVC7gArCyRi0UH0ieiyc868QB6G6nzmowdVKeWVRqRL0kJdRv3AOBmx9nQ7GfUikTOE4Cv"
-        },
-        {
-          "label": "新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnhplCRk1XwTl-PwiuiGJ0qbx7KFEoC1JlSpv3L4JXnxDcaAz09Y2cIp0Y2jEj0dNfI_ncsmV-fCVAkRCIgASgxmMEMp1Yze7A4ib-snXzRvLbIYKrzd7Bh8s1x8WGG93my1vhqLqZkd3yXisQc0zneQhU96ab5DudBeEYqTc60A=="
-        },
-        {
-          "label": "央视网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
-        },
-        {
-          "label": "东方财富网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsbdl0AuAxZ8MdKy4TtDvZNarq84EHjjU_W2YW-T3DblR-uVWlIkpAKhjbp2Bcwf_VfAuH2mh8YEFhw0QnS-fO8c7eNezVX3kxHFpYJMk7CogOyuAM88FjnZQ1aSBXUMbgj1Oz7w1BHIsWY88QbqHytE="
-        },
-        {
-          "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7KjmzNehssPB3jGDNBmlrlrsUIL830-4MdD3pI8ssr_T3JOmU6SMxg2_-9hfEFArbAtSue6whk261BGC2p1cKUphEeet828lBwk6yFQnTxpgwVii7a3IGCwAH0YvLI33Q_we-4VgnVqpw"
         }
       ]
     },
@@ -801,54 +1206,6 @@
         {
           "label": "东方财富网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsbdl0AuAxZ8MdKy4TtDvZNarq84EHjjU_W2YW-T3DblR-uVWlIkpAKhjbp2Bcwf_VfAuH2mh8YEFhw0QnS-fO8c7eNezVX3kxHFpYJMk7CogOyuAM88FjnZQ1aSBXUMbgj1Oz7w1BHIsWY88QbqHytE="
-        }
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "title": "国际油价突破100美元/桶",
-      "type": "市场波动",
-      "text": "WTI和布伦特原油期货均突破100美元/桶，创2022年以来新高。摩根士丹利警告卡塔尔LNG停产超一个月或致全球天然气市场短缺，Ras Laffan LNG工业城已全面停产。",
-      "sources": [
-        {
-          "label": "21经济网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaJPPK4IV6e1AN576mbrgkkApGeISzCsS9SSA-K7bG9yoBKDNzRo2mDDSz5fPj-zoVvlbQpzMSObHUUrDB8kDcLDDOfXZagEefyRch_gksEV4SKnZ7-wK66C2Ff8kDtm2iGSQ_QN7DxtE426kWjFRWrMs3ff9bAqSBOB1w4imN8PKo7oeiRakUUqcuWCcYK-Ob"
-        },
-        {
-          "label": "鉅亨網",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt18kfcvdQtjY1DhlfIcCrncgivoCMuwTGScdQygjH8U9ellH7U5cY0H61HXs0o3yjAUEfjvNT285nOwwdZTowQZxg9GIheldUFzABT16ZJYzRRLfxSe54zBK_BX2pA9EG79JSNMuUdxqgvg=="
-        },
-        {
-          "label": "新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWEgRPQgR8ny6lgv3z0dmS3aprpdSmzCcZe5JsDgzZ8lnYm0Adegw9-IBGRsxWrYyW-NvZflZeNskdzvVJZ_39VOqULeMkA7kX4IAdi5AQhALJPFWWR2nBP9Ed0F_ssqXxiWE3OC0fzj16uh2eSa95mdDiYdLGlOTi6T1LWLUYpKvk1ODKtMJQ8hLAiqdGbh4QrdzA955SsI6EQNCowninyxpw2yD73_p8wjP1yYsk4BtafNb2Zz3DNaw8oWlmBhmW-3I"
-        },
-        {
-          "label": "格隆汇新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuRQNxPeVsOsCr8GJqqlMbwoiORJiPMW5qT4OmvOhqvsDpgKxjPqEIc20Kvz5N3-VegTkMI-I-rMDtCl61jYJxqmn3eCoWt4q6k32ZFnngiqF6jKdcyv6ImdEMTUz2gRyWO6_ixje79tvUZFOSgyPzbQe6xt6sBcn3YgpTRt_WPQNjZr_J5Q=="
-        },
-        {
-          "label": "TradingKey",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPwAkvomX7iaf5LARvFz4wV4AoVss7YV26DMEvHMxsXMQPdhQKnuww1fLxka5F6bwU2NmpRHeDBM7PBFVx0z6aZAjCuEl1wljbcA7nc9UYRiazjW2YBhDDbJBtrPM5pDOO0sYyAlKfB6VEXKrTTaUR9wtZFxh-f-AujpMlHf-MdPUwlVanKk96e2RduiKvg8xHLXa9DjFnK9az3KR_mGYdhgaPKVA-38UWaxsFDN2q8lJK25SdDbKoNRE="
-        },
-        {
-          "label": "陆家嘴财经早餐",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDscswZRL3GU9jv5-N86igB76Zp-PNgRuuKD_IzTBEbSXwZb-u2VwBotNlqWzupEVcWt_v2mUn16LsVi2rqoUSQhuOWTQx-QEg"
-        },
-        {
-          "label": "同花顺",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQQIrn74DVvG_fArjMnoRqovn-0usBXNd5ggdQxGfUipeooNxIAUbG20wYkIxRhYr6pUcKwD2OgKF0e1odMtUKtU04PJ4WPdet7T4bIIGFxHcLCh59B2SqD50m6qBDcNhla1kqafnHwXcIs-I="
-        },
-        {
-          "label": "新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf2U_bbLF04NfC5OSyY6ZLd9znPasyyP1miqRDSsEwUMf5JjjoxIzwazI6dU6UUYh6FAA81jhFzujotrWmv8HuCgxBcDiHvbs-plsontk5YjzosfYfPoMLCkqM9mLtbakYSnhxJipLYpXb7yYqu9WQkTEwnB42y3_Xd64ASh9ZwCjdiShkqsAhy2rbCAQmVc9AnIm0TLO5n4ThFlamsY1yuXnThIiUSrxvb2Sh0i6doMHFA7riEwYW7gt_CzT_dV1A_KDIl7cAJs9yIf0A2Zs="
-        },
-        {
-          "label": "财闻网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XBAPGMn253_-IaQSgHYxBXI-JoLrurZ_YToERvhzPj3DiyRIuevdf4_5CbSpUk3zXmK1oFnWhJq9bsILVzLVuo7Jm2uz3iJLqpiNR_5KqR2riB2U3Xw6o9t8FiUzQ-2Wnl49U-u5RnrMXg=="
-        },
-        {
-          "label": "摩根大通解读中东局势：基准情形仍是“短期冲突”，但投资者重新入场需“特定条件” - 华尔街见闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD8fAYhQNdIqK3OBwCQMZTlJbofV4oAjrrn8evB_zHzHE3NMMD1jIOC00JqFVT9q-vORB_oStOHAqU8undQMGYw0221TCXUqfNwb43xJXy1ftoz5sEyWi3hW_r41SnCgnfj9VM"
         }
       ]
     },
@@ -893,30 +1250,6 @@
         {
           "label": "财闻网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XBAPGMn253_-IaQSgHYxBXI-JoLrurZ_YToERvhzPj3DiyRIuevdf4_5CbSpUk3zXmK1oFnWhJq9bsILVzLVuo7Jm2uz3iJLqpiNR_5KqR2riB2U3Xw6o9t8FiUzQ-2Wnl49U-u5RnrMXg=="
-        }
-      ]
-    },
-    {
-      "date": "2026-03-09",
-      "title": "巴林Bapco宣布不可抗力",
-      "type": "运营中断",
-      "text": "巴林Bapco能源公司宣布遭遇不可抗力，影响运营。",
-      "sources": [
-        {
-          "label": "财联社",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojrkQPBwUld7PuIkHZ7S1ZkLhgQgvJwb7lmz9b2Jg0DdvP9BxQKtzPikNYg4JB5NVH_h1qCC0mkSSY-bkJVa07AIiV57KaKlffKbMsbn8NUPH_RE9kD3bra11yg=="
-        },
-        {
-          "label": "巴林Bapco Energies宣布运营遭遇不可抗力 - 新浪财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNhE-u9q8d9OKc6ciqWprxL60SESNlcHoHMAvgApI2xBGxbAVgM8u-LWUelgzSOOa4jEkB-zZZZHDKxOOCc9vIyv2FGnJhD44jD_mv9UJsTzruFR8j4L6eG8ImqXAB3WzZZVYRvaMptON_hfEU-AG0SF31WwIPjNVeDzAY9VNi2L15vA3g8DeouBYrgIQ="
-        },
-        {
-          "label": "巴林炼油厂遭伊朗无人机袭击，能源中断加剧 - AiCoin",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFUK90-QAILAhU08yRKSDVn_7bSWzku8ljCmUlTi38zOC063A4srBt-Dao3UlE8x2idFkDg_DrxtFGWkO13CnEFT-DBFWps9sTeTCgU0HpYF_o2CSYweqqUjjzl7j2RQvficrf"
-        },
-        {
-          "label": "巴林唯一鍊油廠據報遭伊朗襲擊，能源中斷持續加劇 - TradingView",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmqyUfVk0z4H4FucH3M-NhPNzCxxZJcw_X7oC322k29BELrIOe77nyJnrahumB4RhRJkZPyrt1slhn0vGDZmoStzFIeG_Q-XDaNt8_CcDYoANuS3LhurkuAPD0NTVhnfsxxh4H9ljB-S5QXstE3QgXJCs="
         }
       ]
     },
