@@ -143,6 +143,25 @@
     .chemical-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
     .chemical-name { font-size: 16px; font-weight: 600; }
     .chemical-grid { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 12px; align-items: start; }
+    .risk-card {
+      margin-top: 16px;
+      border: 1px solid #fecaca;
+      background: linear-gradient(135deg, #fff7ed 0%, #fff1f2 100%);
+    }
+    .risk-title {
+      margin: 0 0 10px 0;
+      font-size: 28px;
+      font-weight: 800;
+      color: #9f1239;
+      letter-spacing: 0.04em;
+    }
+    .risk-text {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.8;
+      color: #7f1d1d;
+      font-weight: 600;
+    }
     canvas { width: 100% !important; height: 320px !important; }
     @media (max-width: 1180px) {
       .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
@@ -275,6 +294,11 @@
           <li>若 Reuters 缺少数值，脚本会补查运营商、政府与行业来源</li>
         </ul>
       </div>
+    </div>
+
+    <div class="card risk-card">
+      <div class="risk-title">风险提示</div>
+      <p class="risk-text">数据来自于三方数据及模型自动梳理，不构成任何投资建议，仅作为交流使用。</p>
     </div>
   </div>
 
