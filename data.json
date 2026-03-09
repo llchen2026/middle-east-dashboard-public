@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 03:13（北京时间）",
+  "lastUpdated": "2026-03-10 03:30（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -1189,24 +1189,84 @@
     },
     {
       "country": "韩国",
+      "facility": "丽川NCC乙烯裂解装置",
+      "category": "炼厂 / 化工",
+      "designValue": 2.285,
+      "designUnit": "暂无",
+      "affectedValue": 0.47,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": 0.47,
+      "status": "已减产 / 不可抗力",
+      "current": "2026年3月4日，丽川NCC因霍尔木兹海峡封锁致石脑油供应中断宣布不可抗力，生产设施降至最低负荷运行，第三工厂已停产，年产乙烯47万吨。",
+      "sources": [
+        {
+          "label": "群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx2mr2YkZQK2DevWeKw8Kh-SgTRCX99nbRCXBsd_u29mG4Z4PgeRr_neWr6ELFW8yOKhyRg-7HQzb7I2Y2Wf3Vqmh4mTsupGrN1NUIKNW4GTDm5PuZX2DAN5W3STFoN1YQjn4gHC6OLLIPHa1njG2QQRaNb8j53M2TFpuaFPzMDbsZheexrV-k8YzyGiYgjgwLfY_vI1_bAvdHCMlg"
+        },
+        {
+          "label": "MK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRDgaZMQphY7cPk0Rwk2QalGeKm7tKjK4SYX9qNvZ46OarW3bDuTvar3N0ooOPv4FKIjv16rPQRT6pl6NPIpmK1YyEGB-3yMAMEkDVvAKK6W0BFGUIKXUB6Gy7bIA4q7799U0="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVQYe5f-HY0pikEhAqb0_cHskReZ-Llw6Ake6lLAVArh8am3yvNDnUH66BrzMG_soa_L_u0FXvajSKruyADbT884iPjOaGVyVHcJT8nO-rRgCBzrjJc22n"
+        },
+        {
+          "label": "流程工业",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESJfC_bQ08T86IFM_0vc20Na2ZNueELFzN8LZ1cw38YdTSrgSjuTlznc6XB00Xc1kmVvsLIFxJosAIdm40moHQhvYi2sjiabMLx_PEZ4Rubi8prJCINIXA1Dmce7x4HOo="
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "丽川NCC官网",
+          "url": "https://www.yncc.co.kr/eng/company/company_01.asp"
+        }
+      ],
+      "products": [
+        "乙烯",
+        "丙烯",
+        "混合C4",
+        "石脑油"
+      ]
+    },
+    {
+      "country": "韩国",
       "facility": "乐天化学大山石脑油裂解装置",
       "category": "炼厂 / 化工",
       "designValue": 1.1,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
+      "designUnit": "百万吨/年",
+      "affectedValue": 1.1,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": 1.1,
       "status": "计划停产",
-      "current": "2026年2月25日，韩国政府批准乐天化学与HD现代化学大山园区重组方案。乐天化学将关停大山年产110万吨乙烯的石脑油裂解装置，并暂停其他亏损设施。政府将提供2.1万亿韩元（约合人民币100亿元）财政及税收支持。",
+      "current": "2026年2月25日，韩国政府批准乐天化学与HD现代化学大山园区重组方案。乐天化学将关停大山年产110万吨乙烯裂解装置，并暂停其他亏损设施。政府将提供2.1万亿韩元（约合人民币100亿元）财政及税收支持。",
       "sources": [
         {
           "label": "ChemNet News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2EXbLEzrJKZkSRhuOvAL54oOeZKZRUQoDTR8xKKDWgTpfwWIt6RWvI5nXtCC0CvoqRSv5ySwmGEDywHLcXu9Inl8HpcCnR-rxpRJHMICZ2LLX759o8pWq71vsVBIG5-rYFbhg7tbOJ7PrSp_w"
+        },
+        {
+          "label": "亚洲日报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6sp9y0LNAdVU9H5qZyF8r5VLn6zqc667o9YuayJhVsSqJdeuXocH98pICljQM65_M5lAcuA8Ld-SQUtB95b2mRJ6WNjRoe9RjnCrMHYVW93Y2FcRNdSCZKWPRPQzPo3wUY0s45UiYhDU="
+        },
+        {
+          "label": "ChemNet News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyu7EgjuXOubVhYiXQY99EnrDCXdxFq_p8h61gPS7ZxRBMC1WPtTjFi-qEbicudv7yyanPAdls94ttlEWZHgDUquOnvwwlxUKZS3hNjVjYfSE9aKkKPNAh0MxpPm6eBOBAmOILgM5e2u6pFjg="
+        },
+        {
+          "label": "S&P Global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhjDvfqGni_ResP9YJnFfHNpMskbvq-34J2CaJsYhjoDnmVHr9gBraLrDSUFuntN_VV2373nX1vNGjuiNRpf4y21U7_8QUpMRIueppLpaBqEgfK9TCYwkzzjr1BtBcNsbD7yqMHzM_XI_ct2AdUctLcWGXDbfU7velbae-QKhL2ihNYtERbFVUKQR9-s_9vUr1Hg2uF8EPekRXP0PjGjEniEU3P7tb9bluTR0rMSzg62W3YV47oGdIOCmaSc96jABRBJF1-Ruxoiy79svXnxU="
         }
       ],
       "baselineSources": [],
-      "products": []
+      "products": [
+        "乙烯",
+        "丙烯",
+        "聚烯烃",
+        "石脑油"
+      ]
     },
     {
       "country": "日本",
@@ -1455,17 +1515,33 @@
         "石脑油"
       ],
       "designValue": 990000,
-      "designUnit": "吨/年",
+      "designUnit": "暂无",
       "affectedValue": null,
       "affectedUnit": "暂无",
       "normalizedType": "chemicals",
       "normalizedValue": null,
       "status": "面临停产风险",
-      "current": "2026年3月7日，日本出光兴产株式会社表示，若霍尔木兹海峡封锁持续并阻碍从中东进口原材料，可能停止德山工厂和千叶工厂的乙烯生产。",
+      "current": "2026年3月7日，日本出光兴产表示，若霍尔木兹海峡封锁持续阻碍中东原料进口，可能停止德山工厂和千叶工厂乙烯生产。德山年产能约62万吨，千叶约37万吨，合计占日本乙烯总产量16%。",
       "sources": [
         {
           "label": "重要原材料断供，日本尝到“苦果”-观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWWuyRwP8MP4nU3IYgc6rxM9f0PIQ0rKhPlo9xtniPYbwy63U-e-o3-F9W0WV1drSsiT25Bi_u5GB9LsNchKNqd9LpQONzIz_ZHjNRsMs_GgIOUI9fx5RISC4KkeC07uxe61uX5MrpFmIoWluvl4BKDKzUQ=="
+        },
+        {
+          "label": "财富号",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpGmQIEfFcFsNTkdseW0VUnRyf5DUZ_k_l6hjSnrTBuXCLNPzaX_ZTsyOfYHUZOqoEiMjx3Lh_IV3Y2f9Xxlq6y9qQ7OXv76uhkgVreS55HmLzBt99BhRbz-x8N961D-P54204yzs70YCemOf6y-8DJPxF7iU="
+        },
+        {
+          "label": "深蓝财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGYEJV9eQsqVws4KZZ-j1YP97S6tRpggxzXfYsNCmyH5ZLLzr1lQWpgwR4shKzyx8deSgqs9uG-9BXYEeujaaUNOF26XFP5CVMY_DrUObDB1HIggMyiD5yzL5Znopt-po="
+        },
+        {
+          "label": "观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdoWicTr1IX5Hz4yyNVCNYTJR6lw23eHZWnfc4euSkC3sKMjceDstE8hm4ui80GGX8CyNHjhFX01ZrC2YXACeIrT6mQgluj-Mk6NZPIQYTGCeEQ0nf5O78tzVBNuByDVBxRTzsXW5ev4lfaM2VRzxzmSjKCg=="
+        },
+        {
+          "label": "腾讯",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9PHmELvHwkklmiqg8mUixA6NHJqWjIj00Cvo7wwA6vvyNl8v7TiObL67cUeFx6U7EcX1f_-t_kw65ToL_42RX2wTDxibBufT-s7W69M7TwtzADvcys0j8Dui9vLgQpiAUKUIMgA=="
         }
       ],
       "baselineSources": []
@@ -3010,6 +3086,10 @@
         {
           "label": "基础油",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSS0VSj4p4dg0VuHE0jDNxgpTm4S9_VNttET6e7oHJxlepLksXdM3Oq5-JaM1In9eTQtnuy83k36EOiMez2yIrfBokniiYRjDtqGIYopQpddQ_aiU1lCoTudFOesnUQuxCovMwEwBSXzQaf2Jsg=="
+        },
+        {
+          "label": "基础油",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSS0VSj4p4dg0VuHE0jDNxgpTm4S9_VNttET6e7oHJxlepLksXdM3Oq5-JaM1In9eTQtnuy83k36EOiMez2yIrfBokniiYRjDtqGIEopQpddQ_aiU1lCoTudFOesnUQuxCovMwEwBSXzQaf2Jsg=="
         }
       ]
     },
@@ -3043,65 +3123,61 @@
     },
     {
       "country": "G7",
-      "market": "战略石油储备",
-      "period": "2026-03-09",
+      "market": "总油品库存代理",
+      "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
       "status": "已授权释放",
-      "levelValue": null,
-      "levelUnit": "",
-      "changeValue": null,
-      "changeUnit": "",
-      "demandValue": null,
-      "demandUnit": "",
-      "coverDays": null,
+      "levelValue": 205697.69999999998,
+      "levelUnit": "千吨",
+      "changeValue": 2223.475,
+      "changeUnit": "千吨",
+      "demandValue": 32255.4,
+      "demandUnit": "tbpd",
+      "coverDays": 46.7,
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，授权协调释放3亿至4亿桶全球战略石油储备，以应对中东冲突导致的油价飙升。 此次会议于纽约时间上午8时30分举行，旨在评估伊朗战争对能源市场的影响并讨论联合释储方案。",
-      "current": "G7已授权协调释放3亿至4亿桶战略石油储备以稳定市场。",
+      "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，授权协调释放3亿至4亿桶全球战略石油储备，以应对中东冲突导致的油价飙升。",
+      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约205697.69999999998千吨、库存可用天数约46.7天；另有潜在库存行动新闻需单独观察。",
       "sources": [
+        {
+          "label": "IEA Oil Information",
+          "url": "https://www.iea.org/data-and-statistics/data-product/oil-information"
+        },
+        {
+          "label": "EIA International Data Browser",
+          "url": "https://www.eia.gov/international/data/browser/"
+        },
+        {
+          "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
+        },
+        {
+          "label": "Trading Key",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
+        },
+        {
+          "label": "U.S. Energy Information Administration (EIA)",
+          "url": "https://www.eia.gov/"
+        },
+        {
+          "label": "EBC金融集团",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4E_DZ2NLr0UY9ozuEF2LZIMuRayqvO2u_3wvFkeIYL-20EAi4_sb34K64Aw9HIFvq6pXh9FGgDYojvDX1MUIBPoSRob08l4njx7UupsYG0EKQf2xSoAc5uyFGKnuj1Z916ZcgbTLMTg=="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBZXGjqzM7tpltDT1zfR8qiMCSsPF-g1dBCOWExlzQ1fcnda2SeKZgvUbXEL066RDK0mErm390ayJa8iSAsXh-1vjTMkg5wwlYQ2gtkLghj_D2-Pfofrl2JKIi0Q=="
+        },
+        {
+          "label": "金投原油",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7elFBkSqgc2QSde_MOQBwAVcvcayP30MIpdaxNyTzpsAyNwdODckX2sjrsUpRg6meTVM06c09e7pPrzTL0tITv8efKo4TcFH24mCcmlPM1MSjfqibNcFpFK6OLhGaiKrqXPMuF6Jv3IjElpFnbPyZ"
+        },
+        {
+          "label": "Binance",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyIybW7YM1ojEfw-FCUgdnHg-sxmtIz4KG8BMVjWgHhifxj1gsmlns0K5gt6JO4M-KQXCltme4LfrUO19QSK5i3MtcT9EuE3P3_ZULW077xO0oe5jg-lJKkZkXznu9omSLwYRakbM_8jnyj21bdCOsf-qeWXNT0VftKxR"
+        },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bDMpIBMRjzozoCAGsZUGMLfooIOTyU3ykbhwFmVxvURJdu4dyIIHmKQjcI6PfukDAnjAgHhmlkg46viUFidM0TBmQ91lEP1F6sEE5koznf2Rl9u2D0SRl6LlOdMUbEU8UAU0-eUc-M6tIy7Y6k_Pr1Urd1tuYY90OqE="
-        },
-        {
-          "label": "G7 & IEA Convene Emergency Meeting to Release Strategic Reserves - Markets & Stocks",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuX32GMp5x8Wnu2452eu9pEwb-vJuZCObZktHffL6dF9TtrYBSIiCT1rnI39MiiEWo3LyPyhjjmVlQpvprjHXJWtii0qZSddnywUzytk14IrDgA_arKFHksUNsf810qtVPMqd81ZgPDUulKAiLZd4xpOgWZih0p0rzNWY51Dc7tmPbDlPfQ8f2v8DIbH3IJuoOW54rGtEDIPstAgsWwDqZ6z_8B2TKoiR4W3DQyOU5lwSvLXAW5seG62QEWGai0A_piYuQxhxxPntRp6_mgiC42g=="
-        },
-        {
-          "label": "Global Markets Shaken as Strait of Hormuz Blockade Chokes 20% of World Oil Supply - Valley City Times-Record",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF3zPwJlSGmbzpGZTwYRcgdPJnLJL-3g-9u3PylvLh_AFcdTcfJjkBNihkvKcngZ3qTjx_OXOgO1ZzlRFXMT7wOCp4fjFOV-56W_knUG5T2QdScFDLY7AHxKHIn-avjVdDm1RH1eCxKJz3ihDIyu8sEeZcYtP1BVRkv4Y6dfrvougKV5g-pOvj216OwEa0OFS6DcybXN34rrHGgUkUkQTYE2kbWQP9jxYuHQpcXu4qM764pyM75pu5GYPkE2H0Cir56Nya8RxFh-2J2XsDxaQpsj5_D-faq_o="
-        },
-        {
-          "label": "G7 & IEA Convene Emergency Meeting to Release Strategic Reserves - Markets & Stocks",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuX32GMp5x8Wnu2452eu9pEwb-vJuZCObZktHffL6dF9TtrYBSIiCT1rnI39MiiEWo3LyPyHjjmVlQpvprjHXJWtii0qZSddnywUzytk14IrDgA_arKFHksUNsf810qtVPMqd81ZgPDUulKAiLZd4xpOgWZih0p0rzNWY51Dc7tmPbDlPfQ8f2v8DIbH3IJuoOW54rGtEDIPstAgsWwDqZ6z_8B2TKoiR4W3DQyOU5lwSvLXAW5seG62QEWGai0A_piYuQxhxxPntRp6_mgiC42g=="
-        },
-        {
-          "label": "Global Markets Shaken as Strait of Hormuz Blockade Chokes 20% of World Oil Supply - Valley City Times-Record",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF3zPwJlSGmbzpGZTwYRcgdPJnLJL-3g-9u3PylvLh_AFcdTcfJjkBNihkvKcngZ3qTjx_OXOgO1ZzlRFXMT7wOCp4fjFOV-56W_knUG5T2QdScFDLY7AHxKHIn-avjVdDm1RH1eCxKJz3ihDIyu8sEeZcYtP1BVRkv4Y6dfrvougKV5g-pOvj216OwEa0OFS6DcybXN34rrHGgUkUkQTYE2kbWQP9jxYuHQpcXu4qM764pyM75pu3GYPkE2H0Cir56Nya8RxFh-2J2XsDxaQpsj5_D-faq_o="
-        },
-        {
-          "label": "华尔街见闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHyp-ym02U5aqPiAhJMAjZbg-NOZk_qYR4xocPscsKBxdMfAAHwYMjKGc9PmPm2Mk3gjnq-7iz6xrPhyiTFt5YPZQVVmEfu4D0IrhdIxgyPzx3vQy-y21fV-gDp6Ep5F0M7iDC"
-        },
-        {
-          "label": "凤凰网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT3V8UafFSa_QjWfhkr-87yDIQj9eDC1shBJ6a4QwzqEJbbGFMVHpYfUUV4HL6fMGvDuTRA7L6IW_YCA2VX2C9s8CnSdaAiFMMml40Xc8CRJv2H2Kck-odLra4apMK3A=="
-        },
-        {
-          "label": "KLSE Screener",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAHqcFQQTXxan1EDceR5Wf9JCZwzmuuf0RF8UCmFgmdGjjHJ3fcHm-0nj2SqRP-R06qrr7GqdK8f31qOaY_DFbalM7BP9n8IzCkroCFd7mIuJ0sftPuoRJ-lT-ZR4-zF0G5reL4zoPM9EAlQ9_WsQDIGV8yhuJj-7kEkrMK0RsKbglkV2tfdH1K1FIf9VD1qoh8e1whMqerSQ-7XdWNLoSW-njtfkGls6jyPzaS23WWMaI1r9CBfYKOUimhujLfqJiXqCRT6xPoS-DCz7rvsWNbUUBZCjy4RNsN9JC_6iS0rLrdsB8IFuzoSHL-6q0YvcSZ3lFHv3WQy9qGK-OQRQ2wEsBZkm4dcqyuOnE7MOQ2geiyAXWn_sJbM_h8olE6Cb-D7VEm4Y24Uda1M03XR_kO2K8KsC5Beyk4q1utTmhpqJIJ1djRPhPNCBc="
-        },
-        {
-          "label": "中财网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDfhwBQtht7afJeyj2M_kmc8bm0-wktlPl3H5PIns_-nafqFqKG_83yfF7qMVmZWUxgV9jY6BckcBtBy-lViQOCeaXhHWUDe59vUGztkU0zE-UyvGdOhC-0sOeGwSu6xCQShtaPnI="
-        },
-        {
-          "label": "黄金",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDlHouOOKiDuXObX2iorwkrxHRPkuIx0jYYy1SNxO1wcTLhbt-F93W7MOfHbnceXDtzLihFnYYSh2HCykZ85ctFbJCz5AjsxEN_6F8BfI6aFElgMzLtWSbQgbd0gw4nDrcfn_3k3o2lwqwELThEhx2lv4TRSLQnw=="
-        },
-        {
-          "label": "观察者网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGECMlyrZB4f_I5K7-iA2jlWpUKa7v14PXlCwHOBBrfjLPf4d4EitCWAf0fRpd83WRrZXZdiFOl7meBZCWaWVBloKkNqFC-R38ON9tGGH903cveM7Rnd9wGayYdqgHyA59GaZH3ojEA_SJsZCI7zB-3FlF8zbk="
         }
       ]
     },
@@ -3174,9 +3250,15 @@
       "demandUnit": "tbpd",
       "coverDays": 122.5,
       "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
       "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。",
       "current": "按IEA库存与EIA近12个月需求均值估算，日本总油品库存可用天数约122.5天，对中东原油与成品油价波动具备较强缓冲。",
       "sources": [
+        {
+          "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
+        },
         {
           "label": "IEA Oil Information",
           "url": "https://www.iea.org/data-and-statistics/data-product/oil-information"
@@ -3184,14 +3266,32 @@
         {
           "label": "EIA International Data Browser",
           "url": "https://www.eia.gov/international/data/browser/"
-        },
-        {
-          "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
         }
-      ],
+      ]
+    },
+    {
+      "country": "Japan",
+      "market": "战略石油储备及商业库存",
+      "period": "2026年3月8日",
+      "status": "政府指示准备释放",
+      "levelValue": 440,
+      "levelUnit": "百万桶",
+      "changeValue": null,
+      "changeUnit": "",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": 200,
+      "potentialCoverDays": null,
       "potentialLevelValue": null,
-      "potentialLevelUnit": ""
+      "potentialLevelUnit": "",
+      "potentialReason": "日本政府已向国家石油储备基地发出准备指令，要求相关机构做好原油释放的技术与物流准备，以应对中东冲突对能源供应的冲击。 日本约95%原油进口依赖中东，且多数需经霍尔木兹海峡。",
+      "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可供约200天进口量。",
+      "sources": [
+        {
+          "label": "Trading Key",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
+        }
+      ]
     },
     {
       "country": "Korea",
@@ -3426,62 +3526,6 @@
         {
           "label": "NewsNow",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8ZRfeKptSMTrUrfP44URNn3_NBCaT9ComeBzQkAqOKXWveqmrfUFJRINrIb-A2nnfaho2orc1goBKvs6PAa_rwm2TrUyDjNxJbv-U9Vh1Qsu93beRpN0QSSZnDbLHesxSiUVBDdr7BRw0ag=="
-        }
-      ]
-    },
-    {
-      "country": "日本",
-      "market": "OECD总油品库存",
-      "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
-      "status": "基线观察",
-      "levelValue": 51455,
-      "levelUnit": "千吨",
-      "changeValue": 82,
-      "changeUnit": "千吨",
-      "demandValue": 3077.9,
-      "demandUnit": "tbpd",
-      "coverDays": 122.5,
-      "potentialCoverDays": null,
-      "potentialLevelValue": null,
-      "potentialLevelUnit": "",
-      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。",
-      "current": "按IEA库存与EIA近12个月需求均值估算，日本总油品库存可用天数约122.5天，对中东原油与成品油价波动具备较强缓冲。",
-      "sources": [
-        {
-          "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
-        },
-        {
-          "label": "IEA Oil Information",
-          "url": "https://www.iea.org/data-and-statistics/data-product/oil-information"
-        },
-        {
-          "label": "EIA International Data Browser",
-          "url": "https://www.eia.gov/international/data/browser/"
-        }
-      ]
-    },
-    {
-      "country": "日本",
-      "market": "战略石油储备及商业库存",
-      "period": "2026年3月8日",
-      "status": "政府指示准备释放",
-      "levelValue": 440,
-      "levelUnit": "百万桶",
-      "changeValue": null,
-      "changeUnit": "",
-      "demandValue": null,
-      "demandUnit": "",
-      "coverDays": 200,
-      "potentialCoverDays": null,
-      "potentialLevelValue": null,
-      "potentialLevelUnit": "",
-      "potentialReason": "日本政府已向国家石油储备基地发出准备指令，要求相关机构做好原油释放的技术与物流准备，以应对中东冲突对能源供应的冲击。 日本约95%原油进口依赖中东，且多数需经霍尔木兹海峡。",
-      "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可供约200天进口量。",
-      "sources": [
-        {
-          "label": "Trading Key",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         }
       ]
     }

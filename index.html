@@ -159,6 +159,14 @@
       line-height: 1.6;
       margin-bottom: 14px;
     }
+    .chart-scroll {
+      overflow-x: auto;
+      overflow-y: hidden;
+      padding-bottom: 6px;
+    }
+    .chart-scroll canvas {
+      min-width: 720px;
+    }
     .risk-card {
       margin-top: 16px;
       border: 1px solid #fecaca;
@@ -293,17 +301,17 @@
           <div class="card inventory-chart-card">
             <h3 id="inventoryLevelTitle">重点国家最新库存</h3>
             <div class="section-kicker" id="inventoryLevelMeta">单位与时间加载中...</div>
-            <canvas id="inventoryLevelChart"></canvas>
+            <div class="chart-scroll"><canvas id="inventoryLevelChart"></canvas></div>
           </div>
           <div class="card inventory-chart-card">
             <h3 id="inventoryCoverTitle">重点国家库存可用天数</h3>
             <div class="section-kicker" id="inventoryCoverMeta">口径加载中...</div>
-            <canvas id="inventoryCoverChart"></canvas>
+            <div class="chart-scroll"><canvas id="inventoryCoverChart"></canvas></div>
           </div>
           <div class="card inventory-chart-card inventory-chart-wide">
             <h3 id="inventoryRegionalTitle">区域合并库存 / 潜在变化</h3>
             <div class="section-kicker" id="inventoryRegionalMeta">单位与时间加载中...</div>
-            <canvas id="inventoryRegionalChart"></canvas>
+            <div class="chart-scroll"><canvas id="inventoryRegionalChart"></canvas></div>
           </div>
         </div>
         <div class="inventory-note">库存可用天数不是直接用“吨”除以“桶/天”。当前按 IEA 库存（千吨）先以 7.33 bbl/吨近似折算为千桶，再除以 EIA 近12个月平均需求（tbpd，千桶/日）得到估算天数。</div>
@@ -411,9 +419,57 @@
       'Canada': '加拿大',
       'North America': '北美'
     };
+    const inventoryCountryAliasMap = {
+      '美国': 'United States',
+      '英国': 'United Kingdom',
+      '法国': 'France',
+      '德国': 'Germany',
+      '意大利': 'Italy',
+      '日本': 'Japan',
+      '韩国': 'Korea',
+      '加拿大': 'Canada',
+      'OECD欧洲': 'OECD Europe'
+    };
 
     function fillSelect(selectEl, values) {
       selectEl.innerHTML = values.map(v => `<option value="${v}">${v}</option>`).join('');
+    }
+
+    function canonicalizeInventoryCountry(country) {
+      const text = `${country || ''}`.trim();
+      return inventoryCountryAliasMap[text] || text;
+    }
+
+    function mergeInventoryRecords(records) {
+      const merged = new Map();
+      records.forEach(item => {
+        if (!item || !item.country || !item.market) return;
+        const normalized = { ...item, country: canonicalizeInventoryCountry(item.country) };
+        const key = `${normalized.country}__${normalized.market}`;
+        const existing = merged.get(key);
+        if (!existing) {
+          merged.set(key, normalized);
+          return;
+        }
+        merged.set(key, {
+          ...existing,
+          ...normalized,
+          sources: Array.isArray(existing.sources) || Array.isArray(normalized.sources)
+            ? [...new Map([...(existing.sources || []), ...(normalized.sources || [])].filter(source => source && source.url).map(source => [source.url, source])).values()]
+            : (normalized.sources || existing.sources),
+        });
+      });
+      return Array.from(merged.values());
+    }
+
+    function inventoryAxisTicks() {
+      return {
+        autoSkip: false,
+        maxRotation: 24,
+        minRotation: 24,
+        padding: 6,
+        font: { size: 11 }
+      };
     }
 
     function getBadgeClass(status) {
@@ -661,7 +717,7 @@
           responsive: true,
           plugins: { legend: { display: true } },
           scales: {
-            x: { ticks: { maxRotation: 0, minRotation: 0 } },
+            x: { ticks: inventoryAxisTicks() },
             y: { beginAtZero: true, title: { display: true, text: '千吨' } }
           }
         }
@@ -702,7 +758,7 @@
           responsive: true,
           plugins: { legend: { display: true } },
           scales: {
-            x: { ticks: { maxRotation: 0, minRotation: 0 } },
+            x: { ticks: inventoryAxisTicks() },
             y: { beginAtZero: true, title: { display: true, text: '天' } }
           }
         }
@@ -753,7 +809,7 @@
           responsive: true,
           plugins: { legend: { display: true } },
           scales: {
-            x: { ticks: { maxRotation: 0, minRotation: 0 } },
+            x: { ticks: inventoryAxisTicks() },
             y: { beginAtZero: true, title: { display: true, text: '千吨' } }
           }
         }
@@ -854,7 +910,7 @@
         const payload = await res.json();
         data = payload.assets || [];
         timelineData = payload.timeline || [];
-        inventoryData = payload.inventories || [];
+        inventoryData = mergeInventoryRecords(payload.inventories || []);
         chemicalData = payload.chemicals || [];
         lastUpdated.textContent = payload.lastUpdated || '未提供';
         buildCoverageSummary();
