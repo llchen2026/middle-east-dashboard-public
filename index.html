@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>中东能源冲突影响看板</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #64748b;
+      --border: #e2e8f0;
+      --red-bg: #fef2f2;
+      --red-text: #b91c1c;
+      --amber-bg: #fffbeb;
+      --amber-text: #b45309;
+      --green-bg: #ecfdf5;
+      --green-text: #047857;
+      --slate-bg: #f1f5f9;
+      --slate-text: #475569;
+      --blue-bg: #eff6ff;
+      --blue-text: #1d4ed8;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .container { max-width: 1420px; margin: 0 auto; padding: 24px; }
+    .header { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+    .title { font-size: 32px; font-weight: 700; margin: 0; }
+    .subtitle, .scope { color: var(--muted); font-size: 14px; margin-top: 8px; }
+    .grid { display: grid; gap: 16px; }
+    .filters { grid-template-columns: 2fr 1fr 1fr 1fr; margin-bottom: 16px; }
+    .stats { grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
+    .summary-grid { grid-template-columns: 1.2fr 1fr 1.1fr 1.5fr; margin-bottom: 16px; }
+    .main { grid-template-columns: 1fr; margin-bottom: 16px; }
+    .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 18px; }
+    .card h3 { margin: 0 0 12px 0; font-size: 16px; }
+    .label { font-size: 12px; color: var(--muted); margin-bottom: 8px; display: block; }
+    input, select { width: 100%; border: 1px solid var(--border); background: #fff; border-radius: 12px; padding: 12px 14px; font-size: 14px; color: var(--text); outline: none; }
+    .stat-value { font-size: 30px; font-weight: 700; margin-top: 6px; }
+    .asset-list, .timeline-list { display: flex; flex-direction: column; gap: 12px; max-height: 780px; overflow: auto; padding-right: 4px; }
+    .asset-item, .timeline-item { border: 1px solid var(--border); border-radius: 18px; padding: 16px; background: #fff; }
+    .asset-top, .timeline-top { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
+    .asset-meta, .timeline-meta { color: var(--muted); font-size: 13px; margin-bottom: 4px; }
+    .asset-name, .timeline-title { font-size: 17px; font-weight: 600; }
+    .badge { padding: 7px 12px; border-radius: 999px; font-size: 12px; font-weight: 600; border: 1px solid transparent; white-space: nowrap; }
+    .badge.red { background: var(--red-bg); color: var(--red-text); border-color: #fecaca; }
+    .badge.amber { background: var(--amber-bg); color: var(--amber-text); border-color: #fde68a; }
+    .badge.green { background: var(--green-bg); color: var(--green-text); border-color: #a7f3d0; }
+    .badge.slate { background: var(--slate-bg); color: var(--slate-text); border-color: #cbd5e1; }
+    .badge.blue { background: var(--blue-bg); color: var(--blue-text); border-color: #bfdbfe; }
+    .asset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }
+    .mini { background: #f8fafc; border-radius: 14px; padding: 12px; }
+    .mini .mini-label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+    .mini .mini-value { font-size: 14px; line-height: 1.5; font-weight: 600; }
+    .mini .mini-text, .timeline-text { font-size: 14px; line-height: 1.6; color: #334155; }
+    .source-links { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+    .source-link { display: inline-flex; align-items: center; padding: 6px 10px; border: 1px solid var(--border); border-radius: 999px; background: #fff; color: #2563eb; text-decoration: none; font-size: 12px; font-weight: 600; }
+    .source-link:hover { background: #eff6ff; }
+    .summary-stack { display: flex; flex-direction: column; gap: 10px; }
+    .summary-chip { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; border-radius: 14px; background: #f8fafc; border: 1px solid var(--border); gap: 12px; }
+    .summary-chip-label { font-size: 13px; color: var(--muted); }
+    .summary-chip-value { font-size: 15px; font-weight: 700; }
+    .section-kicker { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+    .timeline-date { font-size: 13px; font-weight: 700; color: #1d4ed8; margin-bottom: 8px; }
+    .loading { padding: 24px; color: var(--muted); }
+    .error { padding: 24px; color: var(--red-text); }
+    ul.note-list { margin: 0; padding-left: 18px; color: #475569; line-height: 1.8; font-size: 14px; }
+    .chemical-list { display: flex; flex-direction: column; gap: 12px; }
+    .chemical-item { border: 1px solid var(--border); border-radius: 18px; padding: 14px; background: #fff; }
+    .chemical-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+    .chemical-name { font-size: 16px; font-weight: 600; }
+    .chemical-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 12px; }
+    canvas { width: 100% !important; height: 320px !important; }
+    @media (max-width: 1180px) {
+      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
+      .asset-grid, .chemical-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 720px) {
+      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr; }
+      .title { font-size: 26px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div>
+        <h1 class="title">中东能源冲突影响看板</h1>
+        <div class="subtitle" id="coverageSummary">覆盖时间与国家范围加载中...</div>
+        <div class="subtitle"><strong>最后更新时间：</strong><span id="lastUpdated">加载中...</span></div>
+      </div>
+      <div class="scope">范围：油田、气田、出口终端、LNG、炼厂、石化设施、重点化工原料</div>
+    </div>
+
+    <div class="grid filters">
+      <div class="card">
+        <label class="label" for="search">搜索设施或动态</label>
+        <input id="search" type="text" placeholder="搜索 哈格岛、Ras Laffan、Rumaila..." />
+      </div>
+      <div class="card">
+        <label class="label" for="countryFilter">国家</label>
+        <select id="countryFilter"></select>
+      </div>
+      <div class="card">
+        <label class="label" for="categoryFilter">类别</label>
+        <select id="categoryFilter"></select>
+      </div>
+      <div class="card">
+        <label class="label" for="statusFilter">状态</label>
+        <select id="statusFilter"></select>
+      </div>
+    </div>
+
+    <div class="grid stats">
+      <div class="card"><div class="label">资产总数</div><div class="stat-value" id="totalCount">0</div></div>
+      <div class="card"><div class="label">已受影响</div><div class="stat-value" id="affectedCount">0</div></div>
+      <div class="card"><div class="label">间接受限</div><div class="stat-value" id="indirectCount">0</div></div>
+      <div class="card"><div class="label">未确认直接受影响</div><div class="stat-value" id="noImpactCount">0</div></div>
+      <div class="card"><div class="label">情况不明 / 未确认</div><div class="stat-value" id="unknownCount">0</div></div>
+    </div>
+
+    <div class="grid summary-grid">
+      <div class="card">
+        <h3>直接 / 间接受影响汇总</h3>
+        <div class="section-kicker">按“已受影响”与“间接受限”拆分，原油统一按 kbpd、天然气统一按 mcm/d。</div>
+        <div class="summary-stack">
+          <div class="summary-chip"><span class="summary-chip-label">直接影响原油量</span><span class="summary-chip-value" id="directOilLoss">0 kbpd</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">间接影响原油量</span><span class="summary-chip-value" id="indirectOilLoss">0 kbpd</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">直接影响天然气量</span><span class="summary-chip-value" id="directGasLoss">0 mcm/d</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">间接影响天然气量</span><span class="summary-chip-value" id="indirectGasLoss">0 mcm/d</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">直接影响 LNG 液化</span><span class="summary-chip-value" id="directLngLoss">0 mtpa</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">间接影响 LNG 液化</span><span class="summary-chip-value" id="indirectLngLoss">0 mtpa</span></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>各国已受影响资产数量</h3>
+        <canvas id="countryChart"></canvas>
+      </div>
+      <div class="card">
+        <h3>各国明确受影响量（kbpd）</h3>
+        <canvas id="countryLossChart"></canvas>
+      </div>
+    </div>
+
+    <div class="grid main">
+      <div class="card">
+        <h3>近期事件时间线</h3>
+        <div class="timeline-list" id="timelineList"><div class="loading">加载中...</div></div>
+      </div>
+      <div class="card">
+        <h3>资产明细</h3>
+        <div class="asset-list" id="assetList"><div class="loading">加载中...</div></div>
+      </div>
+    </div>
+
+    <div class="grid chemicals-row">
+      <div class="card">
+        <h3>重点化工原料</h3>
+        <div class="section-kicker">甲醇、乙烷、LPG、石脑油等受冲突与出口约束影响的关键化工链条。</div>
+        <div class="chemical-list" id="chemicalList"><div class="loading">加载中...</div></div>
+      </div>
+    </div>
+
+    <div class="grid footer-grid">
+      <div class="card">
+        <h3>分类说明</h3>
+        <ul class="note-list">
+          <li>油田：上游原油生产资产</li>
+          <li>气田：上游天然气生产资产</li>
+          <li>出口终端 / LNG：原油终端、燃料终端、液化天然气液化与出口系统</li>
+          <li>炼厂 / 化工：炼油与石化资产</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>口径与数据补充说明</h3>
+        <ul class="note-list">
+          <li>原油 / 炼油统一按 kbpd 汇总，天然气统一按 mcm/d，LNG 统一按 mtpa</li>
+          <li>已受影响：已确认遭袭、关闭、撤人，或出现较明确运行中断</li>
+          <li>间接受限：主要因出口、物流、储存瓶颈而减产，但未确认核心设施本体被直接击中</li>
+          <li>未确认直接受影响：当前公开信息未见明确受袭或停产确认</li>
+          <li>若 Reuters 缺少数值，脚本会补查运营商、政府与行业来源</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const searchInput = document.getElementById('search');
+    const countryFilter = document.getElementById('countryFilter');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const statusFilter = document.getElementById('statusFilter');
+    const assetList = document.getElementById('assetList');
+    const timelineList = document.getElementById('timelineList');
+    const lastUpdated = document.getElementById('lastUpdated');
+    const coverageSummary = document.getElementById('coverageSummary');
+    const chemicalList = document.getElementById('chemicalList');
+
+    const totalCount = document.getElementById('totalCount');
+    const affectedCount = document.getElementById('affectedCount');
+    const indirectCount = document.getElementById('indirectCount');
+    const noImpactCount = document.getElementById('noImpactCount');
+    const unknownCount = document.getElementById('unknownCount');
+    const directOilLoss = document.getElementById('directOilLoss');
+    const indirectOilLoss = document.getElementById('indirectOilLoss');
+    const directGasLoss = document.getElementById('directGasLoss');
+    const indirectGasLoss = document.getElementById('indirectGasLoss');
+    const directLngLoss = document.getElementById('directLngLoss');
+    const indirectLngLoss = document.getElementById('indirectLngLoss');
+
+    let data = [];
+    let timelineData = [];
+    let chemicalData = [];
+    let chart;
+    let lossChart;
+
+    const unique = (arr) => ['全部', ...new Set(arr)];
+
+    function fillSelect(selectEl, values) {
+      selectEl.innerHTML = values.map(v => `<option value="${v}">${v}</option>`).join('');
+    }
+
+    function getBadgeClass(status) {
+      if (status === '已受影响') return 'badge red';
+      if (status === '间接受限') return 'badge amber';
+      if (status === '未确认直接受影响') return 'badge green';
+      return 'badge slate';
+    }
+
+    function getTimelineBadgeClass(type) {
+      if (type === '设施受袭' || type === '上游受损' || type === 'LNG停摆') return 'badge red';
+      if (type === '减产扩大' || type === '系统性约束') return 'badge amber';
+      return 'badge blue';
+    }
+
+    function getFilteredData() {
+      const q = searchInput.value.trim().toLowerCase();
+      return data.filter(item => {
+        const matchCountry = countryFilter.value === '全部' || item.country === countryFilter.value;
+        const matchCategory = categoryFilter.value === '全部' || item.category === categoryFilter.value;
+        const matchStatus = statusFilter.value === '全部' || item.status === statusFilter.value;
+        const matchQuery = !q || [item.country, item.category, item.facility, item.current].join(' ').toLowerCase().includes(q);
+        return matchCountry && matchCategory && matchStatus && matchQuery;
+      });
+    }
+
+    function sumImpact(items, type, status) {
+      return items
+        .filter(d => d.normalizedType === type && typeof d.normalizedValue === 'number' && d.status === status)
+        .reduce((sum, d) => sum + d.normalizedValue, 0);
+    }
+
+    function formatValue(value, digits = 0) {
+      return Number(value).toFixed(digits).replace(/\.0$/, '');
+    }
+
+    function buildCoverageSummary() {
+      const countries = [...new Set(data.map(item => item.country))];
+      const dates = timelineData.map(item => item.date).filter(Boolean).sort();
+      const dateRange = dates.length ? `${dates[0]}—${dates[dates.length - 1]}` : '时间范围待补充';
+      coverageSummary.textContent = `覆盖时间：${dateRange} · 国家：${countries.join('、') || '待补充'}`;
+    }
+
+    function renderStats(filtered) {
+      totalCount.textContent = filtered.length;
+      affectedCount.textContent = filtered.filter(d => d.status === '已受影响').length;
+      indirectCount.textContent = filtered.filter(d => d.status === '间接受限').length;
+      noImpactCount.textContent = filtered.filter(d => d.status === '未确认直接受影响').length;
+      unknownCount.textContent = filtered.filter(d => d.status === '情况不明 / 未确认').length;
+    }
+
+    function renderSummary(filtered) {
+      const directOil = sumImpact(filtered, 'oil', '已受影响');
+      const indirectOil = sumImpact(filtered, 'oil', '间接受限');
+      const directGas = sumImpact(filtered, 'gas', '已受影响');
+      const indirectGas = sumImpact(filtered, 'gas', '间接受限');
+      const directLng = sumImpact(filtered, 'lng', '已受影响');
+      const indirectLng = sumImpact(filtered, 'lng', '间接受限');
+      directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
+      indirectOilLoss.textContent = `${formatValue(indirectOil)} kbpd`;
+      directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
+      indirectGasLoss.textContent = `${formatValue(indirectGas)} mcm/d`;
+      directLngLoss.textContent = `${formatValue(directLng, 1)} mtpa`;
+      indirectLngLoss.textContent = `${formatValue(indirectLng, 1)} mtpa`;
+    }
+
+    function renderList(filtered) {
+      if (!filtered.length) {
+        assetList.innerHTML = '<div class="asset-item"><div class="asset-name">暂无匹配结果</div><div class="asset-meta">请调整筛选条件或搜索词。</div></div>';
+        return;
+      }
+      assetList.innerHTML = filtered.map(item => {
+        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        return `
+          <div class="asset-item">
+            <div class="asset-top">
+              <div>
+                <div class="asset-meta">${item.country} · ${item.category}</div>
+                <div class="asset-name">${item.facility}</div>
+              </div>
+              <div class="${getBadgeClass(item.status)}">${item.status}</div>
+            </div>
+            <div class="asset-grid">
+              <div class="mini">
+                <div class="mini-label">设计产能 / 产量</div>
+                <div class="mini-value">${item.designValue ?? '暂无'} ${item.designUnit}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">受影响产能 / 产量</div>
+                <div class="mini-value">${item.affectedValue ?? '暂无'} ${item.affectedUnit}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">当前动态</div>
+                <div class="mini-text">${item.current}</div>
+              </div>
+            </div>
+            ${sourceHtml}
+          </div>`;
+      }).join('');
+    }
+
+    function renderTimeline() {
+      timelineList.innerHTML = timelineData.map(item => {
+        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        return `
+          <div class="timeline-item">
+            <div class="timeline-date">${item.date}</div>
+            <div class="timeline-top">
+              <div><div class="timeline-title">${item.title}</div></div>
+              <div class="${getTimelineBadgeClass(item.type)}">${item.type}</div>
+            </div>
+            <div class="timeline-text" style="margin-top:10px;">${item.text}</div>
+            ${sourceHtml}
+          </div>`;
+      }).join('');
+    }
+
+    function renderChemicals() {
+      if (!chemicalData.length) {
+        chemicalList.innerHTML = '<div class="chemical-item"><div class="chemical-name">暂无重点化工原料数据</div><div class="asset-meta">等待后续自动更新补充甲醇、乙烷等品类。</div></div>';
+        return;
+      }
+
+      chemicalList.innerHTML = chemicalData.map(item => {
+        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        return `
+          <div class="chemical-item">
+            <div class="chemical-top">
+              <div>
+                <div class="asset-meta">${item.country} · ${item.hub}</div>
+                <div class="chemical-name">${item.product}</div>
+              </div>
+              <div class="${getBadgeClass(item.status)}">${item.status}</div>
+            </div>
+            <div class="chemical-grid">
+              <div class="mini">
+                <div class="mini-label">直接影响量</div>
+                <div class="mini-value">${item.directImpactValue ?? '暂无'} ${item.directImpactUnit || ''}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">间接影响量</div>
+                <div class="mini-value">${item.indirectImpactValue ?? '暂无'} ${item.indirectImpactUnit || ''}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">当前动态</div>
+                <div class="mini-text">${item.current}</div>
+              </div>
+            </div>
+            ${sourceHtml}
+          </div>`;
+      }).join('');
+    }
+
+    function renderChart(filtered) {
+      const byCountry = {};
+      filtered.forEach(item => {
+        if (!byCountry[item.country]) byCountry[item.country] = 0;
+        if (item.status === '已受影响') byCountry[item.country] += 1;
+      });
+      const labels = Object.keys(byCountry);
+      const values = Object.values(byCountry);
+      const ctx = document.getElementById('countryChart').getContext('2d');
+      if (chart) chart.destroy();
+      chart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: '已受影响资产数量', data: values, backgroundColor: '#3b82f6', borderRadius: 8 }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+      });
+    }
+
+    function renderLossChart(filtered) {
+      const byCountry = {};
+      filtered.forEach(item => {
+        if (item.normalizedType !== 'oil' || typeof item.normalizedValue !== 'number' || item.status !== '已受影响') return;
+        if (!byCountry[item.country]) byCountry[item.country] = 0;
+        byCountry[item.country] += item.normalizedValue;
+      });
+      const labels = Object.keys(byCountry);
+      const values = Object.values(byCountry);
+      const ctx = document.getElementById('countryLossChart').getContext('2d');
+      if (lossChart) lossChart.destroy();
+      lossChart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: '明确受影响量（kbpd）', data: values, backgroundColor: '#ef4444', borderRadius: 8 }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+      });
+    }
+
+    function renderAll() {
+      const filtered = getFilteredData();
+      renderStats(filtered);
+      renderSummary(filtered);
+      renderList(filtered);
+      renderTimeline();
+      renderChemicals();
+      renderChart(filtered);
+      renderLossChart(filtered);
+    }
+
+    async function init() {
+      try {
+        const res = await fetch('./data.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const payload = await res.json();
+        data = payload.assets || [];
+        timelineData = payload.timeline || [];
+        chemicalData = payload.chemicals || [];
+        lastUpdated.textContent = payload.lastUpdated || '未提供';
+        buildCoverageSummary();
+        fillSelect(countryFilter, unique(data.map(d => d.country)));
+        fillSelect(categoryFilter, unique(data.map(d => d.category)));
+        fillSelect(statusFilter, unique(data.map(d => d.status)));
+        renderAll();
+      } catch (err) {
+        assetList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
+        timelineList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
+        chemicalList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
+        lastUpdated.textContent = '读取失败';
+        coverageSummary.textContent = '覆盖范围读取失败';
+      }
+    }
+
+    [searchInput, countryFilter, categoryFilter, statusFilter].forEach(el => {
+      el.addEventListener('input', renderAll);
+      el.addEventListener('change', renderAll);
+    });
+
+    init();
+  </script>
+</body>
+</html>
