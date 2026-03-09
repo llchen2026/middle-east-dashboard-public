@@ -85,8 +85,8 @@
     .badge.green { background: var(--green-bg); color: var(--green-text); border-color: #a7f3d0; }
     .badge.slate { background: var(--slate-bg); color: var(--slate-text); border-color: #cbd5e1; }
     .badge.blue { background: var(--blue-bg); color: var(--blue-text); border-color: #bfdbfe; }
-    .asset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; }
-    .mini { background: #f8fafc; border-radius: 14px; padding: 12px; }
+    .asset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 14px; align-items: start; }
+    .mini { background: #f8fafc; border-radius: 14px; padding: 12px; align-self: start; }
     .mini .mini-label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
     .mini .mini-value { font-size: 14px; line-height: 1.5; font-weight: 600; }
     .mini .mini-text, .timeline-text { font-size: 14px; line-height: 1.6; color: #334155; }
@@ -124,7 +124,7 @@
     .chemical-item { border: 1px solid var(--border); border-radius: 18px; padding: 14px; background: #fff; }
     .chemical-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
     .chemical-name { font-size: 16px; font-weight: 600; }
-    .chemical-grid { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 12px; }
+    .chemical-grid { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 12px; align-items: start; }
     canvas { width: 100% !important; height: 320px !important; }
     @media (max-width: 1180px) {
       .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
