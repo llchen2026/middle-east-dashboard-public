@@ -267,6 +267,25 @@
 
     <div class="grid chemicals-row">
       <div class="card">
+        <h3>重点原油库存总表</h3>
+        <div class="section-kicker">美国、欧洲、日韩、新加坡、中国台湾等原油库存水平、变化与对现货平衡的影响。</div>
+        <div class="summary-grid" style="margin-bottom: 18px;">
+          <div class="card">
+            <h3>重点国家最新库存</h3>
+            <canvas id="inventoryLevelChart"></canvas>
+          </div>
+          <div class="card">
+            <h3>重点国家库存可用天数</h3>
+            <canvas id="inventoryCoverChart"></canvas>
+          </div>
+          <div class="card">
+            <h3>区域合并库存 / 潜在变化</h3>
+            <canvas id="inventoryRegionalChart"></canvas>
+          </div>
+        </div>
+        <div class="chemical-panel" style="margin-bottom: 18px;">
+          <div class="chemical-list" id="inventoryList"><div class="loading">加载中...</div></div>
+        </div>
         <h3>重点化工原料</h3>
         <div class="section-kicker">甲醇、乙烷、LPG、石脑油等受冲突与出口约束影响的关键化工链条。</div>
         <div class="chemical-panel">
@@ -312,6 +331,10 @@
     const timelineList = document.getElementById('timelineList');
     const lastUpdated = document.getElementById('lastUpdated');
     const coverageSummary = document.getElementById('coverageSummary');
+    const inventoryList = document.getElementById('inventoryList');
+    const inventoryLevelChartEl = document.getElementById('inventoryLevelChart');
+    const inventoryCoverChartEl = document.getElementById('inventoryCoverChart');
+    const inventoryRegionalChartEl = document.getElementById('inventoryRegionalChart');
     const chemicalList = document.getElementById('chemicalList');
 
     const totalCount = document.getElementById('totalCount');
@@ -328,9 +351,13 @@
 
     let data = [];
     let timelineData = [];
+    let inventoryData = [];
     let chemicalData = [];
     let chart;
     let lossChart;
+    let inventoryLevelChart;
+    let inventoryCoverChart;
+    let inventoryRegionalChart;
     const blockedSourcePatterns = [
       /股吧/i, /东方财富/i, /新浪财经/i, /南方财经/i,
       /小小天下/i, /网易/i, /澳广视/i, /世界新聞網/i, /WTF/i, /中东战事日益加剧/i,
@@ -510,6 +537,168 @@
       }).join('');
     }
 
+    function renderInventories() {
+      if (!inventoryData.length) {
+        inventoryList.innerHTML = '<div class="chemical-item"><div class="chemical-name">暂无原油库存数据</div><div class="asset-meta">等待后续自动更新补充各国或地区库存变动。</div></div>';
+        return;
+      }
+
+      inventoryList.innerHTML = inventoryData.map(item => {
+        const sourceHtml = renderSourceGroup(item.sources, '数据来源');
+        return `
+          <div class="chemical-item">
+            <div class="chemical-top">
+              <div>
+                <div class="asset-meta">${item.country} · ${item.market}</div>
+                <div class="chemical-name">${item.period}</div>
+              </div>
+              <div class="${getBadgeClass(item.status)}">${item.status}</div>
+            </div>
+            <div class="chemical-grid">
+              <div class="mini">
+                <div class="mini-label">库存水平</div>
+                <div class="mini-value">${item.levelValue ?? '暂无'} ${item.levelUnit || ''}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">较前值变化</div>
+                <div class="mini-value">${item.changeValue ?? '暂无'} ${item.changeUnit || ''}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">12个月平均需求</div>
+                <div class="mini-value">${item.demandValue ?? '暂无'} ${item.demandUnit || ''}</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">库存可用天数</div>
+                <div class="mini-value">${item.coverDays ?? '暂无'} 天</div>
+              </div>
+              <div class="mini">
+                <div class="mini-label">当前解读</div>
+                <div class="mini-text">${item.current}</div>
+              </div>
+            </div>
+            ${sourceHtml}
+          </div>`;
+      }).join('');
+    }
+
+    function renderInventoryLevelChart() {
+      const focusOrder = ['OECD Europe', 'Germany', 'France', 'Italy', 'United Kingdom', 'Japan', 'Korea', 'United States', 'Canada'];
+      const focused = focusOrder
+        .map(country => inventoryData.find(item => item.country === country && typeof item.levelValue === 'number'))
+        .filter(Boolean);
+      const ctx = inventoryLevelChartEl.getContext('2d');
+      if (inventoryLevelChart) inventoryLevelChart.destroy();
+      inventoryLevelChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: focused.map(item => item.country),
+          datasets: [{
+            label: '最新库存',
+            data: focused.map(item => item.levelValue),
+            backgroundColor: '#0f766e',
+            borderRadius: 10
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: true } },
+          scales: {
+            y: { beginAtZero: true, title: { display: true, text: '千吨' } }
+          }
+        }
+      });
+    }
+
+    function renderInventoryCoverChart() {
+      const focusOrder = ['OECD Europe', 'Germany', 'France', 'Italy', 'United Kingdom', 'Japan', 'Korea', 'United States', 'Canada'];
+      const focused = focusOrder
+        .map(country => inventoryData.find(item => item.country === country && typeof item.coverDays === 'number'))
+        .filter(Boolean);
+      const labels = focused.map(item => item.country);
+      const currentValues = focused.map(item => item.coverDays);
+      const potentialValues = focused.map(item => typeof item.potentialCoverDays === 'number' ? item.potentialCoverDays : null);
+      const hasPotential = potentialValues.some(value => typeof value === 'number');
+      const ctx = inventoryCoverChartEl.getContext('2d');
+      if (inventoryCoverChart) inventoryCoverChart.destroy();
+      inventoryCoverChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [
+            {
+              label: '当前库存可用天数',
+              data: currentValues,
+              backgroundColor: '#1d4ed8',
+              borderRadius: 10
+            },
+            ...(hasPotential ? [{
+              label: '潜在变化后可用天数',
+              data: potentialValues,
+              backgroundColor: '#f59e0b',
+              borderRadius: 10
+            }] : [])
+          ]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: true } },
+          scales: {
+            y: { beginAtZero: true, title: { display: true, text: '天' } }
+          }
+        }
+      });
+    }
+
+    function renderInventoryRegionalChart() {
+      const regionMap = {
+        '北美': ['United States', 'Canada'],
+        '欧洲': ['OECD Europe'],
+        '东北亚': ['Japan', 'Korea']
+      };
+      const labels = Object.keys(regionMap);
+      const currentValues = labels.map(label => regionMap[label]
+        .map(country => inventoryData.find(item => item.country === country && typeof item.levelValue === 'number'))
+        .filter(Boolean)
+        .reduce((sum, item) => sum + item.levelValue, 0));
+      const potentialValues = labels.map(label => {
+        const values = regionMap[label]
+          .map(country => inventoryData.find(item => item.country === country && typeof item.potentialLevelValue === 'number'))
+          .filter(Boolean);
+        if (!values.length) return null;
+        return values.reduce((sum, item) => sum + item.potentialLevelValue, 0);
+      });
+      const hasPotential = potentialValues.some(value => typeof value === 'number');
+      const ctx = inventoryRegionalChartEl.getContext('2d');
+      if (inventoryRegionalChart) inventoryRegionalChart.destroy();
+      inventoryRegionalChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [
+            {
+              label: '当前区域合并库存',
+              data: currentValues,
+              backgroundColor: '#334155',
+              borderRadius: 10
+            },
+            ...(hasPotential ? [{
+              label: '潜在变化后库存',
+              data: potentialValues,
+              backgroundColor: '#f59e0b',
+              borderRadius: 10
+            }] : [])
+          ]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: true } },
+          scales: {
+            y: { beginAtZero: true, title: { display: true, text: '千吨' } }
+          }
+        }
+      });
+    }
+
     function renderChemicals() {
       if (!chemicalData.length) {
         chemicalList.innerHTML = '<div class="chemical-item"><div class="chemical-name">暂无重点化工原料数据</div><div class="asset-meta">等待后续自动更新补充甲醇、乙烷等品类。</div></div>';
@@ -587,6 +776,10 @@
       renderSummary(filtered);
       renderList(filtered);
       renderTimeline();
+      renderInventories();
+      renderInventoryLevelChart();
+      renderInventoryCoverChart();
+      renderInventoryRegionalChart();
       renderChemicals();
       renderChart(filtered);
       renderLossChart(filtered);
@@ -599,6 +792,7 @@
         const payload = await res.json();
         data = payload.assets || [];
         timelineData = payload.timeline || [];
+        inventoryData = payload.inventories || [];
         chemicalData = payload.chemicals || [];
         lastUpdated.textContent = payload.lastUpdated || '未提供';
         buildCoverageSummary();
@@ -609,6 +803,7 @@
       } catch (err) {
         assetList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
         timelineList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
+        inventoryList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
         chemicalList.innerHTML = `<div class="error">读取 data.json 失败：${err.message}</div>`;
         lastUpdated.textContent = '读取失败';
         coverageSummary.textContent = '覆盖范围读取失败';
