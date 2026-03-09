@@ -105,6 +105,7 @@
     .mini-design { grid-area: design; }
     .mini-affected { grid-area: affected; }
     .mini-current { grid-area: current; }
+    .mini-products { grid-column: 1 / -1; }
     .mini .mini-label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
     .mini .mini-value { font-size: 14px; line-height: 1.5; font-weight: 600; }
     .mini .mini-text, .timeline-text { font-size: 14px; line-height: 1.6; color: #334155; }
@@ -420,6 +421,9 @@
           renderSourceGroup(item.sources, '事件来源'),
           renderSourceGroup(item.baselineSources, '背景 / 产能来源')
         ].join('');
+        const productHtml = item.products?.length
+          ? `<div class="mini mini-products"><div class="mini-label">主要产品 / 涉及品种</div><div class="mini-text">${item.products.join('、')}</div></div>`
+          : '';
         return `
           <div class="asset-item">
             <div class="asset-top">
@@ -442,6 +446,7 @@
                 <div class="mini-label">当前动态</div>
                 <div class="mini-text">${item.current}</div>
               </div>
+              ${productHtml}
             </div>
             ${sourceHtml}
           </div>`;
