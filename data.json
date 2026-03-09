@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 02:09（北京时间）",
+  "lastUpdated": "2026-03-10 03:11（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -74,7 +74,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能中断。3月8日德黑兰出现黑色\"石油雨\"，显示影响持续。伊朗谴责美以袭击其能源基础设施为\"蓄意化学战争\"。",
+      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能中断。3月8日德黑兰出现黑色\"石油雨\"，显示影响持续。伊朗外交部当日谴责美以袭击伊能源基础设施为\"蓄意化学战争\"。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -653,7 +653,7 @@
       "normalizedType": "oil",
       "normalizedValue": 448,
       "status": "部分停运",
-      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。3月9日巴林Bapco能源公司宣布遭遇不可抗力。",
+      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。3月5日，BAPCO因中东冲突关闭日产44.8万桶的两套原油装置。3月9日巴林Bapco能源公司宣布遭遇不可抗力。",
       "sources": [
         {
           "label": "TVBS - LINE TODAY",
@@ -2944,6 +2944,30 @@
       "potentialLevelUnit": ""
     },
     {
+      "country": "China",
+      "market": "商业和战略原油库存",
+      "period": "2025年末 / 2026年2月",
+      "status": "高位库存 / 潜在去库存",
+      "levelValue": 1.13,
+      "levelUnit": "十亿桶",
+      "changeValue": null,
+      "changeUnit": "",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": null,
+      "potentialCoverDays": 96,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "中国拥有大量原油库存，可覆盖96-183天的2024年进口量，并在中东冲突期间指示炼厂减少加工量并可能动用库存以替代进口。",
+      "current": "截至2025年末，中国陆上原油库存（不含地下储油）约达11.3亿桶，创历史新高。2026年2月，约1.27亿桶伊朗原油位于亚洲东部水域，为中国提供额外战略缓冲。",
+      "sources": [
+        {
+          "label": "IEA Oil Market Report",
+          "url": "https://www.iea.org/"
+        }
+      ]
+    },
+    {
       "country": "France",
       "market": "OECD总油品库存",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
@@ -2959,7 +2983,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "",
-      "current": "按IEA库存与EIA近12个月需求均值估算，法国总油品库存可用天数约35.2天，缓冲低于德国与日本。",
+      "current": "按IEA库存与EIA近12个月需求均值估算，法国总油品库存可用天数约35.2天，缓冲低于德国和日本。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -2974,8 +2998,8 @@
     {
       "country": "G7",
       "market": "战略石油储备",
-      "period": "2026-03-08",
-      "status": "潜在释放",
+      "period": "2026-03-09",
+      "status": "已授权释放",
       "levelValue": null,
       "levelUnit": "",
       "changeValue": null,
@@ -2986,12 +3010,20 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "3月8日，G7正在权衡战略石油储备的释放，以应对中东冲突导致的油价飙升。",
-      "current": "G7正在讨论释放战略石油储备以稳定市场。",
+      "potentialReason": "3月9日，G7财长和IEA领导人召开紧急会议，授权协调释放3亿至4亿桶全球战略石油储备，以应对中东冲突导致的油价飙升。",
+      "current": "G7已授权协调释放3亿至4亿桶战略石油储备以稳定市场。",
       "sources": [
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bDMpIBMRjzozoCAGsZUGMLfooIOTyU3ykbhwFmVxvURJdu4dyIIHmKQjcI6PfukDAnjAgHhmlkg46viUFidM0TBmQ91lEP1F6sEE5koznf2Rl9u2D0SRl6LlOdMUbEU8UAU0-eUc-M6tIy7Y6k_Pr1Urd1tuYY90OqE="
+        },
+        {
+          "label": "G7 & IEA Convene Emergency Meeting to Release Strategic Reserves - Markets & Stocks",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuX32GMp5x8Wnu2452eu9pEwb-vJuZCObZktHffL6dF9TtrYBSIiCT1rnI39MiiEWo3LyPyhjjmVlQpvprjHXJWtii0qZSddnywUzytk14IrDgA_arKFHksUNsf810qtVPMqd81ZgPDUulKAiLZd4xpOgWZih0p0rzNWY51Dc7tmPbDlPfQ8f2v8DIbH3IJuoOW54rGtEDIPstAgsWwDqZ6z_8B2TKoiR4W3DQyOU5lwSvLXAW5seG62QEWGai0A_piYuQxhxxPntRp6_mgiC42g=="
+        },
+        {
+          "label": "Global Markets Shaken as Strait of Hormuz Blockade Chokes 20% of World Oil Supply - Valley City Times-Record",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF3zPwJlSGmbzpGZTwYRcgdPJnLJL-3g-9u3PylvLh_AFcdTcfJjkBNihkvKcngZ3qTjx_OXOgO1ZzlRFXMT7wOCp4fjFOV-56W_knUG5T2QdScFDLY7AHxKHIn-avjVdDm1RH1eCxKJz3ihDIyu8sEeZcYtP1BVRkv4Y6dfrvougKV5g-pOvj216OwEa0OFS6DcybXN34rrHGgUkUkQTYE2kbWQP9jxYuHQpcXu4qM764pyM75pu5GYPkE2H0Cir56Nya8RxFh-2J2XsDxaQpsj5_D-faq_o="
         }
       ]
     },
@@ -3064,8 +3096,8 @@
       "demandUnit": "tbpd",
       "coverDays": 122.5,
       "potentialCoverDays": null,
-      "potentialReason": "",
-      "current": "按IEA库存与EIA近12个月需求均值估算，日本总油品库存可用天数约122.5天，对中东原油与成品油波动具备较强缓冲。",
+      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。",
+      "current": "按IEA库存与EIA近12个月需求均值估算，日本总油品库存可用天数约122.5天，对中东原油与成品油价波动具备较强缓冲。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -3074,6 +3106,10 @@
         {
           "label": "EIA International Data Browser",
           "url": "https://www.eia.gov/international/data/browser/"
+        },
+        {
+          "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
         }
       ],
       "potentialLevelValue": null,
@@ -3179,7 +3215,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "",
-      "current": "按IEA库存与EIA近12个月需求均值估算，英国总油品库存可用天数约20.2天，在重点经济体中偏低。",
+      "current": "按IEA库存与EIA近12个月需求均值估算，英国总油品库存可用天数约20.2天，在主要发达经济体中偏低。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -3220,6 +3256,54 @@
       "potentialLevelUnit": ""
     },
     {
+      "country": "United States",
+      "market": "商业原油库存",
+      "period": "2026-02-27 EIA数据",
+      "status": "库存增加",
+      "levelValue": 439.3,
+      "levelUnit": "百万桶",
+      "changeValue": 3.475,
+      "changeUnit": "百万桶",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": null,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "",
+      "current": "截至2026年2月27日当周，美国商业原油库存增加347.5万桶至4.393亿桶，高于预期。",
+      "sources": [
+        {
+          "label": "U.S. Energy Information Administration (EIA)",
+          "url": "https://www.eia.gov/"
+        }
+      ]
+    },
+    {
+      "country": "United States",
+      "market": "战略石油储备",
+      "period": "2026-02-27",
+      "status": "库存增加",
+      "levelValue": 415.441,
+      "levelUnit": "百万桶",
+      "changeValue": 0.229,
+      "changeUnit": "百万桶",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": null,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "",
+      "current": "截至2026年2月27日，美国战略石油储备增至4.15441亿桶。",
+      "sources": [
+        {
+          "label": "U.S. Energy Information Administration (EIA)",
+          "url": "https://www.eia.gov/"
+        }
+      ]
+    },
+    {
       "country": "日本",
       "market": "OECD总油品库存",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
@@ -3240,6 +3324,14 @@
         {
           "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
+        },
+        {
+          "label": "IEA Oil Information",
+          "url": "https://www.iea.org/data-and-statistics/data-product/oil-information"
+        },
+        {
+          "label": "EIA International Data Browser",
+          "url": "https://www.eia.gov/international/data/browser/"
         }
       ]
     }
