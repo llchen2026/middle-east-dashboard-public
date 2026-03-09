@@ -39,17 +39,43 @@
     .grid { display: grid; gap: 16px; }
     .filters { grid-template-columns: 2fr 1fr 1fr 1fr; margin-bottom: 16px; }
     .stats { grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
-    .summary-grid { grid-template-columns: 1.2fr 1fr 1.1fr 1.5fr; margin-bottom: 16px; }
-    .main { grid-template-columns: 1fr 1fr; align-items: start; margin-bottom: 16px; }
-    .main > .card { min-height: 1040px; display: flex; flex-direction: column; }
-    .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
+    .summary-grid { grid-template-columns: 1.2fr 1.1fr 1.5fr; margin-bottom: 16px; }
+    .main { grid-template-columns: 1fr; margin-bottom: 16px; }
+    .chemicals-row { grid-template-columns: 1fr; }
+    .footer-grid { grid-template-columns: 1fr 1fr; }
     .card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 18px; }
     .card h3 { margin: 0 0 12px 0; font-size: 16px; }
     .label { font-size: 12px; color: var(--muted); margin-bottom: 8px; display: block; }
     input, select { width: 100%; border: 1px solid var(--border); background: #fff; border-radius: 12px; padding: 12px 14px; font-size: 14px; color: var(--text); outline: none; }
     .stat-value { font-size: 30px; font-weight: 700; margin-top: 6px; }
-    .asset-list, .timeline-list { display: flex; flex-direction: column; gap: 12px; flex: 1; min-height: 0; overflow: auto; padding-right: 4px; }
+    .paired-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: stretch; }
+    .paired-col { display: flex; flex-direction: column; gap: 12px; min-width: 0; min-height: 0; }
+    .paired-panel {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: #fff;
+      padding: 14px;
+      height: clamp(960px, 72vh, 1320px);
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+    }
+    .panel-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: #334155;
+      margin: 0 0 12px 0;
+    }
+    .asset-list, .timeline-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 0;
+      overflow: auto;
+      padding-right: 4px;
+    }
     .asset-item, .timeline-item { border: 1px solid var(--border); border-radius: 18px; padding: 16px; background: #fff; }
+    .asset-item, .timeline-item { min-height: 280px; }
     .asset-top, .timeline-top { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
     .asset-meta, .timeline-meta { color: var(--muted); font-size: 13px; margin-bottom: 4px; }
     .asset-name, .timeline-title { font-size: 17px; font-weight: 600; }
@@ -77,20 +103,35 @@
     .error { padding: 24px; color: var(--red-text); }
     ul.note-list { margin: 0; padding-left: 18px; color: #475569; line-height: 1.8; font-size: 14px; }
     .chemical-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+    .chemical-panel {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: #fff;
+      padding: 14px;
+      height: clamp(520px, 48vh, 860px);
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+    }
+    .chemical-list {
+      min-height: 0;
+      overflow: auto;
+      padding-right: 4px;
+      align-content: start;
+    }
     .chemical-item { border: 1px solid var(--border); border-radius: 18px; padding: 14px; background: #fff; }
     .chemical-top { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
     .chemical-name { font-size: 16px; font-weight: 600; }
     .chemical-grid { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 12px; }
     canvas { width: 100% !important; height: 320px !important; }
     @media (max-width: 1180px) {
-      .filters, .stats, .summary-grid, .main, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
-      .main > .card { min-height: 920px; }
+      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
+      .paired-grid { grid-template-columns: 1fr; }
       .chemical-list { grid-template-columns: 1fr 1fr; }
       .asset-grid, .chemical-grid { grid-template-columns: 1fr; }
     }
     @media (max-width: 720px) {
-      .filters, .stats, .summary-grid, .main, .chemicals-row, .footer-grid { grid-template-columns: 1fr; }
-      .main > .card { min-height: auto; }
+      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr; }
       .chemical-list { grid-template-columns: 1fr; }
       .title { font-size: 26px; }
     }
@@ -159,12 +200,21 @@
 
     <div class="grid main">
       <div class="card">
-        <h3>近期事件时间线</h3>
-        <div class="timeline-list" id="timelineList"><div class="loading">加载中...</div></div>
-      </div>
-      <div class="card">
-        <h3>资产明细</h3>
-        <div class="asset-list" id="assetList"><div class="loading">加载中...</div></div>
+        <h3>近期事件时间线 / 资产明细</h3>
+        <div class="paired-grid">
+          <div class="paired-col">
+            <div class="paired-panel">
+              <div class="panel-title">近期事件时间线</div>
+              <div class="timeline-list" id="timelineList"><div class="loading">加载中...</div></div>
+            </div>
+          </div>
+          <div class="paired-col">
+            <div class="paired-panel">
+              <div class="panel-title">资产明细</div>
+              <div class="asset-list" id="assetList"><div class="loading">加载中...</div></div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -172,7 +222,9 @@
       <div class="card">
         <h3>重点化工原料</h3>
         <div class="section-kicker">甲醇、乙烷、LPG、石脑油等受冲突与出口约束影响的关键化工链条。</div>
-        <div class="chemical-list" id="chemicalList"><div class="loading">加载中...</div></div>
+        <div class="chemical-panel">
+          <div class="chemical-list" id="chemicalList"><div class="loading">加载中...</div></div>
+        </div>
       </div>
     </div>
 
