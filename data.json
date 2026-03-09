@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09 21:13（北京时间）",
+  "lastUpdated": "2026-03-09 21:16（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -1313,6 +1313,26 @@
       ],
       "designValue": 200,
       "designUnit": "kbpd",
+      "sources": [],
+      "baselineSources": []
+    },
+    {
+      "country": "马来西亚",
+      "category": "炼厂",
+      "facility": "PRefChem (边佳兰炼油公司)",
+      "designValue": 300000,
+      "designUnit": "桶/日",
+      "affectedValue": 150000,
+      "affectedUnit": "桶/日",
+      "normalizedType": "oil",
+      "normalizedValue": 150000,
+      "products": [
+        "汽油",
+        "柴油",
+        "航空燃油"
+      ],
+      "status": "运行受限/部分装置检修",
+      "current": "边佳兰炼油厂一套7万桶/日的汽油生产装置（RFCC）于2月初意外停产检修至4月，导致整体产能降至约50%，2月和3月汽柴油出口量相应减少。",
       "sources": [],
       "baselineSources": []
     }
