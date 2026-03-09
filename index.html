@@ -91,6 +91,8 @@
     .mini .mini-value { font-size: 14px; line-height: 1.5; font-weight: 600; }
     .mini .mini-text, .timeline-text { font-size: 14px; line-height: 1.6; color: #334155; }
     .source-links { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+    .source-group { margin-top: 12px; }
+    .source-group-label { font-size: 12px; color: var(--muted); margin-bottom: 8px; }
     .source-link { display: inline-flex; align-items: center; padding: 6px 10px; border: 1px solid var(--border); border-radius: 999px; background: #fff; color: #2563eb; text-decoration: none; font-size: 12px; font-weight: 600; }
     .source-link:hover { background: #eff6ff; }
     .summary-stack { display: flex; flex-direction: column; gap: 10px; }
@@ -320,6 +322,15 @@
       return Number(value).toFixed(digits).replace(/\.0$/, '');
     }
 
+    function renderSourceGroup(sources, label) {
+      if (!sources?.length) return '';
+      return `
+        <div class="source-group">
+          <div class="source-group-label">${label}</div>
+          <div class="source-links">${sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>
+        </div>`;
+    }
+
     function buildCoverageSummary() {
       const countries = [...new Set(data.map(item => item.country))];
       const dates = timelineData.map(item => item.date).filter(Boolean).sort();
@@ -356,7 +367,10 @@
         return;
       }
       assetList.innerHTML = filtered.map(item => {
-        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        const sourceHtml = [
+          renderSourceGroup(item.sources, '事件来源'),
+          renderSourceGroup(item.baselineSources, '背景 / 产能来源')
+        ].join('');
         return `
           <div class="asset-item">
             <div class="asset-top">
@@ -387,7 +401,7 @@
 
     function renderTimeline() {
       timelineList.innerHTML = timelineData.map(item => {
-        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        const sourceHtml = renderSourceGroup(item.sources, '事件来源');
         return `
           <div class="timeline-item">
             <div class="timeline-date">${item.date}</div>
@@ -408,7 +422,7 @@
       }
 
       chemicalList.innerHTML = chemicalData.map(item => {
-        const sourceHtml = item.sources?.length ? `<div class="source-links">${item.sources.map(src => `<a class="source-link" href="${src.url}" target="_blank" rel="noopener noreferrer">${src.label}</a>`).join('')}</div>` : '';
+        const sourceHtml = renderSourceGroup(item.sources, '事件来源');
         return `
           <div class="chemical-item">
             <div class="chemical-top">
