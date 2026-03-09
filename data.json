@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-03-09 19:26（北京时间）",
+  "lastUpdated": "2026-03-09 19:47（北京时间）",
   "assets": [
     {
       "country": "伊朗",
       "category": "出口终端 / LNG",
       "facility": "哈格岛原油出口终端",
       "designValue": 3300,
-      "designUnit": "kbpd关联出口基数",
+      "designUnit": "暂无",
       "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
+      "affectedUnit": "暂无",
+      "normalizedType": "lng",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "伊朗原油出口重要枢纽哈尔克岛附近发生爆炸，部分产能临时中断。3月7日，以色列对德黑兰燃油存储设施发动袭击，德黑兰南部一座炼油厂及卡拉季地区三处油库遭轰炸。",
+      "current": "伊朗原油出口重要枢纽哈尔克岛附近发生爆炸，部分产能临时中断。3月7日，以色列对德黑兰燃油储存设施发动袭击，德黑兰南部一座炼油厂及卡拉季地区三处油库遭轰炸。3月8日，德黑兰上空出现黑色\"石油雨\"，显示袭击影响持续。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -41,6 +41,14 @@
         {
           "label": "据伊朗迈赫尔通讯社：伊朗方面表示，炼油厂本身并未受到攻击，但旁边的一个油库遭到了袭击。",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_n7GZibyfa2TOuLHbDD_-MmVKyqvWR74UsBqfb5G8aKtAPfepA2HII_OiAMEoiwIC-vj5HTEjDIZ_WA050S1YwqWidkkSXkC-nu3AB5HMwDMjpVHNSGlzSiK69aazfP5gTG6sLrxfGgSoOEkQ"
+        },
+        {
+          "label": "观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdULk6BgoFGeDz6IlcH4oDXXEJO-Eh-mAWRaAR-9D5KkbNGgk5ATja1F_xboRatv75_QFg5ee201QlXBJsBISs2RcgJHsPbsNU0ChhWJyP_47F-bdQgDPKJxj_P0_ur5wEyc6GWdi3GoFjqTGvCJU5Fni_2Y="
+        },
+        {
+          "label": "万维读者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiw7qcDSQhvWprb8AhAA2U7T7v5QA32gCxKNP7-eyiIFxLqk3HfGUtmsEXEaFf1ZRoVE2MyM6pBPzX-C1re4sq_eSrANSnURh4HmXvKDxGE8nAInaab2rhg3xzSylOPWL7eytrzOEK0COGNuYoCxUrtpo="
         }
       ],
       "baselineSources": []
@@ -70,13 +78,13 @@
       "category": "炼厂 / 化工",
       "facility": "波斯湾之星炼厂",
       "designValue": 360,
-      "designUnit": "kbpd",
+      "designUnit": "暂无",
       "affectedValue": 0,
-      "affectedUnit": "kbpd",
+      "affectedUnit": "暂无",
       "normalizedType": "oil",
-      "normalizedValue": 0,
+      "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日，以色列军方袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能临时中断。3月8日，德黑兰上空出现黑色“石油雨”，显示袭击影响持续。",
+      "current": "3月7日，以色列军方袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能临时中断。3月8日，德黑兰上空出现黑色\"石油雨\"，显示袭击影响持续。",
       "sources": [
         {
           "label": "人民网",
@@ -105,6 +113,14 @@
         {
           "label": "突袭轰炸炼油厂这国宣告：战事进入新阶段 - 万维读者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpW4Rz7nWSprDgJZLZ7GOocherY3watkOScdYV0-RbaXJR61YJujBP7P5_fcY8NkZX7MPiBMFXv5omeQ9XEO5ijja6RSbBUivNN0XOIDtyu8nFZFv23pABRt4k04qXu7G0gXxw4rjCPY2xfONjmGn83g=="
+        },
+        {
+          "label": "观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdULk6BgoFGeDz6IlcH4oDXXEJO-Eh-mAWRaAR-9D5KkbNGgk5ATja1F_xboRatv75_QFg5ee201QlXBJsBISs2RcgJHsPbsNU0ChhWJyP_47F-bdQgDPKJxj_P0_ur5wEyc6GWdi3GoFjqTGvCJU5Fni_2Y="
+        },
+        {
+          "label": "万维读者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiw7qcDSQhvWprb8AhAA2U7T7v5QA32gCxKNP7-eyiIFxLqk3HfGUtmsEXEaFf1ZRoVE2MyM6pBPzX-C1re4sq_eSrANSnURh4HmXvKDxGE8nAInaab2rhg3xzSylOPWL7eytrzOEK0COGNuYoCxUrtpo="
         }
       ],
       "baselineSources": []
@@ -114,13 +130,13 @@
       "category": "油田",
       "facility": "Rumaila油田",
       "designValue": 1400,
-      "designUnit": "kbpd",
-      "affectedValue": 1400,
+      "designUnit": "暂无",
+      "affectedValue": 700,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 1400,
-      "status": "已停产",
-      "current": "伊拉克石油部声明已关闭南部鲁迈拉油田，该油田生产石油、天然气及液化石油气。此前无人机落入油田后外籍员工撤离，产量显著下降。",
+      "normalizedValue": 700,
+      "status": "已减产",
+      "current": "伊拉克石油官员表示，因霍尔木兹海峡紧张局势导致油轮抵达放缓、存储设施满载，伊拉克鲁迈拉油田已削减原油产量，3月4日或5日日产量削减约70万桶。",
       "sources": [
         {
           "label": "AASTOCKS 财经新闻",
@@ -133,6 +149,10 @@
         {
           "label": "东方财富股吧",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOJtobCjqvK_Ox8J-_-IWrcAzHb-XaN0wbHz1qjGQfUbAFitaPcQ_n0EmaPUmwmnJXS1KVYWBb3OlGghC4u7g_hU8tZx4hU-KKREFuxa3tlePjFhU3NqcxCKIrVQnYSpv-3-RRLv7O3N_YPmUNlrVRlQ=="
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ],
       "baselineSources": []
@@ -366,13 +386,13 @@
       "category": "油田",
       "facility": "Burgan油田",
       "designValue": 1700,
-      "designUnit": "kbpd",
-      "affectedValue": null,
+      "designUnit": "暂无",
+      "affectedValue": 300,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减原油产量及炼油加工量。",
+      "normalizedValue": 300,
+      "status": "已减产",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减原油产量及炼油加工量。初步规模约10万桶/日，预计3月8日增至约30万桶/日。",
       "sources": [
         {
           "label": "21财经",
@@ -401,6 +421,14 @@
         {
           "label": "伊拉克、卡塔尔、科威特均宣布削减石油产量 - 新浪财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Cticn7xyKjS0WwaRNZitTt7tk4ou-OJKPRDKCqO-FBn3hU_8V2GtSaFiTKQJWN-j4lODK2oMMU-wn25YlKK3myLu7pj2aNz9hRjYnl-GqIdxtGgcOgsNVsVYzdqoYhIDGLWwwHeD2nIIqZNgDJBSTwbhv-Ml3tP55H2gfg=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awzzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "小小天下",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbKZNASyzoXqB2JZBE9lPHJbT9Bj27Pr493FMvQo_LN-2KBzDpJ0u50oAG4-BGX679MoohnYq73L9nRFF5Zqr-JHVrF3FeabChJ87Za7B9c8KoOu0XGMQftdsKA=="
         }
       ],
       "baselineSources": []
@@ -410,13 +438,13 @@
       "category": "炼厂 / 化工",
       "facility": "Mina Al-Ahmadi炼厂",
       "designValue": 346,
-      "designUnit": "kbpd",
+      "designUnit": "暂无",
       "affectedValue": null,
-      "affectedUnit": "kbpd",
+      "affectedUnit": "暂无",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "已受影响",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，该国炼厂已降低加工率。",
+      "status": "已减产",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，该国炼厂已降低加工率。KPC表示，在\"伊朗威胁荷姆兹海峡船只安全通行\"后，正在降低油田和炼油厂产量。",
       "sources": [
         {
           "label": "21财经",
@@ -445,6 +473,14 @@
         {
           "label": "伊拉克、卡塔尔、科威特均宣布削减石油产量 - 新浪财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Cticn7xyKjS0WwaRNZitTt7tk4ou-OJKPRDKCqO-FBn3hU_8V2GtSaFiTKQJWN-j4lODK2oMMU-wn25YlKK3myLu7pj2aNz9hRjYnl-GqIdxtGgcOgsNVsVYzdqoYhIDGLWwwHeD2nIIqZNgDJBSTwbhv-Ml3tP55H2gfg=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awzzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "小小天下",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbKZNASyzoXqB2JZBE9lPHJbT9Bj27Pr493FMvQo_LN-2KBzDpJ0u50oAG4-BGX679MoohnYq73L9nRFF5Zqr-JHVrF3FeabChJ87Za7B9c8KoOu0XGMQftdsKA=="
         }
       ],
       "baselineSources": []
@@ -454,13 +490,13 @@
       "category": "炼厂 / 化工",
       "facility": "Al-Zour炼厂",
       "designValue": 615,
-      "designUnit": "kbpd",
+      "designUnit": "暂无",
       "affectedValue": null,
-      "affectedUnit": "kbpd",
+      "affectedUnit": "暂无",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "已受影响",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，祖尔炼厂已降低加工率。",
+      "status": "已减产",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量，祖尔炼厂已降低加工率。KPC表示，在\"伊朗威胁荷姆兹海峡船只安全通行\"后，正在降低油田和炼油厂产量。",
       "sources": [
         {
           "label": "21财经",
@@ -489,6 +525,14 @@
         {
           "label": "伊拉克、卡塔尔、科威特均宣布削减石油产量 - 新浪财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Cticn7xyKjS0WwaRNZitTt7tk4ou-OJKPRDKCqO-FBn3hU_8V2GtSaFiTKQJWN-j4lODK2oMMU-wn25YlKK3myLu7pj2aNz9hRjYnl-GqIdxtGgcOgsNVsVYzdqoYhIDGLWwwHeD2nIIqZNgDJBSTwbhv-Ml3tP55H2gfg=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awzzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "小小天下",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbKZNASyzoXqB2JZBE9lPHJbT9Bj27Pr493FMvQo_LN-2KBzDpJ0u50oAG4-BGX679MoohnYq73L9nRFF5Zqr-JHVrF3FeabChJ87Za7B9c8KoOu0XGMQftdsKA=="
         }
       ],
       "baselineSources": []
@@ -781,13 +825,13 @@
       "category": "出口终端 / LNG",
       "facility": "Ras Laffan LNG / 出口综合体",
       "designValue": 77,
-      "designUnit": "百万吨/年",
+      "designUnit": "暂无",
       "affectedValue": 77,
-      "affectedUnit": "百万吨/年",
+      "affectedUnit": "暂无",
       "normalizedType": "lng",
-      "normalizedValue": 77,
+      "normalizedValue": null,
       "status": "已受影响",
-      "current": "卡塔尔能源公司3月2日宣布，拉斯拉凡工业城及梅赛义德工业城设施遭军事袭击，储罐迅速饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。3月9日，Ras Laffan LNG工业城已全面停产。",
+      "current": "卡塔尔能源公司3月2日宣布，拉斯拉凡工业城及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。3月9日，Ras Laffan LNG工业城已全面停产。摩根士丹利警告，若卡塔尔LNG停产超一个月，全球天然气市场或从供应过剩转短缺。",
       "sources": [
         {
           "label": "阿联酋通讯社",
@@ -816,6 +860,10 @@
         {
           "label": "星巴克/CoCo/全家「限時買1送1」！WBC經典賽優惠4大超商+手搖飲懶人包，7-11拿鐵買2送2",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnfkkPOVolN2qEihhYo6mgKy_TvplNmZ_r_uLlEyxkfaFQdGIZKa6Nki1HK765QzxKhePXeu0Cl_cduaBOy6PxqZXSzIgnEMVWN3VLSw0ym0ofmDSstsyoFUD4CVJ-1OO6"
+        },
+        {
+          "label": "网易",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECTDBiHEha1bOPHRLIYdpU8i1TqaQQdjzk9Q6CaO1NOUFZ_8Ad1mcSq5TCWuBwdMfdy8Nutx6EhvCKf4NiTDmGgOfDiH8cFLXIWvno_6AFH8AFea37mx0yovHFVY33SwUAMkQOiFSVbicBziHsTbU="
         }
       ],
       "baselineSources": []
@@ -1062,7 +1110,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月8日，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅物资损失，无人员伤亡。",
+      "current": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅造成物资损失，无人员伤亡。",
       "sources": [
         {
           "label": "科威特国际机场两个燃料储罐遭袭 - 新华网",
@@ -1083,9 +1131,82 @@
         {
           "label": "科威特国际机场两个燃料储罐遭袭 - 中国民用航空网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdkH9jghFq26KDyxyskK31ysFqTJHUrcbTjcP0mF0SjVN_QPsEToiIqwWr8s1kFYee75QjpgKX2v89LPxB5VQWAWPqzUOYpjYvPtu7FK28eUGScwG2xJ138k3ObHOJqmzClgtwCKk-KMem7Eo="
+        },
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGOWvqYwF6wvXQZp42cNh8Yl7cX5tspu9Oifd802P9g4MTPIK-9pIthrf6lf8LN0TOMrBD0XeblJND5SHg2gAwo9BV2r8QspzOaVM3ZgxyijooIrSGpu0CiIESpQgbI3Txh1vr-wUcpwXhdIDAmk7E2KfQy9AXv9AnBjwqxzOl9fAmfzC35n562gVD79HeO6pFi7JLbvzF7JUH0J7_JlMeKymlUVMwhB4O4a41JH0b8J5ld7mBQUY"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjKBDeBGZtf9lBsPpD9m9qXJzUB5KpWOg5O-f_TmEG6fBEDv2HRyt4TuDs17ys5jHIXsTkr4SASdIhzspDiQyRI9RLGlPWazBS2-1W8Sv2ezyq5J5cJZVSpjY-hTGJnpYn2XRl07D8NxfRvFzzf0qZ2IzeElG"
+        },
+        {
+          "label": "TradeArabia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBnST7ToP2bM3uPlseCsjZn584fA7IBIQr9SzWcnJ2KFyL-RJcHJC8Iwk2e5Kgeaw3gPXU_yq7Z641JcQmHwAILQNdiSccZ3l6TjT3Y1vrl6ODOeT-b9vjGXPBdY9fIIUIQ9R4egt8id9nxPFSHjIAqtcZfG7c9RkzC9xbC-CnV3z3lfnh-V9PJj9MSPXtFkPbQ=="
+        },
+        {
+          "label": "DAWN.COM",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjGjaxSSyp_zt_-HeIztcabgEPvcMsSUFwkmYmUNPh4PvhftPn_yO8TAeloNNX3wmmJehA0KHr9OCobjVGn4bCXD1YBKuwKZdrPG3NKPTvjXUbQLE4WKRUJUm8Sw=="
+        },
+        {
+          "label": "新华网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8V2DZso3sC3ZhZYfYnCYK_QutworXEw5xPEpNXGyCsdE8fajYsaqW_HlOyAfN1w_dC7qjayZDWycycmDkhKWBX7aWPGcu05qmXzdr9JwmESK_6EjBOCJdgT6LnLrDSdYq9EwoXDzhK-BrljUrD8gSemX0XiuTPIYiPV4gVg="
+        },
+        {
+          "label": "香港商报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGmLKRssoBEG5bsw13g6-rEoQqp5e4KS3XPt463ZlzSd3ITOWJK8b4zVa2zsch2C-8iUpPuGJRbqRNQ4EqoCIxPrJh0OeUu8B_XvCkFCGioW6-kV92YScA8zXFDU2Z3QbPrhzLyQwmAkh0EgYQh2EY6Bb2bWGgs8l3LctTtam7Q4Hd"
+        },
+        {
+          "label": "Emirates News Agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZd8UuWoIZLubzxyLxrpdIBThUO1ziJhL_QcQSiKEKRIsFlPmueAyE572YHWTqp9Tt3pImCaVUTzx8rNN3-CrxdNo4cXIGOLAKCfh_XfYoJErBUAJ8I4pOWt4QSHnfqzMa35RUqsUeg4PQn_I9YzUx1D03RVIVuzVwmCLZyYStwcXtWa8N1Ym7DfNjwZ6lu9-C"
+        },
+        {
+          "label": "Qatar news agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJijBPug5BH1g6Ehpb2l3is0CiS_Ykq8RzTjr_8WWxOc6gWJAouTOYgJFk8LWZZ_19-arlb7p_E2v3nEBIXTknx8fJgbNZPN10xdQhKsTGns8bvdbWHVA5ZYCNbdAzcrRd5z-mSsd5M7cETXGTLsYh1eaWUM6oycUfLOr3IeBNoSyzsW5D8kxcTOAimIlWVCBZwJ-aiwwniUNSUIMYJ3sTVg=="
+        },
+        {
+          "label": "甘肃经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3pOX1-hF28oSMwOtZExgunmofoVCEy2wWmt5SPv0p96gUG_mLAYOZC836yH6x_FlGs6Uu0YQey8-Q3OhnUCtq63jTjDvWLt1Z6D00JAUAGR02cJYQsO_lwyVdM7NkylfGZ0EQGsQADiNcKkoJ3vsG9w=="
+        },
+        {
+          "label": "星洲网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP7X2X1KN6cXdlCbDiH5QNDxTIk6iSC7QCVcaF9M_yf8nY1CnOA8EVMMsWYyUuR7fOD7A4u8QvYCSYVtHCA7KLvgjn3olfNkuMEGp7GJU9928_-ewVWz64E2gcXAkyNrjhc_8Mzt8hjFn_7MqPBZlriCa74vU5hCbkvHxWsyeLxydxOo4wihgyIw=="
         }
       ],
       "baselineSources": []
+    },
+    {
+      "country": "新加坡",
+      "category": "炼厂 / 化工",
+      "facility": "新加坡石油化工公司",
+      "designValue": null,
+      "designUnit": "暂无",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力",
+      "current": "新加坡石油化工公司因中东冲突导致海上运输和供应链严重中断，于3月5日宣布发生不可抗力。",
+      "sources": [
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErwhB6pAP7PvxivzKnSYPPp-tDALgHAbPcbGb5MxqnWj3ohYjppvT555K_XJi6EaEn5PZn9Zxq_pufiSkuazCM8Zepz92sSFHjFhA73GffudWOd7nW1_hvoh9zWg=="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG4KGqqEtNDjYhswSH-wJCvgrD16fuYiTves6MtCU-BFLdag_zl5d9a9Jia-TmyFHkvBdOYC5jWkGZqg5NaS5Hoy3XSFGiRDV9jkUtago18ju8Q-mega2b4GcMHQ=="
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "中国石油新闻中心",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_QHdFVkq3-gYkE3UIUlPJggED5yput46PACH5y7KcJpalNrnD30XsnuE-SIiRmT1eV4mDx6VNwvK0HSvTngrHf7zoswG4-ISGn_khchw7tr-kSx5wmM0IR4VngtHql0wInxRbqf-SUWkcJe6qyUrokeaWA=="
+        },
+        {
+          "label": "新加坡经济发展局",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsujPnzupXfDKjJT1Ec61hgOE-_Uvpnl51vlQNmSgovTihaoyQm_4Djv3aJMUp3OeZbBoqPpl14LdlaD1M4CQcmPRSrbcC3Dt8e1So3Um0Otjb9ZwIpDwnwnMwAaBys2g4nyVztUzNMd_N3qbFaS6Cca8hZ-15AJ9Ck4bRkA=="
+        }
+      ]
     }
   ],
   "timeline": [
@@ -1174,6 +1295,10 @@
         {
           "label": "受美国和伊朗之间战争的影响，中东地区供应链发生动摇，化肥和煤炭价格同时上涨。 5日（当地时间），据全球原材料专门媒体\"Argus\"报道，中东地区颗粒尿素肥料价格最近每吨上涨了130美元（约19万韩元.. - MK",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXNZhYotm-mLsizPVawG9GCyKrcyBxKKlcYfZd8356icKe40esI0fbFkqWdV8EKuPT5m536nHvk5oBRScKIIkm5-2ITgbBi8ZvrU_EGPiJbJo0nZjO4PssIrAt7oEJh0z35g=="
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1181,7 +1306,7 @@
       "date": "2026-03-06",
       "title": "沙特通过Yanbu分流出口，卡塔尔恢复周期预期拉长",
       "type": "分流与恢复预期",
-      "text": "沙特加快通过红海Yanbu及东西管道分流；市场对卡塔尔LNG恢复时间预期从数周进一步拉长。",
+      "text": "沙特加快通过红海Yanbu及东西管道分流；市场对卡塔尔LGC恢复时间预期从数周进一步拉长。伊朗有选择地允许部分船只通过霍尔木兹海峡，并与中国就原油和卡塔尔液化天然气船只的安全通行进行谈判。",
       "sources": [
         {
           "label": "Reuters 沙特",
@@ -1190,6 +1315,10 @@
         {
           "label": "Reuters 卡塔尔",
           "url": "https://www.reuters.com/business/energy/qatarenergy-offers-10-lng-tankers-lease-amid-production-halt-soaring-shipping-2026-03-06/"
+        },
+        {
+          "label": "观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdULk6BgoFGeDz6IlcH4oDXXEJO-Eh-mAWRaAR-9D5KkbNGgk5ATja1F_xboRatv75_QFg5ee201QlXBJsBISs2RcgJHsPbsNU0ChhWJyP_47F-bdQgDPKJxj_P0_ur5wEyc6GWdi3GoFjqTGvCJU5Fni_2Y="
         }
       ]
     },
@@ -1214,6 +1343,22 @@
         {
           "label": "突袭轰炸炼油厂这国宣告：战事进入新阶段 - 万维读者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpW4Rz7nWSprDgJZLZ7GOocherY3watkOScdYV0-RbaXJR61YJujBP7P5_fcY8NkZX7MPiBMFXv5omeQ9XEO5ijja6RSbBUivNN0XOIDtyu8nFZFv23pABRt4k04qXu7G0gXxw4rjCPY2xfONjmGn83g=="
+        },
+        {
+          "label": "伊朗称德黑兰等地多处储油设施遭袭 - 联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWoQ1KMpIXNrd-R1NEA02ZOPsRqzfHtlUnNN6k2hLkq33cA__MUO0OI5JoG6Znj37nPRdVH74r7Owb-Cmskrg6DNVuHq9RM0WNPTs3kmHwuxnQ9v6t9XkEiz7oPpkc58yFSPs="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "title": "美国驻伊拉克大使馆遭袭，伊朗启动新一轮军事行动",
+      "type": "冲突升级",
+      "text": "当地时间3月7日晚，美国驻伊拉克大使馆遭袭。伊朗伊斯兰革命卫队当地时间7日晚宣布，已开展\"真实承诺4\"第27轮军事行动，动用无人机与导弹，对以色列本土核心目标以及部分中东地区的美军基地实施打击。",
+      "sources": [
+        {
+          "label": "小小天下",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbKZNASyzoXqB2JZBE9lPHJbT9Bj27Pr493FMvQo_LN-2KBzDpJ0u50oAG4-BGX679MoohnYq73L9nRFF5Zqr-JHVrF3FeabChJ87Za7B9c8KoOu0XGMQftdsKA=="
         }
       ]
     },
@@ -1247,9 +1392,57 @@
     },
     {
       "date": "2026-03-08",
+      "title": "科威特国际机场燃料储罐遭无人机袭击",
+      "type": "设施受袭",
+      "text": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击，引发大火但无人员伤亡。",
+      "sources": [
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGOWvqYwF6wvXQZp42cNh8Yl7cX5tspu9Oifd802P9g4MTPIK-9pIthrf6lf8LN0TOMrBD0XeblJND5SHg2gAwo9BV2r8QspzOaVM3ZgxyijooIrSGpu0CiIESpQgbI3Txh1vr-wUcpwXhdIDAmk7E2KfQy9AXv9AnBjwqxzOl9fAmfzC35n562gVD79HeO6pFi7JLbvzF7JUH0J7_JlMeKymlUVMwhB4O4a41JH0b8J5ld7mBQUY"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjKBDeBGZtf9lBsPpD9m9qXJzUB5KpWOg5O-f_TmEG6fBEDv2HRyt4TuDs17ys5jHIXsTkr4SASdIhzspDiQyRI9RLGlPWazBS2-1W8Sv2ezyq5J5cJZVSpjY-hTGJnpYn2XRl07D8NxfRvFzzf0qZ2IzeElG"
+        },
+        {
+          "label": "TradeArabia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBnST7ToP2bM3uPlseCsjZn584fA7IBIQr9SzWcnJ2KFyL-RJcHJC8Iwk2e5Kgeaw3gPXU_yq7Z641JcQmHwAILQNQNdiSccZ3l6TjT3Y1vrl6ODOeT-b9vjGXPBdY9fIIUIQ9R4egt8id9nxPFSHjIAqtcZfG7c9RkzC9xbC-CnV3z3lfnh-V9PJj9MSPXtFkPbQ=="
+        },
+        {
+          "label": "DAWN.COM",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjGjaxSSyp_zt_-HeIztcabgEPvcMsSUFwkmYmUNPh4PvhftPn_yO8TAeloNNX3wmmJehA0KHr9OCobjVGn4bCXD1YBKuwKZdrPG3NKPTvjXUbQLE4WKRUJUm8Sw=="
+        },
+        {
+          "label": "新华网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-8V2DZso3sC3ZhZYfYnCYK_QutworXEw5xPEpNXGyCsdE8fajYsaqW_HlOyAfN1w_dC7qjayZDWycycmDkhKWBX7aWPGcu05qmXzdr9JwmESK_6EjBOCJdgT6LnLrDSdYq9EwoXDzhK-BrljUrD8gSemX0XiuTPIYiPV4gVg="
+        },
+        {
+          "label": "香港商报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGmLKRssoBEG5bsw13g6-rEoQqp5e4KS3XPt463ZlzSd3ITOWJK8b4zVa2zsch2C-8iUpPuGJRbqRNQ4EqoCIxPrJh0OeUu8B_XvCkFCGioW6-kV92YScA8zXFDU2Z3QbPrhzLyQwmAkh0EgYQh2EY6Bb2bWGgs8l3LctTtam7Q4Hd"
+        },
+        {
+          "label": "Emirates News Agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZd8UuWoIZLubzxyLxrpdIBThUO1ziJhL_QcQSiKEKRIsFlPmueAyE572YHWTqp9Tt3pImCaVUTzx8rNN3-CrxdNo4cXIGOLAKCfh_XfYoJErBUAJ8I4pOWt4QSHnfqzMa35RUqsUeg4PQn_I9YzUx1D03RVIVuzVwmCLZyYStwcXtWa8N1Ym7DfNjwZ6lu9-C"
+        },
+        {
+          "label": "Qatar news agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJijBPug5BH1g6Ehpb2l3is0CiS_Ykq8RzTjr_8WWxOc6gWJAouTOYgJFk8LWZZ_19-arlb7p_E2v3nEBIXTknx8fJgbNZPN10xdQhKsTGns8bvdbWHVA5ZYCNbdAzcrRd5z-mSsd5M7cETXGTLsYh1eaWUM6oycUfLOr3IeBNoSyzsW5D8kxcTOAimIlWVCBZwJ-aiwwniUNSUIMYJ3sTVg=="
+        },
+        {
+          "label": "甘肃经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3pOX1-hF28oSMwOtZExgunmofoVCEy2wWmt5SPv0p96gUG_mLAYOZC836yH6x_FlGs6Uu0YQey8-Q3OhnUCtq63jTjDvWLt1Z6D00JAUAGR02cJYQsO_lwyVdM7NkylfGZ0EQGsQADiNcKkoJ3vsG9w=="
+        },
+        {
+          "label": "星洲网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP7X2X1KN6cXdlCbDiH5QNDxTIk6iSC7QCVcaF9M_yf8nY1CnOA8EVMMsWYyUuR7fOD7A4u8QvYCSYVtHCA7KLvgjn3olfNkuMEGp7GJU9928_-ewVWz64E2gcXAkyNrjhc_8Mzt8hjFn_7MqPBZlriCa74vU5hCbkvHxWsyeLxydxOo4wihgyIw=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-08",
       "title": "科威特宣布不可抗力并削减石油产量",
       "type": "减产",
-      "text": "科威特当地时间周六（3月7日）正式宣布，由于伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，该国已对原油生产和提炼实施“预防性削减”措施。",
+      "text": "科威特当地时间3月7日正式宣布，由于伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，该国已对原油生产和提炼实施\"预防性削减\"措施。初步规模约为每日10万桶，预计3月8日将几乎增加两倍。",
       "sources": [
         {
           "label": "AASTOCKS 财经新闻",
@@ -1274,6 +1467,10 @@
         {
           "label": "伊拉克、卡塔尔、科威特均宣布削减石油产量 - 新浪财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Cticn7xyKjS0WwaRNZitTt7tk4ou-OJKPRDKCqO-FBn3hU_8V2GtSaFiTKQJWN-j4lODK2oMMU-wn25YlKK3myLu7pj2aNz9hRjYnl-GqIdxtGgcOgsNVsVYzdqoYhIDGLWwwHeD2nIIqZNgDJBSTwbhv-Ml3tP55H2gfg=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awzzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
         }
       ]
     },
@@ -1326,6 +1523,14 @@
         {
           "label": "星巴克/CoCo/全家「限時買1送1」！WBC經典賽優惠4大超商+手搖飲懶人包，7-11拿鐵買2送2",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnfkkPOVolN2qEihhYo6mgKy_TvplNmZ_r_uLlEyxkfaFQdGIZKa6Nki1HK765QzxKhePXeu0Cl_cduaBOy6PxqZXSzIgnEMVWN3VLSw0ym0ofmDSstsyoFUD4CVJ-1OO6"
+        },
+        {
+          "label": "格隆汇新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuRQNxPeVsOsCr8GJqqlMbwoiORJiPMW5qT4OmvOhqvsDpgKxjPqEIc20Kvz5N3-VegTkMI-I-rMDtCl61jYJxqmn3eCoWt4q6k32ZFnngiqF6jKdcyv6ImdEMTUz2gRyWO6_ixje79tvUZFOSgyPzbQe6xt7sBcn3YgpTRt_WPQNjZr_J5Q=="
+        },
+        {
+          "label": "生意社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCN3NTLj4-xwB0zjjnWJ_1_URyyPOwjzu9HSY2assvwemgIhUbNjoaVKaROMYiWn44pEQfx95jOVATMQEA7c0TI2dfmzP0RFCkGPwBek0tqRjrnnKuCMo-Uo7ywK75o2L7CHK0lX58aixJnZe54VxZy4g=="
         }
       ]
     },
@@ -1350,6 +1555,10 @@
         {
           "label": "以色列有限恢复商业航班离境 - 财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBp2KQyFdMnJ1gcoxvJyaRC7rcfU2ywQMv9nx8e5gceP02wk3WPY8_d4hGdJrRJH63SaCIwSho0MQvYk6jiHtOM1C2_OTPKhazezQr6wcWB17HbSNt_MK0DdQD"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojrkQPBwUld7PuIkHZ7S1ZkLhgQgvJwb7lmz9b2Jg0DdvP9BxQKtzPikNYg4JB5NVH_h1qCC0mkSSY-bkJVa07AIiV57KaKlffKbMsbn8NUPH_RE5kD3bra11yg=="
         }
       ]
     }
@@ -1364,7 +1573,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "乙烷为聚乙烯原料，受中东冲突导致天然气生产中断影响，亚洲石化商面临原料短缺。",
+      "current": "乙烷为聚乙烯原料，受中东冲突导致天然气生产中断影响，亚洲石化商面临原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。",
       "sources": [
         {
           "label": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
@@ -1393,6 +1602,10 @@
         {
           "label": "中东风险正在波及工业原材料 - 日本经济新闻中文版",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpIn9k60fITooxZTfF4GQarEKM6rND3I0aY4uFs7ZJp9XGkEi26rrG2_nqRpuHYDXzh3jw-yKwEcSU7v6CF_7jrD07lPYMyHzWvBFJqPh07YCBRRPoUqqlUa_6PwnWI5LnBkbbR1BuucUz5C5CCImiZ7XurXocu0QX4I3nY-7m-UW5oud94Sj6njk"
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1405,7 +1618,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "亚洲约45%LPG进口经霍尔木兹海峡，海峡关闭致亚洲裂解装置原料供应陷入危机。",
+      "current": "亚洲约45%LPG进口经霍尔木兹海峡，海峡关闭致亚洲裂解装置原料供应陷入危机。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是液化石油气等品种波动较大。",
       "sources": [
         {
           "label": "Discovery Alert",
@@ -1450,6 +1663,10 @@
         {
           "label": "快訊／中東戰火釀油價飆漲消息瘋傳？中油緊急澄清：LPG 3月不調整 - 三立iNEWS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xCzr1nBI7bcaxp0ThdT_CCs2NiQ2TyE9PZglfwQL2VbtLV0mnQta3iODsnW76ykG61RcOUi-W1rOouyaJwUjsmNhfMe5NyaKCfglazRzRvBlYY2SjgE_PqzLs93z"
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1462,7 +1679,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "亚洲超60%海运石脑油依赖中东，海峡关闭致供应危机，库存可能在4周内耗尽。",
+      "current": "亚洲超60%海运石脑油依赖中东，海峡关闭致供应危机，库存可能在4周内耗尽。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是纯苯、液化石油气、乙二醇、苯乙烯、聚丙烯、线型低密度聚乙烯等品种波动较大。",
       "sources": [
         {
           "label": "Polymerupdate",
@@ -1503,6 +1720,10 @@
         {
           "label": "中东风险正在波及工业原材料 - 日本经济新闻中文版",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpIn9k60fITooxZTfF4GQarEKM6rND3I0aY4uFs7ZJp9XGkEi26rrG2_nqRpuHYDXzh3jw-yKwEcSU7v6CF_7jrD07lPYMyHzWvBFJqPh07YCBRRPoUqqlUa_6PwnWI5LnBkbbR1BuucUz5C5CCImiZ7XurXocu0QX4I3nY-7m-UW5oud94Sj6njk"
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1620,6 +1841,18 @@
         {
           "label": "研报分析 - 奇货可查",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMJryaNqO6_9Q3hsDOvcp18rcB7zlAcnOpW1LXZEQpamDv5RMaHWPeNKhW0g5hsdHl6-Wy_qxhpHXNscCx_OFe6aQurgBMg34yyKZSBJwqFTVr1ClwwatSctn_E7InkWh9A_cSAbgHiWKlp6mb3wrqUbSZhYxqUEtRLoZRiGDcLNOic4PRYq8sOj6-qDSlQy1gotpF_FXwd9CezDE="
+        },
+        {
+          "label": "SunSirs",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2km6hwu17Xdx7aBUUD2CBNUvUsMKacoLC8PqnxmnSrqT2H0dHLcsXJmb6qi_KBCUfJHD4mgMaElUN4hbOMJ5VEGnFm3WKmFfqko_HRrYbGby40KIzjvvjkM8DDml-_AF-7OZNCrUtw38YxqvKppPi6A=="
+        },
+        {
+          "label": "供应告急，国际尿素价格飙升！为何国内市场“波澜不惊”？ - 证券时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWjdxcT1-BKb-sIxJWEKOS7AdE0KIxgzNUExqQRcJCFr3z95chj-YZvkxuXvYkpFyUO1eqey8SWyFlb_jcqHomcictpho9tnxBIMmypqNgaV6eeYHoU0_J83L7bjpSF-IGjhfxFNPxxzJ4g=="
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1689,6 +1922,14 @@
         {
           "label": "以色列有限恢复商业航班离境 - 财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBp2KQyFdMnJ1gcoxvJyaRC7rcfU2ywQMv9nx8e5gceP02wk3WPY8_d4hGdJrRJH63SaCIwSho0MQvYk6jiHtOM1C2_OTPKhazezQr6wcWB17HbSNt_MK0DdQD"
+        },
+        {
+          "label": "SunSirs",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2km6hwu17Xdx7aBUUD2CBNUvUsMKacoLC8PqnxmnnSrqT2H0dHLcsXJmb6qi_KBCUfJHD4mgMaElUN4hbOMJ5VEGnFm3WKmFfqko_HRrYbGby40KIzjvvjkM8DDml-_AF-7OZNCrUtw38YxqvKppPi6A=="
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1722,6 +1963,10 @@
         {
           "label": "深追踪丨占全球石油运输量五分之一、最窄处约33公里，霍尔木兹海峡到底有多重要？ - 缅华网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6FsGN5u3la4x28rxA2e--_GJzGSvJEWHDWgJVWo1KjFqrRyRgAyNC7_O2iRmHi-08WpnJYooKTUJaMORDMfXpe6CpJ5orkvEqPFe31UKdg_WoJgHjCZ9pr6VIfO2YHFFv4zNYKxDONqhFIr998iKF"
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     },
@@ -1734,7 +1979,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。",
+      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。",
       "sources": [
         {
           "label": "ChemNet News",
@@ -1795,6 +2040,14 @@
         {
           "label": "中东风险正在波及工业原材料 - 日本经济新闻中文版",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpIn9k60fITooxZTfF4GQarEKM6rND3I0aY4uFs7ZJp9XGkEi26rrG2_nqRpuHYDXzh3jw-yKwEcSU7v6CF_7jrD07lPYMyHzWvBFJqPh07YCBRRPoUqqlUa_6PwnWI5LnBkbbR1BuucUz5C5CCImiZ7XurXocu0QX4I3nY-7m-UW5oud94Sj6njk"
+        },
+        {
+          "label": "SunSirs",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2km6hwu17Xdx7aBUUD2CBNUvUsMKacoLC8PqnxmnSrqT2H0dHLcsXJmb6qi_KBCUfJHD4mgMaElUN4hbOMJ5VEGnFm3WKmFfqko_HRrYbGby40KIzjvvjkM8DDml-_AF-7OZNCrUtw38YxqvKppPi6A=="
+        },
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
         }
       ]
     }
