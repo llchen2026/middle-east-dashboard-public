@@ -399,10 +399,11 @@
       /股吧/i, /东方财富/i, /新浪财经/i, /南方财经/i,
       /小小天下/i, /网易/i, /澳广视/i, /世界新聞網/i, /WTF/i, /中东战事日益加剧/i,
       /海外突发两大消息/i, /TradingView/i, /China\.org/i, /Investing\.com/i, /中国石油新闻中心/i,
-      /凤凰网/i, /搜狐/i, /腾讯/i
+      /凤凰网/i, /搜狐/i, /腾讯/i, /Current time information/i, /^time in /i
     ];
     const blockedSourceUrlPatterns = [
-      /eastmoney/i, /sina/i, /qq\.com/i, /163\.com/i, /ifeng/i, /sohu/i, /toutiao/i
+      /eastmoney/i, /sina/i, /qq\.com/i, /163\.com/i, /ifeng/i, /sohu/i, /toutiao/i,
+      /google\.com\/search\?q=time\+/i, /google\.com\/search\?q=current\+time\+/i
     ];
 
     const unique = (arr) => ['全部', ...new Set(arr)];
