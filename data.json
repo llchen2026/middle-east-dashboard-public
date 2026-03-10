@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 23:04（北京时间）",
+  "lastUpdated": "2026-03-10 23:27（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -539,7 +539,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后降低油田和炼油厂产量。9日科威特炼油厂综合产能161.5万桶/日，目前开工率约50%。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示因“伊朗威胁霍尔木兹海峡船只通行安全”而降低油田和炼油厂产量。9日科威特炼油厂综合产能161.5万桶/日，目前开工率约50%。3月4日，米娜·阿哈迈迪炼油厂遭拦截导弹碎片波及，部分设施受损。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -636,6 +636,10 @@
         {
           "label": "UAE and Kuwait start oil output cuts - Longbridge",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
+        },
+        {
+          "label": "Iran's new wave of attacks escalates threat to the world's largest oil and gas hubs – Eurasia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmtQXoft0iHmpbwMj9l6xmmyVB_hpjkqmXeY3HkwIRgWCzMSgJj_aIFIrnbtoDjUUjcnmj93B3xbD-WkLyn5UJHkWrku5rrkyp56f03oFxpG969luU2Ne3oMukgDLeA84v89yMemUySR6F5P2P4RWBfkAUcWO8BNrGheGItGvFzrYSX8ML5IrEMrsWEbAgxDrBRHxUIb1_-dvz1UScjosFsOaj6u-g6SwMlcM="
         }
       ],
       "baselineSources": [],
