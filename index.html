@@ -39,7 +39,7 @@
     .grid { display: grid; gap: 16px; }
     .filters { grid-template-columns: 2fr 1fr 1fr 1fr; margin-bottom: 16px; }
     .stats { grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
-    .summary-grid { grid-template-columns: 1.2fr 1.1fr 1.5fr; margin-bottom: 16px; }
+    .summary-grid { grid-template-columns: 1.05fr 1.18fr 0.92fr; margin-bottom: 16px; }
     .main { grid-template-columns: 1fr; margin-bottom: 16px; }
     .chemicals-row { grid-template-columns: 1fr; }
     .footer-grid { grid-template-columns: 1fr 1fr; }
@@ -1025,7 +1025,24 @@
       chart = new Chart(ctx, {
         type: 'bar',
         data: { labels, datasets: [{ label: '已受影响资产数量', data: values, backgroundColor: '#3b82f6', borderRadius: 8 }] },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: {
+              ticks: {
+                autoSkip: false,
+                maxRotation: 42,
+                minRotation: 42,
+              },
+            },
+            y: {
+              beginAtZero: true,
+              ticks: { precision: 0 },
+            },
+          },
+        }
       });
     }
 
