@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 14:11（北京时间）",
+  "lastUpdated": "2026-03-10 14:15（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "伊朗哈格岛原油出口终端仍在运营，该岛承担伊朗约90%的原油出口。2026年3月5日，伊朗继续在该岛装载原油。3月8日，美国政府讨论了夺取该岛的可能性。",
+      "current": "伊朗哈格岛原油出口终端仍在运营，该岛承担约90%原油出口。3月5日继续装载原油。3月8日，美国政府讨论夺取该岛的可能性。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -37,6 +37,10 @@
         {
           "label": "中东战事日益加剧传中国要求炼油厂暂停出口",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1QeEUFuTk11Nw9I97O-YZvYvT2RGTaaDMbwBqhZN8s81BLLLQ6HHNOBDtssy0Jp2IOj4bp0EGBk1SPcfw-J8t7CtrbiVYTiEIFulSwXjkwbm8RSEFNdqZRL276YATrDmwhq9JR9V2GuNBnneYLd_DOUItGnR5FdUVYL5f9T1qiA=="
+        },
+        {
+          "label": "Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is \"very far ahead of schedule\" - CBS News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDB1c5WqcLD3KGpo7H6E6qI3GwBpXIFEjZahff0MLln4o0zuPO_rMlOqB3a1Vp7mBxLkQBODlhMnPZr5MLrBfd_R1KRSxkIpHH6aH0Ti3v8-9lnqoA833RTzvv5Vb74CD3oEsxMGqP7v7eMR3qaJctdyR68xilkvmyqrIVKaAwnUdifpChwpY4tT4mC0y3MSSe1ODu9V2Op_vS9GMzCk4SpUYMDv9Zv6aHepxU"
         }
       ],
       "baselineSources": [],
@@ -74,7 +78,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能中断。3月8日德黑兰出现黑色\"石油雨\"，显示影响持续。伊朗外交部当日谴责美以袭击伊能源基础设施为\"蓄意化学战争\"。",
+      "current": "3月7日，以色列袭击德黑兰燃油储存设施及炼油厂，部分产能中断。8日德黑兰出现黑色\"石油雨\"。伊朗外交部谴责美以袭击为\"蓄意化学战争\"。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -107,6 +111,18 @@
         {
           "label": "US, Israeli strikes hit Iranian oil depots for first time since war began - Ynet News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6BVmNLaFjKcIVZL4QLmdX_7wBVFyBy39aDxcamt44D_Jadczn3ro2JlKZFUX6gTsjetnVB3WCNMec36ZFBbCihRMUylnkv4BWmo4Ih9GTqFKnp7yJTcqGXx_poT7UBtidN6rRZJM="
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfqGZEW1LVnew0IPm9i5NK5ISPpO-QNhFagDtclJW4O2x3d7LRbCxYvHKMBPBrBDChBhL4Mq7tUmW_5APkuoyhCuylS6yGolSy0AX9BO7gNNhq5x8cAhtZF-W8BcGawgHcbh0yvJ5b-cYF9SHIgmiMUK9s-YDe"
+        },
+        {
+          "label": "中央广播电视总台",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDQpNSkLM_Gc78btmurksQg-E_-fBAIIc18PnGvuO3dImy0t6-kjknQ5cGAOYyu7KTHXXm8T9_BuQR7L67_sPwn9QOgc2SBmYdyDtxN7sWyuD69x1cIwcoaV-UStWfFzUBz7KhOd0shYgVOQH--NVluhxDLwsNGNHuNGXolJcNHjX4psjl"
+        },
+        {
+          "label": "德黑兰下油雨成黑暗之城…伊朗警告：对海湾国家采取类似措施 - 朝鲜日报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPFbOhysBwK5b9A-xcnyrHMKm1Ds7cJnyBOV7BnBD8SfGQAzi8dZcuiR5495Vs7JBFNvJx_uLgomxg0iHnXPn9e5I7KOdhT8UU7wS0zGDLucQH43fHm3Qd9SDNCAWK_xlDKRl5MX0BjlJf-us69omeJMRosNx2FjbvHCW-dQbmKvrOTJilA-zSgGs="
         }
       ],
       "baselineSources": [],
@@ -342,7 +358,7 @@
       "normalizedType": "oil",
       "normalizedValue": 300,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减产量及炼油加工量。初步规模约10万桶/日，预计3月8日增至约30万桶/日。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减产量及炼油加工量。初步约10万桶/日，预计8日增至约30万桶/日。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -403,6 +419,14 @@
         {
           "label": "Oil and gas prices rise rapidly as Iran war escalates | PBS News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2_rlh-UD8BeCXNL7DBL5BNt1Ecxn1wn85Bm0E5wHwUcUGOZiuGUpixPkwgePYtWSVqIohWaJ1AOEoYkP-C5IWE_Or1C-d-o3WdGxoci3VyOc2bH4L1Xw_kfP_WKPBGVccKM_q9xBN8oZyLf_5o9FrWr9upVLdPLNP5ToaoVJ5XebSi3HGTWA6OucYjvGvH3mkA=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "央视网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
         }
       ],
       "baselineSources": [],
@@ -419,7 +443,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示，在“伊朗威胁霍尔木兹海峡船只安全通行”后，正在降低油田和炼油厂产量。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后正在降低油田和炼油厂产量。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -476,6 +500,14 @@
         {
           "label": "科威特石油公司宣布石油销售受不可抗力影响 - 深蓝财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBOkfYbfJ49cTorXlnpeXJAwy88N7364GHUM2W87nOmBTAkjw_VUenAGgyPI3Ujvt5ALRCD7y2CiXLtQkDfhcRR4CCj1fu0S2qanlsGEP6rFDkpqf7AIUN4_4iEjIf0Q="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "央视网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
         }
       ],
       "baselineSources": [],
@@ -492,7 +524,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示，在“伊朗威胁霍尔木兹海峡船只安全通行”后，正在降低油田和炼油厂产量。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后正在降低油田和炼油厂产量。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -549,6 +581,14 @@
         {
           "label": "科威特石油公司宣布石油销售受不可抗力影响 - 深蓝财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBOkfYbfJ49cTorXlnpeXJAwy88N7364GHUM2W87nOmBTAkjw_VUenAGgyPI3Ujvt5ALRCD7y2CiXLtQkDfhcRR4CCj1fu0S2qanlsGEP6rFDkpqf7AIUN4_4iEjIf0Q="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "央视网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
         }
       ],
       "baselineSources": [],
@@ -705,7 +745,7 @@
       "normalizedType": "oil",
       "normalizedValue": 448,
       "status": "部分停运 / 不可抗力",
-      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。3月5日，BAPCO因中东冲突关闭日产44.8万桶的两套原油装置。3月9日巴林Bapco能源公司宣布不可抗力。",
+      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。5日BAPCO因中东冲突关闭日产44.8万桶的两套原油装置。9日巴林Bapco能源公司宣布不可抗力。",
       "sources": [
         {
           "label": "TVBS - LINE TODAY",
@@ -843,7 +883,7 @@
       "normalizedType": "lng",
       "normalizedValue": 77,
       "status": "已停产",
-      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。3月9日拉斯拉凡LNG全面停产。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供过于求转短缺。预计恢复需约四周：两周重启、两周达产。",
+      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。9日拉斯拉凡LNG全面停产。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供过于求转短缺。预计恢复需约四周。",
       "sources": [
         {
           "label": "阿联酋通讯社",
@@ -888,6 +928,14 @@
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bDMpIBMRjzozoCAGsZUGMLfooIOTyU3ykbhwFmVxvURJdu4dyIIHmKQjcI6PfukDAnjAgHhmlkg46viUFidM0TBmQ91lEP1F6sEE5koznf2Rl9u2D0SRl6LlOdMUbEU8UAU0-eUc-M6tIy7Y6k_Pr1Urd1tuYY90OqE="
+        },
+        {
+          "label": "鉅亨網",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt18kfcvdQtjY1DhlfIcCrncgivoCMuwTGScdQygjH8U9ellH7U5cY0H61HXs0o3yjAUEfjvNT285nOwwdZTowQZxg9GIheldUFzABT16ZJYzRRLfxSe54zBK_BX2pA9EG79JSNMuUdxqgvg=="
+        },
+        {
+          "label": "液化天然气商品报价动态（2026-03-09） - 生意社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCN3NTLj4-xwB0zjjnWJ_1_URyyPOwjzu9HSY2assvwemgIhUbNjoaVKaROMYiWn44pEQfx95jOVATMQEA7c0TI2dfmzP0RFCkGPwBek0tqRjrnnKuCMo-Uo7ywK75o2L7CHK0lX58aixJnZe54VxZy4g=="
         }
       ],
       "baselineSources": [],
@@ -960,7 +1008,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "间接受限",
-      "current": "井场未确认受袭。ADNOC表示正“管理海上生产水平以应对存储需求”，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。3月7日-8日，ADNOC确认正在管理海上产量，陆上运行继续。",
+      "current": "井场未确认受袭。ADNOC表示正\"管理海上生产水平以应对存储需求\"，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。7-8日，ADNOC确认正在管理海上产量，陆上运行继续。",
       "sources": [
         {
           "label": "阿布扎比国家石油公司：陆上作业仍继续正管理离岸产量 - HK01",
@@ -981,6 +1029,14 @@
         {
           "label": "Israel-Iran war LIVE: Iran launches new attacks at Gulf Arab countries as it keeps up pressure on the region - The Hindu",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxGEtWeBFpEuh5StYa6kVOFbjUBMIQtBfK33_ma3qOnqLqaaI_tjT4LyqMHf3BB5JFgK-W7PthuCuey7a1An9gxSa4yD3nmsDIKavkC-ikz8faTXjjcoCI4UKG-_iGYElPoa2WQk-v-4ETUzcDt3pwJxkVqmhO7JvZuT7RXku9CyfGFCJ5snKc3fSo_O7W_2B-Cu0SWGPywuoLuMlXLQHD8gg51s0RS39kvocfR7d49Zjk9t28WAU="
+        },
+        {
+          "label": "Reuters ADNOC",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkjuw8SUedXfK2F1QzBUZAEVI4nIGf7vUrv-Ds4IMgdts1wjeRb96JzwNz5iEkkUgU_5_4YMpbc5CaY-9-ziJozwow2XO-72hpr6mRrMdOqGxZePOCi4Yz-34u-g7YXYuQqoevzZSJSXs9BAFDytN8nT4mPgdnizMK-q2RZSuUpfWagrau1Yd0SUkNYOlhs0nMoLyhstAQxdikvjTwv8rlWw-3pDiIDV3jk0c4-RxDErJ_Q=="
+        },
+        {
+          "label": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says - BOE Report",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkfN2RQDfOgz-5sx5DATvUGCVNTLu3uU8ZkWYu45IcdqZ5VNnQ3b_-TGEsXTxfhhWKci3UwmPsSVkD9vj7QZngEjtb1Zl5QmuO-yu6QMtfBlh8Rz6NSFz9fNCOmgGnoDTRhNL7WD3UvQGvIxkl9sjH198eRYxu25E1ZcsSZIV89L8ZzP9GE-4qIZ3bnTOC6v_rqfbDg1obgIA2KSl7u8JOrQ=="
         }
       ],
       "baselineSources": [],
@@ -1089,7 +1145,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅造成财产损失，无人员伤亡。",
+      "current": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅财产损失，无人员伤亡。",
       "sources": [
         {
           "label": "科威特国际机场两个燃料储罐遭袭 - 新华网",
@@ -1166,6 +1222,14 @@
         {
           "label": "科威特国际机场两个燃料储罐遭袭",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtZKlnmSY3fFC4D6SeS5FKcdUjGoQ6CVe9-bMWOczdELyTvVIvTcd8ILwn6fTGVsMks-jK1vFxKrM4VqNwWHArHYEfupeDETSNlpmc_OZvwbvMQtXhUt4f0slXqCoqIS-J75ovjVVU2RAZZ0="
+        },
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGOWvqYwF6wvXQZp42cNh8Yl7cX5tspu9Oifd802P9g4MTPIK-9pIthrf6lf8LN0TOMrBD0XeblJND5SHg2gAwo9BV2r8QspzOaVM3ZgxyijooIrSGpu0CiIESpQgbI3Txh1vr-wUcpwXhdIDAmk7E2KfQy9AXv9AnBjwqxzOl9fAmfzC35n562gVD79HeO6pFi7JLbvzF7JUH0J7_JlMeSymlUVMwhB4O4a41JH0b8J5ld7mBQUY"
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjKBDeBGZtf9lBsPpD9m9qXJzUB5KpWOg5O-f_TmEG6fBEDv2HRyt4TuDs17ys5jHIXsTkr4SASdIhzspDiQyRI9RLGlPWazBS2-1W8Sv2ezyq5J5cJZVSpjY-hTGJnpYn2XRl07D8NxfRvFzzf0qZ2IzeElG"
         }
       ],
       "baselineSources": [],
@@ -1241,9 +1305,9 @@
     {
       "country": "伊朗",
       "facility": "德黑兰炼油厂",
-      "category": "炼厂 / 化工",
+      "category": "炼厂",
       "status": "遭轰炸",
-      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及一座炼油厂，部分产能中断。3月8日德黑兰出现黑色“石油雨”。伊朗外交部谴责美以袭击伊能源基础设施为“蓄意化学战争”。",
+      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及炼油厂，部分产能中断。8日德黑兰出现黑色\"石油雨\"。伊朗外交部谴责美以袭击为\"蓄意化学战争\"。",
       "designValue": null,
       "designUnit": "kbpd",
       "affectedValue": null,
@@ -1274,6 +1338,14 @@
         {
           "label": "美以打击伊朗油库油价牵动欧美“神经” - 人民网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpsyaI0OqU2fnJrvazPgeobGjqK9reHf5Ftkehlh_jh-BvxFqbn_dgvZVo-yB1GOPdcVUqXSq5pqymApzKZkSxLcg8KBIEWFi5NgoseCYm0OJ7GAW7flXMD_609srXSgKYK642Tyh_NW_ISW6lzlTUdGcocYM="
+        },
+        {
+          "label": "人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfqGZEW1LVnew0IPm9i5NK5ISPpO-QNhFagDtclJW4O2x3d7LRbCxYvHKMBPBrBDChBhL4Mq7tUmW_5APkuoyhCuylS6yGolSy0AX9BO7gNNhq5x8cAhtZF-W8BcGawgHcbh0yvJ5b-cYF9SHIgmiMUK9s-YDe"
+        },
+        {
+          "label": "中央广播电视总台",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDQpNSkLM_Gc78btmurksQg-E_-fBAIIc18PnGvuO3dImy0t6-kjknQ5cGAOYyu7KTHXXm8T9_BuQR7L67_sPwn9QOgc2SBmYdyDtxN7sWyuD69x1cIwcoaV-UStWfFzUBz7KhOd0shYgVOQH--NVluhxDLwsNGNHuNGXolJcNHjX4psjl"
         }
       ],
       "baselineSources": [],
@@ -1392,6 +1464,10 @@
         {
           "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPagsIoC7lnROV_RzhAJfeHmoSLVf0e3QsdW5Q6TLFGMt4qHSiJy4fe1vIpyC6jGhinNXdZOMAMufBlxdwRJSe1R3Z-5xmLBoai2src1MCff4kES8ZAxly5ncWdpKaZcLc2SboNTtW0C_wPchuQwX7L5t6rJ6O_g5Tn3LPkvjbgCw_xlJtjiHwnsQELEQHHR71BbCJFjlikpuuU7k="
+        },
+        {
+          "label": "突袭轰炸炼油厂这国宣告：战事进入新阶段 - 万维读者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpW4Rz7nWSprDgJZLZ7GOocherY3watkOScdYV0-RbaXJR61YJujBP7P5_fcY8NkZX7MPiBMFXv5omeQ9XEO5ijja6RSbBUivNN0XOIDtyu8nFZFv23pABRt4k04qXu7G0gXxw4rjCPY2xfONjmGn83g=="
         }
       ],
       "baselineSources": [],
@@ -1428,6 +1504,10 @@
         {
           "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPagsIoC7lnROV_RzhAJfeHmoSLVf0e3QsdW5Q6TLFGMt4qHSiJy4fe1vIpyC6jGhinNXdZOMAMufBlxdwRJSe1R3Z-5xmLBoai2src1MCff4kES8ZAxly5ncWdpKaZcLc2SboNTtW0C_wPchuQwX7L5t6rJ6O_g5Tn3LPkvjbgCw_xlJtjiHwnsQELEQHHR71BbCJFjlikpuuU7k="
+        },
+        {
+          "label": "伊朗称德黑兰等地多处储油设施遭袭 - 联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWoQ1KMpIXNrd-R1NEA02ZOPsRqzfHtlUnNN6k2hLkq33cA__MUO0OI5JoG6Znj37nPRdVH74r7Owb-Cmskrg6DNVuHq9RMdWNPTs3kmHwuxnQ9v6t9XkEiz7oPpkc58yFSPs="
         }
       ],
       "baselineSources": [],
@@ -1443,12 +1523,16 @@
       "facility": "阿尔马米尔石油设施",
       "category": "石油设施",
       "status": "遭袭击 / 起火",
-      "current": "3月9日，伊朗袭击巴林阿尔马米尔石油设施，引发火灾并造成财产损失。",
+      "current": "3月9日，伊朗袭击巴林阿尔马米尔石油设施，引发火灾，造成财产损失。",
       "products": [],
       "sources": [
         {
           "label": "Bombing of Iran's oil infrastructure to have major environmental fallout, experts warn",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZw05pcGvg-2qMMAvfUNVg1nXWBM0Ag0aYIkxzEzbH80wWHUz1lUe4hA5Rd-JGcUVp3oApshWnApspyDjyzhwI5rJRv3L65tLerOoiWzS-pSb92M9Zcv5G1UyfLWo2NOSzOk_38nYAv6J3yC-7n5TFFQONflvXd_B9hBjtSF4VQrH8DxoDf_WWERCZ6t8dTH9nWnYe5RbCQEVQNzEKm5aIVhzo2BaLOBnVHNfCx7tAYVEp66yB4iUC7fTPVXQ="
+        },
+        {
+          "label": "US-Israel war on Iran, day 9: New strikes hit Tehran; UAE intercepts missile as Gulf attacks escalate",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_wKa-V8Foa_ppte5nyikzE5aWvLFXIMTNzCXTri4HD6HOBi_F3WxPTO3phTn71lIOhTiQWpe3QIv2B7-6AYGETl_Wmq6caN0BVoihNOjFVINrAJ_cJcoTXzkrmYGbvYxtBSfqPWS_1eaMFkhnzTWzjAtJbL-P0PxBd4M-hfR3Umrp2kDkMlNf_cyX6dQSe2UUdmCFXY4UkKyrGKc98TcX9TFIftaW3DRaOekMGPN0kV7PlNy6AVc2JDMfUDZShc7WsBwTtigMtN1ww=="
         }
       ],
       "baselineSources": [],
@@ -1470,7 +1554,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "减产 / 不可抗力",
-      "current": "3月7日，科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，对原油生产和提炼实施预防性削减。3月8日，科威特石油公司表示正在降低油田和炼油厂产量。",
+      "current": "3月7日，科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。",
       "products": [
         "原油",
         "成品油"
@@ -1527,6 +1611,14 @@
         {
           "label": "Oil and gas prices rise rapidly as Iran war escalates | PBS News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2_rlh-UD8BeCXNL7DBL5BNt1Ecxn1wn85Bm0E5wHwUcUGOZiuGUpixPkwgePYtWSVqIohWaJ1AOEoYkP-C5IWE_Or1C-d-o3WdGxoci3VyOc2bH4L1Xw_kfP_WKPBGVccKM_q9xBN8oZyLf_5o9FrWr9upVLdPLNP5ToaoVJ5XebSi3HGTWA6OucYjvGvH3mkA=="
+        },
+        {
+          "label": "AASTOCKS 财经新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
+        },
+        {
+          "label": "央视网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
         }
       ],
       "baselineSources": []
@@ -1536,7 +1628,7 @@
       "facility": "全国石油生产",
       "category": "原油生产",
       "status": "减产",
-      "current": "3月8日，阿联酋开始削减石油产量。阿布扎比国家石油公司表示正“管理海上生产水平以应对存储需求”。",
+      "current": "3月8日，阿联酋开始削减石油产量。阿布扎比国家石油公司表示正\"管理海上生产水平以应对存储需求\"。",
       "products": [
         "原油"
       ],
@@ -1560,6 +1652,10 @@
         {
           "label": "Israel-Iran war LIVE: Iran launches new attacks at Gulf Arab countries as it keeps up pressure on the region - The Hindu",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxGEtWeBFpEuh5StYa6kVOFbjUBMIQtBfK33_ma3qOnqLqaaI_tjT4LyqMHf3BB5JFgK-W7PthuCuey7a1An9gxSa4yD3nmsDIKavkC-ikz8faTXjjcoCI4UKG-_iGYElPoa2WQk-v-4ETUzcDt3pwJxkVqmhO7JvZuT7RXku9CyfGFCJ5snKc3fSo_O7W_2B-Cu0SWGPywuoLuMlXLQHD8gg51s0RS39kvocfR7d49Zjk9t28WAU="
+        },
+        {
+          "label": "《商品》阿联酋及科威特分别宣布减产伊朗克南部油区据报减产每日300万桶",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdpy-Tr-jLUCDtaGfhry2ForXfmWRFbflxITZHgDQ_sytW3rz3paIgBpIayc9UbDfzJAZywWtF_eEte50FHzWosqgDgr77fI5ySE38m1LgSAGBSGZjNdY8g4dj6NFpohAiMZSYIvRjMF8GA8cM8-06FN9p2HXfdw=="
         }
       ],
       "baselineSources": [],
@@ -1579,7 +1675,7 @@
       "normalizedType": "oil",
       "normalizedValue": 3000,
       "status": "减产",
-      "current": "3月7日，伊拉克因储存能力接近极限，石油产量每日削减150万桶。3月8日，霍尔木兹海峡出口受阻，伊拉克南部油田产量降至每日130万桶，较战前每日430万桶减少约300万桶。3月9日，伊拉克原油产量骤降近70%，平均每日约80万桶。",
+      "current": "3月7日，伊拉克因储存能力接近极限，石油日产量削减150万桶。8日霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，约80万桶/日。",
       "products": [
         "原油"
       ],
@@ -1607,6 +1703,10 @@
         {
           "label": "The Iran Conflict Is Sending Oil Prices Soaring—What Happens Next? - CSIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKGqj5-qIh5auNbMVF7Nu2jXVm1dKhJk5dBGcCJzt-dA7qmY53FxCZ9MTQY16EuPH-ZNrx4GVXMhyP_fLlCW0KRGG9nj2NSRfj6bGDRuD8XAvE893i6v8nALFHC42mEewgI66-nU-ngLFsjbJ4TTVOZbGm9yQ30DwrePAjLfin9IZcJysiv8ZRa7Pde08xRzQ4w=="
+        },
+        {
+          "label": "《商品》阿联酋及科威特分别宣布减产伊朗克南部油区据报减产每日300万桶",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdpy-Tr-jLUCDtaGfhry2ForXfmWRFbflxITZHgDQ_sytW3rz3paIgBpIayc9UbDfzJAZywWtF_eEte50FHzWosqgDgr77fI5ySE38m1LgSAGBSGZjNdY8g4dj6NFpohAiMZSYIvRjMF8GA8cM8-06FN9p2HXfdw=="
         }
       ],
       "baselineSources": [],
@@ -1646,6 +1746,10 @@
         {
           "label": "巴林：海水淡化廠遭伊朗襲擊 - 华侨网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELCaV2zwfnh_qpRqc6barg3l7SajVfIdQmp554fGrIIRscKesCrU90xzbhCEfBCD94oTaWBXnGuQk9sGwjMhSqbf7HhMPoulcqAMjTZ4f5JSZTiWRmy49pnGL54glNbfcsUhALPxo="
+        },
+        {
+          "label": "US-Israel war on Iran, day 9: New strikes hit Tehran; UAE intercepts missile as Gulf attacks escalate",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_wKa-V8Foa_ppte5nyikzE5aWvLFXIMTNzCXTri4HD6HOBi_F3WxPTO3phTn71lIOhTiQWpe3QIv2B7-6AYGETl_Wmq6caN0BVoihNOjFVINrAJ_cJcoTXzkrmYGbvYxtBSfqPWS_1eaMFkhnzTWzjAtJbL-P0PxBd4M-hfR3Umrp2kDkMlNf_cyX6dQSe2UUdmCFXY4UkKyrGKc98TcX9TFIftaW3DRaOekMGPN0kV7PlNy6AVc2JDMfUDZShc7WsBwTtigMtN1ww=="
         }
       ],
       "baselineSources": [],
@@ -2199,6 +2303,10 @@
         {
           "label": "Israel-Iran war LIVE: Iran launches new attacks at Gulf Arab countries as it keeps up pressure on the region - The Hindu",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxGEtWeBFpEuh5StYa6kVOFbjUBMIQtBfK33_ma3qOnqLqaaI_tjT4LyqMHf3BB5JFgK-W7PthuCuey7a1An9gxSa4yD3nmsDIKavkC-ikz8faTXjjcoCI4UKG-_iGYElPoa2WQk-v-4ETUzcDt3pwJxkVqmhO7JvZuT7RXku9CyfGFCJ5snKc3fSo_O7W_2B-Cu0SWGPywuoLuMlXLQHD8gg51s0RS39kvocfR7d49Zjk9t28WAU="
+        },
+        {
+          "label": "Reuters ADNOC",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkjuw8SUedXfK2F1QzBUZAEVI4nIGf7vUrv-Ds4IMgdts1wjeRb96JzwNz5iEkkUgU_5_4YMpbc5CaY-9-ziJozwow2XO-72hpr6mRrMdOqGxZePOCi4Yz-34u-g7YXYuQqoevzZSJSXs9BAFDytN8nT4mPgdnizMK-q2RZSuUpfWagrau1Yd0SUkNYOlhs0nMoLyhstAQxdikvjTwv8rlWw-3pDiIDV3jk0c4-RxDErJ_Q=="
         }
       ]
     },
@@ -2275,6 +2383,10 @@
         {
           "label": "科威特国际机场两个燃料储罐遭袭",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtZKlnmSY3fFC4D6SeS5FKcdUjGoQ6CVe9-bMWOczdELyTvVIvTcd8ILwn6fTGVsMks-jK1vFxKrM4VqNwWHArHYEfupeDETSNNlpmc_OZvwbvMQtXhUt4f0slXqCoqIS-J75ovjVVU2RAZZ0="
+        },
+        {
+          "label": "Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGOWvqYwF6wvXQZp42cNh8Yl7cX5tspu9Oifd802P9g4MTPIK-9pIthrf6lf8LN0TOMrBD0XeblJND5SHg2gAwo9BV2r8QspzOaVM3ZgxyijooIrSGpu0CiIESpQgbI3Txh1vr-wUcpwXhdIDAmk7E2KfQy9AXv9AnBjwqxzOl9fAmfzC35n562gVD79HeO6pFi7JLbvzF7JUH0J7_JlMeSymlUVMwhB4O4a41JH0b8J5ld7mBQUY"
         }
       ]
     },
@@ -2447,6 +2559,10 @@
         {
           "label": "Israel-Iran war LIVE: Iran launches new attacks at Gulf Arab countries as it keeps up pressure on the region - The Hindu",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxGEtWeBFpEuh5StYa6kVOFbjUBMIQtBfK33_ma3qOnqLqaaI_tjT4LyqMHf3BB5JFgK-W7PthuCuey7a1An9gxSa4yD3nmsDIKavkC-ikz8faTXjjcoCI4UKG-_iGYElPoa2WQk-v-4ETUzcDt3pwJxkVqmhO7JvZuT7RXku9CyfGFCJ5snKc3fSo_O7W_2B-Cu0SWGPywuoLuMlXLQHD8gg51s0RS39kvocfR7d49Zjk9t28WAU="
+        },
+        {
+          "label": "《商品》阿联酋及科威特分别宣布减产伊朗克南部油区据报减产每日300万桶",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdpy-Tr-jLUCDtaGfhry2ForXfmWRFbflxITZHgDQ_sytW3rz3paIgBpIayc9UbDfzJAZywWtF_eEte50FHzWosqgDgr77fI5ySE38m1LgSAGBSGZjNdY8g4dj6NFpohAiMZSYIvRjMF8GA8cM8-06FN9p2HXfdw=="
         }
       ]
     },
@@ -2595,6 +2711,10 @@
         {
           "label": "Bombing of Iran's oil infrastructure to have major environmental fallout, experts warn",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZw05pcGvg-2qMMAvfUNVg1nXWBM0Ag0aYIkxzEzbH80wWHUz1lUe4hA5Rd-JGcUVp3oApshWnApspyDjyzhwI5rJRv3L65tLerOoiWzS-pSb92M9Zcv5G1UyfLWo2NOSzOk_38nYAv6J3yC-7n5TFFQONflvXd_B9hBjtSF4VQrH8DxoDf_WWERCZ6t8dTH9nWnYe5RbCQEVQNzEKm5aIVhzo2BaLOBnVHNfCx7tAYVEp66yB4iUC7fTPVXQ="
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojrkQPBwUld7PuIkHZ7S1ZkLhgQgvJwb7lmz9b2Jg0DdvP9BxQKtzPikNYg4JB5NVH_h1qCC0mkSSY-bkJVa07AIiV57KaKlffKbMsbn8NUPH_RE9kD1bra11yg=="
         }
       ]
     },
@@ -2869,6 +2989,10 @@
         {
           "label": "The Iran Conflict Is Sending Oil Prices Soaring—What Happens Next? - CSIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKGqj5-qIh5auNbMVF7Nu2jXVm1dKhJk5dBGcCJzt-dA7qmY53FxCZ9MTQY16EuPH-ZNrx4GVXMhyP_fLlCW0KRGG9nj2NSRfj6bGDRuD8XAvE893i6v8nALFHC42mEewgI66-nU-ngLFsjbJ4TTVOZbGm9yQ30DwrePAjLfin9IZcJysiv8ZRa7Pde08xRzQ4w=="
+        },
+        {
+          "label": "Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHEt9MdrYLKk4ZHTHY8lOQDD6CC1oXcEnjfNdnmKe4q7MmWud8ODXx4ZolciuoZidzwuxHQ_T_C3ApBVsaBw22MNQGsySjbQEpxAW6HiEVPDUPp_-aWX769ibwv9I7aZniQTEmwMt_MfIUFWLBW9NhZaXASGIyOKJG0uw3S9eUXJOUNzOalrEfaqsYnzUA3dukRhVSaVwMQw=="
         }
       ]
     },
@@ -3490,6 +3614,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf9aeolsLo8NG2Js04NSd82wWucAzhy8WJNUT8x_YAmMoMuguqvMOwXcjNu9fkKX8PRpsW9ZJl7pv_j9CHHmMuZNX-k4MxZ6GeyBivT7rGTcuhWPTklT-eiiHSHSNFHHgX1JpJmA9LEObGALoYJM9l6FiofOoJNT0cKInbeCUv0FAeu5TEz0IDWSIoesEmF3d6HsmuxA=="
         },
         {
+          "label": "Trading Key",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2h1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
+        },
+        {
           "label": "U.S. Energy Information Administration (EIA)",
           "url": "https://www.eia.gov/"
         },
@@ -3652,6 +3780,10 @@
         {
           "label": "据报日本政府下令为释放石油储备做准备财经新闻Financial News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf9aeolsLo8NG2Js04NSd82wWucAzhy8WJNUT8x_YAmMoMuguqvMOwXcjNu9fkKX8PRpsW9ZJl7pv_j9CHHmMuZNX-k4MxZ6GeyBivT7rGTcuhWPTklT-eiiHSHSNFHHgX1JpJmA9LEObGALoYJM9l6FiofOoJNT0cKInbeCUv0FAeu5TEz0IDWSIoesEmF3d6HsmuxA=="
+        },
+        {
+          "label": "Trading Key",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2h1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         }
       ]
     },
