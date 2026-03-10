@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 14:15（北京时间）",
+  "lastUpdated": "2026-03-10 14:29（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -1843,6 +1843,127 @@
         }
       ],
       "baselineSources": []
+    },
+    {
+      "country": "科威特",
+      "category": "炼厂",
+      "facility": "米纳阿卜杜拉炼油厂",
+      "products": [
+        "汽油",
+        "柴油",
+        "航空燃油",
+        "燃料油"
+      ],
+      "designValue": 454000,
+      "designUnit": "桶/天",
+      "affectedValue": 454000,
+      "affectedUnit": "桶/天",
+      "normalizedType": "oil",
+      "normalizedValue": 454000,
+      "status": "已停产",
+      "current": "2026年3月5日，因中东冲突，科威特国家石油公司关闭米纳阿卜杜拉炼油厂（日处理45.4万桶）。",
+      "sources": [
+        {
+          "label": "金十期货",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnW4JVWHG-kJE3cCQ0Zhwoa-m-FUSbR6E7_x66T3Ny3JjinsOQGYD_wn-5ZVE-iTgSVQo_lYm29F32yekIC0jmehysv3eqtMk1KnrtZwJUtuJmoFYapUSLEZENzOCRNpjP"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "泰国",
+      "category": "国家政策 / 贸易调整",
+      "facility": "全国石油产品出口",
+      "products": [
+        "成品油"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已禁止出口",
+      "current": "2026年3月5日，泰国全面禁止石油产品出口，以应对霍尔木兹海峡关闭，保障60天战略燃料储备。",
+      "sources": [
+        {
+          "label": "金十期货",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnW4JVWHG-kJE3cCQ0Zhwoa-m-FUSbR6E7_x66T3Ny3JjinsOQGYD_wn-5ZVE-iTgSVQo_lYm29F32yekIC0jmehysv3eqtMk1KnrtZwJUtuJmoFYapUSLEZENzOCRNpjP"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "韩国",
+      "category": "炼厂 / 化工",
+      "facility": "LG化学大山工厂",
+      "products": [
+        "乙烯",
+        "石脑油"
+      ],
+      "designValue": 1.27,
+      "designUnit": "百万吨/年",
+      "affectedValue": 0.5842,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": 0.5842,
+      "status": "已减产",
+      "current": "2026年3月5日，LG化学大山工厂（年产127万吨乙烯）开始分阶段降负，预计本周降至54%。",
+      "sources": [
+        {
+          "label": "MK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTh9FEMs68uDm5Awk3RNf5tKmSY7FT630zT5KsY78YzwA8u1psER55U7OIQkma5B3a4riQWNlIKwBMW703dOtozpny6qSF6eNpK-pcBBwvlMUs97gFxxFtidfVCuKI8oG6FRl_"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "韩国",
+      "category": "炼厂 / 化工",
+      "facility": "LG化学丽水工厂",
+      "products": [
+        "乙烯",
+        "石脑油"
+      ],
+      "designValue": 2.08,
+      "designUnit": "百万吨/年",
+      "affectedValue": null,
+      "affectedUnit": "暂无",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已减产",
+      "current": "2026年3月9日，LG化学丽水工厂（年产208万吨乙烯）将阶段性减产，1号、3号机组分别降至64%和73%。",
+      "sources": [
+        {
+          "label": "MK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTh9FEMs68uDm5Awk3RNf5tKmSY7FT630zT5KsY78YzwA8u1psER55U7OIQkma5B3a4riQWNlIKwBMW703dOtozpny6qSF6eNpK-pcBBwvlMUs97gFxxFtidfVCuKI8oG6FRl_"
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "韩国",
+      "category": "炼厂 / 化工",
+      "facility": "大韩油化温山工厂",
+      "products": [
+        "乙烯",
+        "石脑油"
+      ],
+      "designValue": 0.9,
+      "designUnit": "百万吨/年",
+      "affectedValue": 0.045,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": 0.045,
+      "status": "考虑减产",
+      "current": "2026年3月9日，大韩油化研拟将温山工厂（年产90万吨乙烯）开工率从80%降至75%。",
+      "sources": [
+        {
+          "label": "MK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTh9FEMs68uDm5Awk3RNf5tKmSY7FT630zT5KsY78YzwA8u1psER55U7OIQkma5B3a4riQWNlIKwBMW703dOtozpny6qSF6eNpK-pcBBwvlMUs97gFxxFtidfVCuKI8oG6FRl_"
+        }
+      ],
+      "baselineSources": []
     }
   ],
   "timeline": [
@@ -3536,6 +3657,10 @@
         {
           "label": "基础油",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSS0VSj4p4dg0VuHE0jDNxgpTm4S9_VNttET6e7oHJxlepLksXdM3Oq5-JaM1In9eTQtnuy83k36EOiMez2yIrfBokniiYRjDtqGIEopQpddQ_aiU1lCoTudFOesnUQuxCovMwEwBSXzQaf2Jsg=="
+        },
+        {
+          "label": "基础油",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSS0VSj4p4dg0VuHE0jDNxgpTm4S9_VNttET6e7oHJxlepLksXdM3Oq5-JaM1In9eTQtnuy83k36EOiMez2yIrfBokniiYRjDtGGIYopQpddQ_aiU1lCoTudFOesnUQuxCovMwEwBSXzQaf2Jsg=="
         }
       ]
     },
@@ -3582,7 +3707,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 300000,
       "potentialLevelUnit": "千桶",
-      "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，讨论协调释放3亿至4亿桶全球战略石油储备，以应对中东冲突导致的油价飙升。G7表示已准备好采取必要措施，包括动用战略储备来稳定市场，但尚未决定具体行动。",
+      "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，讨论协调释放全球战略石油储备，以应对中东冲突导致的油价飙升。会议联合文件写明G7已准备采取必要措施，包括释放储备，但目前尚未决定采取行动，因认为尚未出现供应短缺。",
       "current": "按G7成员国现有库存基线合计，当前总油品库存代理约205697.69999999998千吨、库存可用天数约46.7天；另有潜在库存行动新闻需单独观察。",
       "sources": [
         {
@@ -3762,8 +3887,8 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "日本政府已向国家石油储备基地发出准备指令，要求相关机构做好原油释放的技术与物流准备，以应对中东冲突对能源供应的冲击。 日本约95%原油进口依赖中东，且多数需经霍尔木兹海峡。日本内阁官房长官于3月9日表示尚未决定动用战略石油储备。",
-      "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可满足约200天进口需求。",
+      "potentialReason": "中东危机持续，日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备。日本内阁官房长官于3月9日表示尚未决定动用战略石油储备。",
+      "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可满足约200天进口需求。日本政府已指示准备释放石油储备，但尚未作出最终决定。",
       "sources": [
         {
           "label": "Trading Key",
@@ -3800,8 +3925,8 @@
       "demandUnit": "tbpd",
       "coverDays": 48,
       "potentialCoverDays": null,
-      "potentialReason": "",
-      "current": "按IEA库存与EIA近12个月需求均值估算，韩国总油品库存可用天数约48天，对炼厂高开工和进口依赖仍较敏感。",
+      "potentialReason": "中东冲突导致油价飙升，韩国政府于2026年3月9日召集四大炼油商负责人要求稳定市场油价，并考虑实施近30年来首次石油价格上限制度。韩国政府还计划加强确保替代进口来源，并制定分阶段储备油释放计划以应对局势恶化。",
+      "current": "按IEA库存与EIA近12个月需求均值估算，韩国总油品库存可用天数约48天，对炼厂高开工和进口依赖仍较敏感。韩国政府正考虑实施油价上限制度，并可能启动战略储备。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -4010,8 +4135,8 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "印度于3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
-      "current": "2026年3月3日，印度政府消息人士透露，印度目前的原油库存可以维持25天。",
+      "potentialReason": "印度于2026年3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
+      "current": "2026年3月3日，印度政府消息人士透露，该国原油库存可维持25天。2026年3月9日，印度政府官员表示不会释放战略石油储备。",
       "sources": [
         {
           "label": "Binance News",

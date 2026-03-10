@@ -253,7 +253,7 @@
     <div class="grid summary-grid">
       <div class="card">
         <h3>直接 / 间接受影响汇总</h3>
-        <div class="section-kicker">按“直接受影响”和“间接受限”拆分；减产、停产、遭袭、不可抗力等状态统一并入直接受影响，原油按 kbpd、天然气按 mcm/d。</div>
+        <div class="section-kicker">按“直接受影响”和“间接受限”拆分；减产、停产、遭袭、不可抗力等状态统一并入直接受影响，但受影响量只统计明确填写的 affectedValue，避免把设计产能误算进来。</div>
         <div class="summary-stack">
           <div class="summary-chip"><span class="summary-chip-label">直接影响原油量</span><span class="summary-chip-value" id="directOilLoss">0 kbpd</span></div>
           <div class="summary-chip"><span class="summary-chip-label">间接影响原油量</span><span class="summary-chip-value" id="indirectOilLoss">0 kbpd</span></div>
@@ -506,8 +506,7 @@
     function getFilteredData() {
       const q = searchInput.value.trim().toLowerCase();
       return data.filter(item => {
-        const hasUsableSources = getUsableSources(item.sources).length > 0 || getUsableSources(item.baselineSources).length > 0;
-        if (!hasUsableSources) return false;
+        if (!hasUsableEventSources(item)) return false;
         const matchCountry = countryFilter.value === '全部' || item.country === countryFilter.value;
         const matchCategory = categoryFilter.value === '全部' || item.category === categoryFilter.value;
         const matchStatus = statusFilter.value === '全部' || item.status === statusFilter.value;
@@ -516,10 +515,48 @@
       });
     }
 
+    function getExplicitImpactValue(item, type) {
+      if (item.normalizedType !== type) return null;
+      if (typeof item.affectedValue !== 'number') return null;
+      return item.affectedValue;
+    }
+
+    function hasUsableEventSources(item) {
+      return getUsableSources(item?.sources).length > 0;
+    }
+
+    function isCountryAggregateAsset(item) {
+      const facility = `${item?.facility || ''}`.trim();
+      const category = `${item?.category || ''}`.trim();
+      return /全国|全国性|全国总量|国家级|总产量|整体/.test(facility) || /全国|国家/.test(category);
+    }
+
+    function summarizeImpactByCountry(items, type, status) {
+      const relevant = items
+        .filter(item => classifyStatus(item.status) === status && hasUsableEventSources(item))
+        .map(item => ({ ...item, impactValue: getExplicitImpactValue(item, type) }))
+        .filter(item => typeof item.impactValue === 'number');
+      const grouped = new Map();
+      relevant.forEach(item => {
+        const bucket = grouped.get(item.country) || [];
+        bucket.push(item);
+        grouped.set(item.country, bucket);
+      });
+      const result = {};
+      grouped.forEach((countryItems, country) => {
+        const aggregateItems = countryItems.filter(isCountryAggregateAsset);
+        if (aggregateItems.length) {
+          result[country] = Math.max(...aggregateItems.map(item => item.impactValue));
+          return;
+        }
+        result[country] = countryItems.reduce((sum, item) => sum + item.impactValue, 0);
+      });
+      return result;
+    }
+
     function sumImpact(items, type, status) {
-      return items
-        .filter(d => d.normalizedType === type && typeof d.normalizedValue === 'number' && classifyStatus(d.status) === status)
-        .reduce((sum, d) => sum + d.normalizedValue, 0);
+      return Object.values(summarizeImpactByCountry(items, type, status))
+        .reduce((sum, value) => sum + value, 0);
     }
 
     function formatValue(value, digits = 0) {
@@ -888,12 +925,7 @@
     }
 
     function renderLossChart(filtered) {
-      const byCountry = {};
-      filtered.forEach(item => {
-        if (item.normalizedType !== 'oil' || typeof item.normalizedValue !== 'number' || classifyStatus(item.status) !== 'direct') return;
-        if (!byCountry[item.country]) byCountry[item.country] = 0;
-        byCountry[item.country] += item.normalizedValue;
-      });
+      const byCountry = summarizeImpactByCountry(filtered, 'oil', 'direct');
       const labels = Object.keys(byCountry);
       const values = Object.values(byCountry);
       const ctx = document.getElementById('countryLossChart').getContext('2d');
