@@ -253,7 +253,7 @@
     <div class="grid summary-grid">
       <div class="card">
         <h3>直接 / 间接受影响汇总</h3>
-        <div class="section-kicker">按“已受影响”与“间接受限”拆分，原油统一按 kbpd、天然气统一按 mcm/d。</div>
+        <div class="section-kicker">按“直接受影响”和“间接受限”拆分；减产、停产、遭袭、不可抗力等状态统一并入直接受影响，原油按 kbpd、天然气按 mcm/d。</div>
         <div class="summary-stack">
           <div class="summary-chip"><span class="summary-chip-label">直接影响原油量</span><span class="summary-chip-value" id="directOilLoss">0 kbpd</span></div>
           <div class="summary-chip"><span class="summary-chip-label">间接影响原油量</span><span class="summary-chip-value" id="indirectOilLoss">0 kbpd</span></div>
@@ -435,6 +435,23 @@
       selectEl.innerHTML = values.map(v => `<option value="${v}">${v}</option>`).join('');
     }
 
+    function classifyStatus(status) {
+      const text = `${status || ''}`.trim();
+      if (!text) return 'unknown';
+      if ([
+        '已受影响', '已减产', '减产', '已停产', '已停运', '部分停运',
+        '已宣布不可抗力', '遭轰炸', '遭袭击', '遭袭击 / 受损', '暂停出口'
+      ].includes(text)) return 'direct';
+      if ([
+        '间接受限', '已受威胁', '面临停产风险', '计划停产', '考虑减产 / 调整出口 / 呼吁释储'
+      ].includes(text)) return 'indirect';
+      if (['未确认直接受影响', '运营未受影响'].includes(text)) return 'no_impact';
+      if (text === '情况不明 / 未确认') return 'unknown';
+      if (/停产|停运|减产|不可抗力|遭袭|轰炸|受损/.test(text)) return 'direct';
+      if (/风险|威胁|考虑|计划/.test(text)) return 'indirect';
+      return 'unknown';
+    }
+
     function canonicalizeInventoryCountry(country) {
       const text = `${country || ''}`.trim();
       return inventoryCountryAliasMap[text] || text;
@@ -473,9 +490,10 @@
     }
 
     function getBadgeClass(status) {
-      if (status === '已受影响') return 'badge red';
-      if (status === '间接受限') return 'badge amber';
-      if (status === '未确认直接受影响') return 'badge green';
+      const statusGroup = classifyStatus(status);
+      if (statusGroup === 'direct') return 'badge red';
+      if (statusGroup === 'indirect') return 'badge amber';
+      if (statusGroup === 'no_impact') return 'badge green';
       return 'badge slate';
     }
 
@@ -500,7 +518,7 @@
 
     function sumImpact(items, type, status) {
       return items
-        .filter(d => d.normalizedType === type && typeof d.normalizedValue === 'number' && d.status === status)
+        .filter(d => d.normalizedType === type && typeof d.normalizedValue === 'number' && classifyStatus(d.status) === status)
         .reduce((sum, d) => sum + d.normalizedValue, 0);
     }
 
@@ -572,19 +590,19 @@
 
     function renderStats(filtered) {
       totalCount.textContent = filtered.length;
-      affectedCount.textContent = filtered.filter(d => d.status === '已受影响').length;
-      indirectCount.textContent = filtered.filter(d => d.status === '间接受限').length;
-      noImpactCount.textContent = filtered.filter(d => d.status === '未确认直接受影响').length;
-      unknownCount.textContent = filtered.filter(d => d.status === '情况不明 / 未确认').length;
+      affectedCount.textContent = filtered.filter(d => classifyStatus(d.status) === 'direct').length;
+      indirectCount.textContent = filtered.filter(d => classifyStatus(d.status) === 'indirect').length;
+      noImpactCount.textContent = filtered.filter(d => classifyStatus(d.status) === 'no_impact').length;
+      unknownCount.textContent = filtered.filter(d => classifyStatus(d.status) === 'unknown').length;
     }
 
     function renderSummary(filtered) {
-      const directOil = sumImpact(filtered, 'oil', '已受影响');
-      const indirectOil = sumImpact(filtered, 'oil', '间接受限');
-      const directGas = sumImpact(filtered, 'gas', '已受影响');
-      const indirectGas = sumImpact(filtered, 'gas', '间接受限');
-      const directLng = sumImpact(filtered, 'lng', '已受影响');
-      const indirectLng = sumImpact(filtered, 'lng', '间接受限');
+      const directOil = sumImpact(filtered, 'oil', 'direct');
+      const indirectOil = sumImpact(filtered, 'oil', 'indirect');
+      const directGas = sumImpact(filtered, 'gas', 'direct');
+      const indirectGas = sumImpact(filtered, 'gas', 'indirect');
+      const directLng = sumImpact(filtered, 'lng', 'direct');
+      const indirectLng = sumImpact(filtered, 'lng', 'indirect');
       directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
       indirectOilLoss.textContent = `${formatValue(indirectOil)} kbpd`;
       directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
@@ -856,7 +874,7 @@
       const byCountry = {};
       filtered.forEach(item => {
         if (!byCountry[item.country]) byCountry[item.country] = 0;
-        if (item.status === '已受影响') byCountry[item.country] += 1;
+        if (classifyStatus(item.status) === 'direct') byCountry[item.country] += 1;
       });
       const labels = Object.keys(byCountry);
       const values = Object.values(byCountry);
@@ -872,7 +890,7 @@
     function renderLossChart(filtered) {
       const byCountry = {};
       filtered.forEach(item => {
-        if (item.normalizedType !== 'oil' || typeof item.normalizedValue !== 'number' || item.status !== '已受影响') return;
+        if (item.normalizedType !== 'oil' || typeof item.normalizedValue !== 'number' || classifyStatus(item.status) !== 'direct') return;
         if (!byCountry[item.country]) byCountry[item.country] = 0;
         byCountry[item.country] += item.normalizedValue;
       });
