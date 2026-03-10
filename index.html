@@ -105,6 +105,8 @@
     .mini-design { grid-area: design; }
     .mini-affected { grid-area: affected; }
     .mini-current { grid-area: current; }
+    .mini-secondary-group { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+    .mini-secondary-item { min-height: 0; }
     .mini-products { grid-column: 1 / -1; }
     .mini .mini-label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
     .mini .mini-value { font-size: 14px; line-height: 1.5; font-weight: 600; }
@@ -636,6 +638,14 @@
       return value;
     }
 
+    function displaySupplementalMetric(metric) {
+      if (!metric) return '暂无';
+      const value = metric.value;
+      if (value === null || value === undefined) return '暂无';
+      const digits = Number(value) < 10 ? 2 : 0;
+      return formatMetric(value, digits);
+    }
+
     function renderSourceGroup(sources, label) {
       const usable = getUsableSources(sources);
       if (!usable.length) return '';
@@ -737,6 +747,13 @@
           renderSourceGroup(item.sources, '事件来源'),
           renderSourceGroup(item.baselineSources, '背景 / 产能来源')
         ].join('');
+        const supplementalHtml = Array.isArray(item.secondaryMetrics) && item.secondaryMetrics.length
+          ? `<div class="mini-secondary-group">${item.secondaryMetrics.map(metric => `
+              <div class="mini mini-secondary-item">
+                <div class="mini-label">${metric.label}</div>
+                <div class="mini-value">${displaySupplementalMetric(metric)} ${metric.unit || ''}</div>
+              </div>`).join('')}</div>`
+          : '';
         const productHtml = item.products?.length
           ? `<div class="mini mini-products"><div class="mini-label">主要产品 / 涉及品种</div><div class="mini-text">${item.products.join('、')}</div></div>`
           : '';
@@ -762,6 +779,7 @@
                 <div class="mini-label">当前动态</div>
                 <div class="mini-text">${item.current}</div>
               </div>
+              ${supplementalHtml}
               ${productHtml}
             </div>
             ${sourceHtml}
