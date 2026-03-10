@@ -253,14 +253,13 @@
     <div class="grid summary-grid">
       <div class="card">
         <h3>直接 / 间接受影响汇总</h3>
-        <div class="section-kicker">按“直接受影响”和“间接受限”拆分；减产、停产、遭袭、不可抗力等状态统一并入直接受影响，但受影响量只统计明确填写的 affectedValue，避免把设计产能误算进来。</div>
+        <div class="section-kicker">按上游原油、天然气、LNG、炼厂及乙烯口径分别统计；单位统一折算后汇总，炼厂和化工产能不再并入原油上游。</div>
         <div class="summary-stack">
           <div class="summary-chip"><span class="summary-chip-label">直接影响原油量</span><span class="summary-chip-value" id="directOilLoss">0 kbpd</span></div>
-          <div class="summary-chip"><span class="summary-chip-label">间接影响原油量</span><span class="summary-chip-value" id="indirectOilLoss">0 kbpd</span></div>
           <div class="summary-chip"><span class="summary-chip-label">直接影响天然气量</span><span class="summary-chip-value" id="directGasLoss">0 mcm/d</span></div>
-          <div class="summary-chip"><span class="summary-chip-label">间接影响天然气量</span><span class="summary-chip-value" id="indirectGasLoss">0 mcm/d</span></div>
           <div class="summary-chip"><span class="summary-chip-label">直接影响 LNG 液化</span><span class="summary-chip-value" id="directLngLoss">0 mtpa</span></div>
-          <div class="summary-chip"><span class="summary-chip-label">间接影响 LNG 液化</span><span class="summary-chip-value" id="indirectLngLoss">0 mtpa</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">炼能影响量</span><span class="summary-chip-value" id="refiningImpactLoss">0 kbpd</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">乙烯产能影响量</span><span class="summary-chip-value" id="ethyleneImpactLoss">0 mtpa</span></div>
         </div>
       </div>
       <div class="card">
@@ -268,7 +267,7 @@
         <canvas id="countryChart"></canvas>
       </div>
       <div class="card">
-        <h3>各国明确受影响量（kbpd）</h3>
+        <h3>各国直接原油影响量（kbpd）</h3>
         <canvas id="countryLossChart"></canvas>
       </div>
     </div>
@@ -381,11 +380,10 @@
     const noImpactCount = document.getElementById('noImpactCount');
     const unknownCount = document.getElementById('unknownCount');
     const directOilLoss = document.getElementById('directOilLoss');
-    const indirectOilLoss = document.getElementById('indirectOilLoss');
     const directGasLoss = document.getElementById('directGasLoss');
-    const indirectGasLoss = document.getElementById('indirectGasLoss');
     const directLngLoss = document.getElementById('directLngLoss');
-    const indirectLngLoss = document.getElementById('indirectLngLoss');
+    const refiningImpactLoss = document.getElementById('refiningImpactLoss');
+    const ethyleneImpactLoss = document.getElementById('ethyleneImpactLoss');
 
     let data = [];
     let timelineData = [];
@@ -521,6 +519,29 @@
       return item.affectedValue;
     }
 
+    function normalizeImpactUnit(unit) {
+      return `${unit || ''}`.trim().toLowerCase();
+    }
+
+    function convertImpactValue(value, unit, targetUnit) {
+      if (typeof value !== 'number') return null;
+      const normalizedUnit = normalizeImpactUnit(unit);
+      if (targetUnit === 'kbpd') {
+        if (!normalizedUnit || normalizedUnit === 'kbpd') return value;
+        if (normalizedUnit === '桶/日' || normalizedUnit === 'bpd') return value / 1000;
+        return null;
+      }
+      if (targetUnit === 'mcm/d') {
+        if (!normalizedUnit || normalizedUnit === 'mcm/d' || normalizedUnit === '百万立方米/日') return value;
+        return null;
+      }
+      if (targetUnit === 'mtpa') {
+        if (!normalizedUnit || normalizedUnit === 'mtpa' || normalizedUnit === '百万吨/年') return value;
+        return null;
+      }
+      return null;
+    }
+
     function hasUsableEventSources(item) {
       return getUsableSources(item?.sources).length > 0;
     }
@@ -554,9 +575,28 @@
       return result;
     }
 
-    function sumImpact(items, type, status) {
-      return Object.values(summarizeImpactByCountry(items, type, status))
+    function isRefineryAsset(item) {
+      return `${item.category || ''}`.includes('炼厂');
+    }
+
+    function isUpstreamOilAsset(item) {
+      return item.normalizedType === 'oil' && !isRefineryAsset(item) && !`${item.category || ''}`.includes('化工');
+    }
+
+    function hasProduct(item, keyword) {
+      return Array.isArray(item.products) && item.products.some(product => `${product || ''}`.includes(keyword));
+    }
+
+    function sumDirectOilImpact(items) {
+      const upstreamOnly = items.filter(isUpstreamOilAsset);
+      return Object.values(summarizeImpactByCountry(upstreamOnly, 'oil', 'direct'))
         .reduce((sum, value) => sum + value, 0);
+    }
+
+    function sumSimpleMetric(items, { predicate, unit }) {
+      return items
+        .filter(item => ['direct', 'indirect'].includes(classifyStatus(item.status)) && hasUsableEventSources(item) && predicate(item))
+        .reduce((sum, item) => sum + (convertImpactValue(item.affectedValue, item.affectedUnit, unit) || 0), 0);
     }
 
     function formatValue(value, digits = 0) {
@@ -634,18 +674,28 @@
     }
 
     function renderSummary(filtered) {
-      const directOil = sumImpact(filtered, 'oil', 'direct');
-      const indirectOil = sumImpact(filtered, 'oil', 'indirect');
-      const directGas = sumImpact(filtered, 'gas', 'direct');
-      const indirectGas = sumImpact(filtered, 'gas', 'indirect');
-      const directLng = sumImpact(filtered, 'lng', 'direct');
-      const indirectLng = sumImpact(filtered, 'lng', 'indirect');
+      const directOil = sumDirectOilImpact(filtered);
+      const directGas = sumSimpleMetric(filtered, {
+        predicate: item => item.normalizedType === 'gas' && classifyStatus(item.status) === 'direct',
+        unit: 'mcm/d'
+      });
+      const directLng = sumSimpleMetric(filtered, {
+        predicate: item => item.normalizedType === 'lng' && classifyStatus(item.status) === 'direct',
+        unit: 'mtpa'
+      });
+      const refiningImpact = sumSimpleMetric(filtered, {
+        predicate: item => isRefineryAsset(item),
+        unit: 'kbpd'
+      });
+      const ethyleneImpact = sumSimpleMetric(filtered, {
+        predicate: item => hasProduct(item, '乙烯'),
+        unit: 'mtpa'
+      });
       directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
-      indirectOilLoss.textContent = `${formatValue(indirectOil)} kbpd`;
       directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
-      indirectGasLoss.textContent = `${formatValue(indirectGas)} mcm/d`;
       directLngLoss.textContent = `${formatValue(directLng, 1)} mtpa`;
-      indirectLngLoss.textContent = `${formatValue(indirectLng, 1)} mtpa`;
+      refiningImpactLoss.textContent = `${formatValue(refiningImpact)} kbpd`;
+      ethyleneImpactLoss.textContent = `${formatValue(ethyleneImpact, 2)} mtpa`;
     }
 
     function renderList(filtered) {
@@ -925,7 +975,7 @@
     }
 
     function renderLossChart(filtered) {
-      const byCountry = summarizeImpactByCountry(filtered, 'oil', 'direct');
+      const byCountry = summarizeImpactByCountry(filtered.filter(isUpstreamOilAsset), 'oil', 'direct');
       const labels = Object.keys(byCountry);
       const values = Object.values(byCountry);
       const ctx = document.getElementById('countryLossChart').getContext('2d');

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 14:29（北京时间）",
+  "lastUpdated": "2026-03-10 14:59（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -3644,7 +3644,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "中国拥有大量原油库存，可覆盖96-183天的2024年进口量，并在中东冲突期间指示炼厂减少加工量并可能动用库存以替代进口。",
-      "current": "截至2025年末，中国陆上原油库存（不含地下储油）约达11.3亿桶，创历史新高。2026年2月，约1.27亿桶伊朗原油位于亚洲东部水域，为中国提供额外战略缓冲。",
+      "current": "截至2025年末，中国陆上原油库存（不含地下储油）约11.3亿桶，创历史新高。2026年2月，约1.27亿桶伊朗原油位于亚洲东部水域，为中国提供额外战略缓冲。当局已指示炼油厂暂停汽油和柴油出口并降低加工率，以应对中东冲突可能导致的供应中断，或动用库存替代进口。",
       "sources": [
         {
           "label": "IEA Oil Market Report",
@@ -3661,6 +3661,14 @@
         {
           "label": "基础油",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSS0VSj4p4dg0VuHE0jDNxgpTm4S9_VNttET6e7oHJxlepLksXdM3Oq5-JaM1In9eTQtnuy83k36EOiMez2yIrfBokniiYRjDtGGIYopQpddQ_aiU1lCoTudFOesnUQuxCovMwEwBSXzQaf2Jsg=="
+        },
+        {
+          "label": "China's Inventory Builds Could Help Moderate Oil Market Tightness - AEGIS Hedging",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqAAILGlITYyeePtunFKiwQyM3u7toQlNrma0f1eHUgeMP1-MWm4akuGN-Yv6s4OGiUgPHSoEuxqUFTe1s4Q0J4r0XTgUTG_VFNJld0NgBgxlhK_7YFhn7V115NCod7qa5rJFW63xaIg4gErA9o4ZIWlU9yXZXxHHe4VRp9IR5Mt9VFesb6TuZda1LauDNrQa0CkiCXwwMX3Cat5M7JQ=="
+        },
+        {
+          "label": "Why China Wins When Oil Prices Spike | IFCM UK - CFD Trading",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6oN-UZu2bI4tz2ugr_pYLUOHV6hIxHMrwmE_pyT8PsgYCfaZPNlyZqSTDuCfmmAkF6IP9LElo_Cd-Ko_XtmnF_1djZMTq9dwYWlG4bNY09QTpWhkB8de9IHRSWhKvcaqJx-Uu_8-am_NPCm1fRD58VS_pA_4l2ZE8RxQpf_dh5mH2v7BvcIBHyn-1bwazYdB-Wuea_0pulCytLv7pXucr"
         }
       ]
     },
@@ -3723,6 +3731,14 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yacWlvhW9Eq_wN5TlvuFi30G2kxLKhpJbMVOP7ynXxn6LkYnwQxhQRMJWj3AvzLFbAnMrvRFRLrZT9GWUrfQA1apE3PBz0F6hX-etntZXV2sYH6xBC2FkPzNhIqwp7cuENG7k7_25OaDx_95zhc8HVX_I8n6qHY2DZid2sfU7Z1qcjqgjk2l3jC_oJZmZIGynSTf9LMJ7IKSU3I83g=="
         },
         {
+          "label": "日本炼油企业呼吁动用战略石油储备 - 深蓝财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBwG20tPz8UnJLfehDUeZuTZmTfz0Zp6swnvTYVHz3icncssjrwib0e1Dpqha8cUGGsstboCkDm13ZIAha1JLomOxv6QNmkpgpx11QI2fWc-MluHa2E3bvcCoOfxfS7vH4="
+        },
+        {
+          "label": "日本煉油企業據悉請求政府投放戰略儲備石油| 國際焦點 - 經濟日報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYnUyWl-mbi98gxHSmt4j2lnRrWgqLhULFIGneSxKzkR_GNO395YAlsUGMDbYsm1sdWvAsBBYMXyatlM2-DVztZ7Mfb7biaZyPdtBb1lh-7sq9sGGilfyOHeHQ9ivpJT04Tfgf1x8qu90="
+        },
+        {
           "label": "Trading Key",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         },
@@ -3743,6 +3759,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2h1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         },
         {
+          "label": "【环球财经】日媒：日本政府已下令做好释放石油储备的准备",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk2ZUsmLeWIrc6cqpmA9IhrxEp5O4jnKnArhnEJcKYDnt7TiZTXGrlezfzaivbMKF0taNSJikhKCRAB0f8Y4RlYQAyVgLb3ZVpaDpKFrKnGGTXU0jzZMpiy7aN2oolofiEUJqh97vnxZ1dFGTcb9FeUrYelmKASN3DMsXybl_exNjIgCDQUA=="
+        },
+        {
           "label": "U.S. Energy Information Administration (EIA)",
           "url": "https://www.eia.gov/"
         },
@@ -3759,8 +3779,40 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7elFBkSqgc2QSde_MOQBwAVcvcayP30MIpdaxNyTzpsAyNwdODckX2sjrsUpRg6meTVM06c09e7pPrzTL0tITv8efKo4TcFH24mCcmlPM1MSjfqibNcFpFK6OLhGaiKrqXPMuF6Jv3IjElpFnbPyZ"
         },
         {
+          "label": "Crude oil inventories - Weekly Petroleum Status Report",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkT9IAkwTvCCZ67E_z9iInUrj33iiKmETownTFsMbviZidFzGJsLvfR1D0XrlkgBWTKyrR7k02vIhARbwfntOCHrrpX1eSgi2bfVb2Yc4nzPuo6mtgin_kEGBQr3rtlBMAlEYiRGIzKKjAcB0kkIA_pUqEFMszTOGx"
+        },
+        {
+          "label": "United States Crude Oil Stocks Change - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELsloGaYTCfPAgAtZ7BmmdsNXSFbTVqPAQIJVhEog7WJjIRowG0fSqlt_zD1bCPH7DIC1qesX1IvKxWIEGNw4hOlxqmynu_HOK-jXs-iIxSLeLcGjQK7LZcwHnQbjbc9vdmhWxx0qAo686GYsUb1UizQBM4yLi65PMTJXa9Q=="
+        },
+        {
+          "label": "US commercial crude oil inventories increase by 3.475 million barrels - Apa.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHCtNequde2WqYZz5tIUBA_FWkSgo2v7ejyfFBkIGcZYQfBqAei6MinNI3lFqF7cszZ-OqbgYiroHvHOeCcmES3D8AJ6DJvD9srxwD1baMxRpoIaStqTqNCeorbFtJXvEYtklypI38Ax8-dTpEtqzJKTzpu8zC0vWQ_PeBxaQGKd8BqXPWVg-4kI-Z4iXDgNr6mM3pWjSZohClXz7wIx3yumQopm5dtKS5ycB"
+        },
+        {
+          "label": "US crude oil inventories up by 0.8% for week ending Feb. 27 - Anadolu Ajansı",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqDdBhNcR3AP7XVpbzybrRsJA9x7Qjgz2RThdOtFL-ZsII0qZUPILwnb78R9BKmHTHB-ti1NABPZiSiomkPPlYLItp9vpjrUxgOBR2R1f8CI9CHcduyHSkUmOlybXe3Pl0nZpvJ6d2exUdYFoCcF01Jc2k_U3CuFiiN-K-80O3NDxzOnhPq0EIk5KRhmE3amS-GVMb49mmM5olQIe"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHvD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
+        },
+        {
+          "label": "US EIA reported crude oil inventories rose 3.475M, exceeding forecasts of 2.2M, recently in February 27 - VT Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmkf6EPHlLIWIFm_P53tjcKpQxxkCbtDofhWZ9anXfK8M0PCs4u1w5lPW46Nh_FQZhVrFyKrCUogPqEXcsee27SLGoTiyQiIjv7PygyJscSLSBi9Wo2D884cdOGh6aa6y6qqpyauWPrJfIrhR8IsLTH5pKeA_SIntpr_sNnCEumcKy7ng4djT69qW9iwJ11m2qfu0ulEPCGs3ClQTXMon1SN6mVSBB-LiQz9mLg7kYh5rNTurFh-vSkJmQ0rzxs3Crq_NsRMepzLY="
+        },
+        {
           "label": "Binance",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyIybW7YM1ojEfw-FCUgdnHg-sxmtIz4KG8BMVjWgHhifxj1gsmlns0K5gt6JO4M-KQXCltme4LfrUO19QSK5i3MtcT9EuE3P3_ZULW077xO0oe5jg-lJKkZkXznu9omSLwYRakbM_8jnyj21bdCOsf-qeWXNT0VftKxR"
+        },
+        {
+          "label": "US - Strategic Petroleum Reserve [SPR] | Crude Oil | Collection - MacroMicro",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZ8V4iO5Xdob049Zb4VPJiZ8pu8Qk7z3M46Hv0Duw-oWgOt_97XYCZvknIUvlMQs4m-hC5tXvVRk7oI2Uf26slKPidYGUX-BNY2yZQ2yM4j-TsKddeTtBq2idASnQahRXnFbKzTu24l8TEHgd1XUHNT0EorXCa7foEz8UNKmF07FdlVwSjmXVCnKZHs9lxWOl62c_"
+        },
+        {
+          "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zWTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -3869,6 +3921,14 @@
         {
           "label": "EIA International Data Browser",
           "url": "https://www.eia.gov/international/data/browser/"
+        },
+        {
+          "label": "日本炼油企业呼吁动用战略石油储备 - 深蓝财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBwG20tPz8UnJLfehDUeZuTZmTfz0Zp6swnvTYVHz3icncssjrwib0e1Dpqha8cUGGsstboCkDm13ZIAha1JLomOxv6QNmkpgpx11QI2fWc-MluHa2E3bvcCoOfxfS7vH4="
+        },
+        {
+          "label": "日本煉油企業據悉請求政府投放戰略儲備石油| 國際焦點 - 經濟日報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYnUyWl-mbi98gxHSmt4j2lnRrWgqLhULFIGneSxKzkR_GNO395YAlsUGMDbYsm1sdWvAsBBYMXyatlM2-DVztZ7Mfb7biaZyPdtBb1lh-7sq9sGGilfyOHeHQ9ivpJT04Tfgf1x8qu90="
         }
       ]
     },
@@ -3909,6 +3969,10 @@
         {
           "label": "Trading Key",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2h1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
+        },
+        {
+          "label": "【环球财经】日媒：日本政府已下令做好释放石油储备的准备",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk2ZUsmLeWIrc6cqpmA9IhrxEp5O4jnKnArhnEJcKYDnt7TiZTXGrlezfzaivbMKF0taNSJikhKCRAB0f8Y4RlYQAyVgLb3ZVpaDpKFrKnGGTXU0jzZMpiy7aN2oolofiEUJqh97vnxZ1dFGTcb9FeUrYelmKASN3DMsXybl_exNjIgCDQUA=="
         }
       ]
     },
@@ -3935,6 +3999,10 @@
         {
           "label": "EIA International Data Browser",
           "url": "https://www.eia.gov/international/data/browser/"
+        },
+        {
+          "label": "Oil shock and shipping risks loom over Koreas 2% growth and bullish stock outlook",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdZfsBU-jo6fc-usbe13r2CW9zBYznNOznQrR6ih9zt6KO2uYIbVzxbCZMWlv_L5MsDT-svyVDax-DQ5D-dzz_nEc9_R-rIk2zTWF3wfAogbIV8Ft3XjrflR2gtIJodmeog5s5NtfX"
         }
       ],
       "potentialLevelValue": null,
@@ -4085,6 +4153,30 @@
         {
           "label": "金投原油",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7elFBkSqgc2QSde_MOQBwAVcvcayP30MIpdaxNyTzpsAyNwdODckX2sjrsUpRg6meTVM06c09e7pPrzTL0tITv8efKo4TcFH24mCcmlPM1MSjfqibNcFpFK6OLhGaiKrqXPMuF6Jv3IjElpFnbPyZ"
+        },
+        {
+          "label": "Crude oil inventories - Weekly Petroleum Status Report",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkT9IAkwTvCCZ67E_z9iInUrj33iiKmETownTFsMbviZidFzGJsLvfR1D0XrlkgBWTKyrR7k02vIhARbwfntOCHrrpX1eSgi2bfVb2Yc4nzPuo6mtgin_kEGBQr3rtlBMAlEYiRGIzKKjAcB0kkIA_pUqEFMszTOGx"
+        },
+        {
+          "label": "United States Crude Oil Stocks Change - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELsloGaYTCfPAgAtZ7BmmdsNXSFbTVqPAQIJVhEog7WJjIRowG0fSqlt_zD1bCPH7DIC1qesX1IvKxWIEGNw4hOlxqmynu_HOK-jXs-iIxSLeLcGjQK7LZcwHnQbjbc9vdmhWxx0qAo686GYsUb1UizQBM4yLi65PMTJXa9Q=="
+        },
+        {
+          "label": "US commercial crude oil inventories increase by 3.475 million barrels - Apa.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXHCtNequde2WqYZz5tIUBA_FWkSgo2v7ejyfFBkIGcZYQfBqAei6MinNI3lFqF7cszZ-OqbgYiroHvHOeCcmES3D8AJ6DJvD9srxwD1baMxRpoIaStqTqNCeorbFtJXvEYtklypI38Ax8-dTpEtqzJKTzpu8zC0vWQ_PeBxaQGKd8BqXPWVg-4kI-Z4iXDgNr6mM3pWjSZohClXz7wIx3yumQopm5dtKS5ycB"
+        },
+        {
+          "label": "US crude oil inventories up by 0.8% for week ending Feb. 27 - Anadolu Ajansı",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqDdBhNcR3AP7XVpbzybrRsJA9x7Qjgz2RThdOtFL-ZsII0qZUPILwnb78R9BKmHTHB-ti1NABPZiSiomkPPlYLItp9vpjrUxgOBR2R1f8CI9CHcduyHSkUmOlybXe3Pl0nZpvJ6d2exUdYFoCcF01Jc2k_U3CuFiiN-K-80O3NDxzOnhPq0EIk5KRhmE3amS-GVMb49mmM5olQIe"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHvD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
+        },
+        {
+          "label": "US EIA reported crude oil inventories rose 3.475M, exceeding forecasts of 2.2M, recently in February 27 - VT Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmkf6EPHlLIWIFm_P53tjcKpQxxkCbtDofhWZ9anXfK8M0PCs4u1w5lPW46Nh_FQZhVrFyKrCUogPqEXcsee27SLGoTiyQiIjv7PygyJscSLSBi9Wo2D884cdOGh6aa6y6qqpyauWPrJfIrhR8IsLTH5pKeA_SIntpr_sNnCEumcKy7ng4djT69qW9iwJ11m2qfu0ulEPCGs3ClQTXMon1SN6mVSBB-LiQz9mLg7kYh5rNTurFh-vSkJmQ0rzxs3Crq_NsRMepzLY="
         }
       ]
     },
@@ -4117,6 +4209,58 @@
         {
           "label": "金投原油",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7elFBkSqgc2QSde_MOQBwAVcvcayP30MIpdaxNyTzpsAyNwdODckX2sjrsUpRg6meTVM06c09e7pPrzTL0tITv8efKo4TcFH24mCcmlPM1MSjfqibNcFpFK6OLhGaiKrqXPMuF6Jv3IjElpFnbPyZ"
+        },
+        {
+          "label": "US crude oil inventories up by 0.8% for week ending Feb. 27 - Anadolu Ajansı",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVqDdBhNcR3AP7XVpbzybrRsJA9x7Qjgz2RThdOtFL-ZsII0qZUPILwnb78R9BKmHTHB-ti1NABPZiSiomkPPlYLItp9vpjrUxgOBR2R1f8CI9CHcduyHSkUmOlybXe3Pl0nZpvJ6d2exUdYFoCcF01Jc2k_U3CuFiiN-K-80O3NDxzOnhPq0EIk5KRhmE3amS-GVMb49mmM5olQIe"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHvD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
+        },
+        {
+          "label": "US - Strategic Petroleum Reserve [SPR] | Crude Oil | Collection - MacroMicro",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZ8V4iO5Xdob049Zb4VPJiZ8pu8Qk7z3M46Hv0Duw-oWgOt_97XYCZvknIUvlMQs4m-hC5tXvVRk7oI2Uf26slKPidYGUX-BNY2yZQ2yM4j-TsKddeTtBq2idASnQahRXnFbKzTu24l8TEHgd1XUHNT0EorXCa7foEz8UNKmF07FdlVwSjmXVCnKZHs9lxWOl62c_"
+        },
+        {
+          "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zWTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
+        }
+      ]
+    },
+    {
+      "country": "中国台湾",
+      "market": "原油储备",
+      "period": "2026年3月4日",
+      "status": "储备充足 / 要求提高库存",
+      "levelValue": null,
+      "levelUnit": "",
+      "changeValue": null,
+      "changeUnit": "",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": 100,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "台湾经济部已要求石油公司提高油气库存水平，并每日更新库存和航运计划数据，以应对中东冲突可能造成的供应中断。",
+      "current": "截至2026年3月4日，中国台湾拥有超过100天的原油储备和超过11天的天然气储备，均高于监管安全要求。政府将优先考虑国内价格稳定。",
+      "sources": [
+        {
+          "label": "Taiwan says oil, gas stockpiles above regulatory requirements - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSER2LDByJcDxOQ_uC36YAr3oHzRYZQcrmRt1hZ8tazRIlJ7OVOLvwQoipl7Fi9K74RC6dsWAmh7dlHmAGyRtzqwsRrlHjPBM1Y7jjyllgxJabqdOGWPVG3hhp5hH5DsUT3oQmMv-eaWXkqWHye--fVmHNnlc1DApWeBPi4oM="
+        },
+        {
+          "label": "Taiwan says oil, gas stockpiles above regulatory requirements - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi7T9N_5kywN07EAMkF7mzLgNqm02dJuL2wzmGcDXz0-FlGsksf4oYLvx14MY5MSUW8Z8fBytiQPIjqcyRGrXv2XlLDzF5bgXQqIULRq-3SjYejGnjDT1ZQkwzO8Yb6uPsXPU="
+        },
+        {
+          "label": "Taiwan economy ministry: has asked petroleum companies to raise their oil and gas inventory levels and to update inventory and shipping schedule data daily | MarketScreener",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9YIq6eCqjw-lyXy0EZczReYAd60ONtbZtUd18YgUYhe88c8kqxtzeDBjfqXHF4Iz9aM8s36SLF36xLSDqRAnJu6WvkP3W9_2n9qdLkv6yMRjd2M028Tfh-YUjsuxcO5gOHJfuVYIg2DUsaRZZ49lFjce1wfYu4LOYZ02AzrE2jQpEx9jt6f_7zCg_4ntQDasCNYZum3lFiDk8PJZv24MGytXsHVpiEmaXZQHGB58w5QrrzXWt5lrC8IDp6qiTbfGlcTC4a9DnsI9a70FDkYI1H-iMg=="
+        },
+        {
+          "label": "Taiwan: Navigating oil price shocks",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrFipLk_L03eSgh8UVfCIE4mjJdBslhGIdcMyObJDIajLCLXA453GyecQr3eyQDetnPFqYcc-aVdEzjF9R-atCjqAvsMdVrI3KB7NXbR2ns9kkX6F8HaCAhCoJwWDACy3N9UejhQB44hnSAQk5sAndlhskHycTlq70FFoRTA_PD3xR73k7uPVmL7FVyH0RZbSthl8KZxIODIZOhzvQwZ3fFEIAeJnm0O3HA=="
         }
       ]
     },
@@ -4149,6 +4293,22 @@
         {
           "label": "India rules out releasing strategic oil reserves after IEA calls to cool prices",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWmjL4bKUn4myQphstst2xxbdn1LS7dLM6crE1AMjDlP1mjLyLro7ml2phfu8SNEl_S5ajWmlBE4qe3HnF_bW0NrpFjb5IT_pg7pAxgfve_gzocCZsRvE86v1McKuaBVEQnwQdgA-DYBuf8-ToAXcidJUnDV-3NTHROI6cvIqgjBG51G9YacKVav_zQvT7Zepm30FaEbOxVrZPsHRJe_60-d4uHUOkKUWsd5mDYlmbhliVT8cmedPYOPVt_ZUFgjYqm7bSpNx2qJSJPGe8gGMTxm6ufnSZnkoaeYtWRPfkbg=="
+        },
+        {
+          "label": "Iran crisis: No immediate oil disruption for India; price volatility, macro impact seen",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqkeE4ZksrTWmJny0CSBepPhBfG2Y7CYM4zbhh_06JfC89tex7yW_WFiPnUZoBgniY1wAU7izilV9uAkW--TVyep9C7H1OA_OLIipaLpP2I5vy6PyKC5WoAv9fT-GmoO6wZXIJJqz251L9XwWCTC33pr8PtwyL6pHeioCHR1Cj3PX_TlE31hSQ33BO5LbOOauo6__UQrj_bB37PsYwOhv1OvIziZlZfyD9nfk9gk0n5g=="
+        },
+        {
+          "label": "India says global crude price rise not to have substantial impact on inflation",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0rRbTejQUCRn3QI8EF0N9YexSRmdNV57yhgYPui9AIs2j0Rkt-gih7F8ugUUJW9M656hW8rTdOyMSBXz71Nx2m0V8IBkv1SF2VGjsOIGNc5gqo59auujyu0p_0Crg5aNFndD3ICwaUAfp7c3GiYTIhJ90U_Gszc7_bYdZVKyneZzxJG10UWQjhBpMLWHTRKkMKslBqthAE3vzpevY3FIuBgK1K0eLVy88UPkMa-FAxphVnCcO1egRdFpT7Ntcfe0M5qK1IsMtM-F3S6Ryqm826Cb2U424FLnGAMPiPrSyhHj3ttpE2nTULHNB-N-WSrtE-VTCWpn7FKCaLuXSWjGpdb1pHp4="
+        },
+        {
+          "label": "Crude price surge won't affect inflation: FM Nirmala Sitharaman - News Arena",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJL3uVEaON-Zih6JYvXH0J8YAyv4VBHDcVvzhsSZWqM4IeW1dEH5RxsglxtTM5sxZ39Qin5zbkpFZ65SotxsTMEqlnYN7JmReYEAZWqY6QnXO5C8mICmp0q_N-1yqij29d450147gf7EdwgAOmZIEWbWFZx0rhhDUy75yF50NVjUnkMzaYrwfje8N3Pdg4PPEllboiy0hzsFgC6DHNpujZdNE="
+        },
+        {
+          "label": "India has 8 weeks of crude oil and petroleum products inventory: Govt sources says country in comfortable position on energy security - ANI News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMUD0jJMzGMnnLURSCCzXyJj4UhghEDhLAJlDeM8viDQUL4ag8V8ZmgAbml2u2AWBOiKs_P_T0yCcdi0Os81qKHMENzLRliUn7Ga-6aaIYgFB8-or0bGx-TDAmG2g1f8p3fKCE-u678bx6bOwNugk67Ezaj5OKYcqck7ZyUjBZ2fkNK-B3amNoPS8XNoJjgdap7lTtir_aCbHVdKNSlF7l_PBoXBpma8kPYXlEY_NzBxOD85-RJs-evc6U0MyFAn_HtF1-9fEBM-JZ8TWdlfL83A4DNtsNxn62FPuKKUPbLuDC-tVk3W_AFbJjIcCsmdBwTzru"
         }
       ]
     }
