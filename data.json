@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11 02:22（北京时间）",
+  "lastUpdated": "2026-03-11 07:10（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，更多油轮锚泊于岛屿附近。3月9日摩根大通指出，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞、产量将减半。美国政府曾讨论夺取该岛的可能性。伊朗外交部于3月10日表示，伊朗并未关闭霍尔木兹海峡，也未阻止船只通过，并将继续对以色列和美国基地进行导弹袭击。",
+      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%的原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，另有更多油轮在岛屿附近锚泊。3月9日摩根大通指出，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞，产量或减半。美国政府曾讨论夺取该岛的可能性。伊朗外交部3月10日表示，伊朗未关闭霍尔木兹海峡，未阻止船只通行，并将继续对以色列和美国基地实施导弹袭击。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -53,6 +53,10 @@
         {
           "label": "Iran ready to continue missile strikes on U.S., Israel as long as needed: FM - Xinhua",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS8QAoVZk0S_cWBxrZZdelEw21MJ34oLBTiF7btmMqloxjtLhkm10MQP8SNO4azj9d8JYJpIpUiAb5IXuCUIptdmqus9YXLi1iry_irP4uXmJH-yDNT03T2nXVSsVYk_fc9lELbRjLPXUhzDYa6bTdyL7xru7eel7ooBdjarKogWxK9g=="
+        },
+        {
+          "label": "伊朗外交部：伊朗未关闭霍尔木兹海峡，将继续对以色列和美国基地进行导弹袭击 - 财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6qZmtxuXig47VuuyW1S-VPAamCCHhgR7Gl-aj31EeSl7lxrPB8g7Wx9lbw8dfuuf7L0nSNwrKqam9xrfYw0zZKbVdmhQKiHWHX-3ZGKnWhSWLBNY-eObKjP5G7w=="
         }
       ],
       "baselineSources": [],
@@ -4125,9 +4129,9 @@
     },
     {
       "date": "2026-03-08",
-      "title": "伊拉克石油产量暴跌约70%",
+      "title": "伊拉克石油产量暴跌约70%，科威特国际机场燃料储罐遭袭",
       "type": "减产扩大",
-      "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约70%，至每日130万桶，而战前为每日430万桶。剩余产量用于国内炼厂。",
+      "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约70%，至每日130万桶，而战前为每日430万桶。剩余产量用于国内炼厂。3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火。巴林境内袭击包括对石油设施和海水淡化厂的打击。",
       "sources": [
         {
           "label": "Iraqi oil production falls 70% as Strait of Hormuz disruptions hit exports - Nairametrics",
@@ -4136,15 +4140,7 @@
         {
           "label": "Iraqi oil production has collapsed due to conflict in the Strait of Hormuz, say sources",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_9r6UIkkAYXZfw0iOZANGgkBZ_oJcYMwc7kFvKIEhG2CgxT2Loty5w6E6lBy705WEWc2NaAhvcxOj-1ww9jJtv5VM5q9aD2zE0NK1BaWr7GlG5M18ykex-6BubEXm4sg5cmUCDKll0f-mTEkzzRy-K7rBfKVHlk49SAmm1R1mkGNfqWxtSQ3ls2akE8VjX-2x_XImSIN1MXT3oWBLqH9Rnp2Nl8-TSJO2S6dNftCzUI7p8eiXsVycQnrQA518Ao5uWBCNKI5pnw=="
-        }
-      ]
-    },
-    {
-      "date": "2026-03-08",
-      "title": "伊拉克石油产量暴跌约70%，科威特国际机场燃料储罐遭袭",
-      "type": "减产扩大",
-      "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约70%，至每日130万桶，而战前为每日430万桶。剩余产量用于国内炼厂。3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火。巴林境内袭击包括对石油设施和海水淡化厂的打击。",
-      "sources": [
+        },
         {
           "label": "Investing.com 香港",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZIOX4OMDGmCApT6FKKVXZUa2kzjnOys8sa08esmn6W4KUk8RqSGaH_JXyIyElN-YaRbkvoe-0nRpu2q5Wku9yMZOaccUgMpWE6Ht6XThOqGyAfszpUykHkgwrM5M2ftjRhCTlwNadlgMErF6yXY9D6CxV0tE="
