@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 16:14（北京时间）",
+  "lastUpdated": "2026-03-10 16:30（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -78,7 +78,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日，以色列袭击德黑兰燃油储存设施及炼油厂，部分产能中断。8日德黑兰出现黑色\"石油雨\"。伊朗外交部谴责美以袭击为\"蓄意化学战争\"。",
+      "current": "3月7日，美国和以色列袭击德黑兰南部一处油库，靠近主要炼油厂，引发火灾，炼油设施未受损。8日，德黑兰市中心被毒烟笼罩，天降油雨。以色列军方声称袭击了德黑兰多个伊朗革命卫队燃料储存设施。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -123,6 +123,22 @@
         {
           "label": "德黑兰下油雨成黑暗之城…伊朗警告：对海湾国家采取类似措施 - 朝鲜日报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPFbOhysBwK5b9A-xcnyrHMKm1Ds7cJnyBOV7BnBD8SfGQAzi8dZcuiR5495Vs7JBFNvJx_uLgomxg0iHnXPn9e5I7KOdhT8UU7wS0zGDLucQH43fHm3Qd9SDNCAWK_xlDKRl5MX0BjlJf-us69omeJMRosNx2FjbvHCW-dQbmKvrOTJilA-zSgGs="
+        },
+        {
+          "label": "Israel-Iran war highlights: New wave of Israeli strikes hit Tehran's oil facility, fire reported; Netanyahu says will carry on war 'with all our force' - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIag6RsizhHR6KgInZ87ydYz54ewNwU9NmD2XCsM1bVdr0UxITXYjFiX8uG7D2yd9JkeagHqHMvDm_923nLui1IaNu7PCeOY_97xw9wWUDzv0LUbwyC0O1xiJRdba0TfmxjshvAvfyNW4VZx0TcMJp_kRR385t5DU3dIk9rxkiKmR3HZQTURzMcqRXJUnfZDH86ZUiziiX4juZOEIONtyrKpJfRE7xvfCQ74fvGQNLF2-NHNMX_edKv25xXWNhK3s0FSkCZFBjh8BZVdLZYYIoDvO_7XpY78W_5Yd_SUgKmj9oFn-RtdB1YnnxR7b1BXSx9xbbie-B7kgIJH3pcZWFm3TPEkAbvRv2YFUAgA=="
+        },
+        {
+          "label": "Tehran, March 7, 2026 (AFP) - US, Israel strikes hit oil depot in Tehran: Iran state media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSB7r_vIZApormIcirE5am5kMVyox77jDny6ma9XiAUrTNbV0XZ0qZ16pDpdHVuxCW6IOixrp1OYHeXKvBsT849Ngmehfa9J8ASntiOS0IDRjVcH5nzsAqPmfyAkq"
+        },
+        {
+          "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LBroJ7msobMQIiI1eVBKiXGFVM86CJYKjOzXHdcWwnyaxNGEWD2uuwSxq5jv9SyAmK1yL5dlyoQVAmDKj6TxDkgQ_9kC1WTmhKxRoM4Md69Dpg7WTSxZ5Oxv-A27E5MU5j12AU0M_DY51orSglQFSe9rY1izZvIuneTlEk_QnPqf4yvI_aMblu1wml6P5Gfa4Nv9z3CkL9wnNwMR"
+        },
+        {
+          "label": "Tehran Shrouded in Toxic Smoke After Israel Strikes Fuel Depots | TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUiyFr909fT4adh2Ok3r1fyFYUzHgN3fy8hcTnnzWuxWDvH1yM9PuJIlx0j1NagwYLOddbSV-1xSc2R_rae3nS70P1Y6fQ4B4iwcdDHQ3evpDSypUrbfBTUZXE9Dt5-nZYP84bchlZuqGfnGQnO6jZA=="
         }
       ],
       "baselineSources": [],
@@ -358,7 +374,7 @@
       "normalizedType": "oil",
       "normalizedValue": 300,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减产量及炼油加工量。初步约10万桶/日，预计8日增至约30万桶/日。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，因霍尔木兹海峡航行安全受威胁及船只短缺，开始削减产量及炼油加工量。初步约10万桶/日，预计8日增至约30万桶/日。9日科威特产量已降至约200万桶/日，预计很快降至150万桶/日。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -427,6 +443,30 @@
         {
           "label": "央视网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow== "
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         }
       ],
       "baselineSources": [],
@@ -443,7 +483,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后正在降低油田和炼油厂产量。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后降低油田和炼油厂产量。9日科威特炼油厂综合产能161.5万桶/日，目前开工率约50%。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -508,6 +548,22 @@
         {
           "label": "央视网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow=="
         }
       ],
       "baselineSources": [],
@@ -524,7 +580,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后正在降低油田和炼油厂产量。",
+      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示在\"伊朗威胁霍尔木兹海峡船只安全通行\"后降低油田和炼油厂产量。9日科威特炼油厂综合产能161.5万桶/日，目前开工率约50%。",
       "sources": [
         {
           "label": "石油| 世界新聞網",
@@ -589,6 +645,22 @@
         {
           "label": "央视网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow=="
         }
       ],
       "baselineSources": [],
@@ -605,11 +677,23 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "沙特阿美3月4日表示出于安全考虑已\"调整原油装运操作\"，并将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。沙特将原油出口转至红海，3月前七天阿布扎比和穆阿吉兹码头超级油轮装载量创历史新高，以应对海峡中断。",
+      "current": "沙特阿美3月4日表示出于安全考虑已\"调整原油装运操作\"，将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。沙特将原油出口转至红海，3月前七天阿布扎比和穆阿吉兹码头超级油轮装载量创历史新高。9日沙特已开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，估计减少200万-250万桶/日。沙特阿美从3月3日开始向亚太客户提供在红海延布港装载原油的选择。",
       "sources": [
         {
           "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7KjmzNehssPB3jGDNBmlrlrsUIL830-4MdD3pI8ssr_T3JOmU6SMxg2_-9hfEFArbAtSue6whk261BGC2p1cKUphEeet828lBwk6yFQnTxpgwVii7a3IGCwAH0YvLI33Q_we-4VgnVqpw"
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
         }
       ],
       "baselineSources": [],
@@ -626,7 +710,7 @@
       "normalizedType": "oil",
       "normalizedValue": 550,
       "status": "已停产",
-      "current": "3月2日遭无人机袭击后预防性关闭，造成轻微损害。3月4日再遭不明弹体击中，能源部称未造成损害且未影响供应。炼厂部分装置，包括22.5万桶/日凝析油分离装置受影响。",
+      "current": "3月2日遭无人机袭击后预防性关闭，造成轻微损害。4日再遭不明弹体击中，能源部称未造成损害且未影响供应。炼厂部分装置，包括22.5万桶/日凝析油分离装置受影响。10日该炼油厂再次成为袭击目标。",
       "sources": [
         {
           "label": "Reuters",
@@ -699,6 +783,18 @@
         {
           "label": "Crude Oil Weekly | Phillip Capital",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH9lLYNBJHO2HPGv1W0CNcw85VBq3Ru6T1gShjwlo_3OE71jUKXb0gzsMq5TKQnnCY0na0LwYx_O3hr0FqAQYbsDHlo67n-Zgs81KVclHCuUJRVOlf1TCWmt6sLbLOSOQwY2a7_kPUQT3QQ_ah1x4s3fqg9EqTxQ-GcITT-reb54Kmsab87l1cLMzZyL6T"
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrWrvV1TuYCSMgiEFTx0dZPATkuQHWyzj3Wvpe4jiV_uEacapToZI9mYpMvUCiiKSEq1j4xDkkhJIx7Udb_VA1jXifCcOGxGoX2-d-Q2jEvLV9UKubO7HVLf1WoJv4I5XhE7wQpQTjAlstUKAX3ChdYleyQpqCgbErNLdtZvYQEAJHKMIadT1H82aDmV0_FMv-rmO-MBJqPXDn8a1gLg6gOvIwQvTH0JHTdz53V3bbB3fLWdgfoWFO0Z-xRyz"
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
         }
       ],
       "baselineSources": [],
@@ -738,14 +834,14 @@
       "country": "巴林",
       "category": "炼厂 / 化工",
       "facility": "Sitra炼厂",
-      "designValue": 448,
+      "designValue": 405,
       "designUnit": "kbpd",
-      "affectedValue": 448,
+      "affectedValue": 405,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 448,
+      "normalizedValue": 405,
       "status": "部分停运 / 不可抗力",
-      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续但损害及停产规模评估中。5日BAPCO因中东冲突关闭日产44.8万桶的两套原油装置。9日巴林Bapco能源公司宣布不可抗力。",
+      "current": "巴林国家石油公司锡特拉炼厂3月5日/6日遭伊朗无人机及导弹袭击并引发火灾，生产继续，损害及停产规模评估中。5日BAPCO因中东冲突关闭日产44.8万桶的两套原油装置。9日巴林Bapco能源公司宣布不可抗力，该炼厂当日凌晨遭伊朗无人机袭击，造成人员受伤和房屋受损。该炼厂近期升级后产能已达40.5万桶/日。",
       "sources": [
         {
           "label": "TVBS - LINE TODAY",
@@ -806,6 +902,34 @@
         {
           "label": "财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojrkQPBwUld7PuIkHZ7S1ZkLhgQgvJwb7lmz9b2Jg0DdvP9BxQKtzPikNYg4JB5NVH_h1qCC0mkSSY-bkJVa07AIiV57KaKlffKbMsbn8NUPH_RE5kD3bra11yg=="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrWrvV1TuYCSMgiEFTx0dZPATkuQHWyzj3Wvpe4jiV_uEacapToZI9mYpMvUCiiKSEq1j4xDkkhJIx7Udb_VA1jXifCcOGxGoX2-d-Q2jEvLV9UKubO7HVLf1WoJv4I5XhE7wQpQTjAlstUKAX3ChdYleyQpqCgbErNLdtZvYQEAJHKMIadT1H82aDmV0_FMv-rmO-MBJqPXDn8a1gLg6gOvIwQvTH0JHTdz53V3bbB3fLWdgfoWFO0Z-xRyz"
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsjP8BTnsrU4YSG0f8yLELIWhirFduydbRJDV1DZpGVcxKXvwn7G9MCUizMta4A5EL04cdlRl0SEDa3kCupEVF27UBTx6trdoaaS4Fj4ecx0NN6AdJTNuuP78NYr9gNQjDIHa_YAbFchnzxUZGAx3ZqhXH8NNrwSnptuvlGUwHS2M-h6RgVxkFnhtpsRcxCnIchQ9QTNhvgmkwl1ZOClG1BpOdlihMA=="
+        },
+        {
+          "label": "Bahrain Oil Firm Declares Force Majeure After Iranian Strikes Disrupt Gulf Energy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSpsVcgdMshRmIhY2sRANlHusnIpmMrMdoX1tCJCEjr3lGgN7koxAnvbPulzwzZWhfUtE8nfR0Mk4hpxfO174I_vFp1yems1rwOcqI7TRRpGYLpLHSMFlP5OOoeou1Tj6SuU5cA5DzShqsAlLsA9nsl62gvCU5jEOnNRVZh7d5jngcP16Vfe3xeA=="
+        },
+        {
+          "label": "Thick smoke seen at Bahrain's Bapco oil refinery following Iranian drone attack",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE78ytvQsXiPFUiGtD2kpc4NhmBD9b0EU2beuclIkWvlrlyn0FkPa4n4kJCUxoYXldoRSL1f7n4EV0rm1p6U_wfoNt-sk4b-cHrzZWf0nQdfxvzSrmxWXvT5pJsOPQSSubm05VgIFx2jykSzzMrZiTVCrr2cPdJN3Ph6ii8lHnkKB4ohB6vRyMz4VcFO9kCnyLA6ZyBOBf7apN5lZnTR94D71IzKUrEEptrmLsn5dabeVKck1inQomCeM46pWM5OU1_A-wV0RuNQNxfYMnneXpzXCfptcw0pYp7aGxx9Aw=="
+        },
+        {
+          "label": "Iranian drone attack reported near Bahrain refinery | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRlfz35BJY9LiQcOTga24k3QPdy9hKAcDLgcZunDtUxanUtxSBn6YeZEaAuhQQ7QWxq_jsVQfQsH0U0eiRXWI4eyK22TB-XWEczJW3ONx_2na280ClcyQbjzzWjUt9OVD9f43f5K4aEHeSZQ=="
+        },
+        {
+          "label": "Iranian drone strike on Bahrain injures 32, including 4 children - The Korea Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK8rf9RlAY5eP-5KtoBzeAD9Ia-ly8G5E7r-AJCzFZZAWRAYDlMYfKbQpzN6NzIl-vqtYFvp5-J_qBZ9CYej8qlVA1K0HxzLhdL-IHddePuZlZ-dcWWgiCaNo3FFWpzkh_vpZ-cBbRrtPux4q5ILhFYDP88IFyo5IKbQslcLpFXcBSY2GOWKGVWnvKlU7pAJK0nnuXTGUhGP3MtbFtp8YlBDXqBwb2"
         }
       ],
       "baselineSources": [
@@ -883,7 +1007,7 @@
       "normalizedType": "lng",
       "normalizedValue": 77,
       "status": "已停产",
-      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。9日拉斯拉凡LNG全面停产。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供过于求转短缺。预计恢复需约四周。",
+      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产。9日拉斯拉凡LNG全面停产。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供过于求转短缺。预计恢复需约四周。",
       "sources": [
         {
           "label": "阿联酋通讯社",
@@ -936,6 +1060,26 @@
         {
           "label": "液化天然气商品报价动态（2026-03-09） - 生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCN3NTLj4-xwB0zjjnWJ_1_URyyPOwjzu9HSY2assvwemgIhUbNjoaVKaROMYiWn44pEQfx95jOVATMQEA7c0TI2dfmzP0RFCkGPwBek0tqRjrnnKuCMo-Uo7ywK75o2L7CHK0lX58aixJnZe54VxZy4g=="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Columbia University",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnMosqC12vudqIi_-YzSB3OiFqUPXxfhWLkfWm3L2iJo2wSEftBTLOdfQRr8cnTzxkSQapGj7v2DCxVz6a7WW_v2oc5mKki28jjsNHazykieCfLV35LrmihiOEP6W_K2NsezX5RV1950O83gWXXKotde0emiDnzCT88JuF3qoMcz9ELT5nVooQ6hGV_jMfTeWBEzti7NWOY8wZdbieZrKM"
+        },
+        {
+          "label": "Qatar LNG Production Halt: Global Supply Impact 2026 - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECngbkGA244pOzt9Md2aDSfS0cMTroX8mqc9QWxMzcDNqxMC5CEeYt_n_O7vNVc7qAwWF19Xvu8OShwX64n2OlaEJysEaPYEMcZHXjP58V2Gyum_tQg8nzWTaXQhDjF_qS_L6NInzbsgPKXyinDpv3hY--pQASOzY5KEXc0YwueYiB0hVJOTkmtdivzNu5Q-UqBgvEbtlTHY-yWs4="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
+        },
+        {
+          "label": "Global Gas Scramble After Qatar Shuts Down LNG Production - MEES",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFSn5HF1kKTWae7oRQvw6ccTyqQi5Q09if2Rm9hDoB9liT7LPSNqOMvl_9nJNZhTS9VrKDvguUYXI3IQ0-uwbmI0fJHmIpSrmnSdPYlMryodtEWcCY4y1NPkiCaWLvfTmUURU2HdwDgwXCaDu97CmbvQoeAd97QEQR2A_FO3_VgFTpBSI1W-NYqpReyncBWQrer2txW92XoU_sE9bIWTuXET_b4v2JioMq7Pu4gKLzoku7pYtb9gp-luSMckh1Ev9SP7mIuEDGq7dHthVIj9ia"
         }
       ],
       "baselineSources": [],
@@ -982,11 +1126,19 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡设施遭袭暂停LNG生产；3月3日进一步暂停聚合物、尿素、甲醇等下游产品生产。外交部同日表示设施受损可控，正进行技术评估。",
+      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡设施遭袭暂停LNG生产；3月3日进一步暂停聚合物、尿素、甲醇等下游产品生产。外交部同日表示设施受损可控，正进行技术评估。7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产。",
       "sources": [
         {
           "label": "阿联酋通讯社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zF9Nwk1Z9l8BNIPF3A5DAFdKvwbB08k581y3txf84U3MTsYF6hTCy4ccy0VVDIbhm8aCtGe0idw5jHCDjxBBskLQsYjqz_X1lUWiSYJ7J6gZnVBW_qY0hxic1GbEHsFPwIT483gqtyG94Ws0CqQYgNFo9TdaXZHwtGm5aRVuWDo1Jw3vXbFSAtCYi_9K28qeGV0-75RnJ5jRYHUkvZS7RleQpOFOLc79YRekKwv35D8YiP_fZCPp-lsXyczuqpttWGzJnPRkm-GdukZ2E7aWfVKehU0NqYExUeqbSE-EB-6ZDw=="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
         }
       ],
       "baselineSources": [],
@@ -1008,7 +1160,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "间接受限",
-      "current": "井场未确认受袭。ADNOC表示正\"管理海上生产水平以应对存储需求\"，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。7-8日，ADNOC确认正在管理海上产量，陆上运行继续。",
+      "current": "井场未确认受袭。ADNOC表示正\"管理海上生产水平以应对存储需求\"，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。7日ADNOC确认正在管理海上产量，陆上运行继续。8日阿联酋开始削减石油产量以应对霍尔木兹海峡近乎关闭。",
       "sources": [
         {
           "label": "阿布扎比国家石油公司：陆上作业仍继续正管理离岸产量 - HK01",
@@ -1037,6 +1189,22 @@
         {
           "label": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says - BOE Report",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkfN2RQDfOgz-5sx5DATvUGCVNTLu3uU8ZkWYu45IcdqZ5VNnQ3b_-TGEsXTxfhhWKci3UwmPsSVkD9vj7QZngEjtb1Zl5QmuO-yu6QMtfBlh8Rz6NSFz9fNCOmgGnoDTRhNL7WD3UvQGvIxkl9sjH198eRYxu25E1ZcsSZIV89L8ZzP9GE-4qIZ3bnTOC6v_rqfbDg1obgIA2KSl7u8JOrQ=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         }
       ],
       "baselineSources": [],
@@ -1090,11 +1258,15 @@
       "normalizedType": "oil",
       "normalizedValue": 0,
       "status": "未确认直接受影响",
-      "current": "未见公开确认停产；ADNOC表示业务继续正常运行。Musaffah终端与Ruwais炼化系统相关联，但Ruwais本体未受直接袭击。",
+      "current": "未见公开确认停产；ADNOC表示业务继续正常运行。Musaffah终端与Ruwais炼化系统相关联，但Ruwais本体未受直接袭击。10日ADNOC正在将供应分流至Ruwais炼油厂综合体。",
       "sources": [
         {
           "label": "ADNOC",
           "url": "https://www.adnoc.ae/en/news-and-media/press-releases/2021/adnoc-commits-to-make-it-in-the-emirates-through-growth-of-downstream-industry-operations-and-icv/"
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
         }
       ],
       "baselineSources": [
@@ -1145,7 +1317,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅财产损失，无人员伤亡。",
+      "current": "3月8日凌晨，科威特国际机场两个燃料储罐遭无人机袭击引发大火，已扑灭，仅财产损失，无人员伤亡。袭击还波及科威特境内其他目标，包括阿里萨利姆空军基地和美国雷达站。",
       "sources": [
         {
           "label": "科威特国际机场两个燃料储罐遭袭 - 新华网",
@@ -1230,6 +1402,14 @@
         {
           "label": "人民网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjKBDeBGZtf9lBsPpD9m9qXJzUB5KpWOg5O-f_TmEG6fBEDv2HRyt4TuDs17ys5jHIXsTkr4SASdIhzspDiQyRI9RLGlPWazBS2-1W8Sv2ezyq5J5cJZVSpjY-hTGJnpYn2XRl07D8NxfRvFzzf0qZ2IzeElG"
+        },
+        {
+          "label": "Weekend Summary – Iranian Attacks in the Middle East March 6–7, 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdEKo5up0ZCIsBoorHtsr2vpEtU6j1mJPxjbYTLelT34Qb6S6qOaCn7Uu-VQx9_LUBGDhr8ehSgYFQqhzcjE7os9ZSNb9dYfLerEaEFZbOX7z1ZVVp5CHCcoZCwU72LBgW32vA8ylxpS-NIZowRzH0-nvHlj_u-P5nNUNHcsGlJqWDKoa9ZmDuS2Fw1lkbwA1OnSRjcA=="
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn3oaE07ufQl1w2ahJLZ9uHyP3kToeZ4uLw-WmqibgTrs38UxipYOUx8vByKMjwYmhZj0Xv0u6DKtloDyXMLp5X-aAmlhDzqQxAuPkPOFtgsmFDE6xFwT47SYxwu3KK_ieUEJEuKBWtm2Tgqsq33mZx2mAowI07_aKbTXQ2hZKZaGwh9YFbe1HQSmBch1BA8-vAY4M"
         }
       ],
       "baselineSources": [],
@@ -1246,11 +1426,27 @@
       "normalizedType": "oil",
       "normalizedValue": 142500,
       "status": "已宣布不可抗力",
-      "current": "新加坡石油化工公司（持有新加坡炼油公司股权）因中东冲突导致海运及供应链严重中断，于2026年3月5日宣布不可抗力。",
+      "current": "新加坡石油化工公司持有新加坡炼油公司股权，因中东冲突导致海运及供应链严重中断，于2026年3月5日宣布不可抗力。6日新加坡炼油商和石化巨头Aster Chemicals and Energy与新加坡石油化工公司相关宣布因原材料供应中断而遭遇不可抗力，其蒸汽裂解装置以约50%负荷运行。",
       "sources": [
         {
           "label": "Current time information in Singapore.",
           "url": "https://www.google.com/search?q=time+in+Singapore"
+        },
+        {
+          "label": "Singapore's Aster declares force majeure on disruption in supply of raw materials",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0wyHfIvllwBkrQiZzERM7-R5vtleS-c12LcTJnD3HCam7YvHQ_gE9xqEOaUcL9QwUMIKUFhy0YrVhDo19jNoT-sOjZhjL5v7o6beyBYyDfWsUtFHqSbkZYCVh3gAZit-soFQ="
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsjP8BTnsrU4YSG0f8yLELIWhirFduydbRJDV1DZpGVcxKXvwn7G9MCUizMta4A5EL04cdlRl0SEDa3kCupEVF27UBTx6trdoaaS4Fj4ecx0NN6AdJTNuuP78NYr9gNQjDIHa_YAbFchnzxUZGAx3ZqhXH8NNrwSnptuvlGUwHS2M-h6RgVxkFnhtpsRcxCnIchQ9QTNhvgmkwl1ZOClG1BpOdlihMA=="
+        },
+        {
+          "label": "Asian Oil Refineries, Petrochemicals Cut Runs as MidEast Conflict Escalates",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuy962t2ChIPJNZHNwEe2I6RFNhT5eFzffRbY38CIOf0rd8oxinlGB8kljVSdIoQbSGhs_TUgWOJtRm0tOZo1OnRed5wXhXQahNWSrUl2yH3c6LnfyDt7M_lJRcMX24kWwfX_63Fefn4UA_4X3yyoFnemk4qYKOTK0MTfy_QzLf9nx2QV-7Wr-cQ=="
+        },
+        {
+          "label": "Aster declares force majeure on disruption in supply of raw materials - The Business Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBkgFIYI9ucbWcpnsaVl8JMEQNI2d4MQ9JxgidRmN3uYybnJ5BTVrj_RSa79hYtZeun-7bZ4G5ttxNje77LM75MH3qkJGBjyWyPPHz5q6x0Fmn2I-_AaM_fvQub6GWo7y40uIuD-AZTdcnp6qeJswCkrL8yWdIkmDi2O79t0OxcIe6hP4gqyiMadhOxtEP1xC-o_h3E8tESK0SRrVVVCE_gsFqRJq4oMd98A=="
         }
       ],
       "baselineSources": [
@@ -1276,11 +1472,15 @@
       "normalizedType": "oil",
       "normalizedValue": 1200,
       "status": "已停运",
-      "current": "3月3日伊拉克通过Ceyhan管道向土耳其地中海沿岸出口暂停，该管道输送库尔德地区原油，阻断了北部原油流向欧洲市场。",
+      "current": "3月3日伊拉克通过Ceyhan管道向土耳其地中海沿岸出口暂停，该管道输送库尔德地区原油，阻断北部原油流向欧洲市场。10日，该管道自美伊战争爆发以来第二次关闭，库尔德原油平均流量约5万桶/日。",
       "sources": [
         {
           "label": "The National News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLypJ18jsHIa3h0ZfgahI0gwa8cfztq4HZHY9e3X_O0AYpG0yYpQHJtZnVDY6t4qfHkHIITG1cMZ4O0UB0QIuPtYssz0UZgFabDMclDfAaXC0H6aAPoFLFUQ2iChK2nzXrbMfzXOznskJGIxDCM_uTV5fJD2gafbvZ5SNA9_ud6kmWez23How8rpVEhvenuMWLXZbYuDE9FGHR37lBK1TzVn5OoTr53x4p-6cpeROzaRa3vl-RHChlSHRl0kU="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxN36X-pdXVlw0AuDV5gXAt0klknuv2B0tDRWkKHMqqll0EKnnzkFUWN8R6kbH_yHsUm6BSfL9unpzprxp7y6OqRiTh4_Kz7B46h1iC7D_KmvMTrjrG_YlEXsc7EPV2uGlOdSEiHxbERA9ZSYkKAkFWvA9sTgOPA-CuB9z2TdaWbQvVhWCNoKe19eFtTIYUKWy738c9seJTa-nb-K-KAbJjU04O_lSGCLkRf8a6t75K5_-mHOkUNWpHqyoypo="
         }
       ],
       "baselineSources": [],
@@ -1288,20 +1488,24 @@
     },
     {
       "country": "阿联酋",
-      "category": "港口 / 出口终端",
-      "facility": "杰贝阿里港 (迪拜)",
+      "category": "港口/储存设施",
+      "facility": "杰贝阿里港",
       "designValue": null,
       "designUnit": "kbpd",
       "affectedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "已停运",
-      "current": "3月3日迪拜杰贝阿里港因“空中拦截”后发生火灾，运营暂停。",
+      "status": "遇袭，影响能源储存",
+      "current": "2026年3月1日至2日，阿联酋杰贝阿里港遭导弹袭击后发生火灾，能源存储及电力设施受波及，运营一度中断。",
       "sources": [
         {
           "label": "Middle East conflict hits shipping, oil prices and other international trade stories",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHerLxIPbb2MzcqYW9PsdVzDiC0zsPsDGsO4_PytHIlP5-2nBw9dRiMLirgSzMzIjhfIRmc7e8exxMaX50PCOa6gyO6AnDuSLKjb1SYnlRbeLbe9aCjtsT2AxHeVfIF2m9ZDKIzaGxywEdEK_4PouGs7wQqAIMPc3YsWF9DOiLQGzJK7AwovjYxhiYw5LeF6WTsCXaC3WKHggg2zg=="
+        },
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
         }
       ],
       "baselineSources": [],
@@ -1312,7 +1516,7 @@
       "facility": "德黑兰炼油厂",
       "category": "炼厂",
       "status": "遭轰炸",
-      "current": "3月7日，以色列袭击德黑兰多处燃油储存设施及炼油厂，部分产能中断。8日德黑兰出现黑色\"石油雨\"。伊朗外交部谴责美以袭击为\"蓄意化学战争\"。",
+      "current": "3月7日以色列袭击德黑兰多处燃油储存设施及炼油厂，部分产能中断。8日德黑兰出现黑色\"石油雨\"。伊朗外交部谴责美以袭击为\"蓄意化学战争\"。以色列军方声称袭击了德黑兰多个伊朗革命卫队燃料储存设施。",
       "designValue": null,
       "designUnit": "kbpd",
       "affectedValue": null,
@@ -1351,6 +1555,22 @@
         {
           "label": "中央广播电视总台",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDQpNSkLM_Gc78btmurksQg-E_-fBAIIc18PnGvuO3dImy0t6-kjknQ5cGAOYyu7KTHXXm8T9_BuQR7L67_sPwn9QOgc2SBmYdyDtxN7sWyuD69x1cIwcoaV-UStWfFzUBz7KhOd0shYgVOQH--NVluhxDLwsNGNHuNGXolJcNHjX4psjl"
+        },
+        {
+          "label": "Israel-Iran war highlights: New wave of Israeli strikes hit Tehran's oil facility, fire reported; Netanyahu says will carry on war 'with all our force' - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIag6RsizhHR6KgInZ87ydYz54ewNwU9NmD2XCsM1bVdr0UxITXYjFiX8uG7D2yd9JkeagHqHMvDm_923nLui1IaNu7PCeOY_97xw9wWUDzv0LUbwyC0O1xiJRdba0TfmxjshvAvfyNW4VZx0TcMJp_kRR385t5DU3dIk9rxkiKmR3HZQTURzMcqRXJUnfZDH86ZUiziiX4juZOEIONtyrKpJfRE7xvfCQ74fvGQNLF2-NHNMX_edKv25xXWNhK3s0FSkCZFBjh8BZVdLZYYIoDvO_7XpY78W_5Yd_SUgKmj9oFn-RtdB1YnnxR7b1BXSx9xbbie-B7kgIJH3pcZWFm3TPEkAbvRv2YFUAgA=="
+        },
+        {
+          "label": "Tehran, March 7, 2026 (AFP) - US, Israel strikes hit oil depot in Tehran: Iran state media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSB7r_vIZApormIcirE5am5kMVyox77jDny6ma9XiAUrTNbV0XZ0qZ16pDpdHVuxCW6IOixrp1OYHeXKvBsT849Ngmehfa9J8ASntiOS0IDRjVcH5nzsAqPmfyAkq"
+        },
+        {
+          "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LBroJ7msobMQIiI1eVBKiXGFVM86CJYKjOzXHdcWwnyaxNGEWD2uuwSxq5jv9SyAmK1yL5dlyoQVAmDKj6TxDkgQ_9kC1WTmhKxRoM4Md69Dpg7WTSxZ5Oxv-A27E5MU5j12AU0M_DY51orSglQFSe9rY1izZvIuneTlEk_QnPqf4yvI_aMblu1wml6P5Gfa4Nv9z3CkL9wnNwMR"
+        },
+        {
+          "label": "Tehran Shrouded in Toxic Smoke After Israel Strikes Fuel Depots | TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUiyFr909fT4adh2Ok3r1fyFYUzHgN3fy8hcTnnzWuxWDvH1yM9PuJIlx0j1NagwYLOddbSV-1xSc2R_rae3nS70P1Y6fQ4B4iwcdDHQ3evpDSypUrbfBTUZXE9Dt5-nZYP84bchlZuqGfnGQnO6jZA=="
         }
       ],
       "baselineSources": [],
@@ -1463,7 +1683,7 @@
       "facility": "德黑兰南部炼油厂",
       "category": "炼厂",
       "status": "遭轰炸",
-      "current": "3月7日，伊朗伊斯兰革命卫队确认德黑兰南部一座炼油厂遭轰炸。",
+      "current": "3月7日伊朗伊斯兰革命卫队确认德黑兰南部一座炼油厂遭轰炸。8日德黑兰市中心被毒烟笼罩，天降油雨。以色列军方声称袭击了德黑兰多个伊朗革命卫队燃料储存设施。",
       "products": [],
       "sources": [
         {
@@ -1473,6 +1693,18 @@
         {
           "label": "突袭轰炸炼油厂这国宣告：战事进入新阶段 - 万维读者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpW4Rz7nWSprDgJZLZ7GOocherY3watkOScdYV0-RbaXJR61YJujBP7P5_fcY8NkZX7MPiBMFXv5omeQ9XEO5ijja6RSbBUivNN0XOIDtyu8nFZFv23pABRt4k04qXu7G0gXxw4rjCPY2xfONjmGn83g=="
+        },
+        {
+          "label": "Israel-Iran war highlights: New wave of Israeli strikes hit Tehran's oil facility, fire reported; Netanyahu says will carry on war 'with all our force' - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIag6RsizhHR6KgInZ87ydYz54ewNwU9NmD2XCsM1bVdr0UxITXYjFiX8uG7D2yd9JkeagHqHMvDm_923nLui1IaNu7PCeOY_97xw9wWUDzv0LUbwyC0O1xiJRdba0TfmxjshvAvfyNW4VZx0TcMJp_kRR385t5DU3dIk9rxkiKmR3HZQTURzMcqRXJUnfZDH86ZUiziiX4juZOEIONtyrKpJfRE7xvfCQ74fvGQNLF2-NHNMX_edKv25xXWNhK3s0FSkCZFBjh8BZVdLZYYIoDvO_7XpY78W_5Yd_SUgKmj9oFn-RtdB1YnnxR7b1BXSx9xbbie-B7kgIJH3pcZWFm3TPEkAbvRv2YFUAgA=="
+        },
+        {
+          "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LBroJ7msobMQIiI1eVBKiXGFVM86CJYKjOzXHdcWwnyaxNGEWD2uuwSxq5jv9SyAmK1yL5dlyoQVAmDKj6TxDkgQ_9kC1WTmhKxRoM4Md69Dpg7WTSxZ5Oxv-A27E5MU5j12AU0M_DY51orSglQFSe9rY1izZvIuneTlEk_QnPqf4yvI_aMblu1wml6P5Gfa4Nv9z3CkL9wnNwMR"
+        },
+        {
+          "label": "Tehran Shrouded in Toxic Smoke After Israel Strikes Fuel Depots | TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUiyFr909fT4adh2Ok3r1fyFYUzHgN3fy8hcTnnzWuxWDvH1yM9PuJIlx0j1NagwYLOddbSV-1xSc2R_rae3nS70P1Y6fQ4B4iwcdDHQ3evpDSypUrbfBTUZXE9Dt5-nZYP84bchlZuqGfnGQnO6jZA=="
         }
       ],
       "baselineSources": [],
@@ -1488,7 +1720,7 @@
       "facility": "卡拉季地区油库",
       "category": "油库",
       "status": "遭袭击",
-      "current": "3月7日晚，以色列战机袭击德黑兰附近卡拉季地区等三处油库。",
+      "current": "3月7日晚以色列战机袭击德黑兰附近卡拉季地区等三处油库。8日伊朗国家媒体报道称卡拉季一个油库遭到袭击。",
       "products": [
         "原油",
         "成品油"
@@ -1513,6 +1745,10 @@
         {
           "label": "伊朗称德黑兰等地多处储油设施遭袭 - 联合早报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWoQ1KMpIXNrd-R1NEA02ZOPsRqzfHtlUnNN6k2hLkq33cA__MUO0OI5JoG6Znj37nPRdVH74r7Owb-Cmskrg6DNVuHq9RMdWNPTs3kmHwuxnQ9v6t9XkEiz7oPpkc58yFSPs="
+        },
+        {
+          "label": "Tehran Shrouded in Toxic Smoke After Israel Strikes Fuel Depots | TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUiyFr909fT4adh2Ok3r1fyFYUzHgN3fy8hcTnnzWuxWDvH1yM9PuJIlx0j1NagwYLOddbSV-1xSc2R_rae3nS70P1Y6fQ4B4iwcdDHQ3evpDSypUrbfBTUZXE9Dt5-nZYP84bchlZuqGfnGQnO6jZA=="
         }
       ],
       "baselineSources": [],
@@ -1528,7 +1764,7 @@
       "facility": "阿尔马米尔石油设施",
       "category": "石油设施",
       "status": "遭袭击 / 起火",
-      "current": "3月9日，伊朗袭击巴林阿尔马米尔石油设施，引发火灾，造成财产损失。",
+      "current": "3月9日伊朗袭击巴林阿尔马米尔石油设施，引发火灾，造成财产损失。8日巴林境内袭击包括对石油设施和海水淡化厂的打击。",
       "products": [],
       "sources": [
         {
@@ -1538,6 +1774,10 @@
         {
           "label": "US-Israel war on Iran, day 9: New strikes hit Tehran; UAE intercepts missile as Gulf attacks escalate",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_wKa-V8Foa_ppte5nyikzE5aWvLFXIMTNzCXTri4HD6HOBi_F3WxPTO3phTn71lIOhTiQWpe3QIv2B7-6AYGETl_Wmq6caN0BVoihNOjFVINrAJ_cJcoTXzkrmYGbvYxtBSfqPWS_1eaMFkhnzTWzjAtJbL-P0PxBd4M-hfR3Umrp2kDkMlNf_cyX6dQSe2UUdmCFXY4UkKyrGKc98TcX9TFIftaW3DRaOekMGPN0kV7PlNy6AVc2JDMfUDZShc7WsBwTtigMtN1ww=="
+        },
+        {
+          "label": "Weekend Summary – Iranian Attacks in the Middle East March 6–7, 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdEKo5up0ZCIsBoorHtsr2vpEtU6j1mJPxjbYTLelT34Qb6S6qOaCn7Uu-VQx9_LUBGDhr8ehSgYFQqhzcjE7os9ZSNb9dYfLerEaEFZbOX7z1ZVVp5CHCcoZCwU72LBgW32vA8ylxpS-NIZowRzH0-nvHlj_u-P5nNUNHcsGlJqWDKoa9ZmDuS2Fw1lkbwA1OnSRjcA=="
         }
       ],
       "baselineSources": [],
@@ -1559,7 +1799,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "减产 / 不可抗力",
-      "current": "3月7日，科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。",
+      "current": "3月7日科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。9日科威特产量降至约200万桶/日，低于2月259万桶/日，可能很快降至150万桶/日。",
       "products": [
         "原油",
         "成品油"
@@ -1624,6 +1864,30 @@
         {
           "label": "央视网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
+          "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Longbridge",
+          "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         }
       ],
       "baselineSources": []
@@ -1633,7 +1897,7 @@
       "facility": "全国石油生产",
       "category": "原油生产",
       "status": "减产",
-      "current": "3月8日，阿联酋开始削减石油产量。阿布扎比国家石油公司表示正\"管理海上生产水平以应对存储需求\"。",
+      "current": "3月8日阿联酋开始削减石油产量。阿布扎比国家石油公司表示正\"管理海上生产水平以应对存储需求\"。9日阿联酋产量已从2月353万桶/日降至270万-300万桶/日。",
       "products": [
         "原油"
       ],
@@ -1661,6 +1925,26 @@
         {
           "label": "《商品》阿联酋及科威特分别宣布减产伊朗克南部油区据报减产每日300万桶",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdpy-Tr-jLUCDtaGfhry2ForXfmWRFbflxITZHgDQ_sytW3rz3paIgBpIayc9UbDfzJAZywWtF_eEte50FHzWosqgDgr77fI5ySE38m1LgSAGBSGZjNdY8g4dj6NFpohAiMZSYIvRjMF8GA8cM8-06FN9p2HXfdw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         }
       ],
       "baselineSources": [],
@@ -1680,7 +1964,7 @@
       "normalizedType": "oil",
       "normalizedValue": 3000,
       "status": "减产",
-      "current": "3月7日，伊拉克因储存能力接近极限，石油日产量削减150万桶。8日霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，约80万桶/日。",
+      "current": "7日伊拉克因储存能力接近极限，石油日产量削减150万桶。8日因霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。伊拉克官员称该国遭遇20多年来最严重运营威胁。10日伊拉克已装载最后一艘出口油轮。",
       "products": [
         "原油"
       ],
@@ -1712,6 +1996,22 @@
         {
           "label": "《商品》阿联酋及科威特分别宣布减产伊朗克南部油区据报减产每日300万桶",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHdpy-Tr-jLUCDtaGfhry2ForXfmWRFbflxITZHgDQ_sytW3rz3paIgBpIayc9UbDfzJAZywWtF_eEte50FHzWosqgDgr77fI5ySE38m1LgSAGBSGZjNdY8g4dj6NFpohAiMZSYIvRjMF8GA8cM8-06FN9p2HXfdw=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Free Malaysia Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqiNSIDuprMQ2_azoqAyWBSyH9Xw6hn4mD1m-j61UzyRXJRYPeB0tby_lF1N7pe_zP2504bE6BbTKK7UfjouYEiaeV5A7vKbIF1Fg2app5MblDnFf6WydYeh-CRaz2fqZ-wcw0OHwTgPIaQmSWfBUy5wJcY1F5Ro6hu7P2xYf2sErjy0kMxUzcQsq76i981Dvksnd2FTg9x7IxZLRLEJ1Rdjv3qLMynk9hVs88zf4s094Az4YXwt8w4tM7C_BtCiVGvUc="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxN36X-pdXVlw0AuDV5gXAt0klknuv2B0tDRWkKHMqqll0EKnnzkFUWN8R6kbH_yHsUm6BSfL9unpzprxp7y6OqRiTh4_Kz7B46h1iC7D_KmvMTrjrG_YlEXsc7EPV2uGlOdSEiHxbERA9ZSYkKAkFWvA9sTgOPA-CuB9z2TdaWbQvVhWCNoKe19eFtTIYUKWy738c9seJTa-nb-K-KAbJjU04O_lSGCLkRf8a6t75K5_-mHOkUNWpHqyoypo="
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
         }
       ],
       "baselineSources": [],
@@ -1723,7 +2023,7 @@
       "facility": "海水淡化厂",
       "category": "公用事业",
       "status": "遭袭击 / 受损",
-      "current": "3月8日，巴林指责伊朗不加区分攻击民用目标，损毁一座海水淡化厂。",
+      "current": "3月8日巴林指责伊朗不加区分攻击民用目标，损毁一座海水淡化厂。袭击还对首都麦纳麦民用建筑造成损害。",
       "products": [
         "淡水"
       ],
@@ -1755,6 +2055,14 @@
         {
           "label": "US-Israel war on Iran, day 9: New strikes hit Tehran; UAE intercepts missile as Gulf attacks escalate",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_wKa-V8Foa_ppte5nyikzE5aWvLFXIMTNzCXTri4HD6HOBi_F3WxPTO3phTn71lIOhTiQWpe3QIv2B7-6AYGETl_Wmq6caN0BVoihNOjFVINrAJ_cJcoTXzkrmYGbvYxtBSfqPWS_1eaMFkhnzTWzjAtJbL-P0PxBd4M-hfR3Umrp2kDkMlNf_cyX6dQSe2UUdmCFXY4UkKyrGKc98TcX9TFIftaW3DRaOekMGPN0kV7PlNy6AVc2JDMfUDZShc7WsBwTtigMtN1ww=="
+        },
+        {
+          "label": "Weekend Summary – Iranian Attacks in the Middle East March 6–7, 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdEKo5up0ZCIsBoorHtsr2vpEtU6j1mJPxjbYTLelT34Qb6S6qOaCn7Uu-VQx9_LUBGDhr8ehSgYFQqhzcjE7os9ZSNb9dYfLerEaEFZbOX7z1ZVVp5CHCcoZCwU72LBgW32vA8ylxpS-NIZowRzH0-nvHlj_u-P5nNUNHcsGlJqWDKoa9ZmDuS2Fw1lkbwA1OnSRjcA=="
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn3oaE07ufQl1w2ahJLZ9uHyP3kToeZ4uLw-WmqibgTrs38UxipYOUx8vByKMjwYmhZj0Xv0u6DKtloDyXMLp5X-aAmlhDzqQxAuPkPOFtgsmFDE6xFwT47SYxwu3KK_ieUEJEuKBWtm2Tgqsq33mZx2mAowI07_aKbTXQ2hZKZaGwh9YFbe1HQSmBch1BA8-vAY4M"
         }
       ],
       "baselineSources": [],
@@ -1824,7 +2132,7 @@
       "normalizedType": "chemicals",
       "normalizedValue": 0.99,
       "status": "面临停产风险",
-      "current": "2026年3月7日，日本出光兴产表示，若霍尔木兹海峡封锁持续阻碍中东原料进口，可能停止德山工厂和千叶工厂乙烯生产。德山年产能约62万吨，千叶约37万吨，合计占日本乙烯总产量16%。",
+      "current": "2026年3月7日日本出光兴产表示，若霍尔木兹海峡封锁持续阻碍中东原料进口，可能停止德山工厂和千叶工厂乙烯生产。德山年产能约62万吨，千叶约37万吨，合计占日本乙烯总产量16%。10日出光兴产已通知客户，若石脑油原料供应短缺持续，公司可能暂停乙烯生产，但目前无具体停产计划。",
       "sources": [
         {
           "label": "重要原材料断供，日本尝到“苦果”-观察者网",
@@ -1845,6 +2153,18 @@
         {
           "label": "腾讯",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9PHmELvHwkklmiqg8mUixA6NHJqWjIj00Cvo7wwA6vvyNl8v7TiObL67cUeFx6U7EcX1f_-t_kw65ToL_42RX2wTDxibBufT-s7W69M7TwtzADvcys0j8Dui9vLgQpiAUKUIMgA=="
+        },
+        {
+          "label": "Japan's Mitsubishi Chemical slows ethylene production | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoH2SHlbyXFb4nV928SXjGm4CLrLTJ6H-btm96eb0d7DxKbQIkEBsCVnJkdVXcU07EiVKxsebqtiKIyuiP1Ywf2_4wOhUxDatKy8k0UuxNedackDyW8v9K4wWzGGUwt6YFRdcL7jXnzBZxWLqe_PXS5tFJUD20Dv9KplfADnNjPZU3yxbx7lsqJAaBHmJQpt0DYyRJqGHq2NjLLYZjjZv_LQEHu0y2h2IZSS6x7504pL5L0KKTlvAUFpB2Q=="
+        },
+        {
+          "label": "Mitsubishi Chemical Cuts Ethylene Production - nippon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6GmctfNJtVmxjF5X_PU-xSIuc_TO96LgTCbmhtpW6t-y547-I82uFU1_kOuZRUoUIv4ljhx5-XDiw5qsGycBwJgrxeW2MvsWSNZ_jijWuEyzd7fQaB6TaW4PJDV4n-nRSf74nqxRouHTuw=="
+        },
+        {
+          "label": "Mitsubishi Chemical cuts ethylene output due to possible supply issues - The Japan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9c8SC292iOWpyGJ2W9Zj1zrEFlvKUSIdNhJ1KfRVaYphv0DkCh9ynrNecqi1WocXGMU3UdFFywjHYGGa9qbC52c79BF_ZbGWUIhsov0tjWJfcsi3c0GPo1OwiuPe3XeqQxC3Gi4ghCUKaxkG5KQ557Cx8fnN2FNci__nSz4h-C13mzcY1U0MMJYB78t9c3Wj2JsSJ4sbth8NzPjtLnJPa34="
         }
       ],
       "baselineSources": []
@@ -1975,7 +2295,7 @@
       "facility": "拉斯坦努拉炼油厂",
       "category": "炼油厂",
       "status": "暂时停运",
-      "current": "2026年3月2日，沙特拉斯坦努拉炼油厂遭伊朗无人机袭击，沙特阿美宣布暂时关停。",
+      "current": "2026年3月2日沙特拉斯坦努拉炼油厂遭伊朗无人机袭击，沙特阿美宣布暂时关停。10日该炼油厂再次成为袭击目标。",
       "designValue": 550,
       "designUnit": "kbpd",
       "normalizedType": "oil",
@@ -1984,6 +2304,10 @@
         {
           "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrWrvV1TuYCSMgiEFTx0dZPATkuQHWyzj3Wvpe4jiV_uEacapToZI9mYpMvUCiiKSEq1j4xDkkhJIx7Udb_VA1jXifCcOGxGoX2-d-Q2jEvLV9UKubO7HVLf1WoJv4I5XhE7wQpQTjAlstUKAX3ChdYleyQpqCgbErNLdtZvYQEAJHKMIadT1H82aDmV0_FMv-rmO-MBJqPXDn8a1gLg6gOvIwQvTH0JHTdz53V3bbB3fLWdgfoWFO0Z-xRyz"
         }
       ],
       "baselineSources": [],
@@ -1996,7 +2320,7 @@
       "facility": "拉斯拉凡工业城",
       "category": "天然气设施",
       "status": "生产暂停",
-      "current": "2026年3月2日，卡塔尔拉斯拉凡工业城遭伊朗弹道导弹及无人机袭击，卡塔尔能源公司宣布全面暂停LNG生产。",
+      "current": "2026年3月2日卡塔尔拉斯拉凡工业城遭伊朗弹道导弹及无人机袭击，卡塔尔能源公司宣布全面暂停LNG生产。7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产。",
       "designValue": null,
       "designUnit": "mcm/d",
       "normalizedType": "gas",
@@ -2007,6 +2331,14 @@
         {
           "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
           "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
         }
       ],
       "baselineSources": [],
@@ -2084,25 +2416,110 @@
       "affectedUnit": "kbpd"
     },
     {
-      "country": "阿联酋",
-      "facility": "杰贝阿里港",
-      "category": "港口/储存设施",
-      "status": "遇袭，影响能源储存",
-      "current": "2026年3月1日至2日，阿联酋杰贝阿里港遭导弹袭击后发生火灾，能源存储及电力设施受波及，运营一度中断。",
-      "designValue": null,
-      "designUnit": "kbpd",
-      "normalizedType": "oil",
-      "products": [],
+      "country": "日本",
+      "category": "炼厂 / 化工",
+      "facility": "三菱化学茨城工厂",
+      "products": [
+        "乙烯",
+        "石脑油"
+      ],
+      "designValue": 0.485,
+      "designUnit": "吨/年",
+      "affectedValue": null,
+      "affectedUnit": "吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已减产",
+      "current": "3月9日日本三菱化学公司表示，因担心石脑油供应短缺，已于上周末降低其茨城工厂年产48.5万吨乙烯裂解装置开工率。此举旨在避免全面停产。",
       "sources": [
         {
-          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+          "label": "Japan's Mitsubishi Chemical slows ethylene production | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoH2SHlbyXFb4nV928SXjGm4CLrLTJ6H-btm96eb0d7DxKbQIkEBsCVnJkdVXcU07EiVKxsebqtiKIyuiP1Ywf2_4wOhUxDatKy8k0UuxNedackDyW8v9K4wWzGGUwt6YFRdcL7jXnzBZxWLqe_PXS5tFJUD20Dv9KplfADnNjPZU3yxbx7lsqJAaBHmJQpt0DYyRJqGHq2NjLLYZjjZv_LQEHu0y2h2IZSS6x7504pL5L0KKTlvAUFpB2Q=="
+        },
+        {
+          "label": "Mitsubishi Chemical Cuts Ethylene Production - nippon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6GmctfNJtVmxjF5X_PU-xSIuc_TO96LgTCbmhtpW6t-y547-I82uFU1_kOuZRUoUIv4ljhx5-XDiw5qsGycBwJgrxeW2MvsWSNZ_jijWuEyzd7fQaB6TaW4PJDV4n-nRSf74nqxRouHTuw=="
+        },
+        {
+          "label": "Mitsubishi Chemical cuts ethylene output due to possible supply issues - The Japan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9c8SC292iOWpyGJ2W9Zj1zrEFlvKUSIdNhJ1KfRVaYphv0DkCh9ynrNecqi1WocXGMU3UdFFywjHYGGa9qbC52c79BF_ZbGWUIhsov0tjWJfcsi3c0GPo1OwiuPe3XeqQxC3Gi4ghCUKaxkG5KQ557Cx8fnN2FNci__nSz4h-C13mzcY1U0MMJYB78t9PjtLnJPa34="
         }
       ],
-      "baselineSources": [],
+      "baselineSources": []
+    },
+    {
+      "country": "新加坡",
+      "category": "炼厂 / 化工",
+      "facility": "PCS (Petrochemical Corporation of Singapore)",
+      "products": [
+        "乙烯",
+        "丙烯"
+      ],
+      "designValue": null,
+      "designUnit": "吨/年",
       "affectedValue": null,
+      "affectedUnit": "吨/年",
+      "normalizedType": "chemicals",
       "normalizedValue": null,
-      "affectedUnit": "kbpd"
+      "status": "已宣布不可抗力 / 运行率降低",
+      "current": "3月5日新加坡石化公司PCS因中东战争扰乱海运和供应链，宣布对其发货遭遇不可抗力。PCS裂解装置可能以降低的运行率运行，限制对下游TPC的烯烃供应。",
+      "sources": [
+        {
+          "label": "Asian Oil Refineries, Petrochemicals Cut Runs as MidEast Conflict Escalates",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuy962t2ChIPJNZHNwEe2I6RFNhT5eFzffRbY38CIOf0rd8oxinlGB8kljVSdIoQbSGhs_TUgWOJtRm0tOZo1OnRed5wXhXQahNWSrUl2yH3c6LnfyDt7M_lJRcMX24kWwfX_63Fefn4UA_4X3yyoFnemk4qYKOTK0MTfy_QzLf9nx2QV-7Wr-cQ=="
+        },
+        {
+          "label": "Singapore's TPC declares FM on upstream supply woes | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG54PSOTZEodRsFpWETczSFOvdimhbi6z4OZKOCnb6y46l48y9Wo8uF4gcfGlbGaT0bQ4lYr_aj_L08hohxIGENf1FTt8pe9XRkSo9ATSg4TjWaF_mBU9PD5JAW81lc51siEnYy3-zh9MUs4mHNslq6deN0wg2vYeuH68l0V4clgvfUK3l6SpQYDeHrcfwTRyQzzfCfI3z__3OJmI2YiFR3Ra2RdXNHT2Pp4rUCLKM1vCRMr5btmWvvlw=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "新加坡",
+      "category": "化工",
+      "facility": "TPC (The Polyolefins Company)",
+      "products": [
+        "聚烯烃"
+      ],
+      "designValue": null,
+      "designUnit": "吨/年",
+      "affectedValue": null,
+      "affectedUnit": "吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力 / 停产",
+      "current": "3月9日新加坡聚烯烃生产商TPC宣布遭遇不可抗力，此前其上游供应商PCS因美伊冲突导致烯烃供应中断，TPC已关闭裕廊岛多个工厂。",
+      "sources": [
+        {
+          "label": "Singapore's TPC declares FM on upstream supply woes | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG54PSOTZEodRsFpWETczSFOvdimhbi6z4OZKOCnb6y46l48y9Wo8uF4gcfGlbGaT0bQ4lYr_aj_L08hohxIGENf1FTt8pe9XRkSo9ATSg4TjWaF_mBU9PD5JAW81lc51siEnYy3-zh9MUs4mHNslq6deN0wg2vYeuH68l0V4clgvfUK3l6SpQYDeHrcfwTRyQzzfCfI3z__3OJmI2YiFR3Ra2RdXNHT2Pp4rUCLKM1vCRMr5btmWvvlw=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "印度尼西亚",
+      "category": "化工",
+      "facility": "Chandra Asri",
+      "products": [
+        "石化产品"
+      ],
+      "designValue": null,
+      "designUnit": "吨/年",
+      "affectedValue": null,
+      "affectedUnit": "吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力",
+      "current": "印度尼西亚石化生产商Chandra Asri已宣布所有合同遭遇不可抗力，原因是中东冲突扰乱其原材料供应。",
+      "sources": [
+        {
+          "label": "Asian Oil Refineries, Petrochemicals Cut Runs as MidEast Conflict Escalates",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuy962t2ChIPJNZHNwEe2I6RFNhT5eFzffRbY38CIOf0rd8oxinlGB8kljVSdIoQbSGhs_TUgWOJtRm0tOZo1OnRed5wXhXQahNWSrUl2yH3c6LnfyDt7M_lJRcMX24kWwfX_63Fefn4UA_4X3yyoFnemk4qYKOTK0MTfy_QzLf9nx2QV-7Wr-cQ=="
+        }
+      ],
+      "baselineSources": []
     }
   ],
   "timeline": [
@@ -2442,7 +2859,7 @@
       "date": "2026-03-07",
       "title": "以色列对伊朗多处燃油设施发动新一轮打击，科威特宣布不可抗力",
       "type": "设施受袭",
-      "text": "7日，以色列军方对德黑兰多处燃油存储设施发动袭击。伊朗革命卫队确认德黑兰南部一座炼油厂遭轰炸，石油部消息人士称以战机当晚袭击了卡拉季地区等三处油库。伊朗伊斯兰共和国通讯社援引伊朗国家石油产品分销公司的话说，7日晚，位于德黑兰和厄尔布尔士省的4处储油设施及一处石油产品转运中心遭战机袭击，导致4名油罐车司机身亡。",
+      "text": "7日以色列军方对德黑兰多处燃油存储设施发动袭击。伊朗革命卫队确认德黑兰南部一座炼油厂遭轰炸，石油部消息人士称以战机当晚袭击卡拉季地区等三处油库。伊朗伊斯兰共和国通讯社援引伊朗国家石油产品分销公司的话称，7日晚位于德黑兰和厄尔布尔士省的4处储油设施及一处石油产品转运中心遭战机袭击，导致4名油罐车司机身亡。同日科威特国家石油公司宣布不可抗力，并开始削减原油产量和炼油加工量。",
       "sources": [
         {
           "label": "人民网",
@@ -2495,6 +2912,22 @@
         {
           "label": "Kuwait announces 'precautionary' cut in oil production amid repeated Iranian attacks",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbRpBBC9YZ8HSfGB7yjwcQMzGN656V_YjGQsqvbO8sTG-ZI6LmrNhwihjDiULAVsYOgJJHSQo-M8e8sehXKOr6Ska7O568VnLu4AfY2-wD_hFHWxQQaQu1GSdYejk2JloDFOxOVIkhHz9ZCWH7K1Uy2oyXtiz22Kxy7RIsZwV7JICy8WDSRXWOMlTUr4q13j3cZJinCjmhpwfsLLziUIoNPq5mRyNkq4ZnMIOyLP8rI-fDAVWXbpM-RlA=="
+        },
+        {
+          "label": "Israel-Iran war highlights: New wave of Israeli strikes hit Tehran's oil facility, fire reported; Netanyahu says will carry on war 'with all our force' - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIag6RsizhHR6KgInZ87ydYz54ewNwU9NmD2XCsM1bVdr0UxITXYjFiX8uG7D2yd9JkeagHqHMvDm_923nLui1IaNu7PCeOY_97xw9wWUDzv0LUbwyC0O1xiJRdba0TfmxjshvAvfyNW4VZx0TcMJp_kRR385t5DU3dIk9rxkiKmR3HZQTURzMcqRXJUnfZDH86ZUiziiX4juZOEIONtyrKpJfRE7xvfCQ74fvGQNLF2-NHNMX_edKv25xXWNhK3s0FSkCZFBjh8BZVdLZYYIoDvO_7XpY78W_5Yd_SUgKmj9oFn-RtdB1YnnxR7b1BXSx9xbbie-B7kgIJH3pcZWFm3TPEkAbvRv2YFUAgA=="
+        },
+        {
+          "label": "Tehran, March 7, 2026 (AFP) - US, Israel strikes hit oil depot in Tehran: Iran state media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSB7r_vIZApormIcirE5am5kMVyox77jDny6ma9XiAUrTNbV0XZ0qZ16pDpdHVuxCW6IOixrp1OYHeXKvBsT849Ngmehfa9J8ASntiOS0IDRjVcH5nzsAqPmfyAkq"
+        },
+        {
+          "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LBroJ7msobMQIiI1eVBKiXGFVM86CJYKjOzXHdcWwnyaxNGEWD2uuwSxq5jv9SyAmK1yL5dlyoQVAmDKj6TxDkgQ_9kC1WTmhKxRoM4Md69Dpg7WTSxZ5Oxv-A27E5MU5j12AU0M_DY51orSglQFSe9rY1izZvIuneTlEk_QnPqf4yvI_aMblu1wml6P5Gfa4Nv9z3CkL9wnNwMR"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
         }
       ]
     },
@@ -2511,6 +2944,14 @@
         {
           "label": "Vietnamese petroleum businesses are proactively securing supply amidst pressure from fluctuations in the Middle East. - Báo Nghệ An",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBK2Qova5nFCoQOCsL6Z70TCZPhOlspc1oTytAXkJNUpNUmtqhWSRJYVR7vV4xLDBunfDizOSzbWN_Qg3M48pPtVh3PABTIMaH3Ky0Nn-LDIu2tMHTQi6hZt9iXnN88D6VXC9ZTaUgYf_SZNaBbJcAM61I-cbF3-KnRxSx4ISU9n1Zb2aBQqvpVX2OeqDUnEmOuuxrQbcnaEHn3O4VKDXbJaxlzv96IAnYbLkzXNhkOP-K0iKJKxqjVw=="
+        },
+        {
+          "label": "Japan's Mitsubishi Chemical slows ethylene production | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoH2SHlbyXFb4nV928SXjGm4CLrLTJ6H-btm96eb0d7DxKbQIkEBsCVnJkdVXcU07EiVKxsebqtiKIyuiP1Ywf2_4wOhUxDatKy8k0UuxNedackDyW8v9K4wWzGGUwt6YFRdcL7jXnzBZxWLqe_PXS5tFJUD20Dv9KplfADnNjPZU3yxbx7lsqJAaBHmJQpt0DYyRJqGHq2NjLLYZjjZv_LQEHu0y2h2IZSS6x7504pL5L0KKTlvAUFpB2Q=="
+        },
+        {
+          "label": "Mitsubishi Chemical cuts ethylene output due to possible supply issues - The Japan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9c8SC292iOWpyGJ2W9Zj1zrEFlvKUSIdNhJ1KfRVaYphv0DkCh9ynrNecqi1WocXGMU3UdFFywjHYGGa9qbC52c79BF_ZbGWUIhsov0tjWJfcsi3c0GPo1OwiuPe3XeqQxC3Gi4ghCUKaxkG5KQ557Cx8fnN2FNci__nSz4h-C13mzcY1U0MMJYB78t9PjtLnJPa34="
         }
       ]
     },
@@ -2535,6 +2976,10 @@
         {
           "label": "美以伊冲突进入相持阶段外溢影响持续扩大 - 新闻- 中国网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiVrMtQdcKt0IN3Uy3qEXwkxuJPk-_-6-qJpjoppZiYcB87Oi-MZrM8QbmkjyJ37GkKgrwKRp3C78OkWEluDer8YBghhtdTXzkcL86HUN2dpqUwmz7D8XbvevQCBI_Nw7sBxBuiRqeMEkhghUDupkBhpTnuYQ="
+        },
+        {
+          "label": "Iran Update Evening Special Report, March 7, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LBroJ7msobMQIiI1eVBKiXGFVM86CJYKjOzXHdcWwnyaxNGEWD2uuwSxq5jv9SyAmK1yL5dlyoQVAmDKj6TxDkgQ_9kC1WTmhKxRoM4Md69Dpg7WTSxZ5Oxv-A27E5MU5j12AU0M_DY51orSglQFSe9rY1izZvIuneTlEk_QnPqf4yvI_aMblu1wml6P5Gfa4Nv9z3CkL9wnNwMR"
         }
       ]
     },
@@ -2542,7 +2987,7 @@
       "date": "2026-03-07",
       "title": "阿联酋海上产量进入管理性调节，市场关注长期系统性约束",
       "type": "系统性约束",
-      "text": "ADNOC确认正在管理海上产量，陆上运行继续；市场关注点从单点设施受袭转向出口链、储罐与替代通道的持续约束。",
+      "text": "ADNOC确认正在管理海上产量，陆上运行继续；市场关注点从单点设施受袭转向出口链、储罐与替代通道的持续约束。3月8日阿联酋开始削减石油产量。",
       "sources": [
         {
           "label": "Reuters ADNOC",
@@ -2567,6 +3012,18 @@
         {
           "label": "Reuters ADNOC",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELkjuw8SUedXfK2F1QzBUZAEVI4nIGf7vUrv-Ds4IMgdts1wjeRb96JzwNz5iEkkUgU_5_4YMpbc5CaY-9-ziJozwow2XO-72hpr6mRrMdOqGxZePOCi4Yz-34u-g7YXYuQqoevzZSJSXs9BAFDytN8nT4mPgdnizMK-q2RZSuUpfWagrau1Yd0SUkNYOlhs0nMoLyhstAQxdikvjTwv8rlWw-3pDiIDV3jk0c4-RxDErJ_Q=="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         }
       ]
     },
@@ -2590,7 +3047,7 @@
       "date": "2026-03-08",
       "title": "伊拉克石油产量暴跌约60%，科威特国际机场燃料储罐遭袭",
       "type": "减产扩大",
-      "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约60%，至每日170万-180万桶。科威特国际机场两个燃料储罐遭无人机袭击引发大火。",
+      "text": "油轮供应中断及霍尔木兹海峡出口受阻，伊拉克石油产量下降约60%，至每日170万-180万桶。科威特国际机场两个燃料储罐遭无人机袭击引发大火。巴林境内袭击包括对石油设施和海水淡化厂的打击。",
       "sources": [
         {
           "label": "Investing.com 香港",
@@ -2647,6 +3104,22 @@
         {
           "label": "Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVGOWvqYwF6wvXQZp42cNh8Yl7cX5tspu9Oifd802P9g4MTPIK-9pIthrf6lf8LN0TOMrBD0XeblJND5SHg2gAwo9BV2r8QspzOaVM3ZgxyijooIrSGpu0CiIESpQgbI3Txh1vr-wUcpwXhdIDAmk7E2KfQy9AXv9AnBjwqxzOl9fAmfzC35n562gVD79HeO6pFi7JLbvzF7JUH0J7_JlMeSymlUVMwhB4O4a41JH0b8J5ld7mBQUY"
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Free Malaysia Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqiNSIDuprMQ2_azoqAyWBSyH9Xw6hn4mD1m-j61UzyRXJRYPeB0tby_lF1N7pe_zP2504bE6BbTKK7UfjouYEiaeV5A7vKbIF1Fg2app5MblDnFf6WydYeh-CRaz2fqZ-wcw0OHwTgPIaQmSWfBUy5wJcY1F5Ro6hu7P2xYf2sErjy0kMxUzcQsq76i981Dvksnd2FTg9x7IxZLRLEJ1Rdjv3qLMynk9hVs88zf4s094Az4YXwt8w4tM7C_BtCiVGvUc="
+        },
+        {
+          "label": "Weekend Summary – Iranian Attacks in the Middle East March 6–7, 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdEKo5up0ZCIsBoorHtsr2vpEtU6j1mJPxjbYTLelT34Qb6S6qOaCn7Uu-VQx9_LUBGDhr8ehSgYFQqhzcjE7os9ZSNb9dYfLerEaEFZbOX7z1ZVVp5CHCcoZCwU72LBgW32vA8ylxpS-NIZowRzH0-nvHlj_u-P5nNUNHcsGlJqWDKoa9ZmDuS2Fw1lkbwA1OnSRjcA=="
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn3oaE07ufQl1w2ahJLZ9uHyP3kToeZ4uLw-WmqibgTrs38UxipYOUx8vByKMjwYmhZj0Xv0u6DKtloDyXMLp5X-aAmlhDzqQxAuPkPOFtgsmFDE6xFwT47SYxwu3KK_ieUEJEuKBWtm2Tgqsq33mZx2mAowI07_aKbTXQ2hZKZaGwh9YFbe1HQSmBch1BA8-vAY4M"
         }
       ]
     },
@@ -2654,7 +3127,7 @@
       "date": "2026-03-08",
       "title": "德黑兰下油雨，伊朗警告将对海湾国家采取类似措施",
       "type": "冲突升级",
-      "text": "以色列轰炸德黑兰附近石油存储设施后，市中心被毒烟笼罩，天降油雨，空气严重污染。伊朗革命卫队发出警告：“将在海湾地区采取类似措施”，称将对海湾国家石油设施进行“报复打击”。",
+      "text": "以色列轰炸德黑兰附近石油存储设施后，市中心被毒烟笼罩，天降油雨，空气严重污染。伊朗革命卫队发出警告：\"将在海湾地区采取类似措施\"，称将对海湾国家石油设施进行\"报复打击\"。",
       "sources": [
         {
           "label": "德黑兰下油雨成黑暗之城…伊朗警告：对海湾国家采取类似措施 - 朝鲜日报",
@@ -2671,6 +3144,10 @@
         {
           "label": "The Iran Conflict Is Sending Oil Prices Soaring—What Happens Next? - CSIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKGqj5-qIh5auNbMVF7Nu2jXVm1dKhJk5dBGcCJzt-dA7qmY53FxCZ9MTQY16EuPH-ZNrx4GVXMhyP_fLlCW0KRGG9nj2NSRfj6bGDRuD8XAvE893i6v8nALFHC42mEewgI66-nU-ngLFsjbJ4TTVOZbGm9yQ30DwrePAjLfin9IZcJysiv8ZRa7Pde08xRzQ4w=="
+        },
+        {
+          "label": "Tehran Shrouded in Toxic Smoke After Israel Strikes Fuel Depots | TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQUiyFr909fT4adh2Ok3r1fyFYUzHgN3fy8hcTnnzWuxWDvH1yM9PuJIlx0j1NagwYLOddbSV-1xSc2R_rae3nS70P1Y6fQ4B4iwcdDHQ3evpDSypUrbfBTUZXE9Dt5-nZYP84bchlZuqGfnGQnO6jZA=="
         }
       ]
     },
@@ -2855,6 +3332,10 @@
         {
           "label": "The Iran Conflict Is Sending Oil Prices Soaring—What Happens Next? - CSIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKGqj5-qIh5auNbMVF7Nu2jXVm1dKhJk5dBGcCJzt-dA7qmY53FxCZ9MTQY16EuPH-ZNrx4GVXMhyP_fLlCW0KRGG9nj2NSRfj6bGDRuD8XAvE893i6v8nALFHC42mEewgI66-nU-ngLFsjbJ4TTVOZbGm9yQ30DwrePAjLfin9IZcJysiv8ZRa7Pde08xRzQ4w=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Free Malaysia Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqiNSIDuprMQ2_azoqAyWBSyH9Xw6hn4mD1m-j61UzyRXJRYPeB0tby_lF1N7pe_zP2504bE6BbTKK7UfjouYEiaeV5A7vKbIF1Fg2app5MblDnFf6WydYeh-CRaz2fqZ-wcw0OHwTgPIaQmSWfBUy5wJcY1F5Ro6hu7P2xYf2sErjy0kMxUzcQsq76i981Dvksnd2FTg9x7IxZLRLEJ1Rdjv3qLMynk9hVs88zf4s094Az4YXwt8w4tM7C_BtCiVGvUc="
         }
       ]
     },
@@ -2862,7 +3343,7 @@
       "date": "2026-03-09",
       "title": "国际油价突破100美元/桶，卡塔尔LNG停产冲击加剧，巴林Bapco宣布不可抗力",
       "type": "市场波动",
-      "text": "国际油价开盘暴涨，WTI和布伦特原油期货均突破100美元/桶，创2022年以来新高，部分预测油价或飙升至150美元/桶。摩根士丹利警告，若卡塔尔LNG停产超一个月，全球天然气市场或从供应过剩转短缺，Ras Laffan LNG工业城已全面停产。巴林Bapco能源公司宣布遭遇不可抗力。",
+      "text": "国际油价开盘暴涨，WTI和布伦特原油期货均突破100美元/桶，创2022年以来新高，部分预测油价或飙升至150美元/桶。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供应过剩转短缺，Ras Laffan LNG工业城已全面停产。巴林Bapco能源公司宣布遭遇不可抗力，此前其Sitra炼厂遭到伊朗无人机袭击。",
       "sources": [
         {
           "label": "21经济网",
@@ -2975,6 +3456,34 @@
         {
           "label": "财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHojrkQPBwUld7PuIkHZ7S1ZkLhgQgvJwb7lmz9b2Jg0DdvP9BxQKtzPikNYg4JB5NVH_h1qCC0mkSSY-bkJVa07AIiV57KaKlffKbMsbn8NUPH_RE9kD1bra11yg=="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrWrvV1TuYCSMgiEFTx0dZPATkuQHWyzj3Wvpe4jiV_uEacapToZI9mYpMvUCiiKSEq1j4xDkkhJIx7Udb_VA1jXifCcOGxGoX2-d-Q2jEvLV9UKubO7HVLf1WoJv4I5XhE7wQpQTjAlstUKAX3ChdYleyQpqCgbErNLdtZvYQEAJHKMIadT1H82aDmV0_FMv-rmO-MBJqPXDn8a1gLg6gOvIwQvTH0JHTdz53V3bbB3fLWdgfoWFO0Z-xRyz"
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsjP8BTnsrU4YSG0f8yLELIWhirFduydbRJDV1DZpGVcxKXvwn7G9MCUizMta4A5EL04cdlRl0SEDa3kCupEVF27UBTx6trdoaaS4Fj4ecx0NN6AdJTNuuP78NYr9gNQjDIHa_YAbFchnzxUZGAx3ZqhXH8NNrwSnptuvlGUwHS2M-h6RgVxkFnhtpsRcxCnIchQ9QTNhvgmkwl1ZOClG1BpOdlihMA=="
+        },
+        {
+          "label": "Bahrain Oil Firm Declares Force Majeure After Iranian Strikes Disrupt Gulf Energy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSpsVcgdMshRmIhY2sRANlHusnIpmMrMdoX1tCJCEjr3lGgN7koxAnvbPulzwzZWhfUtE8nfR0Mk4hpxfO174I_vFp1yems1rwOcqI7TRRpGYLpLHSMFlP5OOoeou1Tj6SuU5cA5DzShqsAlLsA9nsl62gvCU5jEOnNRVZh7d5jngcP16Vfe3xeA=="
+        },
+        {
+          "label": "Thick smoke seen at Bahrain's Bapco oil refinery following Iranian drone attack",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE78ytvQsXiPFUiGtD2kpc4NhmBD9b0EU2beuclIkWvlrlyn0FkPa4n4kJCUxoYXldoRSL1f7n4EV0rm1p6U_wfoNt-sk4b-cHrzZWf0nQdfxvzSrmxWXvT5pJsOPQSSubm05VgIFx2jykSzzMrZiTVCrr2cPdJN3Ph6ii8lHnkKB4ohB6vRyMz4VcFO9kCnyLA6ZyBOBf7apN5lZnTR94D71IzKUrEEptrmLsn5dabeVKck1inQomCeM46pWM5OU1_A-wV0RuNQNxfYMnneXpzXCfptcw0pYp7aGxx9Aw=="
+        },
+        {
+          "label": "Iranian drone attack reported near Bahrain refinery | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRlfz35BJY9LiQcOTga24k3QPdy9hKAcDLgcZunDtUxanUtxSBn6YeZEaAuhQQ7QWxq_jsVQfQsH0U0eiRXWI4eyK22TB-XWEczJW3ONx_2na280ClcyQbjzzWjUt9OVD9f43f5K4aEHeSZQ=="
+        },
+        {
+          "label": "Iranian drone strike on Bahrain injures 32, including 4 children - The Korea Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK8rf9RlAY5eP-5KtoBzeAD9Ia-ly8G5E7r-AJCzFZZAWRAYDlMYfKbQpzN6NzIl-vqtYFvp5-J_qBZ9CYej8qlVA1K0HxzLhdL-IHddePuZlZ-dcWWgiCaNo3FFWpzkh_vpZ-cBbRrtPux4q5ILhFYDP88IFyo5IKbQslcLpFXcBSY2GOWKGVWnvKlU7pAJK0nnuXTGUhGP3MtbFtp8YlBDXqBwb2"
         }
       ]
     },
@@ -3007,6 +3516,30 @@
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bDMpIBMRjzozoCAGsZUGMLfooIOTyU3ykbhwFmVxvURJdu4dyIIHmKQjcI6PfukDAnjAgHhmlkg46viUFidM0TBmQ91lEP1F6sEE5koznf2Rl9u2D0SRl6LlOdMUbEU8UAU0-eUc-M6tIy7Y6k_Pr1Urd1tuYY90OqE="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrWrvV1TuYCSMgiEFTx0dZPATkuQHWyzj3Wvpe4jiV_uEacapToZI9mYpMvUCiiKSEq1j4xDkkhJIx7Udb_VA1jXifCcOGxGoX2-d-Q2jEvLV9UKubO7HVLf1WoJv4I5XhE7wQpQTjAlstUKAX3ChdYleyQpqCgbErNLdtZvYQEAJHKMIadT1H82aDmV0_FMv-rmO-MBJqPXDn8a1gLg6gOvIwQvTH0JHTdz53V3bbB3fLWdgfoWFO0Z-xRyz"
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIsjP8BTnsrU4YSG0f8yLELIWhirFduydbRJDV1DZpGVcxKXvwn7G9MCUizMta4A5EL04cdlRl0SEDa3kCupEVF27UBTx6trdoaaS4Fj4ecx0NN6AdJTNuuP78NYr9gNQjDIHa_YAbFchnzxUZGAx3ZqhXH8NNrwSnptuvlGUwHS2M-h6RgVxkFnhtpsRcxCnIchQ9QTNhvgmkwl1ZOClG1BpOdlihMA=="
+        },
+        {
+          "label": "Bahrain Oil Firm Declares Force Majeure After Iranian Strikes Disrupt Gulf Energy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSpsVcgdMshRmIhY2sRANlHusnIpmMrMdoX1tCJCEjr3lGgN7koxAnvbPulzwzZWhfUtE8nfR0Mk4hpxfO174I_vFp1yems1rwOcqI7TRRpGYLpLHSMFlP5OOoeou1Tj6SuU5cA5DzShqsAlLsA9nsl62gvCU5jEOnNRVZh7d5jngcP16Vfe3xeA=="
+        },
+        {
+          "label": "Thick smoke seen at Bahrain's Bapco oil refinery following Iranian drone attack",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE78ytvQsXiPFUiGtD2kpc4NhmBD9b0EU2beuclIkWvlrlyn0FkPa4n4kJCUxoYXldoRSL1f7n4EV0rm1p6U_wfoNt-sk4b-cHrzZWf0nQdfxvzSrmxWXvT5pJsOPQSSubm05VgIFx2jykSzzMrZiTVCrr2cPdJN3Ph6ii8lHnkKB4ohB6vRyMz4VcFO9kCnyLA6ZyBOBf7apN5lZnTR94D71IzKUrEEptrmLsn5dabeVKck1inQomCeM46pWM5OU1_A-wV0RuNQNxfYMnneXpzXCfptcw0pYp7aGxx9Aw=="
+        },
+        {
+          "label": "Iranian drone attack reported near Bahrain refinery | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRlfz35BJY9LiQcOTga24k3QPdy9hKAcDLgcZunDtUxanUtxSBn6YeZEaAuhQQ7QWxq_jsVQfQsH0U0eiRXWI4eyK22TB-XWEczJW3ONx_2na280ClcyQbjzzWjUt9OVD9f43f5K4aEHeSZQ=="
+        },
+        {
+          "label": "Iranian drone strike on Bahrain injures 32, including 4 children - The Korea Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK8rf9RlAY5eP-5KtoBzeAD9Ia-ly8G5E7r-AJCzFZZAWRAYDlMYfKbQpzN6NzIl-vqtYFvp5-J_qBZ9CYej8qlVA1K0HxzLhdL-IHddePuZlZ-dcWWgiCaNo3FFWpzkh_vpZ-cBbRrtPux4q5ILhFYDP88IFyo5IKbQslcLpFXcBSY2GOWKGVWnvKlU7pAJK0nnuXTGUhGP3MtbFtp8YlBDXqBwb2"
         }
       ]
     },
@@ -3033,7 +3566,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "中东冲突导致硫磺供应严重中断，波斯湾滞留大量运载硫磺的船只。全球约50%海运硫磺贸易（每年约2000万吨）源自海湾地区并需通过霍尔木兹海峡。卡塔尔能源公司已暂停硫磺生产。3月5日，现货硫磺价格上涨15-21%。",
+      "current": "中东冲突导致硫磺供应严重中断，波斯湾滞留大量运载硫磺船只。全球约50%海运硫磺贸易每年约2000万吨源自海湾地区并需通过霍尔木兹海峡。卡塔尔能源公司已暂停硫磺生产。3月5日现货硫磺价格上涨15-21%。8日霍尔木兹海峡关闭威胁全球硫磺供应，导致化肥、金属和半导体行业面临风险。海湾地区占全球硫磺产量44%。",
       "sources": [
         {
           "label": "Middle East Conflict Disrupts Sulfur Supply Chain - Binance",
@@ -3058,6 +3591,26 @@
         {
           "label": "Sulphur Supply Disruption: Global Industrial Impact - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEybZpwObrk0MOu8gD5O9AGbJy3c0FA-sHyfpjOnFEO5vCpTaOhv_EXhIqawVmM4xFVPoCTKt49fzLmVuyx0_mcic4_4eFzIOgjICE-XFvxY40lAaHwaHqPQ20M9srQANptoLEX-U-bJPFUWzHz14ht3DXvLQ60lPAFv35Ik-aRHHxnvNk_tkrV9_v_IBjd1FNsTBTn"
+        },
+        {
+          "label": "Sulphur exports caught up in conflict shorten market | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZfetKKqqMIv6G0tlsiaJxJ_grYWk_LI4y6vfpI4g5zAHIMswMja2lQtgjx-h8Xv6TJaOXDNsWVV7jMc4ODwmpBiRZUKnjMIx40ljonNw5LHoXyjYMtXsYTM1BPUbpnlz4QIqbvSNKl0v-fUxiR6V-6MbE_HOvGVWEFTjTx6wf6Ru5optdVvxl1q_zO36BZwJxgIAQRQdYePfp0bZohKS-QfAnX0m3hewoddy8p1BHt6uG-wNOsydZGXw=="
+        },
+        {
+          "label": "Sulphur Supply Disruption: Global Industrial Impact - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBmsEiKxJDMI6jFa87xsLZA5KTk-BZVmKeZ-wqnBXEpxJEZxgPfNOZOik4GFvktBlJD3Om8gatWi0w4jdTtFZxWij7d9tyiW2s7g6xA3Ux0_4yxaEL5pSstzlCqwbUfkE886xYISR_TfyoE8kJdkhLjL9-hGkAjw9E9Ct4WDS1xUbDL72vCbeUpM1QV3QO7yqeis4U"
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - Eastern Europe | Eurasia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphpMHReP72irg69U7LhA9-Hbau71XlsQXtEvVYXb11c_6ExV2cJA_JC211ui1hXv9AKR4Z4UV7wLELEdc8cnqiVmiQTVJRCR4TCJRds7dqvFGLP30gEX8-zuWyiVRqVTf_wF-QlEW-hz-aY-D0U0qxJWZrku1ffw3hUtua0tj34ISiJGrDw4Tk85caxke26A0s5qFxmE="
+        },
+        {
+          "label": "Iran war disrupts sulphur supplies to China, raising global fertilizer risks - Agrolatam",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNZfGltURWKlpFBdu1C_wLra4K_iYF6FuTB_YCMVA_ruVc89WzqqKGY4HiJz5Xq46Gvc8lA_58Ba6xEfus81HhbGH2mm1WXYuDn0GSns-55PrsKS0fuxqGV85KwHnoUpZHT-H2933P8Nha_ncXAd8nEcgaCi_z_9mvfTBuINtdqudbyRiMzwsPSL4V1rYPXRzSZPM1wRs="
+        },
+        {
+          "label": "Middle East Imports Account for Over Half of Total; U.S.-Iran Conflict May Trigger Sulfur Supply Shock - SunSirs",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4oWX50UAMGeuveHgMZau7yl7QoMzmsvUjNtifQD1C1kooKfOVqdeM2VS2i86Zrm3AaoPF695z5KKRx8pdxZGveoX4g2YrDKUjboPPZRxxF89zBY5TAa1ro0PYvISXIa5a_u4WM2tmFKpD5_4="
         }
       ]
     },
@@ -3136,7 +3689,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停尿素生产。中东颗粒尿素价格近期每吨上涨130美元。全球约三分之一尿素出口来自海湾，霍尔木兹海峡承载25%-35%贸易，封锁致供应担忧，价格飙升。伊朗约900万吨尿素产能面临停产风险。主要中东尿素供应商已撤回现货报价。3月9日，全球近50%的海运尿素出口因霍尔木兹海峡封锁而滞留，现货价格在72小时内翻倍。",
+      "current": "卡塔尔3月2日暂停尿素生产。中东颗粒尿素价格近期每吨上涨130美元。全球约三分之一尿素出口来自海湾，霍尔木兹海峡承载25%-35%贸易，封锁致供应担忧，价格飙升。伊朗约900万吨尿素产能面临停产风险。主要中东尿素供应商已撤回现货报价。9日全球近50%海运尿素出口因霍尔木兹海峡封锁而滞留，现货价格在72小时内翻倍。8日氮肥如尿素和氨价格在主要贸易中心上涨约10-20%。",
       "sources": [
         {
           "label": "ChemNet News",
@@ -3253,6 +3806,18 @@
         {
           "label": "Amwaj.media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHEt9MdrYLKk4ZHTHY8lOQDD6CC1oXcEnjfNdnmKe4q7MmWud8ODXx4ZolciuoZidzwuxHQ_T_C3ApBVsaBw22MNQGsySjbQEpxAW6HiEVPDUPp_-aWX769ibwv9I7aZniQTEmwMt_MfIUFWLBW9NhZaXASGIyOKJG0uw3S9eUXJOUNzOalrEfaqsYnzUA3dukRhVSaVwMQw=="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - Eastern Europe | Eurasia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphpMHReP72irg69U7LhA9-Hbau71XlsQXtEvVYXb11c_6ExV2cJA_JC211ui1hXv9AKR4Z4UV7wLELEdc8cnqiVmiQTVJRCR4TCJRds7dqvFGLP30gEX8-zuWyiVRqVTf_wF-QlEW-hz-aY-D0U0qxJWZrku1ffw3hUtua0tj34ISiJGrDw4Tk85caxke26A0s5qFxmE="
         }
       ]
     },
@@ -3265,7 +3830,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停氨生产。霍尔木兹海峡承载全球25%-35%的氨贸易，封锁引发供应担忧。全球最大氨生产商CF实业股价上涨，反映市场对供应链中断的担忧。",
+      "current": "卡塔尔3月2日暂停氨生产。霍尔木兹海峡承载全球25%-35%氨贸易，封锁引发供应担忧。全球最大氨生产商CF实业股价上涨，反映市场对供应链中断的担忧。3月8日氮肥如尿素和氨价格在主要贸易中心上涨约10-20%。",
       "sources": [
         {
           "label": "SunSirs",
@@ -3310,6 +3875,18 @@
         {
           "label": "金十期货一周精选",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1hVhUaSpEOazf4tS_CtyGuES0_05SIeKdvcKZQtpF2jZQAHO6A1_-Ojkes5E0pcaiE5tL5S27bjZusJjW-l8y691aUNdaNZBU5NJfaPPXLzNSx_LWoJ-s-x3dMx2ULojX"
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - Eastern Europe | Eurasia",
+          "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGphpMHReP72irg69U7LhA9-Hbau71XlsQXtEvVYXb11c_6ExV2cJA_JC211ui1hXv9AKR4Z4UV7wLELEdc8cnqiVmiQTVJRCR4TCJRds7dqvFGLP30gEX8-zuWyiVRqVTf_wF-QlEW-hz-aY-D0U0qxJWZrku1ffw3hUtua0tj34ISiJGrDw4Tk85caxke26A0s5qFxmE="
         }
       ]
     },
@@ -3322,7 +3899,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停甲醇生产。伊朗为全球第二大甲醇生产国，80%-90%产量用于出口，同时是中国第四大甲醇供应国。霍尔木兹海峡承载全球35%甲醇海运贸易量，封锁致航运量暴跌、运费上涨，中国等主要进口国面临供应危机。",
+      "current": "卡塔尔3月2日暂停甲醇生产。伊朗为全球第二大甲醇生产国，80%-90%产量用于出口，同时是中国第四大甲醇供应国。霍尔木兹海峡承载全球35%甲醇海运贸易量，封锁致航运量暴跌、运费上涨，中国等主要进口国面临供应危机。3月7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产，其中包括甲醇。",
       "sources": [
         {
           "label": "中东局势扰动进口业内人士：甲醇价格或宽幅上涨 - 财经详情",
@@ -3347,6 +3924,14 @@
         {
           "label": "Middle Eastern Oil and Gas Facilities Halt Production Amid Military Strikes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdUVWyWzpXswxQd-TgJ-SDe8Fn9xNvRW26A9fsBgocS3PgMXs8qIZ_u9tUvqEB3ljA8QjNsI0AdAWktxCNGVoi4c2Z7sYLMf-b4C6Zu43i45C6M2F3Ly2dcOvezQIrTg-KMYLyYDo5k7F5niToUlABewN_rwHZOU8TUxVX2ZUPl5uScLhf4hdJ_TNkS6YXs3Cbll3IZaeG8FqF71JeunKXPGVYjtadQXh05a5Gng=="
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
         }
       ]
     },
@@ -3359,7 +3944,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。",
+      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。3月7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产，其中包括聚合物。",
       "sources": [
         {
           "label": "ChemNet News",
@@ -3424,6 +4009,14 @@
         {
           "label": "Mideast war to tighten LatAm polymer supply: Update | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_EY6YIoPM-tI6sTHq0E4j_PfpieMdqhSVtdjI39DGto26C9SgRkwfdH_LiLBSkf-ceq1Y9V-ulVUJtXvDbnPxzRX5v3_3NYvt61SA6sbZ_uq4T0jl-NcbZBqKpb-f7b30ns46YVfBlwjuuChn9a1NA1dSqW_zT-X1BxjSA-57BNrtqDayVvn7_-QQPBWGZiFJ_LIXFIP4LydhZYKVkpH6wMrjmztfXpOU5RI-prRWsiN3CRDedTd8"
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
         }
       ]
     },
@@ -3436,7 +4029,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。中东聚合物贸易已基本暂停，多数生产商撤回报价，且航运公司不愿从该地区发货。亚洲石化商面临石脑油等原料短缺，聚乙烯、聚丙烯和聚氯乙烯流向拉丁美洲的贸易受阻。",
+      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。中东聚合物贸易已基本暂停，多数生产商撤回报价，且航运公司不愿从该地区发货。亚洲石化商面临石脑油等原料短缺，聚乙烯、聚丙烯和聚氯乙烯流向拉丁美洲的贸易受阻。3月7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产，其中包括聚合物。",
       "sources": [
         {
           "label": "ChemNet News",
@@ -3521,6 +4114,14 @@
         {
           "label": "Mideast war to tighten LatAm polymer supply: Update | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_EY6YIoPM-tI6sTHq0E4j_PfpieMdqhSVtdjI39DGto26C9SgRkwfdH_LiLBSkf-ceq1Y9V-ulVUJtXvDbnPxzRX5v3_3NYvt61SA6sbZ_uq4T0jl-NcbZBqKpb-f7b30ns46YVfBlwjuuChn9a1NA1dSqW_zT-X1BxjSA-57BNrtqDayVvn7_-QQPBWGZiFJ_LIXFIP4LydhZYKVkpH6wMrjmztfXpOU5RI-prRWsiN3CRDedTd8"
+        },
+        {
+          "label": "Iran strikes force Qatar to shut globally vital LNG production - Amwaj.media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkpCewJb3HdMy5XQ3ms431_MHUfyt4h1lldFPwo7yhjvFE0A4SYt5fD0QEsNv_EoSRA5fkHNU_VhCFIBMmEkyQBxxNir9xvu4EqSSP0vytx5mEPEQsuHPJhRPEB0R62NCQR_ujd7uGo-dMM2aI5cxAb7f34oDbmPt9X3plWOR4GDM1rK15bLSQGeonOnTNX_pNjOFlvd9RQ=="
+        },
+        {
+          "label": "Qatar Shuts Down LNG Production, Opening the Door for American Energy Leadership",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q0aMutEesfv0TK9rntbcBqVa-DpPIs9b66NKNmMLDSj9YQzkl-1EAez_gRckNxnoXGBCCxMUtMWOC3oDnON_1vOGBPPVSJtMO-Lolwh3GWyy69YV17eE2G-xdT6eixSIWIBpP2UcawNQvWCv5Q6UvR0QTu7X9_pmrBa0nzZNnE1rDUn7J89vu_U5x056y6BKy14aZHpSv1tdGn3vXoUggO-fJC-4K24yD1w6gOKqYUoeYQ=="
         }
       ]
     },
@@ -3533,7 +4134,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "乙烷为聚乙烯原料，受中东冲突导致天然气生产中断影响，亚洲石化商面临原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。",
+      "current": "乙烷为聚乙烯原料，受中东冲突导致天然气生产中断影响，亚洲石化商面临原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。3月2日卡塔尔拉斯拉凡工业综合体遭无人机袭击，该设施生产液化石油气、乙烷、硫磺和天然气凝析液。",
       "sources": [
         {
           "label": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
@@ -3562,6 +4163,10 @@
         {
           "label": "Qatar stops LNG output after drone attacks | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCLoPyC2HXSGk8IecfZMwiDY0sCYXSopuTfzcxEBsDb-XTglmymmrIIceAgkcqSZpXkEfDGXmHGtKWK6UW_VXxXb6I6EYzjH3IpzHzo0bz7mO5OM73brpj8cPLyDsbfnyS-RFpqear83vj2YN1vnx8_FRecwXLfN4nlJvgu0Y7A14XxImNerJlb7vFxNvYFyndr4UIZLyGIqVsGOGP2dhUU2Jf5quQh6wVRQ5TRONymQ=="
+        },
+        {
+          "label": "Sulphur exports caught up in conflict shorten market | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZfetKKqqMIv6G0tlsiaJxJ_grYWk_LI4y6vfpI4g5zAHIMswMja2lQtgjx-h8Xv6TJaOXDNsWVV7jMc4ODwmpBiRZUKnjMIx40ljonNw5LHoXyjYMtXsYTM1BPUbpnlz4QIqbvSNKl0v-fUxiR6V-6MbE_HOvGVWEFTjTx6wf6Ru5optdVvxl1q_zO36BZwJxgIAQRQdYePfp0bZohKS-QfAnX0m3hewoddy8p1BHt6uG-wNOsydZGXw=="
         }
       ]
     },
@@ -3574,7 +4179,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "亚洲约45%LPG进口经霍尔木兹海峡，海峡关闭致亚洲裂解装置原料供应陷入危机。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是液化石油气等品种波动较大。",
+      "current": "亚洲约45%LPG进口经霍尔木兹海峡，海峡关闭致亚洲裂解装置原料供应陷入危机。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是液化石油气等品种波动较大。3月2日卡塔尔拉斯拉凡工业综合体遭无人机袭击，该设施生产液化石油气、乙烷、硫磺和天然气凝析液。",
       "sources": [
         {
           "label": "Discovery Alert",
@@ -3623,6 +4228,10 @@
         {
           "label": "Qatar stops LNG output after drone attacks | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCLoPyC2HXSGk8IecfZMwiDY0sCYXSopuTfzcxEBsDb-XTglmymmrIIceAgkcqSZpXkEfDGXmHGtKWK6UW_VXxXb6I6EYzjH3IpzHzo0bz7mO5OM73brpj8cPLyDsbfnyS-RFpqear83vj2YN1vnx8_FRecwXLfN4nlJvgu0Y7A14XxImNerJlb7vFxNvYFyndr4UIZLyGIqVsGOGP2dhUU2Jf5quQh6wVRQ5TRONymQ=="
+        },
+        {
+          "label": "Sulphur exports caught up in conflict shorten market | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZfetKKqqMIv6G0tlsiaJxJ_grYWk_LI4y6vfpI4g5zAHIMswMja2lQtgjx-h8Xv6TJaOXDNsWVV7jMc4ODwmpBiRZUKnjMIx40ljonNw5LHoXyjYMtXsYTM1BPUbpnlz4QIqbvSNKl0v-fUxiR6V-6MbE_HOvGVWEFTjTx6wf6Ru5optdVvxl1q_zO36BZwJxgIAQRQdYePfp0bZohKS-QfAnX0m3hewoddy8p1BHt6uG-wNOsydZGXw=="
         }
       ]
     },
@@ -3635,7 +4244,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "亚洲超60%海运石脑油依赖中东，海峡关闭致供应危机，库存可能在4周内耗尽。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是纯苯、液化石油气、乙二醇、苯乙烯、聚丙烯、线型低密度聚乙烯等品种波动较大。",
+      "current": "亚洲超60%海运石脑油依赖中东，海峡关闭致供应危机，库存可能在4周内耗尽。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是纯苯、液化石油气、乙二醇、苯乙烯、聚丙烯、线型低密度聚乙烯等品种波动较大。3月7日科威特国家石油公司宣布不可抗力，是亚洲石脑油主要出口商。3月9日日本三菱化学公司因担心石脑油供应短缺而降低乙烯裂解装置开工率。",
       "sources": [
         {
           "label": "Polymerupdate",
@@ -3684,6 +4293,22 @@
         {
           "label": "Mideast war to tighten LatAm polymer supply: Update | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_EY6YIoPM-tI6sTHq0E4j_PfpieMdqhSVtdjI39DGto26C9SgRkwfdH_LiLBSkf-ceq1Y9V-ulVUJtXvDbnPxzRX5v3_3NYvt61SA6sbZ_uq4T0jl-NcbZBqKpb-f7b30ns46YVfBlwjuuChn9a1NA1dSqW_zT-X1BxjSA-57BNrtqDayVvn7_-QQPBWGZiFJ_LIXFIP4LydhZYKVkpH6wMrjmztfXpOU5RI-prRWsiN3CRDedTd8"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
+        },
+        {
+          "label": "Japan's Mitsubishi Chemical slows ethylene production | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoH2SHlbyXFb4nV928SXjGm4CLrLTJ6H-btm96eb0d7DxKbQIkEBsCVnJkdVXcU07EiVKxsebqtiKIyuiP1Ywf2_4wOhUxDatKy8k0UuxNedackDyW8v9K4wWzGGUwt6YFRdcL7jXnzBZxWLqe_PXS5tFJUD20Dv9KplfADnNjPZU3yxbx7lsqJAaBHmJQpt0DYyRJqGHq2NjLLYZjjZv_LQEHu0y2h2IZSS6x7504pL5L0KKTlvAUFpB2Q=="
+        },
+        {
+          "label": "Mitsubishi Chemical Cuts Ethylene Production - nippon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6GmctfNJtVmxjF5X_PU-xSIuc_TO96LgTCbmhtpW6t-y547-I82uFU1_kOuZRUoUIv4ljhx5-XDiw5qsGycBwJgrxeW2MvsWSNZ_jijWuEyzd7fQaB6TaW4PJDV4n-nRSf74nqxRouHTuw=="
+        },
+        {
+          "label": "Mitsubishi Chemical cuts ethylene output due to possible supply issues - The Japan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9c8SC292iOWpyGJ2W9Zj1zrEFlvKUSIdNhJ1KfRVaYphv0DkCh9ynrNecqi1WocXGMU3UdFFywjHYGGa9qbC52c79BF_ZbGWUIhsov0tjWJfcsi3c0GPo1OwiuPe3XeqQxC3Gi4ghCUKaxkG5KQ557Cx8fnN2FNci__nSz4h-C13mzcY1U0MMJYB78t9PjtLnJPa34="
         }
       ]
     },
@@ -3696,11 +4321,23 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "2026年3月7日，日本出光兴产株式会社表示，若霍尔木兹海峡封锁持续阻碍中东原材料进口，可能停止德山工厂和千叶工厂的乙烯生产。",
+      "current": "2026年3月7日日本出光兴产株式会社表示，若霍尔木兹海峡封锁持续阻碍中东原材料进口，可能停止德山工厂和千叶工厂乙烯生产。3月9日日本三菱化学公司因担心石脑油供应短缺而降低茨城县工厂乙烯裂解装置开工率。3月10日日本东曹公司Tosoh裂解装置因计划维护停产，但若石脑油采购中断，其重启可能延迟。日本丸善石化公司Maruzen Petrochemical确认其千叶工厂裂解装置3月份可继续运行。",
       "sources": [
         {
           "label": "重要原材料断供，日本尝到“苦果”-观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWWuyRwP8MP4nU3IYgc6rxM9f0PIQ0rKhPlo9xtniPYbwy63U-e-o3-F9W0WV1drSsiT25Bi_u5GB9LsNchKNqd9LpQONzIz_ZHjNRsMs_GgIOUI9fx5RISC4KkeC07uxe61uX5MrpFmIoWluvl4BKDKzUQ=="
+        },
+        {
+          "label": "Japan's Mitsubishi Chemical slows ethylene production | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcoH2SHlbyXFb4nV928SXjGm4CLrLTJ6H-btm96eb0d7DxKbQIkEBsCVnJkdVXcU07EiVKxsebqtiKIyuiP1Ywf2_4wOhUxDatKy8k0UuxNedackDyW8v9K4wWzGGUwt6YFRdcL7jXnzBZxWLqe_PXS5tFJUD20Dv9KplfADnNjPZU3yxbx7lsqJAaBHmJQpt0DYyRJqGHq2NjLLYZjjZv_LQEHu0y2h2IZSS6x7504pL5L0KKTlvAUFpB2Q=="
+        },
+        {
+          "label": "Mitsubishi Chemical Cuts Ethylene Production - nippon.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm6GmctfNJtVmxjF5X_PU-xSIuc_TO96LgTCbmhtpW6t-y547-I82uFU1_kOuZRUoUIv4ljhx5-XDiw5qsGycBwJgrxeW2MvsWSNZ_jijWuEyzd7fQaB6TaW4PJDV4n-nRSf74nqxRouHTuw=="
+        },
+        {
+          "label": "Mitsubishi Chemical cuts ethylene output due to possible supply issues - The Japan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS9c8SC292iOWpyGJ2W9Zj1zrEFlvKUSIdNhJ1KfRVaYphv0DkCh9ynrNecqi1WocXGMU3UdFFywjHYGGa9qbC52c79BF_ZbGWUIhsov0tjWJfcsi3c0GPo1OwiuPe3XeqQxC3Gi4ghCUKaxkG5KQ557Cx8fnN2FNci__nSz4h-C13mzcY1U0MMJYB8t9PjtLnJPa34="
         }
       ]
     },
@@ -3713,7 +4350,7 @@
       "directImpactUnit": "kbpd",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，已暂停包括凝析油在内的相关产品生产。",
+      "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，已暂停包括凝析油在内相关产品生产。3月2日沙特阿美关闭其位于沙特东海岸Ras Tanura炼油厂，该炼油厂硫磺产能10.2万吨/年，凝析油分离装置产能22.5万桶/日。",
       "sources": [
         {
           "label": "Saudi Refinery Closed after Drone Attack - Industrial Info Resources",
@@ -3734,6 +4371,10 @@
         {
           "label": "Middle Eastern Oil and Gas Facilities Halt Production Amid Military Strikes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdUVWyWzpXswxQd-TgJ-SDe8Fn9xNvRW26A9fsBgocS3PgMXs8qIZ_u9tUvqEB3ljA8QjNsI0AdAWktxCNGVoi4c2Z7sYLMf-b4C6Zu43i45C6M2F3Ly2dcOvezQIrTg-KMYLyYDo5k7F5niToUlABewN_rwHZOU8TUxVX2ZUPl5uScLhf4hdJ_TNkS6YXs3Cbll3IZaeG8FqF71JeunKXPGVYjtadQXh05a5Gng=="
+        },
+        {
+          "label": "Sulphur exports caught up in conflict shorten market | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZfetKKqqMIv6G0tlsiaJxJ_grYWk_LI4y6vfpI4g5zAHIMswMja2lQtgjx-h8Xv6TJaOXDNsWVV7jMc4ODwmpBiRZUKnjMIx40ljonNw5LHoXyjYMtXsYTM1BPUbpnlz4QIqbvSNKl0v-fUxiR6V-6MbE_HOvGVWEFTjTx6wf6Ru5optdVvxl1q_zO36BZwJxgIAQRQdYePfp0bZohKS-QfAnX0m3hewoddy8p1BHt6uG-wNOsydZGXw=="
         }
       ]
     }
@@ -4036,6 +4677,10 @@
         {
           "label": "G7今晚开会讨论联合释放紧急石油储备 - 期货",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_yBTT3QrWXdw6eQY3xE73Ou_dzao6TccwZnaV9-VVpBu75bC-hPkhDw-lhWcppuJTbXO_JdYFOt5MRoMhOwoIOf8OTJYkbDI_eOwHw4Q0tO7Y1KwMyKyQ4ChdJwtozzBtXXF4klU4oucNfFqOudWMd2R-7wIrjQ=="
+        },
+        {
+          "label": "全球第三大战略石油储备，日本或准备独立“放油”？ - TradingKey",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwgU6gEFdEqHiZ2gtvyy4UWHWFcv6NKna3Ykhsak7gd8yVfgG4c4XjJdJZ778agOpSDsty1QH9JwHL3USGXsqS45tpYUduIBdx2aGkVzWU6xwvZItDImRLLCX7d_EyxOFoGsKNf2knn4AThKwRRxDCDEIN5I8cQ1Z_-jk407PADxzCmBJKhu1x_aEFR1FgEZi73UIcHEV2U7RRMO4vsKYJa-oDupDpE_NWfHuLQwpNanlOn6Xai5e6vkCs2IzBT_g4wu_UIzeziDZBnE="
         }
       ]
     },
