@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10 15:37（北京时间）",
+  "lastUpdated": "2026-03-10 16:14（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -1822,7 +1822,7 @@
       "affectedValue": null,
       "affectedUnit": "百万吨/年",
       "normalizedType": "chemicals",
-      "normalizedValue": null,
+      "normalizedValue": 0.99,
       "status": "面临停产风险",
       "current": "2026年3月7日，日本出光兴产表示，若霍尔木兹海峡封锁持续阻碍中东原料进口，可能停止德山工厂和千叶工厂乙烯生产。德山年产能约62万吨，千叶约37万吨，合计占日本乙烯总产量16%。",
       "sources": [
@@ -1932,10 +1932,10 @@
       ],
       "designValue": 2.08,
       "designUnit": "百万吨/年",
-      "affectedValue": null,
+      "affectedValue": 0.749,
       "affectedUnit": "百万吨/年",
       "normalizedType": "chemicals",
-      "normalizedValue": null,
+      "normalizedValue": 0.749,
       "status": "已减产",
       "current": "2026年3月9日，LG化学丽水工厂（年产208万吨乙烯）将阶段性减产，1号、3号机组分别降至64%和73%。",
       "sources": [
@@ -1969,6 +1969,140 @@
         }
       ],
       "baselineSources": []
+    },
+    {
+      "country": "沙特",
+      "facility": "拉斯坦努拉炼油厂",
+      "category": "炼油厂",
+      "status": "暂时停运",
+      "current": "2026年3月2日，沙特拉斯坦努拉炼油厂遭伊朗无人机袭击，沙特阿美宣布暂时关停。",
+      "designValue": 550,
+      "designUnit": "kbpd",
+      "normalizedType": "oil",
+      "products": [],
+      "sources": [
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd"
+    },
+    {
+      "country": "卡塔尔",
+      "facility": "拉斯拉凡工业城",
+      "category": "天然气设施",
+      "status": "生产暂停",
+      "current": "2026年3月2日，卡塔尔拉斯拉凡工业城遭伊朗弹道导弹及无人机袭击，卡塔尔能源公司宣布全面暂停LNG生产。",
+      "designValue": null,
+      "designUnit": "mcm/d",
+      "normalizedType": "gas",
+      "products": [
+        "LNG"
+      ],
+      "sources": [
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "mcm/d"
+    },
+    {
+      "country": "科威特",
+      "facility": "艾哈迈迪米纳炼油厂",
+      "category": "炼油厂",
+      "status": "部分受损",
+      "current": "2026年3月2日，科威特艾哈迈迪米纳炼油厂受拦截导弹碎片波及，部分设施受损。",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "normalizedType": "oil",
+      "products": [],
+      "sources": [
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd"
+    },
+    {
+      "country": "阿曼",
+      "facility": "杜库姆港",
+      "category": "港口/储存设施",
+      "status": "燃料箱受损",
+      "current": "2026年3月3日，阿曼杜库姆港遭无人机袭击，一个燃料箱受损。",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "normalizedType": "oil",
+      "products": [],
+      "sources": [
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd"
+    },
+    {
+      "country": "伊朗",
+      "facility": "德黑兰附近燃料储存设施",
+      "category": "储存设施",
+      "status": "遇袭",
+      "current": "2026年3月7日夜间，以色列袭击德黑兰附近一处大型燃料储存设施，引发爆炸并造成严重空气污染。",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "normalizedType": "oil",
+      "products": [
+        "燃料"
+      ],
+      "sources": [
+        {
+          "label": "中东危机推高全球物价，多国紧急制定应对措施 - 21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0c_FhEMQ1-RznzzTHCEGpEshpISJx913RWSgFxx_b-kq1s2Nv--ihcu0yI0GxKqxBDT_HOy1YZO1VxEkMiY88jWuqJ1wtXyQkpRVk_2fZMmFaIT7evDZDiiaBwAtRl_UFsEqdzi19wGGk44k3z5YeJQAkLqU0e85shOf-vQ43s8hdNIxn1LLVsvwoe0C7pm0="
+        },
+        {
+          "label": "石油危机加剧中东通胀风险，伊朗战争暴露进口国困境 - AL-Monitor",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMxvJ-SF4O5lDcyFar5ITw3LoZiloHyJuWda85FgKZPzwThVTVzWG3QVuiMQhsrZD1uE9-tPBiM-_np7H-50OpbcArrvGTrApcorboig3FRplpObigSqmTWu9MTnLYnEwp6664RNA8SleaRrtm2BZJ36pG6ew36AGU6LrIkuQpGCmc5rcH_2yrfAn5Qcfag1pbWSz0RzQm_vhlzzRL7VQQI7xatnwR7nML_U1G9R-hlr251r-fknO1wEbVcyK4"
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd"
+    },
+    {
+      "country": "阿联酋",
+      "facility": "杰贝阿里港",
+      "category": "港口/储存设施",
+      "status": "遇袭，影响能源储存",
+      "current": "2026年3月1日至2日，阿联酋杰贝阿里港遭导弹袭击后发生火灾，能源存储及电力设施受波及，运营一度中断。",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "normalizedType": "oil",
+      "products": [],
+      "sources": [
+        {
+          "label": "海灣地區能源基礎設施面臨的安全挑戰 - 群益期貨",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnAbh9-__zeO0ssuDPkpYlBsZJOyj8X5z1O3xXTsQJNf7qXwFFsjV4wEtnJXEEH2HtVsVKmW0upNa3iCXrPhW1fV2Um3wGXB17PHWGrSmPkP493UCxxMew-ozUA3M2wZvnWFz9Il72MBN2goT1nytkWjpx5M-mgQVxVlPiC21JTe8eV3becu-VGdKWUu56zJz1nqgCf8="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd"
     }
   ],
   "timeline": [
@@ -3686,6 +3820,14 @@
         {
           "label": "分析：中國能源自給率達84.4% 可降低中東局勢衝擊| 兩岸| 中央社CNA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJU0Rw2AuCqDqByxYqgGJSv7nq8EXWClF14INpYFjuh963stHYVbmAFaxiFvDqppXP9HZA4upQZAvNBuMUBKH-fPyxTVlmI7wgu6MQjkuG3wkFfj6CxmuLEAnUcoJS3zrb55LJNCNlIxiKgKI="
+        },
+        {
+          "label": "分析：中國能源自給率達84.4%，可降低中東局勢衝擊 - TechNews 科技新報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHidVA7tLsQTCfGn2fw_9ldiEnLXUF2SrdMmnhSihHltJ__7rTjJWwQ2c6425vNIPtl15orKjEmpXfL7E8gBpyV7KlUvE-M99jZAIc9k9UEgSTAYt6FLdBFn10-VBYjoFUa9pN5NiGj_dhizW4Ap8dDG3qiXMfxwlYvAPkK3crzdrZI6ZdpsVKM1RVC1e20hyzELwcuiAINBtuo-zl4cik="
+        },
+        {
+          "label": "中东危机推高全球物价，多国紧急制定应对措施 - 21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0c_FhEMQ1-RznzzTHCEGpEshpISJx913RWSgFxx_b-kq1s2Nv--ihcu0yI0GxKqxBDT_HOy1YZO1VxEkMiY88jWuqJ1wtXyQkpRVk_2fZMmFaIT7evDZDiiaBwAtRl_UFsEqdzi19wGGk44k3z5YeJQAkLqU0e85shOf-vQ43s8hdNIxn1LLVsvwoe0C7pm0="
         }
       ]
     },
@@ -3722,18 +3864,18 @@
       "market": "总油品库存代理",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
       "status": "已授权释放",
-      "levelValue": 205697.69999999998,
+      "levelValue": 206066.19999999998,
       "levelUnit": "千吨",
-      "changeValue": 2223.475,
+      "changeValue": 2519.975,
       "changeUnit": "千吨",
       "demandValue": 32255.4,
       "demandUnit": "tbpd",
-      "coverDays": 46.7,
+      "coverDays": 46.8,
       "potentialCoverDays": null,
       "potentialLevelValue": 300000,
       "potentialLevelUnit": "千桶",
       "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，讨论协调释放全球战略石油储备，以应对中东冲突导致的油价飙升。会议联合声明表示G7已准备采取必要措施，包括释放石油库存，但目前尚未决定立即实施，因认为仍需更多分析。",
-      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约205697.69999999998千吨、库存可用天数约46.7天；另有潜在库存行动新闻需单独观察。",
+      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约206066.19999999998千吨、库存可用天数约46.8天；另有潜在库存行动新闻需单独观察。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -3754,6 +3896,10 @@
         {
           "label": "日本煉油企業據悉請求政府投放戰略儲備石油| 國際焦點 - 經濟日報",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYnUyWl-mbi98gxHSmt4j2lnRrWgqLhULFIGneSxKzkR_GNO395YAlsUGMDbYsm1sdWvAsBBYMXyatlM2-DVztZ7Mfb7biaZyPdtBb1lh-7sq9sGGilfyOHeHQ9ivpJT04Tfgf1x8qu90="
+        },
+        {
+          "label": "日本PAJ原油库存最新数据：2026年2月28日当周商业原油库存增加37.85万千升 - 原油投资",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEopqh8o7J7b64tZ3jMaCCWozVriYG7zOWAiv_SCeUp6h7RN7j92JvBXMPPop-weS6nguDfdUmkMk8TspEC_GB7BmQLEgvJsrDCM3vf4hoWK2PNzUbjZcHJSx4wWtM9dsfQsqrrnM7ml97JpqXowLU="
         },
         {
           "label": "Trading Key",
@@ -3824,6 +3970,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmkf6EPHlLIWIFm_P53tjcKpQxxkCbtDofhWZ9anXfK8M0PCs4u1w5lPW46Nh_FQZhVrFyKrCUogPqEXcsee27SLGoTiyQiIjv7PygyJscSLSBi9Wo2D884cdOGh6aa6y6qqpyauWPrJfIrhR8IsLTH5pKeA_SIntpr_sNnCEumcKy7ng4djT69qW9iwJ11m2qfu0ulEPCGs3ClQTXMon1SN6mVSBB-LiQz9mLg7kYh5rNTurFh-vSkJmQ0rzxs3Crq_NsRMepzLY="
         },
         {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
+        },
+        {
           "label": "Binance",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyIybW7YM1ojEfw-FCUgdnHg-sxmtIz4KG8BMVjWgHhifxj1gsmlns0K5gt6JO4M-KQXCltme4LfrUO19QSK5i3MtcT9EuE3P3_ZULW077xO0oe5jg-lJKkZkXznu9omSLwYRakbM_8jnyj21bdCOsf-qeWXNT0VftKxR"
         },
@@ -3834,6 +3984,10 @@
         {
           "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zWTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
+        },
+        {
+          "label": "US - Strategic Petroleum Reserve [SPR] | Crude Oil | Collection - MacroMicro",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZ8V4iO5Xdob049Zb4VPJiZ8pu8Qk7z3M46Hv0Duw-oWgOt_97XYCZvknIUvlMQs4m-hC5tXvVRk7oI2Uf26slKPidYGUX-BNY2yZQ2yM4j-TsKddeTtBq2idASnQahRXnFbKzTu24i8TEHgd1XUHNT0EorXCa7foEz8UNKmF07FdlVwSjmXVCnKZHs9lxWOl62c_"
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -3870,6 +4024,18 @@
         {
           "label": "G7紧急开会：拟协调释放石油储备- CFi.CN 中财网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF85_vFZexVKbetduK6cN51jTBtxfZKpA-MFIke__PYdisHWEQbavzKHHzuUlJG2E7CywgFy1-ENEDC9k6rYASlsO8Kn8aedwrjh7fquc4SyAJnPV34NDTAxKlKMsbTmnDm5sUW8iC_7ZsNml3awnxX00qPD2J7Qh32KX-__Q=="
+        },
+        {
+          "label": "G7 Considers Emergency Oil Reserve Release — What It Means for Prices, Inflation and the Global Economy - European Business & Finance Magazine",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDmQGWTL0oyQiq3ioDiVdlMRx0kKwaFXs3ox3_IrRHEuMEPxiP0kDA6wiF0BgTEsYaaOCaN2yIpYiD3l9fmvHFgGaXtGJraMvfVPvK4grp0V8udBDolL5cNzjiiZCdf7KZYLk6e4DC_PBylaw9q2IMDF-bo1AU-crBqTh5uhyyMYb94zCoj2oPwPWyj7oEDYoe7CMJNQcNWf13gIiKm5Oh4_x0d9j08aUNGOllEdzuopTm83DMOvSvSPZ6SEO57oswM8vP7yU1Zt1DMlpgiw=="
+        },
+        {
+          "label": "报道：G7拟协调释放战略石油储备，规模或为3-4亿桶 - 华尔街见闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4eP06TIi2_cdIXWRK_PTcuMvy51-PN-GWeKORGltXqjXE8OgK72JU59TlFFmqIoEQTPFtKWFyCKD6SIsOLdcpt3xyz0-2YGk8QXVScKuG6ohuUHvi3q5b81xAavkh560MLBa8"
+        },
+        {
+          "label": "G7今晚开会讨论联合释放紧急石油储备 - 期货",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_yBTT3QrWXdw6eQY3xE73Ou_dzao6TccwZnaV9-VVpBu75bC-hPkhDw-lhWcppuJTbXO_JdYFOt5MRoMhOwoIOf8OTJYkbDI_eOwHw4Q0tO7Y1KwMyKyQ4ChdJwtozzBtXXF4klU4oucNfFqOudWMd2R-7wIrjQ=="
         }
       ]
     },
@@ -3932,20 +4098,20 @@
     {
       "country": "Japan",
       "market": "OECD总油品库存",
-      "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
-      "status": "基线观察",
-      "levelValue": 51455,
+      "period": "2026-02-28 PAJ数据 / 近12个月EIA需求均值",
+      "status": "库存增加",
+      "levelValue": 51823.5,
       "levelUnit": "千吨",
-      "changeValue": 82,
-      "changeUnit": "千吨",
+      "changeValue": 378.5,
+      "changeUnit": "千升",
       "demandValue": 3077.9,
       "demandUnit": "tbpd",
-      "coverDays": 122.5,
+      "coverDays": 123.4,
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。",
-      "current": "按IEA库存及EIA近12个月需求均值估算，日本总油品库存可用天数约122.5天，对中东原油及成品油价波动具备较强缓冲。",
+      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。",
+      "current": "截至2026年2月28日当周，日本商业原油库存较前一周增加37.85万千升。按IEA库存及EIA近12个月需求均值估算，总油品库存可用天数约123.4天，对中东油价波动具备较强缓冲。",
       "sources": [
         {
           "label": "Ministers discuss ways to offset energy price surges caused by Iran war - The Guardian",
@@ -3966,6 +4132,10 @@
         {
           "label": "日本煉油企業據悉請求政府投放戰略儲備石油| 國際焦點 - 經濟日報",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYnUyWl-mbi98gxHSmt4j2lnRrWgqLhULFIGneSxKzkR_GNO395YAlsUGMDbYsm1sdWvAsBBYMXyatlM2-DVztZ7Mfb7biaZyPdtBb1lh-7sq9sGGilfyOHeHQ9ivpJT04Tfgf1x8qu90="
+        },
+        {
+          "label": "日本PAJ原油库存最新数据：2026年2月28日当周商业原油库存增加37.85万千升 - 原油投资",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEopqh8o7J7b64tZ3jMaCCWozVriYG7zOWAiv_SCeUp6h7RN7j92JvBXMPPop-weS6nguDfdUmkMk8TspEC_GB7BmQLEgvJsrDCM3vf4hoWK2PNzUbjZcHJSx4wWtM9dsfQsqrrnM7ml97JpqXowLU="
         }
       ]
     },
@@ -4226,6 +4396,10 @@
         {
           "label": "US EIA reported crude oil inventories rose 3.475M, exceeding forecasts of 2.2M, recently in February 27 - VT Markets",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmkf6EPHlLIWIFm_P53tjcKpQxxkCbtDofhWZ9anXfK8M0PCs4u1w5lPW46Nh_FQZhVrFyKrCUogPqEXcsee27SLGoTiyQiIjv7PygyJscSLSBi9Wo2D884cdOGh6aa6y6qqpyauWPrJfIrhR8IsLTH5pKeA_SIntpr_sNnCEumcKy7ng4djT69qW9iwJ11m2qfu0ulEPCGs3ClQTXMon1SN6mVSBB-LiQz9mLg7kYh5rNTurFh-vSkJmQ0rzxs3Crq_NsRMepzLY="
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
         }
       ]
     },
@@ -4274,6 +4448,14 @@
         {
           "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zWTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Week on Week - Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCpoqOfh1rSL8gijuEjo_mao67Loapw7Afk80gS5sO9uvqWaM_s_JZ7ZSHD_9S6mMGkms-Tm07_4OlkSugG_aozNKYy6eij7MDLnjLKTixIu0AE0J5LMnHDj-Algpb8gprMDZQaSNSc_1z0z9y16gBMD1LqxOIQaYqzliyMIgrVGza82V2j8jdKvm50HR8pRGrAPZOXYcw22iBfRER4A=="
+        },
+        {
+          "label": "US - Strategic Petroleum Reserve [SPR] | Crude Oil | Collection - MacroMicro",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZ8V4iO5Xdob049Zb4VPJiZ8pu8Qk7z3M46Hv0Duw-oWgOt_97XYCZvknIUvlMQs4m-hC5tXvVRk7oI2Uf26slKPidYGUX-BNY2yZQ2yM4j-TsKddeTtBq2idASnQahRXnFbKzTu24i8TEHgd1XUHNT0EorXCa7foEz8UNKmF07FdlVwSjmXVCnKZHs9lxWOl62c_"
         }
       ]
     },
@@ -4314,6 +4496,10 @@
         {
           "label": "霍尔木兹海峡关闭影响几何？中国如何应对-瞿新荣-观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Py-HaHIIGxSsVii935qhJOqhUWUNdahVnkJenVcASjasV5BqLdNKznFyazjb-YcOEMaz8UVlgnJsSdAXHYNcG3noB8vH36721A0RIuEHR8XEZ2KL44P5s3tqNH7n-xFe75alAzYvMfWk-KnOd4h6sZWX"
+        },
+        {
+          "label": "AASTOCKS 财经新闻Financial News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO6TLZj68A23paHVBOEi9CzPlIgRDJOZf-N9d9aalKFUPCxLSAHjQtxU1g3QWLhSeY6GX4WVqRhaYyUSFS_4AL8okGmo0I-Vshb_PGpA__bGLsoe-Js55pUAcZNcI2RB4gZ62Wyh4t97LFslLzbAt8gqcFjLroTQkyCUki-FruJJaScyszmEvvNg9VVRUPDanM_ia3T5YDIPpcyhNgY9vaWpPgxoy5T9v6Pf6eUxyRjJFIDd5iDQF4Ia1M5A5q6erGn3tpfxwvTHmpJNSTFobnG2wY-N62ysbmtldNFR2OLr5NMStUn9NY_E_bApd4Hp5TmPh-ITd4bnST-4ZLOSldnKfBBe3QY40ojPpcMkZvi2uhB-WG5nq500VLnIe0vNozVMNRRwdOOloen3MSHvyPUjfNO6pwe_TJQZgqL867daI5YDW5fl95iS0EeUmeRo_ir4smsxYrszi2XivHsT9y30KpQiiLwcVHZAgKXsOAf7ne2Bgoi2qA5Z1w05qELDke6pW_DWK8AYHJWa3j8P4CSzlQMQI10KzKKLpOaZkxV81B9z52iToyo46Qp8QLHMzOmBUCJccs3RwJPUNZaNmdPTg0TRUxCbKavN0YE9V_OR_opIQO5Ca3s0venwVFCBOpTNtu8SuSloFT-cxmN4I3LaAjEaHC8vXugXrnxUgdSs0Awj430YGRN_NQSMJGuQj0Ue7qpcl4PFo9UA3Z_pkbJS0i87W1g0TOgP5c1pDqJb69LsT_3lbl-8BDEkQLWY8CGHCbQM0Z7wqAvkvb-yOwxjm8K_yGLKCiIeYYin6yiqBb0u47n0gc4awzLD8-uoyUgXIChSSLvODM2Leb4ZhLudlUoEZox10hiPj8bnr9pA4saR2mj6hqTeScXXMDj2iTp71_ISaRAQ8B8U16vdYiSe9YJLNU5r1rdR0Q7v0ugMFcZaDQiSEa8_-eSKdAprCTGA_Ww1TzdQwEdeOQQdgdXzMIEemhgH54K_xueA950YVeqEU4_nIYgsScfk17Wll9owXmxkvI0xi3qmC1lcrPJyEij_yvWEEnvkDNQzKNRqu5abTJCGEulMgtpdmXIRbcX1WZi9Gcm-7d7EkKbB4P6Mnb2xRX1525RE5pep5Vp3HQ5GMJcUEd5OfUUU_gSgM547qe6jFYRcrmH9rTvHVU"
         }
       ]
     },
@@ -4321,14 +4507,14 @@
       "country": "印度",
       "market": "原油库存",
       "period": "2026年3月3日",
-      "status": "库存可维持25天 / 拒绝释放战略储备",
+      "status": "库存可维持20-25天 / 拒绝释放战略储备",
       "levelValue": null,
       "levelUnit": "",
       "changeValue": null,
       "changeUnit": "",
       "demandValue": null,
       "demandUnit": "",
-      "coverDays": 25,
+      "coverDays": 20,
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
@@ -4378,6 +4564,10 @@
         {
           "label": "【金十期货一周精选】韩媒：据悉韩国正考虑30年来首次实施石油价格上限制度-市场参考",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHIsTv5yGSt0EckKITCmTDKuJ4r9x_ovIRY_s7vb0jJrM43S0EdzhgNmit6BhhZ_IT7LCBAbTzq8naPA2zSlRv8Ex1CLkqRjOhFoQ8BX8Q0KXJL4L1naBWOUQrS6lCwiwc"
+        },
+        {
+          "label": "AASTOCKS 财经新闻Financial News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO6TLZj68A23paHVBOEi9CzPlIgRDJOZf-N9d9aalKFUPCxLSAHjQtxU1g3QWLhSeY6GX4WVqRhaYyUSFS_4AL8okGmo0I-Vshb_PGpA__bGLsoe-Js55pUAcZNcI2RB4gZ62Wyh4t97LFslLzbAt8gqcFjLroTQkyCUki-FruJJaScyszmEvvNg9VVRUPDanM_ia3T5YDIPpcyhNgY9vaWpPgxoy5T9v6Pf6eUxyRjJFIDd5iDQF4Ia1M5A5q6erGn3tpfxwvTHmpJNSTFobnG2wY-N62ysbmtldNFR2OLr5NMStUn9NY_E_bApd4Hp5TmPh-ITd4bnST-4ZLOSldnKfBBe3QY40ojPpcMkZvi2uhB-WG5nq500VLnIe0vNozVMNRRwdOOloen3MSHvyPUjfNO6pwe_TJQZgqL867daI5YDW5fl95iS0EeUmeRo_ir4smsxYrszi2XivHsT9y30KpQiiLwcVHZAgKXsOAf7ne2Bgoi2qA5Z1w05qELDke6pW_DWK8AYHJWa3j8P4CSzlQMQI10KzKKLpOaZkxV81B9z52iToyo46Qp8QLHMzOmBUCJccs3RwJPUNZaNmdPTg0TRUxCbKavN0YE9V_OR_opIQO5Ca3s0venwVFCBOpTNtu8SuSloFT-cxmN4I3LaAjEaHC8vXugXrnxUgdSs0Awj430YGRN_NQSMJGuQj0Ue7qpcl4PFo9UA3Z_pkbJS0i87W1g0TOgP5c1pDqJb69LsT_3lbl-8BDEkQLWY8CGHCbQM0Z7wqAvkvb-yOwxjm8K_yGLKCiIeYYin6yiqBb0u47n0gc4awzLD8-uoyUgXIChSSLvODM2Leb4ZhLudlUoEZox10hiPj8bnr9pA4saR2mj6hqTeScXXMDj2iTp71_ISaRAQ8B8U16vdYiSe9YJLNU5r1rdR0Q7v0ugMFcZaDQiSEa8_-eSKdAprCTGA_Ww1TzdQwEdeOQQdgdXzMIEemhgH54K_xueA950YVeqEU4_nIYgsScfk17Wll9owXmxkvI0xi3qmC1lcrPJyEij_yvWEEnvkDNQzKNRqu5abTJCGEulMgtpdmXIRbcX1WZi9Gcm-7d7EkKbB4P6Mnb2xRX1525RE5pep5Vp3HQ5GMJcUEd5OfUUU_gSgM547qe6jFYRcrmH9rTvHVU"
         }
       ]
     }
