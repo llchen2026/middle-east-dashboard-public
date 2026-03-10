@@ -737,6 +737,13 @@
       ethyleneImpactLoss.textContent = `${formatValue(ethyleneImpact, 2)} mtpa`;
     }
 
+    function collectSupplementalMetrics(item) {
+      const groups = [];
+      if (Array.isArray(item.secondaryMetrics)) groups.push(...item.secondaryMetrics);
+      if (Array.isArray(item.thirdMetrics)) groups.push(...item.thirdMetrics);
+      return groups.filter(metric => metric && typeof metric === 'object' && metric.label);
+    }
+
     function renderList(filtered) {
       if (!filtered.length) {
         assetList.innerHTML = '<div class="asset-item"><div class="asset-name">暂无匹配结果</div><div class="asset-meta">请调整筛选条件或搜索词。</div></div>';
@@ -747,8 +754,9 @@
           renderSourceGroup(item.sources, '事件来源'),
           renderSourceGroup(item.baselineSources, '背景 / 产能来源')
         ].join('');
-        const supplementalHtml = Array.isArray(item.secondaryMetrics) && item.secondaryMetrics.length
-          ? `<div class="mini-secondary-group">${item.secondaryMetrics.map(metric => `
+        const supplementalMetrics = collectSupplementalMetrics(item);
+        const supplementalHtml = supplementalMetrics.length
+          ? `<div class="mini-secondary-group">${supplementalMetrics.map(metric => `
               <div class="mini mini-secondary-item">
                 <div class="mini-label">${metric.label}</div>
                 <div class="mini-value">${displaySupplementalMetric(metric)} ${metric.unit || ''}</div>
