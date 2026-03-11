@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12 01:50（北京时间）",
+  "lastUpdated": "2026-03-12 03:45（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -3398,9 +3398,9 @@
         "石脑油"
       ],
       "designValue": 0.485,
-      "designUnit": "吨/年",
+      "designUnit": "百万吨/年",
       "affectedValue": null,
-      "affectedUnit": "吨/年",
+      "affectedUnit": "百万吨/年",
       "normalizedType": "chemicals",
       "normalizedValue": null,
       "status": "已减产",
@@ -4199,6 +4199,83 @@
         }
       ],
       "baselineSources": []
+    },
+    {
+      "country": "科威特",
+      "facility": "科威特国家石油公司",
+      "category": "炼油厂 / 石油生产",
+      "status": "减产 / 不可抗力",
+      "current": "3月7日，科威特国家石油公司宣布遭遇不可抗力，已开始削减原油产量及炼油加工量，主因霍尔木兹海峡船只通行安全受威胁及油轮短缺。",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "products": [
+        "Crude Oil",
+        "Refined Products"
+      ],
+      "sources": [
+        {
+          "label": "凤凰网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA17-8qfq436z-hNBDZRH_IwD5wdh1sNgjls5Yh6HxBDhQXqL0K6PUF8U1G1YS612c5moSz4ekUxPa3EnpIIXg_qp5srGWmFX6Uwrq4UXRDzDok5C9yorATss-pTEt"
+        },
+        {
+          "label": "凤凰网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK9DWwmp_G05Bfkyly3NMdibEkDITqfdcTxTYvO9jCTvi7YniJbKGt_q5_XpOxCpm4-sYkObZTOOwQTs-IqV5AT8sh1UygZDWlxwc0re3Eft7Yu4WqbVtaCW2K"
+        }
+      ],
+      "baselineSources": [],
+      "designValue": null,
+      "designUnit": "kbpd"
+    },
+    {
+      "country": "沙特",
+      "facility": "拉斯塔努拉炼油厂",
+      "category": "炼油厂",
+      "status": "关闭",
+      "current": "沙特最大炼油厂拉斯塔努拉炼油厂遭伊朗无人机袭击后关闭。",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "products": [],
+      "sources": [
+        {
+          "label": "金十期货一周精选",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmGHBiXxTCxMCr-naJ8T5pgftZpSeoTf5bGAGu0OS3Fg11BmyaewKoGjGLk53Q8a8OqXE7HOZh23UZN-8sIXZw20WZUtQsh-4wEE4-rCZj2TzBvcYjHj888FJQ2_6BBU0="
+        }
+      ],
+      "baselineSources": [],
+      "designValue": null,
+      "designUnit": "kbpd"
+    },
+    {
+      "country": "伊朗",
+      "facility": "德黑兰和厄尔布尔士省的油库及石油产品转运中心",
+      "category": "燃料储运",
+      "status": "遭袭击 / 受损",
+      "current": "3月7日晚，伊朗首都德黑兰及厄尔布尔士省4处储油设施及一处石油产品转运中心遭战机袭击，致4名油罐车司机死亡。",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "products": [
+        "Crude Oil",
+        "Refined Products"
+      ],
+      "sources": [
+        {
+          "label": "新华网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3on-6Li5yUd3RHl9ECMSUrYyYnyGYpxbpLZr6_klCPQ4TfG05YGGqJDekDbI_FIineRsJhJsk8FzNbp70IinaElim6TOcl860FXI1nnbrc5trUyMqAwyswSbVAoD8pgEmcGZYPc7dwwu5IbjlncKoT6OhKa918XLmlJRuRWEWLmMhcFU="
+        },
+        {
+          "label": "21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtQsOS-Db9313qHWBibWlaxxs-Xl_S09n3SC8aByvxNgKpSvEFp30Oi3-M-Utp_xw6HL9aJ1QWsTL_e0iwX4QUfWW9pR1KDMftUbmqSQbr2W58iQ-U47beUOB6nX_FNPbwEyR3OIWfDWKhOrA4QYWv_elXox6xySt06n9coHoBpCuWKKNeLVuSbL98JcKQslA="
+        }
+      ],
+      "baselineSources": [],
+      "designValue": null,
+      "designUnit": "kbpd"
     }
   ],
   "timeline": [
@@ -7313,6 +7390,26 @@
         {
           "label": "China halts fuel exports amid Middle East supply tensions - Industrie Du Maroc",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoqrxUm15CdaDzjPZgYduWwDkcLGNNgdaPacvobOCsjTBzZ6hwZRegYhsoHtTjNJwEuw_n9V1NICtCRJu6lB0pCdpuobA46rWxpx1OBqbmhvD1eSBWKo027QvTiiDyNTBtijPXcyRaqcqWEoxpcHOEqeagBz5ZGDYBB_x6DL6jy2e7X5rG1VL5fAKq0tw="
+        },
+        {
+          "label": "分析：中國能源自給率達84.4%，可降低中东局势冲击 - TechNews 科技新報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHidVA7tLsQTCfGn2fw_9ldiEnLXUF2SrdMmnhSihHltJ__7rTjJWwQ2c6425vNIPtl15orKjEmpXfL7E8gBpyV7KlUvE-M99jZAIc9k9UEgSTAYt6FLdBFn10-VBYjoFUa9pN5NiGj_dhizW4Ap8dDG3qiXMfxwlYvAPkK3crzdrZI6ZdpsVKM1RVC1e20hyzELwcuiAINBtuo-zl4cik="
+        },
+        {
+          "label": "国际油价突破每桶100美元，“中国比其他国家更能抗压”-观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-h8leao2ZMZxcP21XkyxwFhtqMb5nGzeRnYC-seCINXep5mgaFsUmnSB0kgy5RXN6Q81JQQNHcSwc7Jpbzdq0F4Xg3K7S6QWKHvO1iSUv6hI3M9sccpKvtK9OROUicEjDL-_CxLHOzD-dBLOVg2JEoUDQ-g=="
+        },
+        {
+          "label": "China slashes oil product exports to ensure domestic supply: sources | S&P Global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9hbKeQ1FWc8yfFCGNq93N-VRBDCTBk38Iqe3KUKgBlmliduL19Tn0M79J3958GND46iVZGUHRwHhBGU4euQ-xjYIZoYSTKJnMlTyGo8Tgciex7WyXc5RuJVpMvfuskozDFToaEauuUHTUWI3FxPTduQHcl63kE3CJHWx2V1EQOYrOiYoqvJruo8q5rYSPzJA2JbJK_uO-iy8iQmferMCjRBH2l4f4uilzhK-PrEtH1XhapklwkgOqGsQz80P4s4JACRnzG7uFt7SA0O8="
+        },
+        {
+          "label": "China tells oil refiners to suspend exports, Bloomberg reports - Euractiv",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXjLXOhIOcDAye3kYAllbEm2wUPDXtQJLFma6vusVckfjvADpkg8zGGYtLGTeUagA2N0uaCPieH67NZny9i1DYUu_KVIjdzVBxz62weo0aO1A3Xm6Q8_4-5a1IRMemECubwrNkBOMsUIJ4T70yurYBsz3q4PwSjmmVTYkvHffthFoaBE7VOi2C8e6yIUKu8pTEH4enR9q_"
+        },
+        {
+          "label": "China suspends oil exports",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJHLy7dHIS3oAAijz7x_J9uTTT-kugZgJk1MGx3c_X1RnxZBDZZRYuHvGK8oeAMOMy7s8wrb6Gb2FjpennnneuG7Oi_gk2P_biC4cyvqPCE02BQyTOg8lR9XSpkgHscJZ4LDlz47vaBtj5Lt-F6UvLldu_w=="
         }
       ]
     },
@@ -7356,10 +7453,10 @@
       "country": "G7",
       "market": "总油品库存代理",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
-      "status": "已授权释放",
-      "levelValue": 206064.5,
+      "status": "准备采取行动",
+      "levelValue": 205935.98919999998,
       "levelUnit": "千吨",
-      "changeValue": 2514.8,
+      "changeValue": -153546.176,
       "changeUnit": "千吨",
       "demandValue": 32255.4,
       "demandUnit": "tbpd",
@@ -7367,8 +7464,8 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "2026年3月9日，G7财长和IEA领导人召开紧急会议，讨论协调释放全球战略石油储备，以应对中东冲突导致的油价飙升。会议联合声明表示G7已准备采取必要措施，包括释放石油库存，但目前尚未决定立即实施，因认为仍需更多分析。IEA成员国共计在紧急公共储备中储存了至少12亿桶石油，其中一些美国官员认为联合释放3亿至4亿桶石油是合适的。3月11日，IEA召开紧急会议，G7能源部长也举行会议，讨论中东冲突对能源市场的影响及应对措施。",
-      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约206064.5千吨、库存可用天数约46.8天；另有潜在库存行动新闻需单独观察。",
+      "potentialReason": "2026年3月9日，G7财长召开紧急会议，表示将密切监测能源市场动态，并准备采取必要措施支持全球能源供应，包括释放战略石油储备，但未宣布任何即时行动。3月10日，G7能源部长举行线上磋商，确认了响应国际能源署（IEA）呼吁联合释放石油储备的必要性，以缓解霍尔木兹海峡受阻的影响。IEA已被委托详细阐述释放石油储备可能出现的情况。",
+      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约205935.98919999998千吨、库存可用天数约46.8天；另有潜在库存行动新闻需单独观察。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -7437,6 +7534,18 @@
         {
           "label": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2qtZwH4ks4_90PDNgBEFiY9Q4vcpT-vcgHENvnTgABVhf0Qc5zRK0WJd1dm3tFouFeyNtprGLGA6Pt2XDGcI1Egnql2UvgKoCH4JJJNkbQA8-1wtHFEzJbWfndcw1YmVqUHioNP97MiSBuT25p9NV6JOxjvKO7duWxtfFRk49_Zq9Hlnq6R59SNZ-OyvNVp5_H-DlgcnFaArYOLxy1WpXgEii4wYGpcX90H9jGJrR7s="
+        },
+        {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRjaiNM3GvYlc2UvrsgRrE3yKjglumKNqhx1SmPYOhA9Qml_crBetVeI6qALZdO6W7d68R7MaT3LtoZfeoEwY9kOz4mDGZFUaUF1YZib9BgW0K6p2TiM57Llxdjz7b2cGLW_rOZ9FjbNFUqWz_8JlvZiu6Lu8Ii125yA=="
+        },
+        {
+          "label": "日经中文网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF__xrgDDZY3hSRpiDpgPpIdBkoweeclY_cMv9rSVgxHZdMnMxgPJ8wdajNkEVFHQ20XaVzqYONf0457mDzzpigXrggqh3mmGfVVc84hdVoBkNJrGoQJq9ZHR4z9YjOWiJzB9-k1IktgaqQ-O93-mVlP0Tosskj7lPYDyMmJJmBG_zO0sA=="
+        },
+        {
+          "label": "永豐金證券",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNjTLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
         },
         {
           "label": "Trading Key",
@@ -7551,6 +7660,14 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
         },
         {
+          "label": "RTHK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZs63saRaSDTBWobuoBBAPzQQfycAjSob3HCI1WRYGgCaXUMjXL2zFuEh-fUUtoNphJY0NIR4KuLgcwJHLLEqPz5aGp__NRTON_hFuXvILaWzj4TPMaW6CwD2pqiwU9Ep4eeHDz0_sj9tE30xQBvCR7TwthKSI7yi3ZmOeTpVn2099TFeiVN6G0PArpIg="
+        },
+        {
+          "label": "钛媒体",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv_flPQb61yypbro42elds4NMXiMsMv3Rr7ID75HhbshwBq95QQb0qxPFqlQVDXHdKd64DDVpeHtFuzYdOQ6J9A_ORuR5mIqjExRvH77f5rjITFYAF6WXXmlRLQPs-DMGHWnqc-TcFaw=="
+        },
+        {
           "label": "Binance",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyIybW7YM1ojEfw-FCUgdnHg-sxmtIz4KG8BMVjWgHhifxj1gsmlns0K5gt6JO4M-KQXCltme4LfrUO19QSK5i3MtcT9EuE3P3_ZULW077xO0oe5jg-lJKkZkXznu9omSLwYRakbM_8jnyj21bdCOsf-qeWXNT0VftKxR"
         },
@@ -7565,6 +7682,10 @@
         {
           "label": "US - Strategic Petroleum Reserve [SPR] | Crude Oil | Collection - MacroMicro",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZ8V4iO5Xdob049Zb4VPJiZ8pu8Qk7z3M46Hv0Duw-oWgOt_97XYCZvknIUvlMQs4m-hC5tXvVRk7oI2Uf26slKPidYGUX-BNY2yZQ2yM4j-TsKddeTtBq2idASnQahRXnFbKzTu24i8TEHgd1XUHNT0EorXCa7foEz8UNKmF07FdlVwSjmXVCnKZHs9lxWOl62c_"
+        },
+        {
+          "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zTTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -7677,6 +7798,18 @@
         {
           "label": "European stocks end lower amid Middle East tensions - Anadolu Ajansı",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa803lZzsAMIHpe1Gb-PBBdmsueAIXUJt4ce7oo9KDjNFT4CoECrwV7tRqsIr8e6Zef08biNCnW_m4S73xs8B-Lvz02IdY37jaUK37pp4gp9sR-ZfdC8VbO62hKHqUQjSNdsPWZqBp9wA6eS8KH2ppCCjY29Vtn9avWWrtJZAPMK8LBljcJEks4v7GhJ6J5JzJP0LDTHg="
+        },
+        {
+          "label": "G7要火速联手抑制油价传将紧急开会商释出4亿桶战略储油",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlkK3U_LhKBbTz_qfMQBX50S_ybYSwrtRxaZWeporpxwngiWqg-vdzY-73WOhxwgVBUfc8jZ4tohg9GlBSl8zJKvi0xoFT4QFghFeBp09d71uKPYO282oqO-Cp5mpSOT-_TpG3uyeQjBUW8Kv3tItOtI="
+        },
+        {
+          "label": "华尔街见闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHREsTyI1jfipkIlzroDTi5pKHEF0qy1pomj2v5AX7mfdttddBjgzMrsWk5Wpt9z-pwtiRXckEuDVXUhOPx2jLEZq9pmNs2-Kte93qJJkqSPzAfaSlg2ZGtsRGCo1E6wDRSXA="
+        },
+        {
+          "label": "新华财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfflNGMt_94GVjDU9rt0JNIV1VJ4s_i5KmiFOTPl2-x-C3KLW5a86Op51PoUdeAi9p9ulWrHTlgCmWFQ9zabsYqKgPynpy7lsVbR1BHixDwt5Yy0Y2iIsrZbnMb6orpD04Ds589_p3qmW5GB1XrbxYjfo="
         }
       ]
     },
@@ -7771,19 +7904,19 @@
     {
       "country": "Japan",
       "market": "OECD总油品库存",
-      "period": "2026-02-28 PAJ数据 / 近12个月EIA需求均值",
-      "status": "库存增加",
-      "levelValue": 51823.5,
+      "period": "2026-03-07 PAJ数据 / 近12个月EIA需求均值",
+      "status": "库存下降",
+      "levelValue": 51691.1652,
       "levelUnit": "千吨",
-      "changeValue": 378.5,
+      "changeValue": -155688,
       "changeUnit": "千升",
       "demandValue": 3077.9,
       "demandUnit": "tbpd",
-      "coverDays": 123.4,
+      "coverDays": 123.1,
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。",
+      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。G7能源部长于3月10日举行线上磋商，确认了响应IEA呼吁联合释放石油储备的必要性，日本持支持立场。",
       "current": "截至2026年2月28日当周，日本商业原油库存较前一周增加37.85万千升。炼厂平均开工率86.2%，较前一周下跌4.3%。按IEA及EIA近12个月需求均值估算，总油品库存可用天数约123.4天，对中东油价波动具备较强缓冲。",
       "sources": [
         {
@@ -7849,6 +7982,18 @@
         {
           "label": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2qtZwH4ks4_90PDNgBEFiY9Q4vcpT-vcgHENvnTgABVhf0Qc5zRK0WJd1dm3tFouFeyNtprGLGA6Pt2XDGcI1Egnql2UvgKoCH4JJJNkbQA8-1wtHFEzJbWfndcw1YmVqUHioNP97MiSBuT25p9NV6JOxjvKO7duWxtfFRk49_Zq9Hlnq6R59SNZ-OyvNVp5_H-DlgcnFaArYOLxy1WpXgEii4wYGpcX90H9jGJrR7s="
+        },
+        {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRjaiNM3GvYlc2UvrsgRrE3yKjglumKNqhx1SmPYOhA9Qml_crBetVeI6qALZdO6W7d68R7MaT3LtoZfeoEwY9kOz4mDGZFUaUF1YZib9BgW0K6p2TiM57Llxdjz7b2cGLW_rOZ9FjbNFUqWz_8JlvZiu6Lu8Ii125yA=="
+        },
+        {
+          "label": "日经中文网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF__xrgDDZY3hSRpiDpgPpIdBkoweeclY_cMv9rSVgxHZdMnMxgPJ8wdajNkEVFHQ20XaVzqYONf0457mDzzpigXrggqh3mmGfVVc84hdVoBkNJrGoQJq9ZHR4z9YjOWiJzB9-k1IktgaqQ-O93-mVlP0Tosskj7lPYDyMmJJmBG_zO0sA=="
+        },
+        {
+          "label": "永豐金證券",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNjTLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
         }
       ]
     },
@@ -7997,6 +8142,30 @@
       "potentialLevelUnit": ""
     },
     {
+      "country": "Korea",
+      "market": "战略石油储备",
+      "period": "2026-03-11",
+      "status": "已决定释放",
+      "levelValue": 100,
+      "levelUnit": "百万桶",
+      "changeValue": -22.46,
+      "changeUnit": "百万桶",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": 208,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "",
+      "current": "3月11日，韩国政府宣布将释放2246万桶石油储备，以响应IEA4亿桶石油供应计划。截至2月底，韩国保有1亿桶原油储备，可保障208天供应。政府正考虑行使原油优先购买权，锁定逾600万桶储备油，并计划实施石油价格上限制度以稳定国内油价。",
+      "sources": [
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVeMAUz-DaUUHQ3I1NxM9TvMxWWB9HPtx3b91MWNX7sciOXhb16MIcK46WasqLUQvOKw34oZrKJ-b8mqvwxXDMixy-6yEfsx0CkyxPtN8nhv1P6GAmE4ORMOgU"
+        }
+      ]
+    },
+    {
       "country": "OECD Europe",
       "market": "OECD总油品库存",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
@@ -8010,7 +8179,7 @@
       "coverDays": 98.8,
       "potentialCoverDays": null,
       "potentialReason": "",
-      "current": "按IEA库存及EIA近12个月需求均值估算，OECD欧洲总油品库存可用天数约98.8天，缓冲显著高于北美与东北亚。",
+      "current": "按IEA库存及EIA近12个月需求均值估算，OECD欧洲总油品库存可用天数约98.8天，缓冲显著高于北美及东北亚。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -8027,6 +8196,42 @@
       ],
       "potentialLevelValue": null,
       "potentialLevelUnit": ""
+    },
+    {
+      "country": "Singapore",
+      "market": "燃料总库存",
+      "period": "2026-03-04 ESG数据",
+      "status": "库存增加",
+      "levelValue": 49.965,
+      "levelUnit": "百万桶",
+      "changeValue": 2.522,
+      "changeUnit": "百万桶",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": null,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "中东冲突持续升级，市场对高硫燃料油供应减少的担忧情绪继续增加对新加坡市场基本面的支撑。中东战事限制了流向亚洲的套利货量，市场参与者预期新加坡地区供应将愈发紧张。",
+      "current": "截至2026年3月4日当周，新加坡燃料总库存为4996.5万桶，较前一周增加252.2万桶。其中，燃料油库存上涨65.4万桶至2328.6万桶，中间馏分油库存上涨12万桶至764.7万桶，轻馏分油库存上涨174.8万桶至1903.2万桶。",
+      "sources": [
+        {
+          "label": "汇通网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3zAUUO0vsfddz1-KIlEp7fYaDKfY7OdFmr5QVwQCmYJSm6IVEFKI0IYe15LRMoPORkj-Uuu0cEG-Sfsb8fLrhbswXP8bey9NzIvxmYiLdj1NwkYPIFP9C_bWVOVv_JTuEpaibC-KAKlpvi0Bx"
+        },
+        {
+          "label": "金投原油网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg-EviHbxKVZhwTk8c3UW2v-pzlrvb8EJnQoXKabR5eTbnVOuRdyKobsk0q2q87Ty3-CHHyBUEah197intP1ZDR9HfJ3cr6EUHyBFsHr2r82muJMcMgQlz9NmVoEVXj4fNDJy0SlklirHma3mo9Ec="
+        },
+        {
+          "label": "石油化工产业协作联盟网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt0TrdOKg1kEHp0Kfl6FYwEiPWCEKHkXbo_gOmXOhVROnTBzPLNXG9IWF07nhCo073WnTWXcH9LrKe3Ato3iCThlcsV0Mvi9R2UTPUuo7dSiwEcVsjYAYu15ZM72gMZ72xlByn7PyINjke"
+        },
+        {
+          "label": "石油化工产业协作联盟网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNklWbhqbdqAHSDwlQ4nzscM3Ob-KWqmWvD-8UE8v2GUoD3AdrFsOdYssWbK6H7H4BJI5h4YOQRQ5a-odPq1vBVF0x_iWSmEVWWi8acwxWX06LiUSWpzd6gWUvF9hfA_WEPW_qxao="
+        }
+      ]
     },
     {
       "country": "Spain",
@@ -8163,11 +8368,11 @@
     {
       "country": "United States",
       "market": "商业原油库存",
-      "period": "2026-03-06 EIA数据",
-      "status": "库存下降",
-      "levelValue": 437.6,
+      "period": "2026-03-04 EIA数据",
+      "status": "库存增加",
+      "levelValue": 441.424,
       "levelUnit": "百万桶",
-      "changeValue": -1.7,
+      "changeValue": 3.824,
       "changeUnit": "百万桶",
       "demandValue": null,
       "demandUnit": "",
@@ -8176,7 +8381,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "",
-      "current": "截至2026年3月6日当周，美国商业原油库存减少170万桶，至4.376亿桶，低于分析师预期。",
+      "current": "截至2026年3月4日当周，美国商业原油库存增加382.4万桶，高于市场预期。汽油库存减少365.4万桶，馏分油库存减少134.9万桶。炼厂产能利用率上升1.6个百分点。",
       "sources": [
         {
           "label": "U.S. Energy Information Administration (EIA)",
@@ -8257,6 +8462,14 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "RTHK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZs63saRaSDTBWobuoBBAPzQQfycAjSob3HCI1WRYGgCaXUMjXL2zFuEh-fUUtoNphJY0NIR4KuLgcwJHLLEqPz5aGp__NRTON_hFuXvILaWzj4TPMaW6CwD2pqiwU9Ep4eeHDz0_sj9tE30xQBvCR7TwthKSI7yi3ZmOeTpVn2099TFeiVN6G0PArpIg="
+        },
+        {
+          "label": "钛媒体",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv_flPQb61yypbro42elds4NMXiMsMv3Rr7ID75HhbshwBq95QQb0qxPFqlQVDXHdKd64DDVpeHtFuzYdOQ6J9A_ORuR5mIqjExRvH77f5rjITFYAF6WXXmlRLQPs-DMGHWnqc-TcFaw=="
         }
       ]
     },
@@ -8333,13 +8546,17 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "US Crude Oil in the Strategic Petroleum Reserve Stocks (I:USCOSPRE) - YCharts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv6cN8QzDWtpTvauWUlY9MqYHTZ0yHbDFtYm2HwQfUC4bQXrBsU4tathbfd8IrQtmnJNeCx4Cf1sq6aEUt6vmdDKnsA3zTTr0jdY4JXSiktIcRphBA4dE-QR1k3NmbD8CCQX6cNKJ6Je68A3_vukeXs3GUW2wzadOkr8hg9WqCt-nSMNvrZ6chbXtvK5OBAPdMbH4fND9QsG1t"
         }
       ]
     },
     {
       "country": "中国台湾",
       "market": "原油储备",
-      "period": "2026年3月4日",
+      "period": "2026年3月5日",
       "status": "储备充足 / 要求提高库存",
       "levelValue": null,
       "levelUnit": "",
@@ -8351,7 +8568,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "台湾经济部已要求石油公司提高油气库存水平，并每日更新库存和航运计划数据，以应对中东冲突可能造成的供应中断。",
+      "potentialReason": "台湾经济部已要求石油公司提高油气库存水平，并每日更新库存和航运计划数据，以应对中东冲突可能造成的供应中断。一旦霍尔木兹海峡遭封锁，台湾约78%的原油进口来源将处于危险范围。",
       "current": "截至2026年3月4日，中国台湾拥有超过100天原油储备和超过11天天然气储备，均高于监管安全要求。中东原油生产与运输受阻推动国际油价大幅上涨，台湾自3月9日凌晨起汽油批售价格每升涨1.5元新台币。一旦霍尔木兹海峡遭封锁，台湾约78%的原油进口来源将处于危险范围。",
       "sources": [
         {
@@ -8389,16 +8606,28 @@
         {
           "label": "台湾调涨油价天然气储存只能撑到3月底 - 旅日侨网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1F8j28_DqOElEllxLbfIGWe_og16RfK5pfREZbs3kNHd24BqIK8a-6-ibUSZvxrhnAn6nm3deUuOkoOMdHRlqEBWjbs-mJYYRlSvVzdJU5wFdmyprj9pSdv70EFrKY9WdqqFkdLUcXxSkLcHNuEH86sSwp8XZsfPwpmG9GsZ2FtbcCIR26A4mPoz5pR0="
+        },
+        {
+          "label": "大紀元",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5dsIFlmf-5hj57jYemH3ayA7iD1OCxdeR9-RJi6pDTK5QfLPq8PXCZGWBppkNvojaFlj3L68Ivj9i_e5h9MPoy8NZyuLD-o-FHflBEAhZUWNh9H5qOISOTc3u8B8JJR9Qc4VUfbeIgGjrlgw="
+        },
+        {
+          "label": "大紀元",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK8-ioOv0zsBkM29gHnIzbBdSjS_nerMHroc-H2Cm3KwS__gHL3GQVHjWvw1ZgWu_PMWLkOqaqUEcBAmLbI2WSF2ngw5Bn2JX9QwjJe7l8TfcKnQqaLapqhBgw9IpmOcMg1PG_7V2kWKLS7co="
+        },
+        {
+          "label": "旅日侨网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsclV4DL3uvFExfjQcq3Wdk8fAoWVOUxCt5sBpzhPDz8BzSuFp5GhMjTgEe2gmC9O9Ho9MaBuJyXSLD4U07bjtj1Ix-FFP_da0BYzZLVYaErTgCH4FHZbctPtac6RD_KhCyEkx3S1gLuqLk2LL_GtPT0qkqtCco17mCSOFBNmOBXisqPmQ7IXVyzD7MQ=="
         }
       ]
     },
     {
       "country": "印度",
       "market": "原油库存",
-      "period": "2026年3月3日",
+      "period": "2026年3月9日",
       "status": "库存可维持25天 / 拒绝释放战略储备",
-      "levelValue": null,
-      "levelUnit": "",
+      "levelValue": 100,
+      "levelUnit": "百万桶",
       "changeValue": null,
       "changeUnit": "",
       "demandValue": null,
@@ -8408,7 +8637,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "印度于2026年3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
-      "current": "2026年3月3日，印度政府消息人士透露，该国原油库存可维持25天。9日政府官员表示不会释放战略石油储备，并计划从美国和加拿大获得更多液化石油气供应。印度政府报告显示，该国原油和成品湔总储备可支持约7-8周的供应。11日，印度面临严重的商用液化石油气和液化天然气短缺。",
+      "current": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，也无意限制炼商燃料出口，并拥有充足石油库存。商业原油库存约1亿桶，理论上可支撑约40-45天进口需求。印度还计划从美加获得更多液化石油气供应。政府报告显示，原油及成品总储备可支持约7-8周供应。3月11日，印度面临严重商用液化石油气和液化天然气短缺。",
       "sources": [
         {
           "label": "Binance News",
@@ -8533,6 +8762,10 @@
         {
           "label": "The Gulf Conflict and the Return of $100 Oil | Man Group",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuyNiott16t6QQ0yDzY0kf2Vdcq210QbSwg8jhcIledOuq2vTbmPqWAnPbdoQpCkrLxHFy1LQ5fOVgVqzauOMi44ErySs36SU8-Ghy73uX-ECQvlSuO4ik5u9o9BOXuO0DodRCNNrAoQq2OZkcxq3xFCr-0BBMg=="
+        },
+        {
+          "label": "黄金",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZoEHzwthY8zb_kzUQbZ-PNagriwSrokLLNV8wbS1dCeLak5BRBYAUbmWJZnnbQQF2N4bdNGjyEusKQpgHvKFzuqX878Hx8bvsqkysIyNTxk5n7bEkcCVg33ddF3tWFjvIfxRncMLLEApZjU1fxZqNM8hqgI4o"
         }
       ]
     },
