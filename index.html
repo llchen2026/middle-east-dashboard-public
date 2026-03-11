@@ -164,6 +164,14 @@
       font-weight: 600;
       color: var(--text);
     }
+    .impact-table .group-cell {
+      text-align: center;
+      vertical-align: middle;
+      font-weight: 600;
+      color: #475569;
+      background: #f8fafc;
+      white-space: nowrap;
+    }
     .impact-table .metric-cell {
       white-space: nowrap;
     }
@@ -845,6 +853,71 @@
       return '炼厂';
     }
 
+    function getRegionLabel(country) {
+      const regionMap = new Map([
+        ['伊朗', '中东'],
+        ['伊拉克', '中东'],
+        ['沙特', '中东'],
+        ['阿联酋', '中东'],
+        ['卡塔尔', '中东'],
+        ['科威特', '中东'],
+        ['阿曼', '中东'],
+        ['巴林', '中东'],
+        ['也门', '中东'],
+        ['以色列', '中东'],
+        ['埃及', '中东'],
+        ['土耳其', '中东'],
+        ['中国', '东北亚'],
+        ['中国台湾', '东北亚'],
+        ['日本', '东北亚'],
+        ['韩国', '东北亚'],
+        ['朝鲜', '东北亚'],
+        ['印度尼西亚', '东南亚'],
+        ['新加坡', '东南亚'],
+        ['泰国', '东南亚'],
+        ['马来西亚', '东南亚'],
+        ['越南', '东南亚'],
+        ['菲律宾', '东南亚'],
+        ['文莱', '东南亚'],
+        ['缅甸', '东南亚'],
+        ['柬埔寨', '东南亚'],
+        ['老挝', '东南亚'],
+        ['罗马尼亚', '欧洲'],
+        ['克罗地亚', '欧洲'],
+        ['希腊', '欧洲'],
+        ['法国', '欧洲'],
+        ['德国', '欧洲'],
+        ['意大利', '欧洲'],
+        ['西班牙', '欧洲'],
+        ['荷兰', '欧洲'],
+        ['比利时', '欧洲'],
+        ['英国', '欧洲'],
+        ['波兰', '欧洲'],
+        ['匈牙利', '欧洲'],
+        ['捷克', '欧洲'],
+        ['印度', '南亚'],
+        ['巴基斯坦', '南亚'],
+        ['孟加拉国', '南亚'],
+        ['斯里兰卡', '南亚'],
+        ['美国', '北美'],
+        ['墨西哥', '北美'],
+        ['巴西', '拉美'],
+        ['阿尔及利亚', '非洲'],
+        ['利比亚', '非洲'],
+        ['摩洛哥', '非洲'],
+        ['南非', '非洲'],
+        ['澳大利亚', '大洋洲'],
+        ['新西兰', '大洋洲'],
+      ]);
+      return regionMap.get(country) || '其他';
+    }
+
+    function getRegionOrder(region) {
+      const order = ['中东', '东北亚', '东南亚', '南亚', '欧洲', '北美', '拉美', '非洲', '大洋洲', '其他'];
+      const index = order.indexOf(region);
+      return index === -1 ? 99 : index;
+    }
+
     function getTrackedAssetMetric(item, kind) {
       const isEthyleneLike = hasProduct(item, '乙烯') && !isRefineryAsset(item);
       if (isEthyleneLike) {
@@ -882,11 +955,13 @@
     function renderImpactAssetTable(filtered) {
       const rows = filtered
         .filter(item => ['direct', 'indirect'].includes(classifyStatus(item.status)) && hasUsableEventSources(item) && isTrackedImpactAsset(item))
+        .map(item => ({ ...item, region: getRegionLabel(item.country) }))
         .sort((a, b) => {
-          const statusRank = { direct: 0, indirect: 1, unknown: 2, no_impact: 3 };
-          const byStatus = (statusRank[classifyStatus(a.status)] ?? 9) - (statusRank[classifyStatus(b.status)] ?? 9);
-          if (byStatus !== 0) return byStatus;
-          return `${a.country} ${a.facility}`.localeCompare(`${b.country} ${b.facility}`, 'zh-CN');
+          const byRegion = getRegionOrder(a.region) - getRegionOrder(b.region);
+          if (byRegion !== 0) return byRegion;
+          const byCountry = `${a.country}`.localeCompare(`${b.country}`, 'zh-CN');
+          if (byCountry !== 0) return byCountry;
+          return `${a.facility}`.localeCompare(`${b.facility}`, 'zh-CN');
         });
 
       if (!rows.length) {
@@ -894,10 +969,22 @@
         return;
       }
 
+      const regionCounts = new Map();
+      const countryCounts = new Map();
+      rows.forEach(item => {
+        regionCounts.set(item.region, (regionCounts.get(item.region) || 0) + 1);
+        const countryKey = `${item.region}__${item.country}`;
+        countryCounts.set(countryKey, (countryCounts.get(countryKey) || 0) + 1);
+      });
+
+      let lastRegion = '';
+      let lastCountryKey = '';
+
       impactAssetTable.innerHTML = `
         <table class="impact-table">
           <thead>
             <tr>
+              <th>区域</th>
               <th>国家</th>
               <th>炼厂名 / 装置名</th>
               <th>类型</th>
@@ -908,13 +995,25 @@
           </thead>
           <tbody>
             ${rows.map(item => `
-              <tr>
-                <td>${item.country}</td>
-                <td class="facility-cell">${item.facility}</td>
-                <td>${getTrackedAssetType(item)}</td>
-                <td class="metric-cell">${getTrackedAssetMetric(item, 'design')}</td>
-                <td class="metric-cell">${getTrackedAssetMetric(item, 'affected')}</td>
-                <td class="status-cell">${item.status}</td>
+              <tr>${(() => {
+                const cells = [];
+                const countryKey = `${item.region}__${item.country}`;
+                if (item.region !== lastRegion) {
+                  cells.push(`<td class="group-cell" rowspan="${regionCounts.get(item.region)}">${item.region}</td>`);
+                  lastRegion = item.region;
+                  lastCountryKey = '';
+                }
+                if (countryKey !== lastCountryKey) {
+                  cells.push(`<td class="group-cell" rowspan="${countryCounts.get(countryKey)}">${item.country}</td>`);
+                  lastCountryKey = countryKey;
+                }
+                cells.push(`<td class="facility-cell">${item.facility}</td>`);
+                cells.push(`<td>${getTrackedAssetType(item)}</td>`);
+                cells.push(`<td class="metric-cell">${getTrackedAssetMetric(item, 'design')}</td>`);
+                cells.push(`<td class="metric-cell">${getTrackedAssetMetric(item, 'affected')}</td>`);
+                cells.push(`<td class="status-cell">${item.status}</td>`);
+                return cells.join('');
+              })()}
               </tr>
             `).join('')}
           </tbody>
