@@ -41,6 +41,7 @@
     .stats { grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
     .summary-grid { grid-template-columns: 1fr 1fr; margin-bottom: 16px; align-items: stretch; }
     .country-grid { grid-template-columns: 1fr 1fr; margin-bottom: 16px; }
+    .impact-table-grid { grid-template-columns: 1fr; margin-bottom: 16px; }
     .main { grid-template-columns: 1fr; margin-bottom: 16px; }
     .chemicals-row { grid-template-columns: 1fr; }
     .footer-grid { grid-template-columns: 1fr 1fr; }
@@ -122,7 +123,58 @@
     .summary-chip-label { font-size: 14px; color: var(--muted); }
     .summary-chip-value { font-size: 17px; font-weight: 700; }
     .summary-card-compact { min-height: 0; display: flex; flex-direction: column; height: 100%; }
-    .summary-card-compact canvas { height: 228px !important; }
+    .summary-card-tall { min-height: 560px; }
+    .summary-card-chart { min-height: 360px; }
+    .summary-card-compact canvas { height: 252px !important; }
+    .impact-table-card { padding-bottom: 12px; }
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: #fff;
+    }
+    .impact-table {
+      width: 100%;
+      min-width: 880px;
+      border-collapse: collapse;
+    }
+    .impact-table th,
+    .impact-table td {
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+      font-size: 14px;
+    }
+    .impact-table th {
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 700;
+      background: #f8fafc;
+      white-space: nowrap;
+    }
+    .impact-table td {
+      color: #334155;
+    }
+    .impact-table tr:last-child td {
+      border-bottom: none;
+    }
+    .impact-table .facility-cell {
+      min-width: 260px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .impact-table .metric-cell {
+      white-space: nowrap;
+    }
+    .impact-table .status-cell {
+      min-width: 150px;
+    }
+    .table-empty {
+      padding: 18px;
+      color: var(--muted);
+      font-size: 14px;
+    }
     .benchmark-note {
       margin-top: auto;
       padding: 12px 14px;
@@ -208,7 +260,7 @@
       font-weight: 600;
     }
     canvas { width: 100% !important; height: 320px !important; }
-    #globalShareChart { height: 228px !important; }
+    #globalShareChart { height: 252px !important; }
     #inventoryLevelChart, #inventoryCoverChart, #inventoryRegionalChart {
       height: 240px !important;
     }
@@ -273,7 +325,7 @@
     </div>
 
     <div class="grid summary-grid">
-      <div class="card summary-card-compact">
+      <div class="card summary-card-compact summary-card-tall">
         <h3>直接 / 间接受影响汇总</h3>
         <div class="section-kicker">按上游原油、天然气、LNG、炼厂及乙烯口径分别统计；单位统一折算后汇总，炼厂和化工产能不再并入原油上游。</div>
         <div class="summary-stack">
@@ -284,7 +336,7 @@
           <div class="summary-chip"><span class="summary-chip-label">乙烯产能影响量</span><span class="summary-chip-value" id="ethyleneImpactLoss">0 mtpa</span></div>
         </div>
       </div>
-      <div class="card summary-card-compact">
+      <div class="card summary-card-compact summary-card-tall">
         <h3>当前边际影响占全球比重</h3>
         <div class="section-kicker">用全球原油产量、天然气产量、LNG 液化能力、全球炼能和全球乙烯产能作分母，对当前已确认影响量做横向对比。</div>
         <canvas id="globalShareChart"></canvas>
@@ -292,12 +344,20 @@
       </div>
     </div>
 
+    <div class="grid impact-table-grid">
+      <div class="card impact-table-card">
+        <h3>受影响炼厂 / 乙烯装置汇总</h3>
+        <div class="section-kicker">自动汇总当前有事件来源、且状态属于已受影响或间接受限的炼厂与乙烯 / 裂解装置，便于快速横向比较。</div>
+        <div class="table-wrap" id="impactAssetTable"><div class="table-empty">加载中...</div></div>
+      </div>
+    </div>
+
     <div class="grid country-grid">
-      <div class="card summary-card-compact">
+      <div class="card summary-card-compact summary-card-chart">
         <h3>各国已受影响资产数量</h3>
         <canvas id="countryChart"></canvas>
       </div>
-      <div class="card summary-card-compact">
+      <div class="card summary-card-compact summary-card-chart">
         <h3>各国直接原油影响量（kbpd）</h3>
         <canvas id="countryLossChart"></canvas>
       </div>
@@ -416,6 +476,7 @@
     const directLngLoss = document.getElementById('directLngLoss');
     const refiningImpactLoss = document.getElementById('refiningImpactLoss');
     const ethyleneImpactLoss = document.getElementById('ethyleneImpactLoss');
+    const impactAssetTable = document.getElementById('impactAssetTable');
 
     let data = [];
     let timelineData = [];
@@ -772,6 +833,92 @@
       if (value === null || value === undefined) return '暂无';
       const digits = Number(value) < 10 ? 2 : 0;
       return formatMetric(value, digits);
+    }
+
+    function isTrackedImpactAsset(item) {
+      return isRefineryAsset(item) || hasProduct(item, '乙烯');
+    }
+
+    function getTrackedAssetType(item) {
+      if (hasProduct(item, '乙烯') && !isRefineryAsset(item)) return '乙烯 / 裂解';
+      if (isRefineryAsset(item) && hasProduct(item, '乙烯')) return '炼厂 / 乙烯';
+      return '炼厂';
+    }
+
+    function getTrackedAssetMetric(item, kind) {
+      const isEthyleneLike = hasProduct(item, '乙烯') && !isRefineryAsset(item);
+      if (isEthyleneLike) {
+        const primaryValue = convertImpactValue(
+          kind === 'design' ? item.designValue : item.affectedValue,
+          kind === 'design' ? item.designUnit : item.affectedUnit,
+          'mtpa'
+        );
+        if (typeof primaryValue === 'number') {
+          return `${formatMetric(primaryValue, primaryValue < 10 ? 2 : 0)} mtpa`;
+        }
+        const fallbackMetric = getSupplementalMetricValue(item, {
+          metricKey: kind === 'design' ? 'ethylene_design' : 'ethylene_affected',
+          metricType: 'chemicals',
+          unit: '百万吨/年',
+          labelIncludes: '乙烯'
+        });
+        if (typeof fallbackMetric === 'number') {
+          return `${formatMetric(fallbackMetric, fallbackMetric < 10 ? 2 : 0)} mtpa`;
+        }
+        return '暂无';
+      }
+
+      const primaryValue = convertImpactValue(
+        kind === 'design' ? item.designValue : item.affectedValue,
+        kind === 'design' ? item.designUnit : item.affectedUnit,
+        'kbpd'
+      );
+      if (typeof primaryValue === 'number') {
+        return `${formatMetric(primaryValue, primaryValue < 10 ? 2 : 0)} kbpd`;
+      }
+      return '暂无';
+    }
+
+    function renderImpactAssetTable(filtered) {
+      const rows = filtered
+        .filter(item => ['direct', 'indirect'].includes(classifyStatus(item.status)) && hasUsableEventSources(item) && isTrackedImpactAsset(item))
+        .sort((a, b) => {
+          const statusRank = { direct: 0, indirect: 1, unknown: 2, no_impact: 3 };
+          const byStatus = (statusRank[classifyStatus(a.status)] ?? 9) - (statusRank[classifyStatus(b.status)] ?? 9);
+          if (byStatus !== 0) return byStatus;
+          return `${a.country} ${a.facility}`.localeCompare(`${b.country} ${b.facility}`, 'zh-CN');
+        });
+
+      if (!rows.length) {
+        impactAssetTable.innerHTML = '<div class="table-empty">当前筛选条件下暂无可汇总的炼厂或乙烯装置。</div>';
+        return;
+      }
+
+      impactAssetTable.innerHTML = `
+        <table class="impact-table">
+          <thead>
+            <tr>
+              <th>国家</th>
+              <th>炼厂名 / 装置名</th>
+              <th>类型</th>
+              <th>设计产能</th>
+              <th>影响产能</th>
+              <th>目前状态</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(item => `
+              <tr>
+                <td>${item.country}</td>
+                <td class="facility-cell">${item.facility}</td>
+                <td>${getTrackedAssetType(item)}</td>
+                <td class="metric-cell">${getTrackedAssetMetric(item, 'design')}</td>
+                <td class="metric-cell">${getTrackedAssetMetric(item, 'affected')}</td>
+                <td class="status-cell">${item.status}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>`;
     }
 
     function renderSourceGroup(sources, label) {
@@ -1274,6 +1421,7 @@
       const filtered = getFilteredData();
       renderStats(filtered);
       renderSummary(filtered);
+      renderImpactAssetTable(filtered);
       renderList(filtered);
       renderTimeline();
       updateInventoryTitles();
