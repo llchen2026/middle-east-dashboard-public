@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11 19:52（北京时间）",
+  "lastUpdated": "2026-03-12 01:17（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -3519,6 +3519,13 @@
       ],
       "secondaryMetrics": [
         {
+          "label": "乙烯涉及产能（不可抗力，待量化）",
+          "metricKey": "ethylene_affected",
+          "metricType": "chemicals",
+          "value": 0.9,
+          "unit": "百万吨/年"
+        },
+        {
           "label": "丙烯设计产能",
           "metricKey": "propylene_design",
           "metricType": "chemicals",
@@ -3555,6 +3562,13 @@
       ],
       "baselineSources": [],
       "secondaryMetrics": [
+        {
+          "label": "乙烯涉及产能（不可抗力，待量化）",
+          "metricKey": "ethylene_affected",
+          "metricType": "chemicals",
+          "value": 0.8,
+          "unit": "百万吨/年"
+        },
         {
           "label": "丙烯设计产能",
           "metricKey": "propylene_design",
@@ -3749,44 +3763,6 @@
       "normalizedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil"
-    },
-    {
-      "country": "印度尼西亚",
-      "facility": "巴厘巴板炼油厂 (Pertamina)",
-      "category": "炼厂",
-      "designValue": 360,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "产能提升 / 计划停止柴油进口",
-      "current": "印尼国家石油公司Pertamina旗下巴厘巴板炼油厂于2026年1月12日完成升级投产，加工能力从26万桶/日提升至36万桶/日，成为印尼最大炼油厂。印尼能源部表示，结合生物柴油强制令与炼油厂扩产，有望于2027年停止进口柴油和航空燃油，并计划2026年4月全面停用柴油进口。",
-      "products": [
-        "柴油",
-        "航空燃油",
-        "汽油"
-      ],
-      "sources": [
-        {
-          "label": "印尼2026 年1 月启用升级后巴厘巴板炼油厂74 亿美元投资助力燃料自给 - 流程工业",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErAP356cY1nIaUwEpUU2tkKbDMa8X48BlfV9abvjozJEeOYesEzcCTTcpZelvo9YchbERdo4cytrJa4chXVBvXBtEXSfeoqLfCN-K4ZAtKvgZ7qyd3C-Fy2gDyd1k-ZfpX"
-        },
-        {
-          "label": "印尼计划今年4月停止进口柴油 - Indonesia-Daily",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1uQIpxodLBt0Ec9FZ5HpOhQywR2dXOnQJcKxvskbqWB3qtMxzjIS9nD8STF5lixR1n3FhYBOKsMDP5SqfS7avGk7yj-9FMg25TnDOxy--0-k9lexkMbxzwkmuB2xTFtnvGg20TniiH_8c"
-        }
-      ],
-      "baselineSources": [
-        {
-          "label": "印尼2026 年1 月启用升级后巴厘巴板炼油厂74 亿美元投资助力燃料自给 - 流程工业",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErAP356cY1nIaUwEpUU2tkKbDMa8X48BlfV9abvjozJEeOYesEzcCTTcpZelvo9YchbERdo4cytrJa4chXVBvXBtEXSfeoqLfCN-K4ZAtKvgZ7qyd3C-Fy2gDyd1k-ZfpX"
-        },
-        {
-          "label": "印尼计划今年4月停止进口柴油 - Indonesia-Daily",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1uQIpxodLBt0Ec9FZ5HpOhQywR2dXOnQJcKxvskbqWB3qtMxzjIS9nD8STF5lixR1n3FhYBOKsMDP5SqfS7avGk7yj-9FMg25TnDOxy--0-k9lexkMbxzwkmuB2xTFtnvGg20TniiH_8c"
-        }
-      ]
     },
     {
       "country": "新加坡",
@@ -7628,6 +7604,10 @@
         {
           "label": "Sudan oil minister says fuel reserves stable despite Middle East conflict",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CQCnQMczy2pl-5m0W7WhGKk5pCoBYPhHNTzyu7kBCr9YiuLlQLjHYlxR0smhwLA-pAOgFAqvXj8PYI27onfr0xtN_Zset6uaRvrW9jRt6mjJJSpx73SPkuP86CxQa9d9SA=="
+        },
+        {
+          "label": "Sudan oil minister says fuel reserves stable despite Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDidCPSd1aAb8Log9a8MxjsiCi1fTj0MTClgyqZgAloeTUS0oOdh0C1veYYXq6VkJaxvEjE3xsFEUWLLSClcIPM-FKkQIdh2dl7ZFMNBuAEe74EQhT1GOoMbF1BbzEVJCs"
         }
       ]
     },
