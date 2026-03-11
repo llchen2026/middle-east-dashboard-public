@@ -3359,9 +3359,12 @@
     },
     {
       "country": "中国",
-      "category": "炼厂",
+      "category": "化工",
       "facility": "中海油与壳牌石化有限公司 (CSPC) 惠州裂解装置",
-      "products": [],
+      "products": [
+        "乙烯",
+        "丙烯"
+      ],
       "designValue": 1.2,
       "designUnit": "百万吨/年",
       "affectedValue": 1.2,
@@ -3436,6 +3439,153 @@
         {
           "label": "Asia refineries, petchem firms cut runs as Middle East conflict disrupts feedstock supplies",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGFqsWw4nCa9tzE5nGmYCZxR9EH333fq4l7Y-YmzJALJ2d6RKp_fQf99Icvu1iRZBn34RVdhpiP7b5heIPmuzZf7Piu3Teqgidf8KGOdvGFu4aA_IUY1vWKJ3f7nxEPBMqRr620kRgsF5zGYWF6iqstkDymri-Vugm4xNYp8mOktRpb2IuOuzOku375ZAj_2EmXntHJJk2I_b-A6IHrpHMr4h5ZnfKS6DEU-iTTmJ_gsy3MfZjw5OebW08EUypuFDiviMd1w=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "中国台湾",
+      "category": "炼厂 / 化工",
+      "facility": "台塑石化麦寮炼厂 / 裂解装置",
+      "products": [
+        "汽油",
+        "柴油",
+        "航煤",
+        "石脑油",
+        "乙烯",
+        "丙烯"
+      ],
+      "designValue": 540,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力 / 运行受限",
+      "current": "2026年3月10日，台塑石化表示因中东冲突导致石脑油船运延误，对部分石化产品宣布不可抗力。麦寮炼厂设计炼能约54万桶/日，当时原油加工量约49万桶/日；2号和3号裂解炉约以70%负荷运行，若原料持续不到位，公司可能进一步停运裂解装置。公开报道尚未给出可确认的炼厂直接减产量。",
+      "sources": [
+        {
+          "label": "Taiwan's Formosa Petrochemical issues force majeure on supplies due to war-driven shipping delays - Reuters",
+          "url": "https://www.marketscreener.com/news/taiwan-s-formosa-petchem-issues-force-majeure-as-iran-war-disrupts-feedstock-delivery-ce7e5fdedc88f626"
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "Formosa Petrochemical Corporation",
+          "url": "https://www.fpcc.com.tw/en/about"
+        }
+      ],
+      "secondaryMetrics": [
+        {
+          "label": "乙烯裂解能力",
+          "metricKey": "ethylene_design",
+          "metricType": "chemicals",
+          "value": 2.935,
+          "unit": "百万吨/年"
+        }
+      ]
+    },
+    {
+      "country": "印度尼西亚",
+      "category": "化工",
+      "facility": "Chandra Asri Cilegon裂解装置",
+      "products": [
+        "乙烯",
+        "丙烯"
+      ],
+      "designValue": 0.9,
+      "designUnit": "百万吨/年",
+      "affectedValue": null,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力 / 运行率下调",
+      "current": "2026年3月2日至3日，印尼石化生产商Chandra Asri Pacific对客户发出不可抗力通知，称霍尔木兹海峡周边冲突已扰乱原料运输，并表示将下调印尼工厂运行率。公开报道确认该通知覆盖公司业务单元，但尚未给出芝勒贡裂解装置的明确减产量。",
+      "sources": [
+        {
+          "label": "Indonesia Petrochemical Giant Declares Force Majeure Amid Strait Tensions - Bloomberg",
+          "url": "https://sg.finance.yahoo.com/news/indonesia-petrochemical-giant-declares-force-003756857.html"
+        },
+        {
+          "label": "Chandra Asri Declares Force Majeure Due to Conflict in Hormuz - Petromindo",
+          "url": "https://www.petromindo.com/news/article/chandra-asri-declares-force-majeure-due-to-conflict-in-hormuz"
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "Chandra Asri Group Chemical Solutions",
+          "url": "https://chandra-asri.com/en/our-business/chemical-solutions"
+        }
+      ],
+      "secondaryMetrics": [
+        {
+          "label": "丙烯设计产能",
+          "metricKey": "propylene_design",
+          "metricType": "chemicals",
+          "value": 0.49,
+          "unit": "百万吨/年"
+        }
+      ]
+    },
+    {
+      "country": "泰国",
+      "category": "化工",
+      "facility": "Rayong Olefins裂解装置（Map Ta Phut）",
+      "products": [
+        "乙烯",
+        "丙烯"
+      ],
+      "designValue": 0.8,
+      "designUnit": "百万吨/年",
+      "affectedValue": null,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已宣布不可抗力",
+      "current": "2026年3月6日，Siam Cement Group旗下Rayong Olefins宣布不可抗力。公开报道确认其位于泰国Map Ta Phut的烯烃装置受原料与物流扰动影响，但尚未给出明确的当前减产量。",
+      "sources": [
+        {
+          "label": "Siam Cement's Rayong Olefins declares force majeure, letter says - Reuters",
+          "url": "https://www.marketscreener.com/news/siam-cement-s-rayong-olefins-declares-force-majeure-letter-says-ce7e5fd8dd8bf626"
+        },
+        {
+          "label": "SCG issues force majeure at Thai Rayong petchem complex - Argus Media",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2797451-scg-issues-force-majeure-at-thai-rayong-petchem-complex"
+        }
+      ],
+      "baselineSources": [],
+      "secondaryMetrics": [
+        {
+          "label": "丙烯设计产能",
+          "metricKey": "propylene_design",
+          "metricType": "chemicals",
+          "value": 0.4,
+          "unit": "百万吨/年"
+        }
+      ]
+    },
+    {
+      "country": "以色列",
+      "category": "炼厂",
+      "facility": "Bazan海法炼厂",
+      "products": [
+        "汽油",
+        "柴油",
+        "燃料油",
+        "石化原料"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "遭袭声明 / 影响待确认",
+      "current": "2026年3月7日晚，伊朗伊斯兰革命卫队及其官方媒体称使用导弹打击海法炼厂；3月10日伊朗官方媒体又称动用攻击型无人机打击该炼厂及燃料存储设施。当前可确认的信息主要来自伊方声明，尚缺乏同等强度的Bazan公司披露来确认具体受损范围与产能影响。",
+      "sources": [
+        {
+          "label": "IRGC says missiles targeted Haifa refinery - Xinhua / People's Daily",
+          "url": "https://en.people.cn/n3/2026/0308/c90000-20433160.html"
         }
       ],
       "baselineSources": []
