@@ -1001,6 +1001,41 @@
     },
     {
       "country": "沙特",
+      "category": "油田",
+      "facility": "Safaniya/Marjan/Zuluf/Abu Safa海上油田群",
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": 2250,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 2250,
+      "status": "已减产",
+      "current": "3月9日沙特开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，公开报道估计减产约200万-250万桶/日。",
+      "sources": [
+        {
+          "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7KjmzNehssPB3jGDNBmlrlrsUIL830-4MdD3pI8ssr_T3JOmU6SMxg2_-9hfEFArbAtSue6whk261BGC2p1cKUphEeet828lBwk6yFQnTxpgwVii7a3IGCwAH0YvLI33Q_we-4VgnVqpw"
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
+        },
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
+        },
+        {
+          "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
+        }
+      ],
+      "baselineSources": [],
+      "products": [
+        "原油"
+      ]
+    },
+    {
+      "country": "沙特",
       "category": "炼厂",
       "facility": "Ras Tanura炼油厂",
       "designValue": 550,
@@ -1893,7 +1928,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "不可抗力 / 计划升级",
+      "status": "已宣布不可抗力 / 运行率降低",
       "current": "2026年3月6日，新加坡炼油和石化企业Aster Chemicals and Energy宣布因中东冲突导致原材料供应中断而遭遇不可抗力。其在新加坡布科姆和裕廊岛运营一座日处理量约237,000桶的炼油厂及一套年产约110万吨的裂解装置；公司表示正下调各工厂运行率，裂解装置约以50%负荷运行。",
       "sources": [
         {
@@ -1957,11 +1992,15 @@
       "secondaryMetrics": [
         {
           "label": "乙烯裂解能力",
+          "metricKey": "ethylene_design",
+          "metricType": "chemicals",
           "value": 1.1,
           "unit": "百万吨/年"
         },
         {
           "label": "乙烯受影响产能（按约50%负荷推算）",
+          "metricKey": "ethylene_affected",
+          "metricType": "chemicals",
           "value": 0.55,
           "unit": "百万吨/年"
         }

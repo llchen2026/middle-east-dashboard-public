@@ -523,6 +523,25 @@
       return item.affectedValue;
     }
 
+    function collectSupplementalMetrics(item) {
+      const groups = [];
+      if (Array.isArray(item.secondaryMetrics)) groups.push(...item.secondaryMetrics);
+      if (Array.isArray(item.thirdMetrics)) groups.push(...item.thirdMetrics);
+      return groups.filter(metric => metric && typeof metric === 'object' && metric.label);
+    }
+
+    function getSupplementalMetricValue(item, { metricKey = '', metricType = '', unit = '', labelIncludes = '' } = {}) {
+      const metrics = collectSupplementalMetrics(item);
+      const matched = metrics.find(metric => {
+        const keyMatch = metricKey && metric.metricKey === metricKey;
+        const typeMatch = metricType ? metric.metricType === metricType : true;
+        const unitMatch = unit ? normalizeImpactUnit(metric.unit) === normalizeImpactUnit(unit) : true;
+        const labelMatch = labelIncludes ? `${metric.label || ''}`.includes(labelIncludes) : true;
+        return (keyMatch || (!metricKey && labelMatch)) && typeMatch && unitMatch;
+      });
+      return typeof matched?.value === 'number' ? matched.value : null;
+    }
+
     function normalizeImpactUnit(unit) {
       return `${unit || ''}`.trim().toLowerCase();
     }
@@ -556,10 +575,14 @@
       return /全国|全国性|全国总量|国家级|总产量|整体/.test(facility) || /全国|国家/.test(category);
     }
 
-    function summarizeImpactByCountry(items, type, status) {
+    function summarizeImpactByCountry(items, type, status, options = {}) {
       const relevant = items
         .filter(item => classifyStatus(item.status) === status && hasUsableEventSources(item))
-        .map(item => ({ ...item, impactValue: getExplicitImpactValue(item, type) }))
+        .map(item => ({
+          ...item,
+          impactValue: getExplicitImpactValue(item, type)
+            ?? getSupplementalMetricValue(item, options.supplemental || {})
+        }))
         .filter(item => typeof item.impactValue === 'number');
       const grouped = new Map();
       relevant.forEach(item => {
@@ -597,10 +620,15 @@
         .reduce((sum, value) => sum + value, 0);
     }
 
-    function sumSimpleMetric(items, { predicate, unit }) {
+    function sumSimpleMetric(items, { predicate, unit, supplemental }) {
       return items
         .filter(item => ['direct', 'indirect'].includes(classifyStatus(item.status)) && hasUsableEventSources(item) && predicate(item))
-        .reduce((sum, item) => sum + (convertImpactValue(item.affectedValue, item.affectedUnit, unit) || 0), 0);
+        .reduce((sum, item) => {
+          const primary = convertImpactValue(item.affectedValue, item.affectedUnit, unit);
+          if (typeof primary === 'number') return sum + primary;
+          const secondary = getSupplementalMetricValue(item, supplemental || {});
+          return sum + (typeof secondary === 'number' ? secondary : 0);
+        }, 0);
     }
 
     function formatValue(value, digits = 0) {
@@ -728,20 +756,14 @@
       });
       const ethyleneImpact = sumSimpleMetric(filtered, {
         predicate: item => hasProduct(item, '乙烯'),
-        unit: 'mtpa'
+        unit: 'mtpa',
+        supplemental: { metricKey: 'ethylene_affected', metricType: 'chemicals', unit: '百万吨/年', labelIncludes: '乙烯受影响' }
       });
       directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
       directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
       directLngLoss.textContent = `${formatValue(directLng, 1)} mtpa`;
       refiningImpactLoss.textContent = `${formatValue(refiningImpact)} kbpd`;
       ethyleneImpactLoss.textContent = `${formatValue(ethyleneImpact, 2)} mtpa`;
-    }
-
-    function collectSupplementalMetrics(item) {
-      const groups = [];
-      if (Array.isArray(item.secondaryMetrics)) groups.push(...item.secondaryMetrics);
-      if (Array.isArray(item.thirdMetrics)) groups.push(...item.thirdMetrics);
-      return groups.filter(metric => metric && typeof metric === 'object' && metric.label);
     }
 
     function renderList(filtered) {
