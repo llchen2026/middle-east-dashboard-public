@@ -123,9 +123,9 @@
     .summary-chip-label { font-size: 14px; color: var(--muted); }
     .summary-chip-value { font-size: 17px; font-weight: 700; }
     .summary-card-compact { min-height: 0; display: flex; flex-direction: column; height: 100%; }
-    .summary-card-tall { min-height: 560px; }
+    .summary-card-tall { min-height: 590px; }
     .summary-card-chart { min-height: 360px; }
-    .summary-card-compact canvas { height: 252px !important; }
+    .summary-card-compact canvas { height: 276px !important; }
     .impact-table-card { padding-bottom: 12px; }
     .table-wrap {
       overflow-x: auto;
@@ -185,14 +185,19 @@
     }
     .benchmark-note {
       margin-top: auto;
-      padding: 12px 14px;
+      padding: 10px 12px;
       border-radius: 14px;
       background: #f8fafc;
       border: 1px solid var(--border);
       color: var(--muted);
-      font-size: 13px;
-      line-height: 1.75;
+      font-size: 12px;
+      line-height: 1.55;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px 14px;
     }
+    .benchmark-item { min-width: 0; }
+    .benchmark-item strong { color: #475569; }
     .benchmark-note a {
       color: var(--blue-text);
       text-decoration: none;
@@ -268,7 +273,7 @@
       font-weight: 600;
     }
     canvas { width: 100% !important; height: 320px !important; }
-    #globalShareChart { height: 252px !important; }
+    #globalShareChart { height: 276px !important; }
     #inventoryLevelChart, #inventoryCoverChart, #inventoryRegionalChart {
       height: 240px !important;
     }
@@ -278,6 +283,7 @@
       .chemical-list { grid-template-columns: 1fr 1fr; }
       .inventory-chart-grid { grid-template-columns: 1fr; }
       .inventory-chart-card.inventory-chart-wide { grid-column: auto; max-width: none; }
+      .benchmark-note { grid-template-columns: 1fr; }
       .asset-grid {
         grid-template-columns: 1fr;
         grid-template-areas:
@@ -806,7 +812,10 @@
 
     function formatMetric(value, digits = 2) {
       if (value === null || value === undefined || Number.isNaN(Number(value))) return '暂无';
-      return Number(value).toFixed(digits).replace(/\.?0+$/, '');
+      const fixed = Number(value).toFixed(digits);
+      return fixed
+        .replace(/(\.\d*?[1-9])0+$/, '$1')
+        .replace(/\.0+$/, '');
     }
 
     function displayUnit(item, kind) {
@@ -919,7 +928,7 @@
     }
 
     function getTrackedAssetMetric(item, kind) {
-      const isEthyleneLike = hasProduct(item, '乙烯') && !isRefineryAsset(item);
+      const isEthyleneLike = hasProduct(item, '乙烯');
       if (isEthyleneLike) {
         const primaryValue = convertImpactValue(
           kind === 'design' ? item.designValue : item.affectedValue,
@@ -1197,7 +1206,7 @@
       benchmarkNote.innerHTML = metrics.map(item => {
         const inferredTag = item.benchmark.inferred ? '（估算）' : '';
         const share = item.benchmark.value > 0 ? ((item.impact / item.benchmark.value) * 100) : 0;
-        return `<div>${item.label}${inferredTag}：${item.benchmark.note}；当前影响占比 ${formatMetric(share, 3)}%。<a href="${item.benchmark.source.url}" target="_blank" rel="noopener noreferrer">${item.benchmark.source.label}</a></div>`;
+        return `<div class="benchmark-item"><strong>${item.label}${inferredTag}</strong>：${formatMetric(share, 3)}%。<a href="${item.benchmark.source.url}" target="_blank" rel="noopener noreferrer">${item.benchmark.source.label}</a></div>`;
       }).join('');
     }
 
