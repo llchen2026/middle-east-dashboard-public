@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11 16:38（北京时间）",
+  "lastUpdated": "2026-03-11 17:32（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "哈格岛原油出口终端仍在运营，承担约90%的原油出口。9日摩根大通称，若美以夺取该岛，伊朗石油出口将停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续袭击以色列和美国基地。11日有报道称美正考虑控制霍尔木兹海峡。",
+      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%的原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，另有油轮在岛屿附近锚泊。9日摩根大通指出，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续对以色列和美国基地实施导弹袭击。11日有报道称美国正考虑控制霍尔木兹海峡。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -114,7 +114,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日以色列军方对德黑兰多处燃油存储设施发动袭击，包括Tondgouyan和Shahran炼油厂。8日德黑兰市中心被毒烟笼罩，天降油雨。",
+      "current": "3月7日以色列军方袭击德黑兰燃油存储设施，包括Tondgouyan和Shahran炼油厂。8日德黑兰市区被毒烟笼罩，天降油雨。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -211,6 +211,14 @@
         {
           "label": "Quick Bites | Middle East War & Oil Price Impacts Markets - Clime Asset Management",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZixR5s8D5-qgLrrPaIcSvegfnxd9YBSUSnysFZXSbx-kwrD3gzi1wTPRS7-Y_W05ewi7skp24XRXTWfxF4jjG-Ffy4rQoF9u2ipY81Znk5zhn1XIuhcPopjq_aJdj97ukYKLS1eJUxrhGPfv4LiRijQ3D-HFaR8LFeAh1zAI="
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
+        },
+        {
+          "label": "Israeli strikes hit Iranian oil depots near Tehran, disrupt fuel distribution - EgyptToday",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5jpfOqsZSf_fVkU4ZQOh_nxYgvfyBquWqKDMxARtkLOro4PdP5ZGjbehjZbFrS4b2oeUowUtBL994XYnYsM34XeOJZ_ZIYdGcWCEj9_iFyerFd53aZHV6q7xCs9V34klrnJODdG_IXJrSFTp1qwi3GcvsuNAeu9ahf2VILpNI8CCBjEDnxUiCVZ8Dgc06GCkWPCLz8wdJgrO4xltX89ozXtD3XEB4"
         }
       ],
       "baselineSources": [],
@@ -227,7 +235,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产",
-      "current": "因霍尔木兹海峡紧张致油轮抵达放缓、储罐满载，伊拉克鲁迈拉油田3月3日减产约70万桶/日。4日关停生产。5日发生无人机落入事件后外籍员工撤离。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "因霍尔木兹海峡紧张致油轮抵达放缓、储罐满载，伊拉克鲁迈拉油田3月3日减产约70万桶/日。4日关停生产。5日发生无人机落入事件后外籍员工撤离。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "金十期货一周精选",
@@ -284,6 +292,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
         }
       ],
       "baselineSources": [],
@@ -300,7 +316,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "出口中断致储罐趋满，伊拉克3月3日将西库尔纳2号油田减产45万桶/日。4日关停生产。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "出口中断致储罐趋满，伊拉克3月3日将西库尔纳2号油田减产45万桶/日。4日关停生产。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "Reuters",
@@ -353,6 +369,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
         }
       ],
       "baselineSources": [],
@@ -369,7 +393,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "因原油储罐已满，伊拉克3月3日将迈桑油田日产量削减32.5万桶。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "因原油储罐已满，伊拉克3月3日将迈桑油田日产量削减32.5万桶。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "Reuters",
@@ -414,6 +438,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
         }
       ],
       "baselineSources": [],
@@ -675,6 +707,46 @@
         {
           "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "Kuwait declares force majeure on oil exports as Hormuz crisis deepens - Nation Thailand",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFlcYj4Hl-v-8nTFK60Swtu_3SPftnfBRcXlQ0PsAauIVC0FbvlJKgOHfw59YP7JF-Z0KTiIa272eki5eWf8gj1b22c3TuDnaqvn4Q1o7tUTMNJ6XKiTKEAXmuITaX4rJraBzRi3VmhrZbAei"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ],
       "baselineSources": [],
@@ -691,7 +763,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "沙特阿美3月4日表示出于安全考虑已“调整原油装运操作”，将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。9日沙特已开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，估计减少200万-250万桶/日。10日沙特阿美首席执行官警告称，如果霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。11日沙特将通过红海重新安排石油运输。",
+      "current": "沙特阿美3月4日表示出于安全考虑已“调整原油装运操作”，将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。9日沙特开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，估计减少200万-250万桶/日。10日沙特阿美首席执行官警告称，如果霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。11日沙特将通过红海重新安排石油运输。",
       "sources": [
         {
           "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
@@ -732,6 +804,30 @@
         {
           "label": "Asia FX Talk - Oil swings as Mideast conflict persists - MUFG Research",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTBtvL0b9PHpe7ZhVoOlaAktv8F4J0RE_AU8IGKjytIsKKh2bf2_odtDBvKypm6kyXYYLJuazNrs5B58ZZi277v6V_D1HVfJ9vI_YzMlre5MOs8gkR_vdluz4z9ORpwUZwZyRuWenrgFFhVYjXRvDDBGLv8_-EWJOzHKgAcHPH5fItFa3TxfXGHvKpT9L8URC4J1oSe5YR5g9iQeV8VQ=="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Saudi Arabia Boosts Oil Exports from Red Sea Ports as Hormuz Disrupts Oil Shipments",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-B0dtjHztXSqYrocMsvryjs4QvTP6-FlJbhc2nHwm797noKLFMCiK-Ye3Q29eD1RszixmhWoc_6EbagTZXgC3MSDaDM93SBlId-QhifafqWnc5k00vVP9CT1-74fM10QgdxCsMFM="
+        },
+        {
+          "label": "Saudi Arabia triples Red Sea oil exports to bypass blocked Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK_8cyaaA8coVFQzsrtBoxN2Ns9yhnMIs0VJokTU9XFdG9xUz_rcNAHI4eDrJXNW3iqljelIkq0ZIsjZtfXAdNk-EseNLbHS27YZyhvvwum_hoDcu1cKf2h9go5zrrYsA-E8IXE92ryB_tU_m7tMEvBGQeQ_4mj3KxAsfdqRgbyNFR00LMv6whR3M8-9UEvHsBfukYE8yXvbpVtpgn64o9BWO4YRLjOpPRbj1RYFytdUw="
+        },
+        {
+          "label": "Saudi Aramco offers oil in rare tenders as Iran war disrupts exports, traders say",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhmiAcpCX7XB6hflw7k0jhMsCkBlZYUSFqjfYrVwRvNgSl-OMhwmSGeRsUmCfqkABhu_vy0EBoQqNg1vhjEEn2fPzAGsUz-sIVWd7oMylqE12DiGcDDhhrPeDKkwThYiX84Q=="
+        },
+        {
+          "label": "Saudi Aramco Sells Immediate Oil Shipments at Higher Prices Than March Levels - ScanX",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ0EMKL_GyPS1ovVXP9Np8Uq6zmIuIFron3iBVVFNQcLavfEm-z8FOrbz27JnxmbQAXj3JbQXJnFFTC9Hm8mm7kTg44qo0JHEBTPGXpHEvUjFQFIgeUYQ8myiJwWwtBsPpEbIB44pcydJlexzNQZvlikyeXFHqdhjXSJAeIMa4yQoRWujdP1DtGdUIlCHzT5lgV90kweLAinoFF_aqwejxerDmt2CfXpQqwFhBwm2d682lofpm8rjuSxlCiGYvKQ=="
+        },
+        {
+          "label": "Aramco Launches Rare Oil Tenders as Iran War Disrupts Exports - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgtNeIFhy0EVI7Ix6DE6gnKyUZ9v8kNvdf71rhMNUeSP4Aa-4affEeXHzf9n1G5_TcvHLQMLyKYVM00qt6Y0eK8FUpvMxgeeVX6GRrAxWALIZoKw8vG7UyF9yU9Utfib-XgIBKjhmO87HZB7GoIY4vvTBkWM0pdjBaPsDFyvlMqN8R4hMnMQwMDP9"
         }
       ],
       "baselineSources": [],
@@ -765,6 +861,30 @@
         {
           "label": "Opec+ Slashes Output by Up to 6.9 Million Barrels as Hormuz Blockade Bites | the deep dive",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxObHQOlNWRmNNNZ7vI3K2gGXSld7KFW7WBdr8wlm3X54kcEEVg_z_-r5hf7g1aTmU1NwnAQXAAWbTQ3_E6fa10_iioQs_yba1s-Vi0p2lWbSovu5r9-A3QYO1AcOcEg76phGkeUjTiVswgraAlWta2nAPfBx8-HsUybM6P_i6wEYs-Ulu1z0Hs_jZRQMCS0nZuoLI-MRqdI5lMU="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Saudi Arabia Boosts Oil Exports from Red Sea Ports as Hormuz Disrupts Oil Shipments",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-B0dtjHztXSqYrocMsvryjs4QvTP6-FlJbhc2nHwm797noKLFMCiK-Ye3Q29eD1RszixmhWoc_6EbagTZXgC3MSDaDM93SBlId-QhifafqWnc5k00vVP9CT1-74fM10QgdxCsMFM="
+        },
+        {
+          "label": "Saudi Arabia triples Red Sea oil exports to bypass blocked Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK_8cyaaA8coVFQzsrtBoxN2Ns9yhnMIs0VJokTU9XFdG9xUz_rcNAHI4eDrJXNW3iqljelIkq0ZIsjZtfXAdNk-EseNLbHS27YZyhvvwum_hoDcu1cKf2h9go5zrrYsA-E8IXE92ryB_tU_m7tMEvBGQeQ_4mj3KxAsfdqRgbyNFR00LMv6whR3M8-9UEvHsBfukYE8yXvbpVtpgn64o9BWO4YRLjOpPRbj1RYFytdUw="
+        },
+        {
+          "label": "Saudi Aramco offers oil in rare tenders as Iran war disrupts exports, traders say",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhmiAcpCX7XB6hflw7k0jhMsCkBlZYUSFqjfYrVwRvNgSl-OMhwmSGeRsUmCfqkABhu_vy0EBoQqNg1vhjEEn2fPzAGsUz-sIVWd7oMylqE12DiGcDDhhrPeDKkwThYiX84Q=="
+        },
+        {
+          "label": "Saudi Aramco Sells Immediate Oil Shipments at Higher Prices Than March Levels - ScanX",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ0EMKL_GyPS1ovVXP9Np8Uq6zmIuIFron3iBVVFNQcLavfEm-z8FOrbz27JnxmbQAXj3JbQXJnFFTC9Hm8mm7kTg44qo0JHEBTPGXpHEvUjFQFIgeUYQ8myiJwWwtBsPpEbIB44pcydJlexzNQZvlikyeXFHqdhjXSJAeIMa4yQoRWujdP1DtGdUIlCHzT5lgV90kweLAinoFF_aqwejxerDmt2CfXpQqwFhBwm2d682lofpm8rjuSxlCiGYvKQ=="
+        },
+        {
+          "label": "Aramco Launches Rare Oil Tenders as Iran War Disrupts Exports - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgtNeIFhy0EVI7Ix6DE6gnKyUZ9v8kNvdf71rhMNUeSP4Aa-4affEeXHzf9n1G5_TcvHLQMLyKYVM00qt6Y0eK8FUpvMxgeeVX6GRrAxWALIZoKw8vG7UyF9yU9Utfib-XgIBKjhmO87HZB7GoIY4vvTBkWM0pdjBaPsDFyvlMqN8R4hMnMQwMDP9"
         }
       ],
       "baselineSources": [],
@@ -900,6 +1020,10 @@
         {
           "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
         }
       ],
       "baselineSources": [],
@@ -1059,6 +1183,34 @@
         {
           "label": "Strait of Hormuz Closure Threatens Global Energy Security Crisis - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGPhEtQPqUsZJIxGr0JdUbb1CxQzJHkdcHfTTFrArjuXVtecll2W9f4QZ--e0yd59uX12F4UzjuLeWPASfWDhTrRG7Go0OShaIWx4OpOAwbgAUmO04Xsdsz6sEWAuvCiovEafbpLY3okT9LpMU3LDphpbjbZ6oSknjlmpLHJWwbSKVGIz9RNo="
+        },
+        {
+          "label": "Iranian Strike on Bahrain Refinery Triggers Force Majeure, Oil Surges above $115",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQSZZFzHfwtsaOdZDOv6nPEZ5RTWEmm1RocyNHgGUE60Bmcbu5BMGJ6SONogBKLj0fb30WMC7hS0QKTp_uAfnN33qw2zf3nSKLYUbfdkqvY0ZygvEVOVO2M1LTCToSJHrBuT1DyMjbBI01rQiJuG5lWWnfoKG4RrlVngMSFsqYtYJ-R1RLRYvtIU4SOxKMuk_i3aJn8wYCb_-kIe4cElRcTAfed2fQJ5iSSaAn2g=="
+        },
+        {
+          "label": "Bahrain's Bapco Energies declares force majeure after Iran attack on refinery",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7r-gpsCdPDhTIU8x_ySaWX1onb0SLMe8Ji3vwpfjTZJUVEmVExuS5lo2dRniS8okwo0jYEVmjwJT0vioOfwOmbX0f1NUb_vQnU4YImaes6SyOkdu6_NK22KXbaJzFM47tr9I="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHEwiobMfhwWf3FcLHyzewFG9IVHrlyjxYiYz6wTTZbbWbfJSoZewb-LcJIYtdjOD_iHnKKMJBgvdlshim7MThMMsJLVeDxfgjHQCEBtziJPperssnZlif1CliYwOktIfgyoL_17X8Jz-ei8jBWqb1tKUpkBcOYa-EG31FXt8rom6f9M1yWx8ddy9-jmvVfe_1XYyP3JdKEssGE6S3D16mozF7nBZ7YKKPCtHv4YY9fVnX1fQP1mzFL3sXQtb1"
+        },
+        {
+          "label": "Bahrain's Bapco declares force majeure after refinery hit during regional conflict - Gulf News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecRceNLo05eTbHGVoWC1UcC7DStC7FmPKCV5wrjYNdz1EGXyd8BV-HDrZcL8gpXIMUoxMo82MC5R3utheUFY19on29rf4hsgFtIvREzthyqY7u9ca2FJYvxzrk3X831lagTUlgHrATcPB4Jr8ikTJpyS-cIdHNgzElc01dxPL4GFbhqMrwhDIDu_5YsDMr0-NuewkCKb_O3mN73NKOfwMSSSVVZp4_nabqeaRV-bp40ZQen_XRiTxJr511t4B"
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWuOAgTa9TMW9o9FPyUgng7dbppq3ZUuNrr2QtBUT79SXgGBmRMgFBuNXjMjU05KmAWHz6Iw3gIIbYV23gyJZsnmvA_6G9SsXg2wdQ6Cs5w-PIpBv-OvTqeSDb9eCBFyJAIcm52udj9J9TawH-BSgLI_V8UZyl1AjWua_kNetzOYFLIbRBlUhgfB-yJZxVQBPGysqF8kGVHcLrtCy5YIYBfcvgl8ZW2w=="
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "Bahrain's state oil company declares force majeure after Iran strikes refinery",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6tCFjTej-6C9QpC1DUWqNt2bV0BpRtYnSKz9AMGI1H_UBkZZUo-KWEVVQn_xtwfIjhqZ8MPopweBrdt1ACCldVIwguCKp8RmT1EQ_8bgKlNPRs9ocyNVf79ofGXBnkDbMjG_C0aXwywi2EKkGDRcoHd6_d-zEvZkE-kGDWp_tp7r4eqER2GoPJTM8NSD1IpF85XKfummRakTrZALktku9XPYvbGKB4-O9hLQr13ecxpfMbbDAw=="
         }
       ],
       "baselineSources": [
@@ -1131,10 +1283,10 @@
       "facility": "Ras Laffan LNG / 出口综合体",
       "designValue": 77,
       "designUnit": "mtpa",
-      "affectedValue": null,
+      "affectedValue": 77,
       "affectedUnit": "mtpa",
       "normalizedType": "lng",
-      "normalizedValue": null,
+      "normalizedValue": 77,
       "status": "已停产",
       "current": "卡塔尔能源公司3月2日宣布拉斯拉凡及梅赛义德工业城设施遭军事袭击，储罐饱和无法外运，已暂停LNG生产并宣布不可抗力，预计需数周至数月恢复。7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产。9日拉斯拉凡LNG全面停产。摩根士丹利警告若卡塔尔LNG停产超一个月，全球天然气市场或从供过于求转短缺。预计恢复需约四周。",
       "sources": [
@@ -1241,6 +1393,18 @@
         {
           "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
         }
       ],
       "baselineSources": [],
@@ -1345,7 +1509,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "间接受限",
-      "current": "井场未确认受袭。ADNOC表示正\"管理海上生产水平以应对存储需求\"，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。7日ADNOC确认正在管理海上产量，陆上运行继续。8日阿联酋开始削减石油产量以应对霍尔木兹海峡近乎关闭。3月10日，阿联酋石油产量已削减约50万-80万桶/日。",
+      "current": "井场未确认受袭。ADNOC表示正“管理海上生产水平以应对存储需求”，利用绕开霍尔木兹海峡的出口能力及国际存储设施，确保供应稳定。7日ADNOC确认正在管理海上产量，陆上运行继续。8日阿联酋开始削减石油产量以应对霍尔木兹海峡近乎关闭。3月10日，阿联酋石油产量已削减约50万-80万桶/日。",
       "sources": [
         {
           "label": "阿布扎比国家石油公司：陆上作业仍继续正管理离岸产量 - HK01",
@@ -1418,6 +1582,30 @@
         {
           "label": "Aramco Cuts Output Amid Strait of Hormuz Crisis | Egypt Oil & Gas",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzpp5Q1IaAkiS_PSS2WYW2cX6VuBHjak_Nt55jxn094sesY0Z0OTR9HLJXBC0kR64OjWpe79PgIr52As4bUTyW-kK2-FMIETpYDyXQs7IO5TIFS_gMcUtjzBT5HspL9tczLYTCUYZD6cERut5ZJbHaVdH0pGnIy7oo3-cq3lFv0g3dKOkK4mD_Hg=="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ],
       "baselineSources": [],
@@ -1496,6 +1684,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
         }
       ],
       "baselineSources": [
@@ -1651,6 +1843,14 @@
         {
           "label": "As U.S.-Israeli war with Iran intensifies, Trump says it is \"very far ahead of schedule\"",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkwovamvrTaZZmQbpYWq1B5qtvAqQBXcipUUaYk7gGac7U4FdSRlck3KZRrOn368TNMHA0isk76jKTGoRjycraT2zt0Jl_m7g_vPC-bPg7BOAvUK5dKeOJlJwg-PFMd0n30aGkSAnm9pFkDw7BcFdOamKcx4p5XAwAju2gaDgkeazjndcvYQmCLfEgwhuKl3k1JN7W_GSVtR81RhlqZ-Y_yiRusipvKeCwV0PSw=="
+        },
+        {
+          "label": "Iran Update Morning Special Report: March 8, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2ryQpuYlR4Dvk2b3jg0GrX9dPUz8VsLd0keo3DcjYhdTm6xs_P717SfxpRWuenGkgf0yTSu-hsvqqT6vRcbZuuho_laJ-yJpQZWJJTKePF9eWbfATL2OVmfnO9hPPkHNLWgvCBQy2mFKc9H2QF1GSyDLz2mR1A0Hpd9uUa864rJLqTKEwKfhhjp52H4pFxtdS5gFT-Gis-xd1j3"
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
         }
       ],
       "baselineSources": [],
@@ -1704,6 +1904,18 @@
         {
           "label": "新加坡石油化工公司因中东冲突导致海上运输和供应链严重中断 - 财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxMcljePwHn5hdhWd6z4lU2vML7evxwCsYPVqfTVypQmRZLS9IFAN0Le9k8PC8Ue8T1oSHWc3xeM8mxVWgz8RgodF9vq8AcDyorQsIkZ5RRbkbOsOsAxlj3StQMg=="
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWuOAgTa9TMW9o9FPyUgng7dbppq3ZUuNrr2QtBUT79SXgGBmRMgFBuNXjMjU05KmAWHz6Iw3gIIbYV23gyJZsnmvA_6G9SsXg2wdQ6Cs5w-PIpBv-OvTqeSDb9eCBFyJAIcm52udj9J9TawH-BSgLI_V8UZyl1AjWua_kNetzOYFLIbRBlUhgfB-yJZxVQBPGysqF8kGVHcLrtCy5YIYBfcvgl8ZW2w=="
+        },
+        {
+          "label": "Asia refineries, petchem firms cut runs as Middle East conflict disrupts feedstock supplies",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWjvfKDERKtKNOq1-ovUf80xCVTuI7PTdcyOjkdNpEr7fjxKTsLT84XL_tVv8JUSuYdAXghk581t2ADyxrimmF6gP-DiIjI6zG6cLB2F1ISPVTBP-yYiX4lCByApld92s5XTAoGhJgriebI6rm8JS5byef8M3jmKMbm6K1KMZQdMUkeVgaWGyE9NbZcxMZo98jq-qDJhihrsPcwUeJwVsrSdzfiLYcu-D7WX_hdwATVQ1cGAQBIJqgDTwLFn8AS0nSvRd3Dw=="
+        },
+        {
+          "label": "Singapore's Aster declares Force Majeure due to disruption in supply of raw materials - The Business Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI-6tTMTm3BCpizSQ3pcT_lWN90o7T9liTaCG4lPOMpz55_QGiKMA5x3hhjKlXNbVvRXAmX_7Vk9QkJWjkLQRrDAp-0UckWy1kiDTBpbH__pIKFREmNXcQK9OuJ9MdutCxtkOfUjI5QIygTEw4d9h0aCWLYI5OVSdzgAVihHZA6zrKMF_I9BSesDTCRfzBksCk5kj_KgiCwiL_lg5gqZa7GOw0t6fc9zpauA=="
         }
       ],
       "baselineSources": [
@@ -1755,7 +1967,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停运",
-      "current": "3月3日伊拉克暂停通过Ceyhan管道向土耳其地中海沿岸出口库尔德地区原油，日输送量减少约20万桶，仅5万桶/日用于当地消费。3月4日恢复输送。3月9日该管道再次停止输送基尔库克原油。",
+      "current": "3月3日伊拉克暂停通过Ceyhan管道向土耳其出口库尔德地区原油，日输送量减少约20万桶，仅5万桶/日供当地消费。4日恢复输送。9日该管道再次停止输送基尔库克原油。",
       "sources": [
         {
           "label": "The National News",
@@ -2129,6 +2341,22 @@
         {
           "label": "As U.S.-Israeli war with Iran intensifies, Trump says it is \"very far ahead of schedule\"",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkwovamvrTaZZmQbpYWq1B5qtvAqQBXcipUUaYk7gGac7U4FdSRlck3KZRrOn368TNMHA0isk76jKTGoRjycraT2zt0Jl_m7g_vPC-bPg7BOAvUK5dKeOJlJwg-PFMd0n30aGkSAnm9pFkDw7BcFdOamKcx4p5XAwAju2gaDgkeazjndcvYQmCLfEgwhuKl3k1JN7W_GSVtR81RhlqZ-Y_yiRusipvKeCwV0PSw=="
+        },
+        {
+          "label": "Iranian Strike on Bahrain Refinery Triggers Force Majeure, Oil Surges above $115",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQSZZFzHfwtsaOdZDOv6nPEZ5RTWEmm1RocyNHgGUE60Bmcbu5BMGJ6SONogBKLj0fb30WMC7hS0QKTp_uAfnN33qw2zf3nSKLYUbfdkqvY0ZygvEVOVO2M1LTCToSJHrBuT1DyMjbBI01rQiJuG5lWWnfoKG4RrlVngMSFsqYtYJ-R1RLRYvtIU4SOxKMuk_i3aJn8wYCb_-kIe4cElRcTAfed2fQJ5iSSaAn2g=="
+        },
+        {
+          "label": "Bahrain's Bapco Energies declares force majeure after Iran attack on refinery",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7r-gpsCdPDhTIU8x_ySaWX1onb0SLMe8Ji3vwpfjTZJUVEmVExuS5lo2dRniS8okwo0jYEVmjwJT0vioOfwOmbX0f1NUb_vQnU4YImaes6SyOkdu6_NK22KXbaJzFM47tr9I="
+        },
+        {
+          "label": "Iran Update Morning Special Report: March 8, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2ryQpuYlR4Dvk2b3jg0GrX9dPUz8VsLd0keo3DcjYhdTm6xs_P717SfxpRWuenGkgf0yTSu-hsvqqT6vRcbZuuho_laJ-yJpQZWJJTKePF9eWbfATL2OVmfnO9hPPkHNLWgvCBQy2mFKc9H2QF1GSyDLz2mR1A0Hpd9uUa864rJLqTKEwKfhhjp52H4pFxtdS5gFT-Gis-xd1j3"
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
         }
       ],
       "baselineSources": [],
@@ -2150,7 +2378,7 @@
       "normalizedType": "oil",
       "normalizedValue": 500,
       "status": "减产 / 不可抗力",
-      "current": "3月7日科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。9日科威特产量降至约200万桶/日，低于2月259万桶/日，可能很快降至150万桶/日。3月10日，科威特石油产量已削减约50万桶/日。",
+      "current": "3月7日科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。9日科威特产量降至约200万桶/日，低于2月259万桶/日，可能很快降至150万桶/日。10日科威特石油产量已削减约50万桶/日。",
       "products": [
         "原油",
         "成品油"
@@ -2275,6 +2503,46 @@
         {
           "label": "2026 Strait of Hormuz crisis - Wikipedia",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGstXKkmdiZvIq66WpU-qjbxTmEoKi7PpHwxYSDwKFBX0gS5g8SJTJsCHiTjUK0VO0ygytWLz4OrF-V-5eAmgIC3a5XPd95UXP_SbpIk_EtfSFysgEzT-0PIf9L4PLzaFVZdG6RyQUMDpPHcbDZcv4MOdrpGVY="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "Kuwait declares force majeure on oil exports as Hormuz crisis deepens - Nation Thailand",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFlcYj4Hl-v-8nTFK60Swtu_3SPftnfBRcXlQ0PsAauIVC0FbvlJKgOHfw59YP7JF-Z0KTiIa272eki5eWf8gj1b22c3TuDnaqvn4Q1o7tUTMNJ6XKiTKEAXmuITaX4rJraBzRi3VmhrZbAei"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ],
       "baselineSources": []
@@ -2284,7 +2552,7 @@
       "facility": "全国石油生产",
       "category": "原油生产",
       "status": "减产",
-      "current": "3月8日阿联酋开始削减石油产量。阿布扎比国家石油公司表示正\"管理海上生产水平以应对存储需求\"。9日阿联酋产量已从2月353万桶/日降至270万-300万桶/日。3月10日，阿联酋石油产量已削减约50万-80万桶/日。",
+      "current": "3月8日阿联酋开始削减石油产量。阿布扎比国家石油公司表示正“管理海上生产水平以应对存储需求”。9日阿联酋产量已从2月353万桶/日降至270万-300万桶/日。3月10日，阿联酋石油产量已削减约50万-80万桶/日。",
       "products": [
         "原油"
       ],
@@ -2356,6 +2624,30 @@
         {
           "label": "Aramco Cuts Output Amid Strait of Hormuz Crisis | Egypt Oil & Gas",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzpp5Q1IaAkiS_PSS2WYW2cX6VuBHjak_Nt55jxn094sesY0Z0OTR9HLJXBC0kR64OjWpe79PgIr52As4bUTyW-kK2-FMIETpYDyXQs7IO5TIFS_gMcUtjzBT5HspL9tczLYTCUYZD6cERut5ZJbHaVdH0pGnIy7oo3-cq3lFv0g3dKOkK4mD_Hg=="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ],
       "baselineSources": [],
@@ -2375,7 +2667,7 @@
       "normalizedType": "oil",
       "normalizedValue": 3000,
       "status": "减产",
-      "current": "7日伊拉克因储存能力接近极限，石油日产量削减150万桶。8日因霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "7日伊拉克因储存能力接近极限，石油日产量削减150万桶。8日因霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，约80万桶/日。10日伊拉克石油产量已削减约290万桶/日。",
       "products": [],
       "sources": [
         {
@@ -2453,6 +2745,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
         }
       ],
       "baselineSources": [],
@@ -2520,6 +2820,14 @@
         {
           "label": "As U.S.-Israeli war with Iran intensifies, Trump says it is \"very far ahead of schedule\"",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFkwovamvrTaZZmQbpYWq1B5qtvAqQBXcipUUaYk7gGac7U4FdSRlck3KZRrOn368TNMHA0isk76jKTGoRjycraT2zt0Jl_m7g_vPC-bPg7BOAvUK5dKeOJlJwg-PFMd0n30aGkSAnm9pFkDw7BcFdOamKcx4p5XAwAju2gaDgkeazjndcvYQmCLfEgwhuKl3k1JN7W_GSVtR81RhlqZ-Y_yiRusipvKeCwV0PSw=="
+        },
+        {
+          "label": "Iran Update Morning Special Report: March 8, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2ryQpuYlR4Dvk2b3jg0GrX9dPUz8VsLd0keo3DcjYhdTm6xs_P717SfxpRWuenGkgf0yTSu-hsvqqT6vRcbZuuho_laJ-yJpQZWJJTKePF9eWbfATL2OVmfnO9hPPkHNLWgvCBQy2mFKc9H2QF1GSyDLz2mR1A0Hpd9uUa864rJLqTKEwKfhhjp52H4pFxtdS5gFT-Gis-xd1j3"
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
         }
       ],
       "baselineSources": [],
@@ -2572,6 +2880,26 @@
         {
           "label": "INSIGHT: Once seen as a threat, China is now the unlikely saviour of SE Asia's PP supply crunch | ICIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFCOClrobz48QjHOtqfayYcFbY2vxaDjcnYak0T5Pq5RycY5yAlnoIR4pf-25QBHU4R1NL9SyDF_maDvtOJvnM80Z2xLSbKOEdLrIuy7fyIRF9fNMmDSWjSbsqS3QOlCb_u__VeenDowW48L__Tvp962lKaIXebRVuL4jDIE75A-tywRvGnnvs-6HKZMFoFl7Y2D_ZoAupldDFzfjuHVYArakdJeZ-tLGSio-kvRc8PLHlJoSdP28a0FAtExcIdPGzA_78MIQ7VBH3hQhaCTa7aXVOAI51tHT"
+        },
+        {
+          "label": "China slashes oil product exports to ensure domestic supply: sources | S&P Global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9hbKeQ1FWc8yfFCGNq93N-VRBDCTBk38Iqe3KUKgBlmliduL19Tn0M79J3958GND46iVZGUHRwHhBGU4euQ-xjYIZoYSTKJxMlTyGo8Tgciex7WyXc5RuJVpMvfuskozDFToaEauuUHTUWI3FxPTduQHcl63kE3CJHWx2V1EQOYrOiYoqvJruo8q5rYSPzJA2JbJK_uO-iy8iQmferMCjRBH2l4f4uilzhK-PrEtH1XhapklwkgOqGsQz80P4s4JACRnzG7uFt7SA0O8="
+        },
+        {
+          "label": "China tells oil refiners to suspend exports, Bloomberg reports - Euractiv",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXjLXOhIOcDAye3kYAllbEm2wUPDXtQJLFma6vusVckfjvADpkg8zGGYtLGTeUagA2N0uaCPieH67NZny9i1DYUu_KVIjdzVBxz62weo0aO1A3Xm6Q8_4-5a1IRMemECubwrNkBOMsUIJ4T70yurYBsz3q4PwSjmmVTYkvhffthFoaBE7VOi2C8e6yIUKu8pTEH4enR9q_"
+        },
+        {
+          "label": "China halts fuel exports amid Middle East war | APAnews - African Press Agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0F885AN7LJk_YyR6GOFOlXE-L_czAJ120cf0V-E9xOGPDVLsdhfWfgwPtQjN75Iz2xP3nFNCgn8k6Tl9EQelCLwEwlA39YIHVB3LWQI_C48aCY1j36twKBtqtGZWrwOa0XK29wDkyTroyKwa1aMGJxh4yPayS1tceCYBhgQ=="
+        },
+        {
+          "label": "China halts fuel exports amid Middle East supply tensions - Industrie Du Maroc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo3yQ9TDAuF7bjcppPSsAbv4KR1e8sG_DzAU92zJPnhpYJVtGWkCaTf13FWLxsq6ngm3Og9i0xNea5dM5aDnf6_U80hjDkjkKqn4T6D7lo6LmQOAm5LJTQMqWmgaCPVwVyI5B3n4kwknbzu09o3sKsBBGt0NkvXV2mv0tnypKybde_YhR0qj0S9y3uiQRT"
+        },
+        {
+          "label": "China suspends oil exports",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJHLy7dHIS3oAAijz7x_J9uTTT-kugZgJk1MGx3c_X1RnxZBDZZRYuHvGK8oeAMOMy7s8wrb6Gb2FjpennnneuG7Oi_gk2P_biC4cyvqPCE02BQyTOg8lR9XSpkgHscJZ4LDlz47va8Ftj5Lt-F6UvLldu_w=="
         }
       ],
       "baselineSources": [],
@@ -2793,6 +3121,10 @@
         {
           "label": "Strait of Hormuz Closure Threatens Global Energy Security Crisis - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGPhEtQPqUsZJIxGr0JdUbb1CxQzJHkdcHfTTFrArjuXVtecll2W9f4QZ--e0yd59uX12F4UzjuLeWPASfWDhTrRG7Go0OShaIWx4OpOAwbgAUmO04Xsdsz6sEWAuvCiovEafbpLY3okT9LpMU3LDphpbjbZ6oSknjlmpLHJWwbSKVGIz9RNo="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
         }
       ],
       "baselineSources": [],
@@ -2921,6 +3253,14 @@
         {
           "label": "Petrochemical News - Middle East tensions drive naphtha prices up 18% in one week - Polymerupdate",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Vw-fONUBUvB0i5rE9R4OZ1zxkzYlFtwE1QUdeIQ5s-dtMNb86dioDOs-k0hPFieqpDvDojho8UGmfZigcz2J7Gs3SMq9QFwGqTnonzohYBJqQao1Bn_7RAWBc6I9zonHmH7qz6-zdouZko32"
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - intellinews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1of8MCirACA2vqG120KGtQRMyMCEY-QeW641QNr6DgwumE7Psl9TPUVrCRd7cQiLOq2PvZqOHWWhSu7_7M_KndbTErJ-g_xOJcPukVYlNa6uD4OO04G2oCeEzNlWIbDiLpOD5XVCgUEH3cYTcrOT7KKMkInJHxPrdg-_rr3VvvbkcJq1ZMP06UEwS3DYTopL7Vx_a2g65Ew96BrBFw=="
+        },
+        {
+          "label": "Aramco Launches Rare Oil Tenders as Iran War Disrupts Exports - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgtNeIFhy0EVI7Ix6DE6gnKyUZ9v8kNvdf71rhMNUeSP4Aa-4affEeXHzf9n1G5_TcvHLQMLyKYVM00qt6Y0eK8FUpvMxgeeVX6GRrAxWALIZoKw8vG7UyF9yU9Utfib-XgIBKjhmO87HZB7GoIY4vvTBkWM0pdjBaPsDFyvlMqN8R4hMnMQwMDP9"
         }
       ],
       "baselineSources": []
@@ -2952,6 +3292,14 @@
         {
           "label": "INSIGHT: Once seen as a threat, China is now the unlikely saviour of SE Asia's PP supply crunch | ICIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFCOClrobz48QjHOtqfayYcFbY2vxaDjcnYak0T5Pq5RycY5yAlnoIR4pf-25QBHU4R1NL9SyDF_maDvtOJvnM80Z2xLSbKOEdLrIuy7fyIRF9fNMmDSWjSbsqS3QOlCb_u__VeenDowW48L__Tvp962lKaIXebRVuL4jDIE75A-tywRvGnnvs-6HKZMFoFl7Y2D_ZoAupldDFzfjuHVYArakdJeZ-tLGSio-kvRc8PLHlJoSdP28a0FAtExcIdPGzA_78MIQ7VBH3hQhaCTa7aXVOAI51tHT"
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWuOAgTa9TMW9o9FPyUgng7dbppq3ZUuNrr2QtBUT79SXgGBmRMgFBuNXjMjU05KmAWHz6Iw3gIIbYV23gyJZsnmvA_6G9SsXg2wdQ6Cs5w-PIpBv-OvTqeSDb9eCBFyJAIcm52udj9J9TawH-BSgLI_V8UZyl1AjWua_kNetzOYFLIbRBlUhgfB-yJZxVQBPGysqF8kGVHcLrtCy5YIYBfcvgl8ZW2w=="
+        },
+        {
+          "label": "Asia refineries, petchem firms cut runs as Middle East conflict disrupts feedstock supplies",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWjvfKDERKtKNOq1-ovUf80xCVTuI7PTdcyOjkdNpEr7fjxKTsLT84XL_tVv8JUSuYdAXghk581t2ADyxrimmF6gP-DiIjI6zG6cLB2F1ISPVTBP-yYiX4lCByApld92s5XTAoGhJgriebI6rm8JS5byef8M3jmKMbm6K1KMZQdMUkeVgaWGyE9NbZcxMZo98jq-qDJhihrsPcwUeJwVsrSdzfiLYcu-D7WX_hdwATVQ1cGAQBIJqgDTwLFn8AS0nSvRd3Dw=="
         }
       ],
       "baselineSources": []
@@ -2982,6 +3330,18 @@
         {
           "label": "Strait of Hormuz Closure Threatens Global Energy Security Crisis - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGPhEtQPqUsZJIxGr0JdUbb1CxQzJHkdcHfTTFrArjuXVtecll2W9f4QZ--e0yd59uX12F4UzjuLeWPASfWDhTrRG7Go0OShaIWx4OpOAwbgAUmO04Xsdsz6sEWAuvCiovEafbpLY3okT9LpMU3LDphpbjbZ6oSknjlmpLHJWwbSKVGIz9RNo="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
         }
       ],
       "baselineSources": [],
@@ -3317,7 +3677,7 @@
       "normalizedType": "oil",
       "normalizedValue": 807.5,
       "status": "已减产 / 不可抗力",
-      "current": "2026年3月7日KPC宣布原油和成品油出口不可抗力，并开始削减原油产量和炼厂运行。Argus 3月9日报道称，科威特炼油体系合计产能约161.5万桶/日，运行率约50%。这对应约80.75万桶/日炼能受影响。该表述是基于系统口径推算，不等同于单一炼厂完全停产。",
+      "current": "2026年3月7日KPC宣布原油和成品油的出口不可抗力，并开始削减原油产量和炼厂运行。Argus 3月9日报道称，科威特炼油体系合计产能约161.5万桶/日，运行率约50%，对应约80.75万桶/日炼能受影响。该表述基于系统口径推算，不等同于单一炼厂完全停产。",
       "sources": [
         {
           "label": "Hormuz halt forces Opec+ producers to curb crude output | Argus Media",
@@ -3326,6 +3686,46 @@
         {
           "label": "Kuwait reports drone strikes at airport fuel tanks | Argus Media",
           "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2798143-kuwait-reports-drone-strikes-at-airport-fuel-tanks"
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "Kuwait declares force majeure on oil exports as Hormuz crisis deepens - Nation Thailand",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFlcYj4Hl-v-8nTFK60Swtu_3SPftnfBRcXlQ0PsAauIVC0FbvlJKgOHfw59YP7JF-Z0KTiIa272eki5eWf8gj1b22c3TuDnaqvn4Q1o7tUTMNJ6XKiTKEAXmuITaX4rJraBzRi3VmhrZbAei"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ],
       "baselineSources": [
@@ -4120,6 +4520,22 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
+        },
+        {
+          "label": "Iran Update Morning Special Report: March 8, 2026 | ISW",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2ryQpuYlR4Dvk2b3jg0GrX9dPUz8VsLd0keo3DcjYhdTm6xs_P717SfxpRWuenGkgf0yTSu-hsvqqT6vRcbZuuho_laJ-yJpQZWJJTKePF9eWbfATL2OVmfnO9hPPkHNLWgvCBQy2mFKc9H2QF1GSyDLz2mR1A0Hpd9uUa864rJLqTKEwKfhhjp52H4pFxtdS5gFT-Gis-xd1j3"
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
         }
       ]
     },
@@ -4172,6 +4588,22 @@
         {
           "label": "Quick Bites | Middle East War & Oil Price Impacts Markets - Clime Asset Management",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZixR5s8D5-qgLrrPaIcSvegfnxd9YBSUSnysFZXSbx-kwrD3gzi1wTPRS7-Y_W05ewi7skp24XRXTWfxF4jjG-Ffy4rQoF9u2ipY81Znk5zhn1XIuhcPopjq_aJdj97ukYKLS1eJUxrhGPfv4LiRijQ3D-HFaR8LFeAh1zAI="
+        },
+        {
+          "label": "Iran News in Brief – March 8, 2026 - NCRI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsJrkFoKwD4FEQGs5FTQp8OWbxrhJnaQhmXsLdQy2p_-E9ozSHV0B1svrlWe7FgUV_T-c1g673Qp03TKC0X1qfF7k0JPdpG7LeX4S3wMSccgY0O0WSyn2vt7lOT3zHpq3czqhDAfaxqWr2khe9WWgkgGQcSX1tTusKDecTC7m6uDSxRDAX4s8HN1XXlsBdMittNMUS"
+        },
+        {
+          "label": "Israeli strikes hit Iranian oil depots near Tehran, disrupt fuel distribution - EgyptToday",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5jpfOqsZSf_fVkU4ZQOh_nxYgvfyBquWqKDMxARtkLOro4PdP5ZGjbehjZbFrS4b2oeUowUtBL994XYnYsM34XeOJZ_ZIYdGcWCEj9_iFyerFd53aZHV6q7xCs9V34klrnJODdG_IXJrSFTp1qwi3GcvsuNAeu9ahf2VILpNI8CCBjEDnxUiCVZ8Dgc06GCkWPCLz8wdJgrO4xltX89ozXtD3XEB4"
+        },
+        {
+          "label": "Tehran, March 8, 2026 (AFP) - US, Israel hit five oil sites in and near Tehran: official",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEatmkFirGaoTU1MDW8UA-gIRjblBcoXlY8pUqOxYIM4YtAsMvQ3EUDMQqUWux0T8Im1kUAaInCZR2pKaTYgpnrryzyVrDqj7GiHvadPZhgRz_xrTkJ2n6kpg2SOCfF"
+        },
+        {
+          "label": "US, Israel strikes hit oil depot in Tehran: Iran state media | International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnPXrqaapS4s42-0o77JOUzAnYUaizdR-vPg40OpSQNRAER4zLyrs_VWA-kIsTDWE9QMSDjIKXUGfW39t4uRoIRqTy2ceBMDjW7EblCdgE1fkzkmiEgc8XWnmcGiJ1KS-oG1acnOPb"
         }
       ]
     },
@@ -4312,6 +4744,46 @@
         {
           "label": "Middle East Crude Oil 'Production Halts': UAE and Kuwait Announce Production Cuts",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZojc3hDLXlqbN99Y_7DaQYgMRI24skZnczO9sUHIkpSzKqtKGcwXc-TwxraoG-W1ekOYWE10BXLLbFEyqu-xcbEtqOBMjxwCQQ59AZHVNvnQ4S4_i6pQ1o90DCyTedqgBAaPu1dn6CCehHagH_0bv-2bzT8vDfTqmcxsGcm9tfDz2D6Rz6qhtJGtLVWo0eTKNFpk_3U4btF1iTuxt587duBQ=="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "Kuwait declares force majeure on oil exports as Hormuz crisis deepens - Nation Thailand",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFlcYj4Hl-v-8nTFK60Swtu_3SPftnfBRcXlQ0PsAauIVC0FbvlJKgOHfw59YP7JF-Z0KTiIa272eki5eWf8gj1b22c3TuDnaqvn4Q1o7tUTMNJ6XKiTKEAXmuITaX4rJraBzRi3VmhrZbAei"
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Kuwait Declares Force Majeure Amid Iran Conflict, Strait Blockade",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJi_Shg7MGUcTN_gWa9h5yYfcKdE8NT4rp34-fYyTnbgU99yY6dma7SpP_B4Kh1yYD7D2diTxESeQRn71oPXcL-RpxUO1WtmeEwpl63DIAH5zPS0GwBOHecV43ax0dgMQ-aPlHbzTc8VL4zUvj_0GXnf3IPTHCIc0wHWGVcFt0flHKg4cHMIKv6A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ]
     },
@@ -4352,6 +4824,30 @@
         {
           "label": "Iran escalates Middle East conflict with attacks on Israel and Gulf nations as oil prices surge",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ZUO5VU8O2iscQ9OoTgQBvPx9_FRWNegCJfL59Xvi3IYbR-AoT-LHu1C6ycpW5GK3Xz9xzXJPm6_0nHdAdVMSRgs54aazBDZAdaFwaXDM79BV_eFAUCgREjM3LNZ7PmMQEHEHiwt4dUjZfkGtAC_PTvpZghpTQSV8merg5s_yhDruMgY4SbhpJxuxNKUnq_zCpKjNJECHwzZ0j7VSSmXcPmnL5h-irZs_XaOJG9SUcmWNc4GH99ZefZej3PadFfLprz4bK0fy8p2P9orLPhVDLK75c4Bbi7kcw7rChMxrypPPFQyNbWygOw=="
+        },
+        {
+          "label": "Kuwait, UAE Begin Oil Production Cuts Amid Strait of Hormuz Shutdown - FXLeaders",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSVQtDh5xWHbrVlqlGdf0acKHWkdRAwP2Q0dIfsIcEY0VoX4Se4cPi_pwTb2QKkkIcOAgqH9shkwBBEiIqzON1oLnPui9HveTqQDuyFm3Weyf53x9PpM3CmHDZtm6FLCIakfZ1X2K09_QKaZLa-E3HTI74rzjG1BsMOUs5eGS-ZZsXlT1VS353iGkV4Y5m7ZNB_M0K7WNlyZRZX6gwKhIGbGKqbc3QGWYP"
+        },
+        {
+          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyCyaC5KG8oMJIA9trRiy8Ejf0hGHMWKEF9jXqXn_O82f6doGvnp6gLi8MIA0NpWkylOAwb7xuhVIb2w3S9ia4UBIPWeJEsRt7cX9jrQWDcUHB0YJTbp1t65Ls_-kQwl_BwYj0pRfx--A-Iwz_sT6A_9i2xgWuMcf2Foi_pRI="
+        },
+        {
+          "label": "Oil Output Cut Across The Middle East - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEki9l00iGxcOftsD01Acdtiapwr1pdbSg3n5T-GF8aeLO2j_HW0mMguJLxCZ9DucXcw_DbYY0f81d75FyKae_CX44GXv8o5SlnkQj10lAahPRVlK72wkJElQdKAtXsukbwmfWBn4eRK9XLWjeGUrrvIto_7bE5Vuw7L7sXzSU0cKxU3A=="
+        },
+        {
+          "label": "Kuwait and UAE start cutting oil production due to war against Iran - Bloomberg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JBi49gqNqpoNyQodzpBU0QGUXu53X8PsAEmvfTJy3d8xm56JQ3Es1Wgczh_ttB21IacidXoXJItdp5gGt8latvc7EWltSXvJZsPJK6_3iLgggv6QDZEuPQwwIZWgzxoWclqjpgW5at7GBE4Z-CqGPUdt35Lvnz4_oFDlU0E3qXaBubLQb21amlpDsbqWRuKrg2Qa7No6Rty-9q_Tu7Kr5dVrB_vyxoewjh4HOZ7VZSF184aA"
+        },
+        {
+          "label": "UAE, Kuwait Reduce Oil Production Amid Strait of Hormuz Closure | MarketScreener UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEegxpqYB4x8Kxz-liAtX8gXWgTVTtxxRi_H93QswsjQ7XA5e2U-7g53j-7XIr1UQA18fjaR-EMpzuzDnpdJZiRfqbEj8otEmC2z_0-Px2nFUnpVYxSU2Fp9_9rakjsrfStn_exsh7_ufn7v_YxmVuiMIn04KJyyX5qrNJCwubtBVCiuLp-HnytuoS6oo_B1P5NoZJF5WtAAXzE0of_Eb2BCNISPOnlTmXkuENx1A=="
+        },
+        {
+          "label": "Middle East crude oil \"production halt wave\": UAE and Kuwait announce production cuts",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8YUMX84ZhkbCzr1bg4pCXKxzROlPltwqXwjt4GAUxK9OIzGGci7L0KTvLoFFKe3UGNs943HnJPmfh-XiEkKNpesY-a8vclIpb-RMiuwtxrFcACRPtDUafB6KUJzjx6rM="
         }
       ]
     },
@@ -4432,6 +4928,14 @@
         {
           "label": "Petrochemical News - Middle East tensions drive naphtha prices up 18% in one week - Polymerupdate",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Vw-fONUBUvB0i5rE9R4OZ1zxkzYlFtwE1QUdeIQ5s-dtMNb86dioDOs-k0hPFieqpDvDojho8UGmfZigcz2J7Gs3SMq9QFwGqTnonzohYBJqQao1Bn_7RAWBc6I9zonHmH7qz6-zdouZko32"
+        },
+        {
+          "label": "India rules out releasing strategic oil reserves after IEA calls to cool prices",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGekCQA6ktcVXxJc_d6r5FI7Tg5t2UvQt0yLGbuOTWMCj1hye-jeNTBSWT3bZzBASFBmVyIPte_PyVYChJIyLN2afGJG_5XEjowADHpDPjJBkidqNWYH2yS2HLiBpMi9McFVo9URtofHPQVTZ-tN-xRWZO2ywJ8SuB55SsBIWo0L5wINdPHHrNvhEP2KmkF1oa0fLjpsC1WbGP5PLobKbFH0cUNLlrhiDTVbp49-DeLsz_GABv6OSI_NoNSBj0xm_9kuSz4DrqyRY1T_A6kFdUsjLTPwQ9KcPWIKEIh3gc924Q=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - intellinews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1of8MCirACA2vqG120KGtQRMyMCEY-QeW641QNr6DgwumE7Psl9TPUVrCRd7cQiLOq2PvZqOHWWhSu7_7M_KndbTErJ-g_xOJcPukVYlNa6uD4OO04G2oCeEzNlWIbDiLpOD5XVCgUEH3cYTcrOT7KKMkInJHxPrdg-_rr3VvvbkcJq1ZMP06UEwS3DYTopL7Vx_a2g65Ew96BrBFw=="
         }
       ]
     },
@@ -4600,6 +5104,34 @@
         {
           "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
+        },
+        {
+          "label": "Iranian Strike on Bahrain Refinery Triggers Force Majeure, Oil Surges above $115",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQSZZFzHfwtsaOdZDOv6nPEZ5RTWEmm1RocyNHgGUE60Bmcbu5BMGJ6SONogBKLj0fb30WMC7hS0QKTp_uAfnN33qw2zf3nSKLYUbfdkqvY0ZygvEVOVO2M1LTCToSJHrBuT1DyMjbBI01rQiJuG5lWWnfoKG4RrlVngMSFsqYtYJ-R1RLRYvtIU4SOxKMuk_i3aJn8wYCb_-kIe4cElRcTAfed2fQJ5iSSaAn2g=="
+        },
+        {
+          "label": "Bahrain's Bapco Energies declares force majeure after Iran attack on refinery",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7r-gpsCdPDhTIU8x_ySaWX1onb0SLMe8Ji3vwpfjTZJUVEmVExuS5lo2dRniS8okwo0jYEVmjwJT0vioOfwOmbX0f1NUb_vQnU4YImaes6SyOkdu6_NK22KXbaJzFM47tr9I="
+        },
+        {
+          "label": "Bahrain's Bapco issues force majeure after refinery hit | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHEwiobMfhwWf3FcLHyzewFG9IVHrlyjxYiYz6wTTZbbWbfJSoZewb-LcJIYtdjOD_iHnKKMJBgvdlshim7MThMMsJLVeDxfgjHQCEBtziJPperssnZlif1CliYwOktIfgyoL_17X8Jz-ei8jBWqb1tKUpkBcOYa-EG31FXt8rom6f9M1yWx8ddy9-jmvVfe_1XYyP3JdKEssGE6S3D16mozF7nBZ7YKKPCtHv4YY9fVnX1fQP1mzFL3sXQtb1"
+        },
+        {
+          "label": "Bahrain's Bapco declares force majeure after refinery hit during regional conflict - Gulf News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecRceNLo05eTbHGVoWC1UcC7DStC7FmPKCV5wrjYNdz1EGXyd8BV-HDrZcL8gpXIMUoxMo82MC5R3utheUFY19on29rf4hsgFtIvREzthyqY7u9ca2FJYvxzrk3X831lagTUlgHrATcPB4Jr8ikTJpyS-cIdHNgzElc01dxPL4GFbhqMrwhDIDu_5YsDMr0-NuewkCKb_O3mN73NKOfwMSSSVVZp4_nabqeaRV-bp40ZQen_XRiTxJr511t4B"
+        },
+        {
+          "label": "Force majeure at Oil Refineries in Singapore, South Korea and China - CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWuOAgTa9TMW9o9FPyUgng7dbppq3ZUuNrr2QtBUT79SXgGBmRMgFBuNXjMjU05KmAWHz6Iw3gIIbYV23gyJZsnmvA_6G9SsXg2wdQ6Cs5w-PIpBv-OvTqeSDb9eCBFyJAIcm52udj9J9TawH-BSgLI_V8UZyl1AjWua_kNetzOYFLIbRBlUhgfB-yJZxVQBPGysqF8kGVHcLrtCy5YIYBfcvgl8ZW2w=="
+        },
+        {
+          "label": "Gulf countries shrink oil production as Iran missiles keep flying",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH747VivWTAEHpGQrmkpVccMbtyphxzKL4xBC9h6mS0Hdrl8YoRZZpmtINQDh3AZU5KPE2x6Ni3yVAhxM9pOghjoCOtOPMjrOI18tnt89jL4CuVwro7y4ycdZmcv0vHt1AbDIK9UKIvj2KYvYUB_Ifv8EYXDv3lK7NpvmsiJugBBALUbyRBfdomP9rC4FQBULGxdl4="
+        },
+        {
+          "label": "Bahrain's state oil company declares force majeure after Iran strikes refinery",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6tCFjTej-6C9QpC1DUWqNt2bV0BpRtYnSKz9AMGI1H_UBkZZUo-KWEVVQn_xtwfIjhqZ8MPopweBrdt1ACCldVIwguCKp8RmT1EQ_8bgKlNPRs9ocyNVf79ofGXBnkDbMjG_C0aXwywi2EKkGDRcoHd6_d-zEvZkE-kGDWp_tp7r4eqER2GoPJTM8NSD1IpF85XKfummRakTrZALktku9XPYvbGKB4-O9hLQr13ecxpfMbbDAw=="
         }
       ]
     },
@@ -4716,6 +5248,10 @@
         {
           "label": "Effect on oil markets could be 'catastrophic' if Hormuz closure continues — Saudi Aramco chief | The Times of Israel",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEymiyo2ua3kNFhWiSBt3tFpVFd2JjcptshuN7hTZJENoJfuQ0DeQTbVlh_bRUBBPK95Rx42rDw2bPtum1cIF7BuGeWugZatq2SBDxiOS9Kg6DrHdy3axMxwgapiSWmY7go5EPzhM1U-g6AIN1JSw2PyME505Uuo_grXL5zi5Lvdz_PHTK9tc33lFRcKGMb2FQFIwRCRTW1G8jzP5xqJj-akuBoMMCciG3MT6sCglC-wvkRmJNsCdIydWiL3EZmT6GumuVA"
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
         }
       ]
     },
@@ -4772,6 +5308,22 @@
         {
           "label": "Indian refineries urged to boost LPG production - Xinhua",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF_Yxkwu0EhZFWaTy4xIV88-5c3V_R5bYxbmTRiWg3CjowBbNd5vZfZBwhut6foGL-6zpDtG3gxcHyY8ew_d0fLYyLX-my46BE8HITHfIveMCzYix_IO4JPNeF6g_VWKJ0R5fWliqunl3S3QzyMjKjAy0mGh9DvpIcAtnBau2vktOHEwtyvSXatJWcS7zTzw=="
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzaNO7GF6sFoesjCMQ3R0MOVCVAM7bMLbN0AoxlPIACWcHjszN82TKwXnzY0wvzgLdolj9uFSYPwrvpxY1X5NRHDJmcRxon1tGeMPfjqaAEbvWA25yOCuvnnzxlHT82Rp6kEQkl6EaKMBhcYzolZkWf4xAJMLCHgBUIfuMkrsrHU720Z-uz5IUWcHxATegZ66pYKsSGiagXqPKAhZGpa4UubaHDOGwOdS1BFSX-TdfEM="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbjrNoMTm32QwN3qVf4-yfkri2AOPaC9bbn-yHIMWidLUe9cewdKVGjglWgeUV9M1S9BKg8v3gJEhYIsuKS0QvIuSRQzITUcAmM2EzmmlEysloRfv5tFmU3ID5N1n1BtfHPuHaP183Q5yX5KzaA0t65arSRIXF2EB_8XTzoslIcFvBf1WiF9OQdGmlSNFMED1PbZy3szamlrUZrJciJupchF5G7c60Q-BTvYnV-cEGH_SglyH-xDzNIR7UoTMYs1ubDQ=="
+        },
+        {
+          "label": "LPG cylinder shortage hits restaurants, hotels in Mumbai, Kolkata and Bengaluru, govt responds - India TV News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_TbUcniZ52oe7EwF9rnzj4BRPKgkF7snwf-EQMY37AuJtmUCFFvWwdg7gIEOCYNyBdhcPZBPwlYDYUQbI3Xqm_4v7kIAILl-YcDUEJoRrrMC0Nmsbq4F_2rmXSItrH0oeW9Rju-gknIBkgPtdzPHUJ7SlST_fhU6MAW_nieIBnGGCOy-Bh5er0OPB4ujY8BCYCrXlCjw_f49vBkyMncOABmWhiYILvNDCxCG97IOiun0LDCn8xNZCon93tK6EzbUB5hLXPAyuIl1-LmKkgas0yQ=="
+        },
+        {
+          "label": "India faces cooking gas shortage - Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJAO_L6GpB-txQQ9uQxwAAwTuznndWbfmrj4XhUiEFunIc9VNEep29qNHjV7pUijtNtNQlfbhWWlRHTFak1bCte5UYrOd8BmEFEZla579T0mfx1DjeQdhPPjH87HDLlL11Gp1ma_6YC0-8dYWgphe-CBkRDsaWw_96fc5EvWQEw4oxvorZ_-sVCUvN7MCmQA=="
         }
       ]
     },
@@ -4792,6 +5344,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 11, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIJxwX-R0ALHdM-p95bWK9KP6qUWUs5ecYqDoKAAOG7UYTuqIWZMRCk5ztfk_zmjWjKhcdL0NbVUZOg-dTgtt8vXUi-a4KDM4bwRlvAr8m_4kWxCzo-JCn0Y6MnU9ElufhwBDxF44kdNc_Si1oBsEefkl0-BvBkZ07g03fnHliIs9YGMOhxl0UW6VHMygclVcrHeXhfLWHMLzJloLnJcZl1HbWadA4ZuvadegYHJvJik="
+        },
+        {
+          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrdxtq-JGStm3OVa8WB74OHuZ6VDJmhMF2r_Owy8LnDQLbjRdgJAZDjMlEndvJIRuOhWxJMmOZUVn162zBLU7GAO4janLbXIdoPLaqOzWU309LF7_h2SscdZLaH7pCAhHRm9Ggx7xzNOLVdX4N8XflcRnpX8xd3jRxH2l_sZ4D9MUYlSkt0_dXZxFi7ZKX_Iy99ZmpSuEo6tMMmhMEcTAaNj_Mo952fBBaEB_Eew=="
         }
       ]
     },
@@ -4812,6 +5368,10 @@
         {
           "label": "US oil prices up nearly $3 as Middle East crisis constrains supply By Reuters - Investing.com",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFal_McPUOUsQThQcLwtY1lMljRpvc8gEQMxAnodEkHu-CA4cSmnk4CWewrjJ0jH_AN0gLYwFUbNmUkkfq8qw8KUHip337NDm8hVGAc8hx8NJwNF8ziNVstZopQQOM6R9wCf1Q7fUYUSwpEo0QNsmrzAss8OoqzCvTHYDXk2YHckinaXErPnHZAiQfE_Y7475ZJiQea3Pg-hBHIroxvRhWu6hnKFFVE291rYTfDuDz2fQ_ffJU="
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
         }
       ]
     },
@@ -4824,6 +5384,22 @@
         {
           "label": "As Middle East conflict rages on, facing down the spectre of energy crisis",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPzY3-FgDjNTaRPdLbCwGWPseeQPTiGj-a2tLx-uKgGYysNrMoV3TBULf_eRuBXROCvTnRljZk9wvG0Yed-AfidGxj9NisKUKaSMXq-_Hvo4JtYXtkNb8R1w-X9FmHGpJzUXHLVoQbtMNt9gMHbeqJm9Y_LhaZjrstRPRrL5MN1x5oY96WCn6ZTHC6h8ERoxUEZmV1ZwZGpI67Bj8jQjN1MC7IcTTRkQjn6TCY5jPY1BGrzYKXOX_aDNbDwPKQwIKln8T3"
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzaNO7GF6sFoesjCMQ3R0MOVCVAM7bMLbN0AoxlPIACWcHjszN82TKwXnzY0wvzgLdolj9uFSYPwrvpxY1X5NRHDJmcRxon1tGeMPfjqaAEbvWA25yOCuvnnzxlHT82Rp6kEQkl6EaKMBhcYzolZkWf4xAJMLCHgBUIfuMkrsrHU720Z-uz5IUWcHxATegZ66pYKsSGiagXqPKAhZGpa4UubaHDOGwOdS1BFSX-TdfEM="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbjrNoMTm32QwN3qVf4-yfkri2AOPaC9bbn-yHIMWidLUe9cewdKVGjglWgeUV9M1S9BKg8v3gJEhYIsuKS0QvIuSRQzITUcAmM2EzmmlEysloRfv5tFmU3ID5N1n1BtfHPuHaP183Q5yX5KzaA0t65arSRIXF2EB_8XTzoslIcFvBf1WiF9OQdGmlSNFMED1PbZy3szamlrUZrJciJupchF5G7c60Q-BTvYnV-cEGH_SglyH-xDzNIR7UoTMYs1ubDQ=="
+        },
+        {
+          "label": "LPG cylinder shortage hits restaurants, hotels in Mumbai, Kolkata and Bengaluru, govt responds - India TV News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_TbUcniZ52oe7EwF9rnzj4BRPKgkF7snwf-EQMY37AuJtmUCFFvWwdg7gIEOCYNyBdhcPZBPwlYDYUQbI3Xqm_4v7kIAILl-YcDUEJoRrrMC0Nmsbq4F_2rmXSItrH0oeW9Rju-gknIBkgPtdzPHUJ7SlST_fhU6MAW_nieIBnGGCOy-Bh5er0OPB4ujY8BCYCrXlCjw_f49vBkyMncOABmWhiYILvNDCxCG97IOun0LDCn8xNZCon93tK6EzbUB5hLXPAyuIl1-LmKkgas0yQ=="
+        },
+        {
+          "label": "India faces cooking gas shortage - Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJAO_L6GpB-txQQ9uQxwAAwTuznndWbfmrj4XhUiEFunIc9VNEep29qNHjV7pUijtNtNQlfbhWWlRHTFak1bCte5UYrOd8BmEFEZla579T0mfx1DjeQdhPPjH87HDLlL11Gp1ma_6YC0-8dYWgphe-CBkRDsaWw_96fc5EvWQEw4oxvorZ_-sVCUvN7MCmQA=="
         }
       ]
     },
@@ -4971,6 +5547,18 @@
         {
           "label": "Middle East conflict, impact on African copper (Part 1)",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXzcp9SGgE8mMYciFkPqsBhmdWUjkF7v6spiFjvq3YlHKLZOTcYBDzByVjMfMOxFv3YhjKVjBRAvLMs63jQ_9i6PDEt2_6J0iyStU7VkxrUzn94FCLfTP5C8uZqqV8op6TkqTE9dWt1udxB05_xKjWmzBMkTCbNRFn1kXnojdZ4sgAkK29Vmbd9qcH3o3ndZRUyXaWcdBAzMF88A=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - intellinews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1of8MCirACA2vqG120KGtQRMyMCEY-QeW641QNr6DgwumE7Psl9TPUVrCRd7cQiLOq2PvZqOHWWhSu7_7M_KndbTErJ-g_xOJcPukVYlNa6uD4OO04G2oCeEzNlWIbDiLpOD5XVCgUEH3cYTcrOT7KKMkInJHxPrdg-_rr3VvvbkcJq1ZMP06UEwS3DYTopL7Vx_a2g65Ew96BrBFw=="
+        },
+        {
+          "label": "Sulphur Supply Disruption: Global Industrial Impact - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT_OS-sxvgBaywNfuv6W63KtrCAkfNK_b5mtsD456hJMa40n5AJv1Gt7gZW0NnOy-aNsfSAGgK416PZsSz6ZXb9WwxoG7WLUrrzfqYPmt3Iw1ZTo3v-gd-g0tL9TX8b0VXHETnUkD8FUc89J0zyPjfmy9LdHzj965344GMRMVg4I6fxQQFylq89oZLMGNqi-yUTMvI"
+        },
+        {
+          "label": "Sulfur Market March 2026: Global Supply Disruption Pushes Prices Higher - Fertilizerfield",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH8-iLrgitg49naYnKGO1GtpSkNiZh6pFdHSrZavqwnh07tNC0PN0CraDJmKcYu3WHhxorb4wySStd1ELVLdPXwWM9T31tJIdv4Ax-GB2ICjiPGOrkLFNeap8gUBFxymak9_K6gzuISBbgr7tY4RRk"
         }
       ]
     },
@@ -5752,6 +6340,22 @@
         {
           "label": "As Middle East conflict rages on, facing down the spectre of energy crisis",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPzY3-FgDjNTaRPdLbCwGWPseeQPTiGj-a2tLx-uKgGYysNrMoV3TBULf_eRuBXROCvTnRljZk9wvG0Yed-AfidGxj9NisKUKaSMXq-_Hvo4JtYXtkNb8R1w-X9FmHGpJzUXHLVoQbtMNt9gMHbeqJm9Y_LhaZjrstRPRrL5MN1x5oY96WCn6ZTHC6h8ERoxUEZmV1ZwZGpI67Bj8jQjN1MC7IcTTRkQjn6TCY5jPY1BGrzYKXOX_aDNbDwPKQwIKln8T3"
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzaNO7GF6sFoesjCMQ3R0MOVCVAM7bMLbN0AoxlPIACWcHjszN82TKwXnzY0wvzgLdolj9uFSYPwrvpxY1X5NRHDJmcRxon1tGeMPfjqaAEbvWA25yOCuvnnzxlHT82Rp6kEQkl6EaKMBhcYzolZkWf4xAJMLCHgBUIfuMkrsrHU720Z-uz5IUWcHxATegZ66pYKsSGiagXqPKAhZGpa4UubaHDOGwOdS1BFSX-TdfEM="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbjrNoMTm32QwN3qVf4-yfkri2AOPaC9bbn-yHIMWidLUe9cewdKVGjglWgeUV9M1S9BKg8v3gJEhYIsuKS0QvIuSRQzITUcAmM2EzmmlEysloRfv5tFmU3ID5N1n1BtfHPuHaP183Q5yX5KzaA0t65arSRIXF2EB_8XTzoslIcFvBf1WiF9OQdGmlSNFMED1PbZy3szamlrUZrJciJupchF5G7c60Q-BTvYnV-cEGH_SglyH-xDzNIR7UoTMYs1ubDQ=="
+        },
+        {
+          "label": "LPG cylinder shortage hits restaurants, hotels in Mumbai, Kolkata and Bengaluru, govt responds - India TV News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_TbUcniZ52oe7EwF9rnzj4BRPKgkF7snwf-EQMY37AuJtmUCFFvWwdg7gIEOCYNyBdhcPZBPwlYDYUQbI3Xqm_4v7kIAILl-YcDUEJoRrrMC0Nmsbq4F_2rmXSItrH0oeW9Rju-gknIBkgPtdzPHUJ7SlST_fhU6MAW_nieIBnGGCOy-Bh5er0OPB4ujY8BCYCrXlCjw_f49vBkyMncOABmWhiYILvNDCxCG97IOun0LDCn8xNZCon93tK6EzbUB5hLXPAyuIl1-LmKkgas0yQ=="
+        },
+        {
+          "label": "India faces cooking gas shortage - Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJAO_L6GpB-txQQ9uQxwAAwTuznndWbfmrj4XhUiEFunIc9VNEep29qNHjV7pUijtNtNQlfbhWWlRHTFak1bCte5UYrOd8BmEFEZla579T0mfx1DjeQdhPPjH87HDLlL11Gp1ma_6YC0-8dYWgphe-CBkRDsaWw_96fc5EvWQEw4oxvorZ_-sVCUvN7MCmQA=="
         }
       ]
     },
@@ -5865,6 +6469,14 @@
         {
           "label": "Asia crackers declare force majeure over naphtha crunch - Vortexa",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8R6f45NYvUX6gQmvZUOeypNGVicwpdDTO9YDwKvlzngignNWR2B7BU5Hd-tOdtvpsEdn_JGVKULzO-u7tnAlIQfF5mJ7kEts9jpHfg63ZALWtIWS2_GCB0KU4p85qV6RFTcnpEj3TS1_b_UYhLz_hucLCVNh0QQ=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - intellinews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1of8MCirACA2vqG120KGtQRMyMCEY-QeW641QNr6DgwumE7Psl9TPUVrCRd7cQiLOq2PvZqOHWWhSu7_7M_KndbTErJ-g_xOJcPukVYlNa6uD4OO04G2oCeEzNlWIbDiLpOD5XVCgUEH3cYTcrOT7KKMkInJHxPrdg-_rr3VvvbkcJq1ZMP06UEwS3DYTopL7Vx_a2g65Ew96BrBFw=="
+        },
+        {
+          "label": "Aramco Launches Rare Oil Tenders as Iran War Disrupts Exports - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgtNeIFhy0EVI7Ix6DE6gnKyUZ9v8kNvdf71rhMNUeSP4Aa-4affEeXHzf9n1G5_TcvHLQMLyKYVM00qt6Y0eK8FUpvMxgeeVX6GRrAxWALIZoKw8vG7UyF9yU9Utfib-XgIBKjhmO87HZB7GoIY4vvTBkWM0pdjBaPsDFyvlMqN8R4hMnMQwMDP9"
         }
       ]
     },
@@ -5959,6 +6571,14 @@
         {
           "label": "FACTBOX: Middle East uncertainty causes significant increases in chemical markets | S&P Global",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6xEzWnjzq7yNQUOCPbAsqfd3GTwDNJ7vM14SixTXE_NDEzYLHam3-Ee4iuA2s9i0IZSn2E6N66Ehvjty8U6lO5PwdlV8huOer9_khx8jQdFR0py_qxPBplWExzYX6PSMAb3uLmMJbDilztdFdKrdo1K5TG86S8vob9LmXoy0MsZvT65Bx6s44bL5jtnC1AGmtMssJABPXns0jsVnctw39pxFG8PpHRfKk-xAqag2hslZXiYF_KVPD5n383qgKjOCj4dU6CzWaeo-hoQURbuI1UAQmzroZcQZKTA=="
+        },
+        {
+          "label": "Iran war sulphur-shortage will have a world-wide impact - intellinews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz1of8MCirACA2vqG120KGtQRMyMCEY-QeW641QNr6DgwumE7Psl9TPUVrCRd7cQiLOq2PvZqOHWWhSu7_7M_KndbTErJ-g_xOJcPukVYlNa6uD4OO04G2oCeEzNlWIbDiLpOD5XVCgUEH3cYTcrOT7KKMkInJHxPrdg-_rr3VvvbkcJq1ZMP06UEwS3DYTopL7Vx_a2g65Ew96BrBFw=="
+        },
+        {
+          "label": "Aramco Launches Rare Oil Tenders as Iran War Disrupts Exports - Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsgtNeIFhy0EVI7Ix6DE6gnKyUZ9v8kNvdf71rhMNUeSP4Aa-4affEeXHzf9n1G5_TcvHLQMLyKYVM00qt6Y0eK8FUpvMxgeeVX6GRrAxWALIZoKw8vG7UyF9yU9Utfib-XgIBKjhmO87HZB7GoIY4vvTBkWM0pdjBaPsDFyvlMqN8R4hMnMQwMDP9"
         }
       ]
     },
@@ -6110,6 +6730,26 @@
         {
           "label": "INSIGHT: Once seen as a threat, China is now the unlikely saviour of SE Asia's PP supply crunch | ICIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFCOClrobz48QjHOtqfayYcFbY2vxaDjcnYak0T5Pq5RycY5yAlnoIR4pf-25QBHU4R1NL9SyDF_maDvtOJvnM80Z2xLSbKOEdLrIuy7fyIRF9fNMmDSWjSbsqS3QOlCb_u__VeenDowW48L__Tvp962lKaIXebRVuL4jDIE75A-tywRvGnnvs-6HKZMFoFl7Y2D_ZoAupldDFzfjuHVYArakdJeZ-tLGSio-kvRc8PLHlJoSdP28a0FAtExcIdPGzA_78MIQ7VBH3hQhaCTa7aXVOAI51tHT"
+        },
+        {
+          "label": "China slashes oil product exports to ensure domestic supply: sources | S&P Global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9hbKeQ1FWc8yfFCGNq93N-VRBDCTBk38Iqe3KUKgBlmliduL19Tn0M79J3958GND46iVZGUHRwHhBGU4euQ-xjYIZoYSTKJxMlTyGo8Tgciex7WyXc5RuJVpMvfuskozDFToaEauuUHTUWI3FxPTduQHcl63kE3CJHWx2V1EQOYrOiYoqvJruo8q5rYSPzJA2JbJK_uO-iy8iQmferMCjRBH2l4f4uilzhK-PrEtH1XhapklwkgOqGsQz80P4s4JACRnzG7uFt7SA0O8="
+        },
+        {
+          "label": "China tells oil refiners to suspend exports, Bloomberg reports - Euractiv",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXjLXOhIOcDAye3kYAllbEm2wUPDXtQJLFma6vusVckfjvADpkg8zGGYtLGTeUagA2N0uaCPieH67NZny9i1DYUu_KVIjdzVBxz62weo0aO1A3Xm6Q8_4-5a1IRMemECubwrNkBOMsUIJ4T70yurYBsz3q4PwSjmmVTYkvhffthFoaBE7VOi2C8e6yIUKu8pTEH4enR9q_"
+        },
+        {
+          "label": "China halts fuel exports amid Middle East war | APAnews - African Press Agency",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0F885AN7LJk_YyR6GOFOlXE-L_czAJ120cf0V-E9xOGPDVLsdhfWfgwPtQjN75Iz2xP3nFNCgn8k6Tl9EQelCLwEwlA39YIHVB3LWQI_C48aCY1j36twKBtqtGZWrwOa0XK29wDkyTroyKwa1aMGJxh4yPayS1tceCYBhgQ=="
+        },
+        {
+          "label": "China halts fuel exports amid Middle East supply tensions - Industrie Du Maroc",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo3yQ9TDAuF7bjcppPSsAbv4KR1e8sG_DzAU92zJPnhpYJVtGWkCaTf13FWLxsq6ngm3Og9i0xNea5dM5aDnf6_U80hjDkjkKqn4T6D7lo6LmQOAm5LJTQMqWmgaCPVwVyI5B3n4kwknbzu09o3sKsBBGt0NkvXV2mv0tnypKybde_YhR0qj0S9y3uiQRT"
+        },
+        {
+          "label": "China suspends oil exports",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJHLy7dHIS3oAAijz7x_J9uTTT-kugZgJk1MGx3c_X1RnxZBDZZRYuHvGK8oeAMOMy7s8wrb6Gb2FjpennnneuG7Oi_gk2P_biC4cyvqPCE02BQyTOg8lR9XSpkgHscJZ4LDlz47va8Ftj5Lt-F6UvLldu_w=="
         }
       ]
     },
@@ -6450,6 +7090,10 @@
         {
           "label": "Crude prices dip on hopes IEA to release largest ever oil reserves | ICIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECGF39VrBhgPsMmaqHhCRPXATpf5_BOMWGjUtCfYQ3rce_W_WKwQr_JvcG4Y-TZL3m_eZDG9wuB6F2fZb1wXfh8JlPflXb6-tbGKIr71_J2sq7rJzSbfIyb2YJKQlOl6j6p-7S6mb8OsfWZdW0WaMZ7j2sH2JXNdKr2YGptgFjMEzey7wJtzUGJY0eO7VKAfv2ScesfuWQu8wVMBswgov0o9pL1aaU6NqQGDUKYgzCnrCdD2QU-APp7AdMNPm-"
+        },
+        {
+          "label": "Kuwait declares force majeure as Strait of Hormuz disruptions persist - Egypt Oil & Gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpXzCYwkarAAzL1guow1cGQ-dD1Q2aNyfEQut4kjVaKHv2IIPlHckO-pFQmwpWg3J2LScp-BusyhvuIfQy6qEILayT6n34xIShxN72-G6u4TbUni-kQS7MP_LsAZRtW8uT7gUKFnBDy-Ifb9FMi4mHnFUPT6NKAVCIqHTMS_btytWGJYAziE_fYeaDOZhjZLloY5bBKvB5rk-TBU-YOJU="
         }
       ]
     },
@@ -7145,7 +7789,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "印度于2026年3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
-      "current": "2026年3月3日，印度政府消息人士透露，该国原油库存可维持25天。9日政府官员表示不会释放战略石油储备，并计划从美国和加拿大获得更多液化石油气供应。印度政府报告显示，该国原油和成品油总储备可支持约7-8周的供应。11日，印度面临严重的商用液化石油气和液化天然气短缺。",
+      "current": "2026年3月3日，印度政府消息人士透露，该国原油库存可维持25天。9日政府官员表示不会释放战略石油储备，并计划从美国和加拿大获得更多液化石油气供应。印度政府报告显示，该国原油和成品湔总储备可支持约7-8周的供应。11日，印度面临严重的商用液化石油气和液化天然气短缺。",
       "sources": [
         {
           "label": "Binance News",
@@ -7242,6 +7886,22 @@
         {
           "label": "As Middle East conflict rages on, facing down the spectre of energy crisis",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPzY3-FgDjNTaRPdLbCwGWPseeQPTiGj-a2tLx-uKgGYysNrMoV3TBULf_eRuBXROCvTnRljZk9wvG0Yed-AfidGxj9NisKUKaSMXq-_Hvo4JtYXtkNb8R1w-X9FmHGpJzUXHLVoQbtMNt9gMHbeqJm9Y_LhaZjrstRPRrL5MN1x5oY96WCn6ZTHC6h8ERoxUEZmV1ZwZGpI67Bj8jQjN1MC7IcTTRkQjn6TCY5jPY1BGrzYKXOX_aDNbDwPKQwIKln8T3"
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzaNO7GF6sFoesjCMQ3R0MOVCVAM7bMLbN0AoxlPIACWcHjszN82TKwXnzY0wvzgLdolj9uFSYPwrvpxY1X5NRHDJmcRxon1tGeMPfjqaAEbvWA25yOCuvnnzxlHT82Rp6kEQkl6EaKMBhcYzolZkWf4xAJMLCHgBUIfuMkrsrHU720Z-uz5IUWcHxATegZ66pYKsGGiagXqPKAhZGpa4UubaHDOGwOdS1BFSX-TdfEM="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbjrNoMTm32QwN3qVf4-yfkri2AOPaC9bbn-yHIMWidLUe9cewdKVGjglWgeUV9M1S9BKg8v3gJEhYIsuKS0QvIuSRQzITUcAmM2EzmmlEysloRfv5tFmU3ID5N1n1BtfHPuHaP183Q5yX5KzaA0t65arSRIXF2EB_8XTzoslIcFvBf1WiF9OQdGmlSNFMED1PbZy3szamlrUZrJciJupchF5G7c60Q-BTvYnV-cEGH_SglyH-xDzNIR7UoTMYs1ubDQ=="
+        },
+        {
+          "label": "LPG cylinder shortage hits restaurants, hotels in Mumbai, Kolkata and Bengaluru, govt responds - India TV News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_TbUcniZ52oe7EwF9rnzj4BRPKgkF7snwf-EQMY37AuJtmUCFFvWwdg7gIEOCYNyBdhcPZBPwlYDYUQbI3Xqm_4v7kIAILl-YcDUEJoRrrMC0Nmsbq4F_2rmXSItrH0oeW9Rju-gknIBkgPtdzPHUJ7SlST_fhU6MAW_nieIBnGGCOy-Bh5er0OPB4ujY8BCYCrXlCjw_f49vBkyMncOABmWhiYILvNDCxCG97IOun0LDCn8xNZCon93tK6EzbUB5hLXPAyuIl1-LmKkgas0yQ=="
+        },
+        {
+          "label": "India faces cooking gas shortage - Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJAO_L6GpB-txQQ9uQxwAAwTuznndWbfmrj4XhUiEFunIc9VNEep29qNHjV7pUijtNtNQlfbhWWlRHTFak1bCte5UYrOd8BmEFEZla579T0mfx1DjeQdhPPjH87HDLlL11Gp1ma_6YC0-8dYWgphe-CBkRDsaWw_96fc5EvWQEw4oxvorZ_-sVCUvN7MCmQA=="
         }
       ]
     },

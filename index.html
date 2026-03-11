@@ -118,9 +118,9 @@
     .source-link { display: inline-flex; align-items: center; padding: 6px 10px; border: 1px solid var(--border); border-radius: 999px; background: #fff; color: #2563eb; text-decoration: none; font-size: 12px; font-weight: 600; }
     .source-link:hover { background: #eff6ff; }
     .summary-stack { display: flex; flex-direction: column; gap: 10px; }
-    .summary-chip { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; border-radius: 14px; background: #f8fafc; border: 1px solid var(--border); gap: 12px; }
-    .summary-chip-label { font-size: 13px; color: var(--muted); }
-    .summary-chip-value { font-size: 15px; font-weight: 700; }
+    .summary-chip { display: flex; justify-content: space-between; align-items: center; padding: 11px 14px; border-radius: 14px; background: #f8fafc; border: 1px solid var(--border); gap: 14px; }
+    .summary-chip-label { font-size: 14px; color: var(--muted); }
+    .summary-chip-value { font-size: 17px; font-weight: 700; }
     .summary-card-compact { min-height: 0; display: flex; flex-direction: column; height: 100%; }
     .summary-card-compact canvas { height: 260px !important; }
     .benchmark-note {
@@ -130,8 +130,8 @@
       background: #f8fafc;
       border: 1px solid var(--border);
       color: var(--muted);
-      font-size: 12px;
-      line-height: 1.7;
+      font-size: 13px;
+      line-height: 1.75;
     }
     .benchmark-note a {
       color: var(--blue-text);
@@ -139,7 +139,7 @@
       font-weight: 600;
     }
     .benchmark-note a:hover { text-decoration: underline; }
-    .section-kicker { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+    .section-kicker { font-size: 13px; color: var(--muted); margin-bottom: 12px; line-height: 1.65; }
     .timeline-date { font-size: 13px; font-weight: 700; color: #1d4ed8; margin-bottom: 8px; }
     .loading { padding: 24px; color: var(--muted); }
     .error { padding: 24px; color: var(--red-text); }
@@ -600,6 +600,7 @@
     }
 
     function getSupplementalMetricValue(item, { metricKey = '', metricType = '', unit = '', labelIncludes = '' } = {}) {
+      if (!metricKey && !labelIncludes) return null;
       const metrics = collectSupplementalMetrics(item);
       const matched = metrics.find(metric => {
         const keyMatch = metricKey && metric.metricKey === metricKey;
@@ -904,6 +905,9 @@
           plugins: {
             legend: { display: false },
             tooltip: {
+              titleFont: { size: 14, weight: '700' },
+              bodyFont: { size: 13 },
+              padding: 10,
               callbacks: {
                 label: (context) => {
                   const metric = metrics[context.dataIndex];
@@ -916,16 +920,18 @@
             x: {
               beginAtZero: true,
               ticks: {
-                callback: value => `${value}%`
+                callback: value => `${value}%`,
+                font: { size: 13, weight: '600' }
               },
               title: {
                 display: true,
-                text: '当前影响量占全球比重'
+                text: '当前影响量占全球比重',
+                font: { size: 14, weight: '700' }
               }
             },
             y: {
               ticks: {
-                font: { size: 12 }
+                font: { size: 14, weight: '600' }
               }
             }
           }
