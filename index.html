@@ -39,7 +39,8 @@
     .grid { display: grid; gap: 16px; }
     .filters { grid-template-columns: 2fr 1fr 1fr 1fr; margin-bottom: 16px; }
     .stats { grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
-    .summary-grid { grid-template-columns: 1.05fr 1.18fr 0.92fr; margin-bottom: 16px; }
+    .summary-grid { grid-template-columns: 1fr 1fr; margin-bottom: 16px; align-items: stretch; }
+    .country-grid { grid-template-columns: 1fr 1fr; margin-bottom: 16px; }
     .main { grid-template-columns: 1fr; margin-bottom: 16px; }
     .chemicals-row { grid-template-columns: 1fr; }
     .footer-grid { grid-template-columns: 1fr 1fr; }
@@ -120,6 +121,24 @@
     .summary-chip { display: flex; justify-content: space-between; align-items: center; padding: 10px 12px; border-radius: 14px; background: #f8fafc; border: 1px solid var(--border); gap: 12px; }
     .summary-chip-label { font-size: 13px; color: var(--muted); }
     .summary-chip-value { font-size: 15px; font-weight: 700; }
+    .summary-card-compact { min-height: 0; display: flex; flex-direction: column; height: 100%; }
+    .summary-card-compact canvas { height: 260px !important; }
+    .benchmark-note {
+      margin-top: auto;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.7;
+    }
+    .benchmark-note a {
+      color: var(--blue-text);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .benchmark-note a:hover { text-decoration: underline; }
     .section-kicker { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
     .timeline-date { font-size: 13px; font-weight: 700; color: #1d4ed8; margin-bottom: 8px; }
     .loading { padding: 24px; color: var(--muted); }
@@ -189,11 +208,12 @@
       font-weight: 600;
     }
     canvas { width: 100% !important; height: 320px !important; }
+    #globalShareChart { height: 260px !important; }
     #inventoryLevelChart, #inventoryCoverChart, #inventoryRegionalChart {
       height: 240px !important;
     }
     @media (max-width: 1180px) {
-      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
+      .filters, .stats, .summary-grid, .country-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr 1fr; }
       .paired-grid { grid-template-columns: 1fr; }
       .chemical-list { grid-template-columns: 1fr 1fr; }
       .inventory-chart-grid { grid-template-columns: 1fr; }
@@ -208,7 +228,7 @@
       .chemical-grid { grid-template-columns: 1fr; }
     }
     @media (max-width: 720px) {
-      .filters, .stats, .summary-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr; }
+      .filters, .stats, .summary-grid, .country-grid, .chemicals-row, .footer-grid { grid-template-columns: 1fr; }
       .chemical-list { grid-template-columns: 1fr; }
       .title { font-size: 26px; }
     }
@@ -253,7 +273,7 @@
     </div>
 
     <div class="grid summary-grid">
-      <div class="card">
+      <div class="card summary-card-compact">
         <h3>直接 / 间接受影响汇总</h3>
         <div class="section-kicker">按上游原油、天然气、LNG、炼厂及乙烯口径分别统计；单位统一折算后汇总，炼厂和化工产能不再并入原油上游。</div>
         <div class="summary-stack">
@@ -264,11 +284,20 @@
           <div class="summary-chip"><span class="summary-chip-label">乙烯产能影响量</span><span class="summary-chip-value" id="ethyleneImpactLoss">0 mtpa</span></div>
         </div>
       </div>
-      <div class="card">
+      <div class="card summary-card-compact">
+        <h3>当前边际影响占全球比重</h3>
+        <div class="section-kicker">用全球原油产量、天然气产量、LNG 液化能力、全球炼能和全球乙烯产能作分母，对当前已确认影响量做横向对比。</div>
+        <canvas id="globalShareChart"></canvas>
+        <div class="benchmark-note" id="benchmarkNote"></div>
+      </div>
+    </div>
+
+    <div class="grid country-grid">
+      <div class="card summary-card-compact">
         <h3>各国已受影响资产数量</h3>
         <canvas id="countryChart"></canvas>
       </div>
-      <div class="card">
+      <div class="card summary-card-compact">
         <h3>各国直接原油影响量（kbpd）</h3>
         <canvas id="countryLossChart"></canvas>
       </div>
@@ -375,6 +404,7 @@
     const inventoryCoverMeta = document.getElementById('inventoryCoverMeta');
     const inventoryRegionalMeta = document.getElementById('inventoryRegionalMeta');
     const chemicalList = document.getElementById('chemicalList');
+    const benchmarkNote = document.getElementById('benchmarkNote');
 
     const totalCount = document.getElementById('totalCount');
     const affectedCount = document.getElementById('affectedCount');
@@ -393,10 +423,49 @@
     let chemicalData = [];
     let chart;
     let lossChart;
+    let globalShareChart;
     let inventoryLevelChart;
     let inventoryCoverChart;
     let inventoryRegionalChart;
     let sourceHealth = { entries: [] };
+    const GLOBAL_BENCHMARKS = {
+      oil: {
+        label: '全球原油产量',
+        value: 106600,
+        unit: 'kbpd',
+        note: 'IEA 2026年1月全球石油供应约 106.6 mb/d',
+        source: { label: 'IEA Oil Market Report', url: 'https://www.iea.org/reports/oil-market-report-february-2026' }
+      },
+      gas: {
+        label: '全球天然气产量',
+        value: 4124 * 1000 / 365,
+        unit: 'mcm/d',
+        note: 'Energy Institute 2024年全球天然气产量 4,124 bcm，折算约 11,299 mcm/d',
+        source: { label: 'Energy Institute Statistical Review', url: 'https://www.energyinst.org/statistical-review' }
+      },
+      lng: {
+        label: '全球 LNG 液化能力',
+        value: 494.4,
+        unit: 'mtpa',
+        note: 'IGU 2025 World LNG Report：截至2024年底全球名义液化能力 494.4 mtpa',
+        source: { label: 'IGU World LNG Report 2025', url: 'https://www.igu.org/resources/world-lng-report-2025/' }
+      },
+      refining: {
+        label: '全球炼能',
+        value: 103800,
+        unit: 'kbpd',
+        note: 'OPEC WOO 2025：2024年底全球炼油产能约 103.8 mb/d',
+        source: { label: 'OPEC World Oil Outlook 2025', url: 'https://www.opec.org/world-oil-outlook.html' }
+      },
+      ethylene: {
+        label: '全球乙烯产能',
+        value: 233.3,
+        unit: 'mtpa',
+        note: '按 Wood Mackenzie“2025年中国乙烯产能约63 mtpa，占全球约27%”反推，全球约 233.3 mtpa',
+        source: { label: 'Wood Mackenzie', url: 'https://www.woodmac.com/press-releases/china-s-petrochemicals-market-faces-its-biggest-threat-yet-from-great-ethylene-wave/' },
+        inferred: true
+      }
+    };
     const blockedSourcePatterns = [
       /股吧/i, /东方财富/i, /新浪财经/i, /南方财经/i,
       /小小天下/i, /网易/i, /澳广视/i, /世界新聞網/i, /WTF/i, /中东战事日益加剧/i,
@@ -631,6 +700,29 @@
         }, 0);
     }
 
+    function computeImpactSummary(items) {
+      return {
+        directOil: sumDirectOilImpact(items),
+        directGas: sumSimpleMetric(items, {
+          predicate: item => item.normalizedType === 'gas' && classifyStatus(item.status) === 'direct',
+          unit: 'mcm/d'
+        }),
+        directLng: sumSimpleMetric(items, {
+          predicate: item => item.normalizedType === 'lng' && classifyStatus(item.status) === 'direct',
+          unit: 'mtpa'
+        }),
+        refiningImpact: sumSimpleMetric(items, {
+          predicate: item => isRefineryAsset(item),
+          unit: 'kbpd'
+        }),
+        ethyleneImpact: sumSimpleMetric(items, {
+          predicate: item => hasProduct(item, '乙烯'),
+          unit: 'mtpa',
+          supplemental: { metricKey: 'ethylene_affected', metricType: 'chemicals', unit: '百万吨/年', labelIncludes: '乙烯受影响' }
+        })
+      };
+    }
+
     function formatValue(value, digits = 0) {
       return Number(value).toFixed(digits).replace(/\.0$/, '');
     }
@@ -741,29 +833,110 @@
     }
 
     function renderSummary(filtered) {
-      const directOil = sumDirectOilImpact(filtered);
-      const directGas = sumSimpleMetric(filtered, {
-        predicate: item => item.normalizedType === 'gas' && classifyStatus(item.status) === 'direct',
-        unit: 'mcm/d'
-      });
-      const directLng = sumSimpleMetric(filtered, {
-        predicate: item => item.normalizedType === 'lng' && classifyStatus(item.status) === 'direct',
-        unit: 'mtpa'
-      });
-      const refiningImpact = sumSimpleMetric(filtered, {
-        predicate: item => isRefineryAsset(item),
-        unit: 'kbpd'
-      });
-      const ethyleneImpact = sumSimpleMetric(filtered, {
-        predicate: item => hasProduct(item, '乙烯'),
-        unit: 'mtpa',
-        supplemental: { metricKey: 'ethylene_affected', metricType: 'chemicals', unit: '百万吨/年', labelIncludes: '乙烯受影响' }
-      });
+      const { directOil, directGas, directLng, refiningImpact, ethyleneImpact } = computeImpactSummary(filtered);
       directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
       directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
       directLngLoss.textContent = `${formatValue(directLng, 1)} mtpa`;
       refiningImpactLoss.textContent = `${formatValue(refiningImpact)} kbpd`;
       ethyleneImpactLoss.textContent = `${formatValue(ethyleneImpact, 2)} mtpa`;
+    }
+
+    function renderGlobalShareChart(filtered) {
+      const summary = computeImpactSummary(filtered);
+      const metrics = [
+        {
+          key: 'oil',
+          label: '原油',
+          impact: summary.directOil,
+          benchmark: GLOBAL_BENCHMARKS.oil,
+          color: '#0f766e'
+        },
+        {
+          key: 'gas',
+          label: '天然气',
+          impact: summary.directGas,
+          benchmark: GLOBAL_BENCHMARKS.gas,
+          color: '#2563eb'
+        },
+        {
+          key: 'lng',
+          label: 'LNG液化',
+          impact: summary.directLng,
+          benchmark: GLOBAL_BENCHMARKS.lng,
+          color: '#7c3aed'
+        },
+        {
+          key: 'refining',
+          label: '炼能',
+          impact: summary.refiningImpact,
+          benchmark: GLOBAL_BENCHMARKS.refining,
+          color: '#dc2626'
+        },
+        {
+          key: 'ethylene',
+          label: '乙烯',
+          impact: summary.ethyleneImpact,
+          benchmark: GLOBAL_BENCHMARKS.ethylene,
+          color: '#ea580c'
+        }
+      ];
+
+      const labels = metrics.map(item => item.label);
+      const values = metrics.map(item => item.benchmark.value > 0 ? Number(((item.impact / item.benchmark.value) * 100).toFixed(3)) : 0);
+      const ctx = document.getElementById('globalShareChart').getContext('2d');
+      if (globalShareChart) globalShareChart.destroy();
+      globalShareChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: '占全球比重（%）',
+            data: values,
+            backgroundColor: metrics.map(item => item.color),
+            borderRadius: 10,
+            barThickness: 22
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (context) => {
+                  const metric = metrics[context.dataIndex];
+                  return ` ${formatMetric(context.raw, 3)}% = ${formatMetric(metric.impact, metric.key === 'lng' || metric.key === 'ethylene' ? 2 : 0)} ${metric.benchmark.unit} / ${formatMetric(metric.benchmark.value, metric.key === 'lng' || metric.key === 'ethylene' ? 1 : 0)} ${metric.benchmark.unit}`;
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              beginAtZero: true,
+              ticks: {
+                callback: value => `${value}%`
+              },
+              title: {
+                display: true,
+                text: '当前影响量占全球比重'
+              }
+            },
+            y: {
+              ticks: {
+                font: { size: 12 }
+              }
+            }
+          }
+        }
+      });
+
+      benchmarkNote.innerHTML = metrics.map(item => {
+        const inferredTag = item.benchmark.inferred ? '（估算）' : '';
+        const share = item.benchmark.value > 0 ? ((item.impact / item.benchmark.value) * 100) : 0;
+        return `<div>${item.label}${inferredTag}：${item.benchmark.note}；当前影响占比 ${formatMetric(share, 3)}%。<a href="${item.benchmark.source.url}" target="_blank" rel="noopener noreferrer">${item.benchmark.source.label}</a></div>`;
+      }).join('');
     }
 
     function renderList(filtered) {
@@ -1093,6 +1266,7 @@
       renderInventoryCoverChart();
       renderInventoryRegionalChart();
       renderChemicals();
+      renderGlobalShareChart(filtered);
       renderChart(filtered);
       renderLossChart(filtered);
     }

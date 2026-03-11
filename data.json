@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11 11:19（北京时间）",
+  "lastUpdated": "2026-03-11 16:38（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%的原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，另有油轮在岛屿附近锚泊。9日摩根大通指出，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续对以色列和美国基地实施导弹袭击。11日有报道称美国正考虑控制霍尔木兹海峡。",
+      "current": "哈格岛原油出口终端仍在运营，承担约90%的原油出口。9日摩根大通称，若美以夺取该岛，伊朗石油出口将停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续袭击以色列和美国基地。11日有报道称美正考虑控制霍尔木兹海峡。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -61,6 +61,22 @@
         {
           "label": "Oil prices nosedive amid US intervention signals in Strait of Hormuz - Gulf News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYbpSbVkgX76H3ieNyN-YMOPQBukVCKP_9Vy1jnvZSRqM5klBSt60bVxGfd1jwPzDGveg28Ok6GVj3Cf3ewV3C-Had2zre5_aN4gLz0G-lRJ9n_MlEzRSHcbTztsEUwxHUuPLipx2yVp7EROgiZsS6BY8_9vuooW5wHq0PYKzbskCEvcc7eOHH01RkSHNgUWHwmvOKqljyaBWWd1yS8iDtSytmb74fA4rw5So2A73lZg=="
+        },
+        {
+          "label": "Crude Oil - Price - Chart - Historical Data - News - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE7EqPY4Dd4WBvpiGN-pzm_k38JgzSkILw-4Hxi9I98S5VcL5CyrnHRiyEJhiDFIawCBFJFdWigmVKJ0Z1FZg11IjxQqMiMrIwG28U0TrpcTN2ObBGraGdOT3S24pnFA5nrELae7g86jm_uw=="
+        },
+        {
+          "label": "Brent crude oil - Price - Chart - Historical Data - News - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHohE2HgO3eW2OaC6IJAFXLI_xaNhSdjwjYhd0P927hYd0LNochp-glegc5AU2XCqCyehKRmXUJJ7NHKldxQc8Rta_9szDgxNoNBZhmNtXh_XtrAuS-SMWbMd_bYOsCp7IsBfYM8z4Js8SQb3YH_yTKPQ=="
+        },
+        {
+          "label": "Crude oil price slides further as investors react to Trump's Hormuz Strait intervention; Brent loses 3.7% - Upstox",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr7hwCsKD4NBFQPZMPkFGjWckxnrSrzwfsVOTyGPv2zsVgqmJboEa_LTuROz72Dj05-61wPKwzQwlavNjCAgxhaDdShe_6j9ciUQxuhph-QmIjrUMnLBpHsS-HFky_bvApa8blVWEwXIDDmGXUZlZSpicbKRpFApjI9UsOg5kp6x86umNbGC8q83AlgT49OezQA5DiIIU0B6ylriuBptp8DdM63sTyTDw6OLHHsScNJafOSdLEwwJkfkq4L76yTVJcvbAsU9PoDA6i8GSnb7JH66FYaUbDnsNUw5ShlcePXtYU"
+        },
+        {
+          "label": "Iran threatens Hormuz lifeline after oil drops on Trump hint",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExO73Co8PXd9ogTwVW1lTraQqBhoLv3HeMdQ-nIX0d3-j5qk6YHCqIpzHVfDXQ0fIlrf5nQdFADyWuZOgdCkKz5V7liABCigF-qhUPKEYbxaHG_2KZI01_0hB-CrEK6I-Fwbo="
         }
       ],
       "baselineSources": [],
@@ -635,284 +651,6 @@
         {
           "label": "UAE and Kuwait start oil output cuts - Taipei Times",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w=="
-        },
-        {
-          "label": "Gulf oil giants deepen cuts as Aramco urges Hormuz restart - The Edge Singapore",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHgBgzkp51Jcr2-i7ik-gz0tL4a29vkcw-tiWLugwIK739Yry0qrWQ_VRTyi6j0DFKVw3kVEblQWvKDWuxUM3ih0nH4ryD_rhBNWpiyysEpF8aFfShlPmBYLEYFR_6SmK9nOhHoBReiDc74YcByreK3pN69WjbgYNp8YvKB90eES6HtSbdpunT-d52WoPDtTWVq69MXQHBAITI2cgWrKxhOfDbF2BqHYimvn0yBfr9N_c"
-        },
-        {
-          "label": "Iran threatens Hormuz lifeline after oil drops on Trump hint",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExO73Co8PXd9ogTwVW1lTraQqBhoLv3HeMdQ-nIX0d3-j5qk6YHCqIpzHVfDXQ0fIlrf5nQdFADyWuZOgdCkKz5V7liABCigF-qhUPKEYbxaHG_2KZI01_0hB-CrEK6I-Fwbo="
-        },
-        {
-          "label": "Middle East countries cut daily oil output as ships stay clear of Hormuz - Bangkok Post",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELzvcGl5lEPU3pMvtvYpu4nIX4iEeoPQadX32uOhbk-CylmMUISYskG9XSHzWjUMDtUCdTOejHLPm1mP-WSW9b2OULHYKqYmRarMETNLiWcs4OeNr4adBcWL40ezCM9Cw3RPeTvKm5xAGkEbzBqm-0VXJIO4YYQRXQA6kKoF4l1swjd0hG508cJ8fcjhw4AOt8LE_njNlsmfRXk1UAe_qciOfFyuelfai3G79nxw=="
-        },
-        {
-          "label": "Oil Output Cut Across The Middle East - Marine Link",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnbnAoTeKR8AMWnb4WXYGhE3wRSTy2wACUnmdXnyeJBi9G537kmKGKsW8Gz9EvFddt783IbF2x4epsshXOhK6q40bkUQE7LNH-UFbntQ_CQlBuOf_Fn4ldGugd1CV5yxc4oOr5HAlpvvPyOXGOelZUxY76hIcrdyaEovbZmotZgTyjbg=="
-        },
-        {
-          "label": "2026 Strait of Hormuz crisis - Wikipedia",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGstXKkmdiZvIq66WpU-qjbxTmEoKi7PpHwxYSDwKFBX0gS5g8SJTJsCHiTjUK0VO0ygytWLz4OrF-V-5eAmgIC3a5XPd95UXP_SbpIk_EtfSFysgEzT-0PIf9L4PLzaFVZdG6RyQUMDpPHcbDZcv4MOdrpGVY="
-        },
-        {
-          "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
-        }
-      ],
-      "baselineSources": [],
-      "products": []
-    },
-    {
-      "country": "科威特",
-      "category": "炼厂 / 化工",
-      "facility": "Mina Al-Ahmadi炼厂",
-      "designValue": 346,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示因“伊朗威胁霍尔木兹海峡船只通行安全”而降低产量。9日科威特炼油厂综合产能161.5万桶/日，开工率约50%。4日米娜·阿哈迈迪炼油厂遭拦截导弹碎片波及，部分设施受损。10日科威特石油产量已削减约50万桶/日。",
-      "sources": [
-        {
-          "label": "石油| 世界新聞網",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiiFrHozeAfVOLEh6plc_awNNzqMs0513G8TrxqMca_E4NhV82owFsk2hN9mrPyrHjFhRma1SSxeKV8B46nz2XtHcA8nnBH208zf_ZU2SstUUZ4apFaUZrVYzVnv6OTYIoHLqwyMvZkA1cdmEXAqMnM7rKM3QW5hjlRuCtzCg=="
-        },
-        {
-          "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 热点",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXykJTElpffKPRphd7gVfD9vGxqxiKT9DCQpLTi5f-aVA0HNr9rwO7RsDGl-b0dlcsTKbeWTY2Yjmx9CtT_2BGmYsKRJkhjWGG6mkh3O6nhBsp8kJIdivRAcymd-tV2hfut7fMJHMXXXWEc16gjZQSc_8"
-        },
-        {
-          "label": "科威特宣布削减石油产量全球能源供应危机加剧- 经济观察网－ 专业财经新闻网站",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhS40BRRUO2GYReYP_tilbkJ8yHeFH_8PJtmcmihNwtdZdcCzUW0ulqOkHcu5rlrwmSojPn1jkQaLAv47monlnbtKoKqO22D1fhUcWH3mX1ig8D8sMEU1o46oCiXEPP5h0GU-sOKk="
-        },
-        {
-          "label": "科威特国家石油公司宣布减产 - 新华网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyyY-R1MhXq2jiSEGcdtBpfOq9kJKwuhNSvyZdpuAF6aHAUgMxYO1Lyx0Q5XfgqZ7Cd_hff4nztKEnlIO5Z5gb-2j-fi_pZ0xojP1uBSPDYhvNNiKoFJnHoW_3G3nKeyaBd40XhvvAKsszLFaEFIaTj3GyZCbSKQLvKwQL134ihZMWZQE="
-        },
-        {
-          "label": "全球能源供应危机加剧！科威特宣布削减石油产量 - 21财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAY2C-oMvn98oUm9tykwOezzSRaLhnfnCPw4bf2BqWm1ohcgUQzm8iAsYvBiOa8RpNiPXU0E3Lh6gOyrU19KoYiw-fzCavdst9BA7024mdVhfYdTlemdpXt0OCBQ0gCvkDxk_V4IXmSh8Qk1ixlQMxhFRaR7k7SpgN7RPliADmkJCQ6plxf_1_ht1Arw3Cac="
-        },
-        {
-          "label": "科威特石油公司“预防性削减”原油生产和提炼 - 新闻频道- 央视网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzyKSnZfu24kZdoHNDehUSSZE_QiJp2B5DG0WcoGuTm7dTRK3QHPvpGB1kW63dET4ouRMp94lSInLOmmkmEuCIEAuVmUzXsfNuF3F4HFdmSW0WjDjasDgTFKxHydn-nKGUh83SJlaoI6QQlDrxSOxBdXv81iuw0ISPeyTdp-uJ"
-        },
-        {
-          "label": "华尔街最担心一幕出现！中东又有两国减产油价将直冲“需求破坏”临界点？ - 财联社",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEacLtOSKNiHk0k39ubVVishIIvDo4FUE5yIdt8yw4mdIAuEzEvvNHM5Iw69wx20R5-HxfxJV9BdES9b3Bymqv-cGUcUVREL9l-Hghy8j4FXkjE0vmFm6bwuyaj"
-        },
-        {
-          "label": "中东多国宣布削减石油产量涉伊拉克、卡塔尔、科威特霍尔木兹海峡局势紧张 - 中华军事",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFmF55FzNT2tz1oOkFmBllhyg6K5-XaswdYdfL8EPQg0cSbdBwps8KkzRkCiBfzNb9fgYmkCacC_KZm3VHxRwRxe5O7zh5CU6LETtOIqPnWGCOOFIRLAsjjmmUmY2kDUSTNBTCKorV0O-a1IN6ap3EJS5YmszGg12"
-        },
-        {
-          "label": "科威特国家石油公司宣布减产 - 人民网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ4lVuYD-G7HAm5wDGv-bS61TFiD_LsMCizBJ9ezaOAu2StOyRiNFpKTWCIiraTENrG3w8fZE0UcczkXtGACLhB9D8ew3k8QZDiNOkkpDy_WGdaZKRLiMSl1QSmEG18b9VAvXRHvbrrYi2Gd3pocfhYO2B-LQ="
-        },
-        {
-          "label": "Middle East Crude Oil 'Production Halts': UAE and Kuwait Announce Production Cuts",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZojc3hDLXlqbN99Y_7DaQYgMRI24skZnczO9sUHIkpSzKqtKGcwXc-TwxraoG-W1ekOYWE10BXLLbFEyqu-xcbEtqOBMjxwCQQ59AZHVNvnQ4S4_i6pQ1o90DCyTedqgBAaPu1dn6CCehHagH_0bv-2bzT8vDfTqmcxsGcm9tfDz2D6Rz6qhtJGtLVWo0eTKNFpk_3U4btF1iTuxt587duBQ="
-        },
-        {
-          "label": "科威特宣佈削減石油產量全球能源供應危機加劇AASTOCKS 財經新聞- 外圍市場",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDRFA0Hfj6oDVW4tJvVU8B4b5ScC_-Y-7jMq4_dSJZVUludTPAxfOn7G2jRbFOrhOUkpIZmQ_FzWlxdhQ2kjlGVMbMQoaMSDEXTYDpfUmlM9tl41PEp5KvxyDOqbz95k8rS4duh8IqfCySl1ROm0iPFD8E_gE91j_JrryCSSRWNEULUAiTYUU="
-        },
-        {
-          "label": "科威特国家石油公司宣布减产_央广网 - 新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtxWWj3c-DRuSmpFUFoOoh0D-ABIOsun8-nOyZVzurDdXqqMXlGV_Or84yijo3xokSkFRH5WIugDYyDqoWn3pbDubyT-JCSHu4xMaTjBKfpUT2lWnrRTN-7LQD5tKtfH1TX03MknyYoaaCg8gv6DPeD4ZZ"
-        },
-        {
-          "label": "科威特國家石油公司宣布減產- 香港文匯網",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEcSuBLm_dzh69TFqkVovqXYNhmN0zPiW2gJLzgkZI5druPSdIClqOKVBzj2v3t5l4DJ9aVbTF16m-kC7vviKxaERrMVnhgWTvmw9b-bNu4hQkkJgNJWbFQF7pYkGdVfKWhy5mS0j10xmwWRSui9judnHVRl8egN21f5UghA="
-        },
-        {
-          "label": "科威特石油公司宣布石油销售受不可抗力影响 - 深蓝财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBOkfYbfJ49cTorXlnpeXJAwy88N7364GHUM2W87nOmBTAkjw_VUenAGgyPI3Ujvt5ALRCD7y2CiXLtQkDfhcRR4CCj1fu0S2qanlsGEP6rFDkpqf7AIUN4_4iEjIf0Q="
-        },
-        {
-          "label": "AASTOCKS 财经新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
-        },
-        {
-          "label": "央视网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
-        },
-        {
-          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
-        },
-        {
-          "label": "Oil Output Cut Across The Middle East - Maritime News",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
-        },
-        {
-          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
-        },
-        {
-          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow=="
-        },
-        {
-          "label": "Kuwait announces 'precautionary' cut in oil production amid Iran tensions, KPC says - BOE Report",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkfN2RQDfOgz-5sx5DATvUGCVNTLu3uU8ZkWYu45IcdqZ5VNnQ3b_-TGEsXTxfhhWKci3UwmPsSVkD9vj7QZngEjtb1Zl5QmuO-yu6QMtfBlh8Rz6NSFz9fNCOmgGnoDTRhNL7WD3UvQGvIxkl9sjH198eRYxu25E1ZcsSZIV89L8ZzP9GE-4qIZ3bnTOC6v_rqfbDg1obgIA2KSl7u8JOrQ=="
-        },
-        {
-          "label": "Middle East Crude Oil 'Production Halts': UAE and Kuwait Announce Production Cuts",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZojc3hDLXlqbN99Y_7DaQYgMRI24skZnczO9sUHIkpSzKqtKGcwXc-TwxraoG-W1ekOYWE10BXLLbFEyqu-xcbEtqOBMjxwCQQ59AZHVNvnQ4S4_i6pQ1o90DCyTedqgBAaPu1dn6CCehHagH_0bv-2bzT8vDfTqmcxsGcm9tfDz2D6Rz6qhtJGtLVWo0eTKNFpk_3U4btF1iTuxt587duBQ=="
-        },
-        {
-          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w=="
-        },
-        {
-          "label": "UAE and Kuwait start oil output cuts - Longbridge",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
-        },
-        {
-          "label": "Iran's new wave of attacks escalates threat to the world's largest oil and gas hubs – Eurasia",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmtQXoft0iHmpbwMj9l6xmmyVB_hpjkqmXeY3HkwIRgWCzMSgJj_aIFIrnbtoDjUUjcnmj93B3xbD-WkLyn5UJHkWrku5rrkyp56f03oFxpG969luU2Ne3oMukgDLeA84v89yMemUySR6F5P2P4RWBfkAUcWO8BNrGheGItGvFzrYSX8ML5IrEMrsWEbAgxDrBRHxUIb1_-dvz1UScjosFsOaj6u-g6SwMlcM="
-        },
-        {
-          "label": "Gulf oil giants deepen cuts as Aramco urges Hormuz restart - The Edge Singapore",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHgBgzkp51Jcr2-i7ik-gz0tL4a29vkcw-tiWLugwIK739Yry0qrWQ_VRTyi6j0DFKVw3kVEblQWvKDWuxUM3ih0nH4ryD_rhBNWpiyysEpF8aFfShlPmBYLEYFR_6SmK9nOhHoBReiDc74YcByreK3pN69WjbgYNp8YvKB90eES6HtSbdpunT-d52WoPDtTWVq69MXQHBAITI2cgWrKxhOfDbF2BqHYimvn0yBfr9N_c"
-        },
-        {
-          "label": "Iran threatens Hormuz lifeline after oil drops on Trump hint",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExO73Co8PXd9ogTwVW1lTraQqBhoLv3HeMdQ-nIX0d3-j5qk6YHCqIpzHVfDXQ0fIlrf5nQdFADyWuZOgdCkKz5V7liABCigF-qhUPKEYbxaHG_2KZI01_0hB-CrEK6I-Fwbo="
-        },
-        {
-          "label": "Middle East countries cut daily oil output as ships stay clear of Hormuz - Bangkok Post",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELzvcGl5lEPU3pMvtvYpu4nIX4iEeoPQadX32uOhbk-CylmMUISYskG9XSHzWjUMDtUCdTOejHLPm1mP-WSW9b2OULHYKqYmRarMETNLiWcs4OeNr4adBcWL40ezCM9Cw3RPeTvKm5xAGkEbzBqm-0VXJIO4YYQRXQA6kKoF4l1swjd0hG508cJ8fcjhw4AOt8LE_njNlsmfRXk1UAe_qciOfFyuelfai3G79nxw=="
-        },
-        {
-          "label": "Oil Output Cut Across The Middle East - Marine Link",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnbnAoTeKR8AMWnb4WXYGhE3wRSTy2wACUnmdXnyeJBi9G537kmKGKsW8Gz9EvFddt783IbF2x4epsshXOhK6q40bkUQE7LNH-UFbntQ_CQlBuOf_Fn4ldGugd1CV5yxc4oOr5HAlpvvPyOXGOelZUxY76hIcrdyaEovbZmotZgTyjbg=="
-        },
-        {
-          "label": "2026 Strait of Hormuz crisis - Wikipedia",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGstXKkmdiZvIq66WpU-qjbxTmEoKi7PpHwxYSDwKFBX0gS5g8SJTJsCHiTjUK0VO0ygytWLz4OrF-V-5eAmgIC3a5XPd95UXP_SbpIk_EtfSFysgEzT-0PIf9L4PLzaFVZdG6RyQUMDpPHcbDZcv4MOdrpGVY="
-        },
-        {
-          "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
-        }
-      ],
-      "baselineSources": [],
-      "products": []
-    },
-    {
-      "country": "科威特",
-      "category": "炼厂 / 化工",
-      "facility": "Al-Zour炼厂",
-      "designValue": 615,
-      "designUnit": "kbpd",
-      "affectedValue": null,
-      "affectedUnit": "kbpd",
-      "normalizedType": "oil",
-      "normalizedValue": null,
-      "status": "已减产 / 不可抗力",
-      "current": "科威特国家石油公司3月7日宣布不可抗力，削减原油产量及炼油加工量。KPC表示因“伊朗威胁霍尔木兹海峡船只安全通行”而降低产量。9日科威特炼油厂综合产能161.5万桶/日，开工率约50%。10日科威特石油产量已削减约50万桶/日。",
-      "sources": [
-        {
-          "label": "石油| 世界新聞網",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiiFrHozeAfVOLEh6plc_awNNzqMs0513G8TrxqMca_E4NhV82owFsk2hN9mrPyrHjFhRma1SSxeKV8B46nz2XtHcA8nnBH208zf_ZU2SstUUZ4apFaUZrVYzVnv6OTYIoHLqwyMvZkA1cdmEXAqMnM7rKM3QW5hjlRuCtzCg=="
-        },
-        {
-          "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 热点",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYXykJTElpffKPRphd7gVfD9vGxqxiKT9DCQpLTi5f-aVA0HNr9rwO7RsDGl-b0dlcsTKbeWTY2Yjmx9CtT_2BGmYsKRJkhjWGG6mkh3O6nhBsp8kJIdivRAcymd-tV2hfut7fMJHMXXXWEc16gjZQSc_8"
-        },
-        {
-          "label": "科威特宣布削减石油产量全球能源供应危机加剧- 经济观察网－ 专业财经新闻网站",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhS40BRRUO2GYReYP_tilbkJ8yHeFH_8PJtmcmihNwtdZdcCzUW0ulqOkHcu5rlrwmSojPn1jkQaLAv47monlnbtKoKqO22D1fhUcWH3mX1ig8D8sMEU1o46oCiXEPP5h0GU-sOKk="
-        },
-        {
-          "label": "科威特国家石油公司宣布减产 - 新华网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyyY-R1MhXq2jiSEGcdtBpfOq9kJKwuhNSvyZdpuAF6aHAUgMxYO1Lyx0Q5XfgqZ7Cd_hff4nztKEnlIO5Z5gb-2j-fi_pZ0xojP1uBSPDYhvNNiKoFJnHoW_3G3nKeyaBd40XhvvAKsszLFaEFIaTj3GyZCbSKQLvKwQL134ihZMWZQE="
-        },
-        {
-          "label": "全球能源供应危机加剧！科威特宣布削减石油产量 - 21财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAY2C-oMvn98oUm9tykwOezzSRaLhnfnCPw4bf2BqWm1ohcgUQzm8iAsYvBiOa8RpNiPXU0E3Lh6gOyrU19KoYiw-fzCavdst9BA7024mdVhfYdTlemdpXt0OCBQ0gCvkDxk_V4IXmSh8Qk1ixlQMxhFRaR7k7SpgN7RPliADmkJCQ6plxf_1_ht1Arw3Cac="
-        },
-        {
-          "label": "科威特石油公司“预防性削减”原油生产和提炼 - 新闻频道- 央视网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzyKSnZfu24kZdoHNDehUSSZE_QiJp2B5DG0WcoGuTm7dTRK3QHPvpGB1kW63dET4ouRMp94lSInLOmmkmEuCIEAuVmUzXsfNuF3F4HFdmSW0WjDjasDgTFKxHydn-nKGUh83SJlaoI6QQlDrxSOxBdXv81iuw0ISPeyTdp-uJ"
-        },
-        {
-          "label": "华尔街最担心一幕出现！中东又有两国减产油价将直冲“需求破坏”临界点？ - 财联社",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEacLtOSKNiHk0k39ubVVishIIvDo4FUE5yIdt8yw4mdIAuEzEvvNHM5Iw69wx20R5-HxfxJV9BdES9b3Bymqv-cGUcUVREL9l-Hghy8j4FXkjE0vmFm6bwuyaj"
-        },
-        {
-          "label": "中东多国宣布削减石油产量涉伊拉克、卡塔尔、科威特霍尔木兹海峡局势紧张 - 中华军事",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSFmF55FzNT2tz1oOkFmBllhyg6K5-XaswdYdfL8EPQg0cSbdBwps8KkzRkCiBfzNb9fgYmkCacC_KZm3VHxRwRxe5O7zh5CU6LETtOIqPnWGCOOFIRLAsjjmmUmY2kDUSTNBTCKorV0O-a1IN6ap3EJS5YmszGg12"
-        },
-        {
-          "label": "科威特国家石油公司宣布减产 - 人民网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ4lVuYD-G7HAm5wDGv-bS61TFiD_LsMCizBJ9ezaOAu2StOyRiNFpKTWCIiraTENrG3w8fZE0UcczkXtGACLhB9D8ew3k8QZDiNOkkpDy_WGdaZKRLiMSl1QSmEG18b9VAvXRHvbrrYi2Gd3pocfhYO2B-LQ="
-        },
-        {
-          "label": "Middle East Crude Oil 'Production Halts': UAE and Kuwait Announce Production Cuts",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZojc3hDLXlqbN99Y_7DaQYgMRI24skZnczO9sUHIkpSzKqtKGcwXc-TwxraoG-W1ekOYWE10BXLLbFEyqu-xcbEtqOBMjxwCQQ59AZHVNvnQ4S4_i6pQ1o90DCyTedqgBAaPu1dn6CCehHagH_0bv-2bzT8vDfTqmcxsGcm9tfDz2D6Rz6qhtJGtLVWo0eTKNFpk_3U4btF1iTuxt587duBQ="
-        },
-        {
-          "label": "科威特宣佈削減石油產量全球能源供應危機加劇AASTOCKS 財經新聞- 外圍市場",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDRFA0Hfj6oDVW4tJvVU8B4b5ScC_-Y-7jMq4_dSJZVUludTPAxfOn7G2jRbFOrhOUkpIZmQ_FzWlxdhQ2kjlGVMbMQoaMSDEXTYDpfUmlM9tl41PEp5KvxyDOqbz95k8rS4duh8IqfCySl1ROm0iPFD8E_gE91j_JrryCSSRWNEULUAiTYUU="
-        },
-        {
-          "label": "科威特国家石油公司宣布减产_央广网 - 新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtxWWj3c-DRuSmpFUFoOoh0D-ABIOsun8-nOyZVzurDdXqqMXlGV_Or84yijo3xokSkFRH5WIugDYyDqoWn3pbDubyT-JCSHu4xMaTjBKfpUT2lWnrRTN-7LQD5tKtfH1TX03MknyYoaaCg8gv6DPeD4ZZ"
-        },
-        {
-          "label": "科威特國家石油公司宣布減產- 香港文匯網",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEcSuBLm_dzh69TFqkVovqXYNhmN0zPiW2gJLzgkZI5druPSdIClqOKVBzj2v3t5l4DJ9aVbTF16m-kC7vviKxaERrMVnhgWTvmw9b-bNu4hQkkJgNJWbFQF7pYkGdVfKWhy5mS0j10xmwWRSui9judnHVRl8egN21f5UghA="
-        },
-        {
-          "label": "科威特石油公司宣布石油销售受不可抗力影响 - 深蓝财经",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLBOkfYbfJ49cTorXlnpeXJAwy88N7364GHUM2W87nOmBTAkjw_VUenAGgyPI3Ujvt5ALRCD7y2CiXLtQkDfhcRR4CCj1fu0S2qanlsGEP6rFDkpqf7AIUN4_4iEjIf0Q="
-        },
-        {
-          "label": "AASTOCKS 财经新闻",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu0_zFkYac-IZ4GAzRO4N5u1fr4twlud0rce5YDYWuhMSOxGbJZ4w_TH0WY1lzsNpigIkD6i2ai5lKsWjyJEc0w5wdI2b64awmzy4BFXpMFOxdtl4cK5FwgRGwKUGNedLZ9w2I2YVWm7KdLN-sUVT1Ra3Q7oU13XMho3M1heJ-P9k9iL-ir-8t"
-        },
-        {
-          "label": "央视网",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfnCr41jTDMVaSz1Lq7dzKNpJar_6liExV2GB4J9R4igjb4lvFKZpJTVV_JwBDS3LgIHMKFkVR4yCvNaYFS-A-Ff3_caISIylR3-T_RNqMRWa-1Liw7POcRaSAgLqwKpX6TH9EWz4MkygsxGccUQPVibjjl9ZF0KdyihP93QqbA=="
-        },
-        {
-          "label": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIilSkzupqO_ZgNpxRd0_AwptWQaiUoLdxKJtjrOOyolufxLgU_pCC_K7dAaarVF73uQjQQTUQi_lpZXN-kpZ63CecpUMqwAy9VY62HW84See80Zzhujo7VgbRFcXHSY5Wg3a02KnZ2vwNVAej3ssI5uaHMjAuw0VeXRSx4rMtP9bjK74U3sejP8hv1ve0NcuE1rjaZyEi4JLEUsfLOk4fWzNO_FANZnUSvL1lfVzqHb6LCg7AJz_uzw=="
-        },
-        {
-          "label": "Oil Output Cut Across The Middle East - Maritime News",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLoNW4Z80FNddal71kSrdxeql5VYqushEYvH-k5JTKysInVKYSmuIu75iK8Ycy6iv6eEpfZp6_vtlG0PiOk4QLBXXNgE5SkbPNW8v0nS90hft7Sa55uNKNPrS2e1Mf8MRkP3TcdMQc7hkAIYN28OafWbRVXGOuehPencxKWR1HUv1srA=="
-        },
-        {
-          "label": "Hormuz halt forces Opec+ producers to curb crude output | Latest Market News",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIP7t_gFDcoFSM4w5mw-__3IZkFNzH8F7RyxKx1RzmYBiJJEedCw3e7bZCDgNU9q2rPIffDDdA0ckKoZhQd8QYRcqn6yD7pntYXPgkO_J0qjeeqTr5RpyWzMkyaknIG-nmb3jJi_ies6wuuYkul79QAIS-z2nQPfw3YR2jxQOhz_gYnYUSFZkk1blMPMVScd-cr24tu1Df-LjIzP3-pL1XItSKOqb2HSxAkOs7YnIvZ0SDw9VxIDLSQA=="
-        },
-        {
-          "label": "Kuwait Declares Force Majeure Due To Middle East Conflict - gCaptain",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP1El42MnH4RyfrkhMXYr8mAQidMbmfLzFFeoFDB3je2yLbM2EXnuhKhmOTCNKUerRpL35Wa2Z-CpQF6fo4xMtprlmGVx9e6AEJ1jarg8XgvcIvWk2KWGUwSvcNjzAZIHNwHOwD2CHaSEai8c7hB8ebfWh6tYrW7xjiUGRYyS8djZKYtXi2NjnDxlow=="
-        },
-        {
-          "label": "Kuwait announces 'precautionary' cut in oil production amid Iran tensions, KPC says - BOE Report",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkfN2RQDfOgz-5sx5DATvUGCVNTLu3uU8ZkWYu45IcdqZ5VNnQ3b_-TGEsXTxfhhWKci3UwmPsSVkD9vj7QZngEjtb1Zl5QmuO-yu6QMtfBlh8Rz6NSFz9fNCOmgGnoDTRhNL7WD3UvQGvIxkl9sjH198eRYxu25E1ZcsSZIV89L8ZzP9GE-4qIZ3bnTOC6v_rqfbDg1obgIA2KSl7u8JOrQ=="
-        },
-        {
-          "label": "Middle East Crude Oil 'Production Halts': UAE and Kuwait Announce Production Cuts",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZojc3hDLXlqbN99Y_7DaQYgMRI24skZnczO9sUHIkpSzKqtKGcwXc-TwxraoG-W1ekOYWE10BXLLbFEyqu-xcbEtqOBMjxwCQQ59AZHVNvnQ4S4_i6pQ1o90DCyTedqgBAaPu1dn6CCehHagH_0bv-2bzT8vDfTqmcxsGcm9tfDz2D6Rz6qhtJGtLVWo0eTKNFpk_3U4btF1iTuxt587duBQ=="
-        },
-        {
-          "label": "UAE and Kuwait start oil output cuts - Taipei Times",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Eyc2GQE4kQZIHzo2phZX85fD3bn-oeG73Oo9L-T3sOAZqaXiDKMp-Ot26gB4px8vcP1cYu-lhnOWe34MtCTbGGZF_-S58S6p-dum7se-bj5VFY6V2OHnRqcXx3N-4vTz_vKfePJC56hzgoJ10GBB52KtQfYCJc35miBRo-w=="
-        },
-        {
-          "label": "UAE and Kuwait start oil output cuts - Longbridge",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DigIEdwoOV-wznO8Yc9twQQhUo8hApOB7r63-341rvShRDsFmXlELBH2iGjS6Avfd0cPT096i_JGtUenx8uagHWYGjQZ1r0xmenqtTVg_9sKeMQ48pN2lnfWuEalRHo="
         },
         {
           "label": "Gulf oil giants deepen cuts as Aramco urges Hormuz restart - The Edge Singapore",
@@ -2913,51 +2651,6 @@
       "baselineSources": []
     },
     {
-      "country": "科威特",
-      "category": "炼油厂",
-      "facility": "米纳阿卜杜拉炼油厂",
-      "products": [],
-      "designValue": 454000,
-      "designUnit": "kbpd",
-      "affectedValue": 454000,
-      "affectedUnit": "桶/天",
-      "normalizedType": "oil",
-      "normalizedValue": 454000,
-      "status": "已减产 / 不可抗力",
-      "current": "2026年3月5日，因中东冲突，科威特国家石油公司关闭米纳阿卜杜拉炼油厂（日处理45.4万桶）。10日科威特石油产量已削减约50万桶/日。",
-      "sources": [
-        {
-          "label": "金十期货",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnW4JVWHG-kJE3cCQ0Zhwoa-m-FUSbR6E7_x66T3Ny3JjinsOQGYD_wn-5ZVE-iTgSVQo_lYm29F32yekIC0jmehysv3eqtMk1KnrtZwJUtuJmoFYapUSLEZENzOCRNpjP"
-        },
-        {
-          "label": "Gulf oil giants deepen cuts as Aramco urges Hormuz restart - The Edge Singapore",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHgBgzkp51Jcr2-i7ik-gz0tL4a29vkcw-tiWLugwIK739Yry0qrWQ_VRTyi6j0DFKVw3kVEblQWvKDWuxUM3ih0nH4ryD_rhBNWpiyysEpF8aFfShlPmBYLEYFR_6SmK9nOhHoBReiDc74YcByreK3pN69WjbgYNp8YvKB90eES6HtSbdpunT-d52WoPDtTWVq69MXQHBAITI2cgWrKxhOfDbF2BqHYimvn0yBfr9N_c"
-        },
-        {
-          "label": "Iran threatens Hormuz lifeline after oil drops on Trump hint",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExO73Co8PXd9ogTwVW1lTraQqBhoLv3HeMdQ-nIX0d3-j5qk6YHCqIpzHVfDXQ0fIlrf5nQdFADyWuZOgdCkKz5V7liABCigF-qhUPKEYbxaHG_2KZI01_0hB-CrEK6I-Fwbo="
-        },
-        {
-          "label": "Middle East countries cut daily oil output as ships stay clear of Hormuz - Bangkok Post",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELzvcGl5lEPU3pMvtvYpu4nIX4iEeoPQadX32uOhbk-CylmMUISYskG9XSHzWjUMDtUCdTOejHLPm1mP-WSW9b2OULHYKqYmRarMETNLiWcs4OeNr4adBcWL40ezCM9Cw3RPeTvKm5xAGkEbzBqm-0VXJIO4YYQRXQA6kKoF4l1swjd0hG508cJ8fcjhw4AOt8LE_njNlsmfRXk1UAe_qciOfFyuelfai3G79nxw=="
-        },
-        {
-          "label": "Oil Output Cut Across The Middle East - Marine Link",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnbnAoTeKR8AMWnb4WXYGhE3wRSTy2wACUnmdXnyeJBi9G537kmKGKsW8Gz9EvFddt783IbF2x4epsshXOhK6q40bkUQE7LNH-UFbntQ_CQlBuOf_Fn4ldGugd1CV5yxc4oOr5HAlpvvPyOXGOelZUxY76hIcrdyaEovbZmotZgTyjbg=="
-        },
-        {
-          "label": "2026 Strait of Hormuz crisis - Wikipedia",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGstXKkmdiZvIq66WpU-qjbxTmEoKi7PpHwxYSDwKFBX0gS5g8SJTJsCHiTjUK0VO0ygytWLz4OrF-V-5eAmgIC3a5XPd95UXP_SbpIk_EtfSFysgEzT-0PIf9L4PLzaFVZdG6RyQUMDpPHcbDZcv4MOdrpGVY="
-        },
-        {
-          "label": "1.9 Million bpd of Gulf Refining Capacity Shut Amid Iran War, IIR Says",
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lAJ8TE8yOwoXKRafq5Pr64qSC5NF2MQL21AIyUh-EyNH6naARsO9QOZgcFvvM1vqx4N6rDWSn-OoyOxhmin5FKoEYF8HhtUen9L4yxqr-tpM_SslRtONLCf4qHAWqWHxAbdwuQEuyFyPTRkNFWvORQOtaW25Su75JFfNQbW4QNtVId0ZMlFWwKfCzMgnhZ0MmQ42gTjQnYv1DviRe9hbJoBdSAY="
-        }
-      ],
-      "baselineSources": []
-    },
-    {
       "country": "泰国",
       "category": "国家政策 / 贸易调整",
       "facility": "全国石油产品出口",
@@ -3611,6 +3304,45 @@
           "label": "埃克森美孚准备永久关闭新加坡两个蒸汽裂解装置中的一个- 最新要闻 - 流程工业",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOsXWnlcDAYbxJRsggRMyNdjnzTsXdnhDzwuL0jXzURcXGn_TNEzRonCT-5iZ6rlnCK9fWIA__A9IEPWX6hY4pTeWUyhvepu0gjcnR-qGlszuMbjFi-KyA5-WOiZ2_5ljJ"
         }
+      ]
+    },
+    {
+      "country": "科威特",
+      "category": "炼厂",
+      "facility": "科威特炼油体系（Al-Zour / Mina Abdullah / Mina al-Ahmadi）",
+      "designValue": 1615,
+      "designUnit": "kbpd",
+      "affectedValue": 807.5,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": 807.5,
+      "status": "已减产 / 不可抗力",
+      "current": "2026年3月7日KPC宣布原油和成品油出口不可抗力，并开始削减原油产量和炼厂运行。Argus 3月9日报道称，科威特炼油体系合计产能约161.5万桶/日，运行率约50%。这对应约80.75万桶/日炼能受影响。该表述是基于系统口径推算，不等同于单一炼厂完全停产。",
+      "sources": [
+        {
+          "label": "Hormuz halt forces Opec+ producers to curb crude output | Argus Media",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2798472-hormuz-halt-forces-opec-producers-to-curb-crude-output"
+        },
+        {
+          "label": "Kuwait reports drone strikes at airport fuel tanks | Argus Media",
+          "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2798143-kuwait-reports-drone-strikes-at-airport-fuel-tanks"
+        }
+      ],
+      "baselineSources": [
+        {
+          "label": "Kuwait brings second phase of al-Zour online: Update | Argus Media",
+          "url": "https://www.argusmedia.com/ja/news-and-insights/latest-market-news/2426792-kuwait-brings-second-phase-of-al-zour-online-update"
+        },
+        {
+          "label": "Kuwait completes work on $16bn Clean Fuels Project | Argus Media",
+          "url": "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2220011-kuwait-completes-work-on-16bn-clean-fuels-project"
+        }
+      ],
+      "products": [
+        "汽油",
+        "柴油",
+        "航煤",
+        "燃料油"
       ]
     }
   ],
