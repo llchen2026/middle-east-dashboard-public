@@ -895,7 +895,10 @@
             data: values,
             backgroundColor: metrics.map(item => item.color),
             borderRadius: 10,
-            barThickness: 22
+            barThickness: 22,
+            maxBarThickness: 22,
+            categoryPercentage: 0.86,
+            barPercentage: 0.92
           }]
         },
         options: {
@@ -905,8 +908,8 @@
           plugins: {
             legend: { display: false },
             tooltip: {
-              titleFont: { size: 14, weight: '700' },
-              bodyFont: { size: 13 },
+              titleFont: { size: 13, weight: '600' },
+              bodyFont: { size: 12 },
               padding: 10,
               callbacks: {
                 label: (context) => {
@@ -921,17 +924,17 @@
               beginAtZero: true,
               ticks: {
                 callback: value => `${value}%`,
-                font: { size: 13, weight: '600' }
+                font: { size: 12, weight: '500' }
               },
               title: {
                 display: true,
                 text: '当前影响量占全球比重',
-                font: { size: 14, weight: '700' }
+                font: { size: 13, weight: '600' }
               }
             },
             y: {
               ticks: {
-                font: { size: 14, weight: '600' }
+                font: { size: 12, weight: '500' }
               }
             }
           }
