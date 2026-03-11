@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11 17:32（北京时间）",
+  "lastUpdated": "2026-03-11 19:52（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%的原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，另有油轮在岛屿附近锚泊。9日摩根大通指出，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续对以色列和美国基地实施导弹袭击。11日有报道称美国正考虑控制霍尔木兹海峡。",
+      "current": "伊朗哈格岛原油出口终端仍在运营，承担约90%的原油出口。3月7日卫星图像显示有超大型油轮正在装载原油，另有油轮在岛屿附近锚泊。9日摩根大通称，若美国和以色列夺取该岛，伊朗石油出口将陷入停滞。10日伊朗外交部表示未关闭霍尔木兹海峡，将继续对以色列和美国基地实施导弹袭击。11日有报道称美国正考虑控制霍尔木兹海峡。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -114,7 +114,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "3月7日以色列军方袭击德黑兰燃油存储设施，包括Tondgouyan和Shahran炼油厂。8日德黑兰市区被毒烟笼罩，天降油雨。",
+      "current": "3月7日以色列军方对德黑兰多处燃油存储设施发动袭击，包括Tondgouyan和Shahran炼油厂。8日德黑兰市中心被毒烟笼罩，天降油雨。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -235,7 +235,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产",
-      "current": "因霍尔木兹海峡紧张致油轮抵达放缓、储罐满载，伊拉克鲁迈拉油田3月3日减产约70万桶/日。4日关停生产。5日发生无人机落入事件后外籍员工撤离。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "因霍尔木兹海峡紧张致油轮抵达放缓、储罐满载，伊拉克鲁迈拉油田3月3日减产约70万桶/日。4日关停生产。5日发生无人机落入事件后外籍员工撤离。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "金十期货一周精选",
@@ -300,6 +300,10 @@
         {
           "label": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict - Stabroek News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77sGWFi2ceeXz_wA2P4GOQ3ndq4xe1NdbXiJMFgwS--IBqY9__aY8zmb4Kd1IJbaKEIjNB8s8Qsshz3E0H7v7DRZqQeIW13ujT4EMezL2pytj6kWIoo3_8bOasxeNj3v_mojrRN_bjM5ItS7Z41_LecntlOGjF41-h5XE0EV_RJHZJuY8V0JTKnbS6CzA4yFWr2Y8rBzMrFaH2Z5HcXzFLpDuapuE_xetwDzmDRrPUhgVbtvmFSA="
+        },
+        {
+          "label": "伊拉克原油产量骤降近70% 伊拉克官员：伊拉克遭遇20多年最严重运营威胁 - AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwYkrNBK5nqbWwv0dH1AS1FqrSv9q35G2TUN2sdoQ9jTaTFDiCkRHZIlj-GRRd_HUmIN1xcUQJN3Sdm_jrtllmqpeD48jClEno4_oqJyxGbhpLJkfmA8jEeM9QPSCWS-cEPCIkw1g15v5OuHFRnQwvFjkNIZZbe1SX4m1zud08IApDrV4o150="
         }
       ],
       "baselineSources": [],
@@ -316,7 +320,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "出口中断致储罐趋满，伊拉克3月3日将西库尔纳2号油田减产45万桶/日。4日关停生产。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "出口中断致储罐趋满，伊拉克3月3日将西库尔纳2号油田减产45万桶/日。4日关停生产。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "Reuters",
@@ -393,7 +397,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "因原油储罐已满，伊拉克3月3日将迈桑油田日产量削减32.5万桶。8日伊拉克南部油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "因原油储罐已满，伊拉克3月3日将迈桑油田日产量削减32.5万桶。8日伊拉克南部主要油田产量骤降近70%。10日伊拉克石油产量已削减约290万桶/日。",
       "sources": [
         {
           "label": "Reuters",
@@ -763,7 +767,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "沙特阿美3月4日表示出于安全考虑已“调整原油装运操作”，将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。9日沙特开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，估计减少200万-250万桶/日。10日沙特阿美首席执行官警告称，如果霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。11日沙特将通过红海重新安排石油运输。",
+      "current": "沙特阿美3月4日表示出于安全考虑已“调整原油装运操作”，将出口转至红海港口。拉斯塔努拉是沙特最大原油出口码头，因霍尔木兹海峡基本封锁，当地航运停滞。9日沙特已开始关闭Safaniya、Marjan、Zuluf和Abu Safa等海上油田以削减产量，估计减少200万-250万桶/日。10日沙特阿美首席执行官警告称，如果霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。11日沙特将通过红海重新安排石油运输。",
       "sources": [
         {
           "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
@@ -1967,7 +1971,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停运",
-      "current": "3月3日伊拉克暂停通过Ceyhan管道向土耳其出口库尔德地区原油，日输送量减少约20万桶，仅5万桶/日供当地消费。4日恢复输送。9日该管道再次停止输送基尔库克原油。",
+      "current": "3月3日伊拉克暂停通过Ceyhan管道向土耳其地中海沿岸出口库尔德地区原油，日输送量减少约20万桶，仅5万桶/日用于当地消费。3月4日恢复输送。3月9日该管道再次停止输送基尔库克原油。",
       "sources": [
         {
           "label": "The National News",
@@ -2378,7 +2382,7 @@
       "normalizedType": "oil",
       "normalizedValue": 500,
       "status": "减产 / 不可抗力",
-      "current": "3月7日科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。9日科威特产量降至约200万桶/日，低于2月259万桶/日，可能很快降至150万桶/日。10日科威特石油产量已削减约50万桶/日。",
+      "current": "3月7日科威特因伊朗战争导致油轮无法通过波斯湾，进入不可抗力状态，实施预防性削减。8日科威特石油公司表示正在降低油田和炼油厂产量。9日科威特产量降至约200万桶/日，低于2月259万桶/日，可能很快降至150万桶/日。3月10日，科威特石油产量已削减约50万桶/日。",
       "products": [
         "原油",
         "成品油"
@@ -2667,7 +2671,7 @@
       "normalizedType": "oil",
       "normalizedValue": 3000,
       "status": "减产",
-      "current": "7日伊拉克因储存能力接近极限，石油日产量削减150万桶。8日因霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，约80万桶/日。10日伊拉克石油产量已削减约290万桶/日。",
+      "current": "7日伊拉克因储存能力接近极限，石油日产量削减150万桶。8日因霍尔木兹海峡出口受阻，南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊拉克石油产量已削减约290万桶/日。",
       "products": [],
       "sources": [
         {
