@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12 06:59（北京时间）",
+  "lastUpdated": "2026-03-12 14:40（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美及其盟友的石油通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
+      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美国及其盟友的石油通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -85,6 +85,18 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
+        },
+        {
+          "label": "Windward.AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBASiWgZsYFgz1I_jOhAyxkXbieFLjsaz611ZONZwzoj5AtYWsOIJIH_B2vJ-5uomorI78CXzHqIKs1zN8uJPs3x4kbURTknoEGV26VfJmW36lUv2SBWZfzX4zVk-bDwcZGU4IasbzfQw2L9K8bqeI9EaFdyutmmU="
+        },
+        {
+          "label": "Fox News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqvjBBOWpHLiZyT3uDgqriME3FYN9dZPDk1pYZnQzNJFu7gCfRJv5tlc7HWrq_Adqe0fUX6PWg4HL5ECJoQ4kEdRukWskAElkACYnmbLnj1pYj4X9SqUb7zB_QIfE7jtVQsQJmpzz0392wlEeYjenkh-RM--0kH8K5ist0z-Pz-Kbbzc23-9z5t5Kv"
         }
       ],
       "baselineSources": [],
@@ -243,6 +255,10 @@
         {
           "label": "每日经济新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0aS57fCYSQsOHVMsEL75qrBs-NYM55TQhfYhN2dBkans1Qk5g8JbbgGTSyW0qupTBKLfGGaysDfBk6FbrHSvC3Dk8VtlFNNAsLKj_dV9UePwTuLMam48A1Ew-QIGtHVv3sP67qU4k05Vg0S9uvtpji--IamkxkOlt9rv8vxuqHzM3_E_T8j-Fh_lL_tj0iLn"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -823,6 +839,10 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
@@ -839,7 +859,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "10日沙特阿美CEO阿明·纳瑟尔警告，若霍尔木兹海峡持续关闭，全球石油市场将面临\"灾难性后果\"。沙特减产规模达670万桶/日。",
+      "current": "10日沙特阿美CEO阿明·纳瑟尔警告，若霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。沙特减产规模达670万桶/日。",
       "sources": [
         {
           "label": "中东焦灼！石油巨头狂拉以色列开始新一轮打击！ - 中国能源网",
@@ -916,6 +936,10 @@
         {
           "label": "京报网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4FOx6vP8B86sctKKZh7In6bDu1VMpML9YuH-z2AWJy8Gzu2kxNgGi9tJTYlJps1O-C26s1n-NZ_qRwOPWQ6PhtqTPAGgojlIrDmmnv2NJp0XfWdMEQeNvm1BpffAMizf0vTdWhWdx8BrFpYw="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
@@ -927,10 +951,10 @@
       "facility": "Safaniya/Marjan/Zuluf/Abu Safa海上油田群",
       "designValue": null,
       "designUnit": "kbpd",
-      "affectedValue": 2250,
+      "affectedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 2250,
+      "normalizedValue": null,
       "status": "已减产",
       "current": "10日沙特减产规模达670万桶/日，其中沙特石油日产量削减200万至250万桶。",
       "sources": [
@@ -981,12 +1005,14 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
-      "products": [
-        "原油"
-      ]
+      "products": []
     },
     {
       "country": "沙特",
@@ -999,7 +1025,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停产",
-      "current": "10日沙特阿美CEO阿明·纳瑟尔警告，若霍尔木兹海峡持续关闭，全球石油市场将面临\"灾难性后果\"。",
+      "current": "10日沙特阿美CEO阿明·纳瑟尔警告，若霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。",
       "sources": [
         {
           "label": "Reuters",
@@ -1136,6 +1162,10 @@
         {
           "label": "京报网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4FOx6vP8B86sctKKZh7In6bDu1VMpML9YuH-z2AWJy8Gzu2kxNgGi9tJTYlJps1O-C26s1n-NZ_qRwOPWQ6PhtqTPAGgojlIrDmmnv2NJp0XfWdMEQeNvm1BpffAMizf0vTdWhWdx8BrFpYw="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
@@ -1177,10 +1207,10 @@
       "facility": "Sitra炼厂",
       "designValue": 405,
       "designUnit": "kbpd",
-      "affectedValue": 405,
+      "affectedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 405,
+      "normalizedValue": null,
       "status": "部分停运 / 不可抗力",
       "current": "9日巴林Bapco能源公司宣布不可抗力，该炼厂当日凌晨遭伊朗无人机袭击，造成人员受伤和房屋受损。该炼厂升级后产能达40.5万桶/日。",
       "sources": [
@@ -1331,6 +1361,14 @@
         {
           "label": "The Gulf Conflict and the Return of $100 Oil | Man Group",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuyNiott16t6QQ0yDzY0kf2Vdcq210QbSwg8jhcIledOuq2vTbmPqWAnPbdoQpCkrLxHFy1LQ5fOVgVqzauOMi44ErySs36SU8-Ghy73uX-ECQvlSuO4ik5u9o9BOXuO0DodRCNNrAoQq2OZkcxq3xFCr-0BBMg=="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        },
+        {
+          "label": "Iran Insight",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdi-DORyg0DeDW3JJyM67d0GNFa35t2026r55WJpgv4Nm3ycgKNSGqBKTdXh4dzYrwzvXSdYwKsaNLq-3fO3eDIYgvfA2xiBcmCbKAvvEj7JRxz0i_VQCOwubjV2qHAEC-Q=="
         }
       ],
       "baselineSources": [
@@ -1363,9 +1401,7 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDNaji5AABxWYU_yRiv7S9QbjG_iCF496DFDAfrKmGHi535AUbjgjt7SAzFwsjMs5lRgzltYPKfEJooksph6ntwDFdNoTjkiXcFzUXzwykTjRNrlLZZcHweZrcEdCjLaDlUhSLUVwXvHkDdJlOfq6NuE8j51BJW6IZEYKH2UDL9O87_upnSsE-Y1KR"
         }
       ],
-      "products": [
-        "原油"
-      ]
+      "products": []
     },
     {
       "country": "卡塔尔",
@@ -1742,6 +1778,10 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
@@ -1828,6 +1868,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ],
       "baselineSources": [
@@ -1843,10 +1887,10 @@
       "category": "出口终端 / LNG",
       "facility": "Duqm燃料储运 / 港口设施",
       "designValue": null,
-      "designUnit": "mtpa",
+      "designUnit": "kbpd",
       "affectedValue": null,
-      "affectedUnit": "mtpa",
-      "normalizedType": "lng",
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
       "current": "3月10日，阿曼的非霍尔木兹出口路线，如Duqm炼厂提供的石脑油供应，也面临安全事件和运输成本上升的挑战。",
@@ -1870,6 +1914,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "Windward.AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBASiWgZsYFgz1I_jOhAyxkXbieFLjsaz611ZONZwzoj5AtYWsOIJIH_B2vJ-5uomorI78CXzHqIKs1zN8uJPs3x4kbURTknoEGV26VfJmW36lUv2SBWZfzX4zVk-bDwcZGU4IasbzfQw2L9K8bqeI9EaFdyutmmU="
         }
       ],
       "baselineSources": [],
@@ -2140,6 +2188,10 @@
         {
           "label": "The Gulf Conflict and the Return of $100 Oil | Man Group",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuyNiott16t6QQ0yDzY0kf2Vdcq210QbSwg8jhcIledOuq2vTbmPqWAnPbdoQpCkrLxHFy1LQ5fOVgVqzauOMi44ErySs36SU8-Ghy73uX-ECQvlSuO4ik5u9o9BOXuO0DodRCNNrAoQq2OZkcxq3xFCr-0BBMg=="
+        },
+        {
+          "label": "Responsible Statecraft",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrpuQS-YfljSScx2J-NVbh-wRM3GVQQJQA3Qc0T3plDOpHvMNnV9fUKXRM4_2e9R2G47fEpVxuI4GdBA-0s5wVfgTrt3_qQ2tof5mEOsdnOwmaFQ1BhbSYsF80vazv9OREq3tBStqedxVa1LSQILPu1YfwQ=="
         }
       ],
       "baselineSources": [],
@@ -2246,6 +2298,10 @@
         {
           "label": "每日经济新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0aS57fCYSQsOHVMsEL75qrBs-NYM55TQhfYhN2dBkans1Qk5g8JbbgGTSyW0qupTBKLfGGaysDfBk6FbrHSvC3Dk8VtlFNNAsLKj_dV9UePwTuLMam48A1Ew-QIGtHVv3sP67qU4k05Vg0S9uvtpji--IamkxkOlt9rv8vxuqHzM3_E_T8j-Fh_lL_tj0iLn"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -2412,6 +2468,10 @@
         {
           "label": "每日经济新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0aS57fCYSQsOHVMsEL75qrBs-NYM55TQhfYhN2dBkans1Qk5g8JbbgGTSyW0qupTBKLfGGaysDfBk6FbrHSvC3Dk8VtlFNNAsLKj_dV9UePwTuLMam48A1Ew-QIGtHVv3sP67qU4k05Vg0S9uvtpji--IamkxkOlt9rv8vxuqHzM3_E_T8j-Fh_lL_tj0iLn"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -2428,10 +2488,7 @@
       "category": "油库",
       "status": "遭袭击",
       "current": "10日伊朗军队发表声明，为回应伊朗油库遭袭，伊朗空军使用攻击型无人机袭击以色列海法油气精炼厂及燃料存储设施。",
-      "products": [
-        "原油",
-        "成品油"
-      ],
+      "products": [],
       "sources": [
         {
           "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 热点",
@@ -2472,6 +2529,10 @@
         {
           "label": "每日经济新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0aS57fCYSQsOHVMsEL75qrBs-NYM55TQhfYhN2dBkans1Qk5g8JbbgGTSyW0qupTBKLfGGaysDfBk6FbrHSvC3Dk8VtlFNNAsLKj_dV9UePwTuLMam48A1Ew-QIGtHVv3sP67qU4k05Vg0S9uvtpji--IamkxkOlt9rv8vxuqHzM3_E_T8j-Fh_lL_tj0iLn"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -2557,6 +2618,10 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -2573,16 +2638,13 @@
       "category": "原油生产",
       "designValue": 2600,
       "designUnit": "kbpd",
-      "affectedValue": 500,
+      "affectedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 500,
+      "normalizedValue": null,
       "status": "减产 / 不可抗力",
       "current": "10日中东石油减产加剧，全球供应减少约6%，霍尔木兹海峡近乎停滞。科威特减产规模达670万桶/日。",
-      "products": [
-        "原油",
-        "成品油"
-      ],
+      "products": [],
       "sources": [
         {
           "label": "中东产油国减产，油价剑指150美元？机构预测冲突约4周结束 - 热点",
@@ -2755,6 +2817,10 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": []
@@ -2765,9 +2831,7 @@
       "category": "原油生产",
       "status": "减产",
       "current": "10日中东石油减产加剧，全球供应减少约6%，霍尔木兹海峡近乎停滞。阿联酋减产规模达670万桶/日。",
-      "products": [
-        "原油"
-      ],
+      "products": [],
       "sources": [
         {
           "label": "美以打击伊朗油库油价牵动欧美“神经” - 人民网",
@@ -2872,12 +2936,16 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [],
       "designValue": null,
-      "affectedValue": 530,
-      "normalizedValue": 530,
+      "affectedValue": null,
+      "normalizedValue": null,
       "designUnit": "kbpd",
       "affectedUnit": "kbpd",
       "normalizedType": "oil"
@@ -3000,10 +3068,8 @@
       "facility": "海水淡化厂",
       "category": "公用事业",
       "status": "遭袭击 / 受损",
-      "current": "10日联合国人权事务高级专员办事处对德黑兰油库袭击致有毒污染物扩散表示担忧。世界卫生组织警告，德黑兰遭袭后降下\"黑雨\"和\"酸雨\"构成切实危险，另有报道称巴林和沙特石油设施遭袭，可能引发更广泛区域污染。",
-      "products": [
-        "淡水"
-      ],
+      "current": "10日联合国人权事务高级专员办事处对德黑兰油库袭击致有毒污染物扩散表示担忧。世界卫生组织警告，德黑兰遭袭后降下“黑雨”和“酸雨”构成切实危险，另有报道称巴林和沙特石油设施遭袭，可能引发更广泛区域污染。",
+      "products": [],
       "sources": [
         {
           "label": "德黑兰下油雨成黑暗之城…伊朗警告：对海湾国家采取类似措施 - 朝鲜日报",
@@ -3072,6 +3138,10 @@
         {
           "label": "人民网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNPoZqn394ghm9THQwaomf9Dq1yZg5yiS-yNMQz50eCOL2byE4ePAJY4smjc-UxKAZ8PvADps_bpKWPfCgF09r_2KK2fE-UUNdJcjXUnfQs43aMwCCvDHQnEdfrOJwX6MuvhvYHFfZnXz1cvJB0hU5CnCvbfYB"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": [],
@@ -3162,16 +3232,13 @@
       "country": "日本",
       "facility": "出光兴产德山工厂 / 千叶工厂",
       "category": "化工",
-      "products": [
-        "乙烯",
-        "石脑油"
-      ],
+      "products": [],
       "designValue": 0.99,
-      "designUnit": "百万吨/年",
+      "designUnit": "kbpd",
       "affectedValue": null,
-      "affectedUnit": "百万吨/年",
-      "normalizedType": "chemicals",
-      "normalizedValue": 0.99,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
       "status": "面临停产风险",
       "current": "10日出光兴产已通知客户，若石脑油原料供应短缺持续，公司可能暂停乙烯生产，但目前无具体停产计划。",
       "sources": [
@@ -3226,6 +3293,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "Windward.AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBASiWgZsYFgz1I_jOhAyxkXbieFLjsaz611ZONZwzoj5AtYWsOIJIH_B2vJ-5uomorI78CXzHqIKs1zN8uJPs3x4kbURTknoEGV26VfJmW36lUv2SBWZfzX4zVk-bDwcZGU4IasbzfQw2L9K8bqeI9EaFdyutmmU="
         }
       ],
       "baselineSources": []
@@ -3481,15 +3552,12 @@
       "country": "日本",
       "category": "炼厂 / 化工",
       "facility": "三菱化学茨城工厂",
-      "products": [
-        "乙烯",
-        "石脑油"
-      ],
+      "products": [],
       "designValue": 0.485,
-      "designUnit": "百万吨/年",
+      "designUnit": "kbpd",
       "affectedValue": null,
-      "affectedUnit": "百万吨/年",
-      "normalizedType": "chemicals",
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已减产",
       "current": "3月9日日本三菱化学公司表示，因担心石脑油供应短缺，已于上周末降低其茨城县工厂年产48.5万吨乙烯裂解装置开工率。此举旨在避免全面停产。",
@@ -3529,6 +3597,10 @@
         {
           "label": "Asian refineries, petchem firms cut runs as Iran war disrupts feedstock supplies",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpaetcoi1chhKFd8BdPIzN8m6BkK1ct5CKaRNhsWzWKlz_NcrsDnxuAOwdN2NuaRLGhfm3ORLEb4ZskSqupKDp14fliEup_ZsRpom8M0IK9Cv-U8YeezhSDSc2Xchsknk_EzpNh2dI6aRKT-0SY2_NzEV0EcRVjGPm08pB-fwAcENR64uQkWaLpOjDNaEoQOlIE9c9Ayb5FB1aFAD_F0-8qUCg2Dc="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ],
       "baselineSources": []
@@ -3537,14 +3609,12 @@
       "country": "新加坡",
       "category": "化工",
       "facility": "TPC (The Polyolefins Company)",
-      "products": [
-        "聚烯烃"
-      ],
+      "products": [],
       "designValue": null,
-      "designUnit": "吨/年",
+      "designUnit": "kbpd",
       "affectedValue": null,
-      "affectedUnit": "吨/年",
-      "normalizedType": "chemicals",
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已宣布不可抗力 / 停产",
       "current": "3月9日新加坡聚烯烃生产商TPC宣布遭遇不可抗力，此前其上游供应商PCS因美伊冲突导致烯烃供应中断，TPC已关闭裕廊岛多个工厂。",
@@ -3572,6 +3642,10 @@
         {
           "label": "Singapore, Asia stocks recoup losses as oil price cools - The Business Times",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlOQRK8LvCpvIdeE0a4JEFLe9oaU6Mw8YNDeFpKPhFwrBn1Mc3QPrK0vn56IjzlBxXtSVb4Te8CrcxoQblJeUK-2mwBxVC3FZo6S7qWAR1vEi1fqx9gjVLpHxdyZyaei5gv01YOwNJm8KuM33bCFIq"
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ],
       "baselineSources": []
@@ -3946,12 +4020,7 @@
       "country": "以色列",
       "category": "炼厂",
       "facility": "Bazan海法炼厂",
-      "products": [
-        "汽油",
-        "柴油",
-        "燃料油",
-        "石化原料"
-      ],
+      "products": [],
       "designValue": null,
       "designUnit": "kbpd",
       "affectedValue": null,
@@ -3972,6 +4041,10 @@
         {
           "label": "每日经济新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0aS57fCYSQsOHVMsEL75qrBs-NYM55TQhfYhN2dBkans1Qk5g8JbbgGTSyW0qupTBKLfGGaysDfBk6FbrHSvC3Dk8VtlFNNAsLKj_dV9UePwTuLMam48A1Ew-QIGtHVv3sP67qU4k05Vg0S9uvtpji--IamkxkOlt9rv8vxuqHzM3_E_T8j-Fh_lL_tj0iLn"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p7877zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ],
       "baselineSources": []
@@ -4174,10 +4247,10 @@
       "facility": "科威特炼油体系（Al-Zour / Mina Abdullah / Mina al-Ahmadi）",
       "designValue": 1615,
       "designUnit": "kbpd",
-      "affectedValue": 807.5,
+      "affectedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 807.5,
+      "normalizedValue": null,
       "status": "已减产 / 不可抗力",
       "current": "10日中东石油减产加剧，全球供应减少约6%，霍尔木兹海峡近乎停滞。科威特减产规模达670万桶/日。",
       "sources": [
@@ -4236,6 +4309,10 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ],
       "baselineSources": [
@@ -4248,12 +4325,7 @@
           "url": "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2220011-kuwait-completes-work-on-16bn-clean-fuels-project"
         }
       ],
-      "products": [
-        "汽油",
-        "柴油",
-        "航煤",
-        "燃料油"
-      ]
+      "products": []
     },
     {
       "country": "印度",
@@ -5516,6 +5588,10 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ]
     },
@@ -5552,6 +5628,10 @@
         {
           "label": "South Korean Shares Slide on Middle East Escalation - Trading Economics",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDK22kdgLLitZKNpAVBBcGuHR9e7tMD0gaIyKACecXU0GYzZI4GuFoVPojn6R-THU0ZNTB3Yq4xh-ozAvCe89DZrV8A5yPFQVv_6x4z5osfgfcKAVtPHSQFwbupqytwFxE4KS2Q0Q2eALiLv2YHfM96rTWrrhjQReArXg="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ]
     },
@@ -5576,6 +5656,10 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4tP5GyFoEy1MxWSsHwNjkcLWnahTgQetxwWixWXqJfjNaeWsYz-lPAMM8nQQ1tNXMIMP6CqyRgOYH93k4P5BWctqDm2vo4GuM2_LwAWvJi7jQtRVXjITukx-WWLjEzwYcc2741NZSu6vRBg=="
+        },
+        {
+          "label": "Responsible Statecraft",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrpuQS-YfljSScx2J-NVbh-wRM3GVQQJQA3Qc0T3plDOpHvMNnV9fUKXRM4_2e9R2G47fEpVxuI4GdBA-0s5wVfgTrt3_qQ2tof5mEOsdnOwmaFQ1BhbSYsF80vazv9OREq3tBStqedxVa1LSQILPu1YfwQ=="
         }
       ]
     },
@@ -5612,6 +5696,14 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4tP5GyFoEy1MxWSsHwNjkcLWnahTgQetxwWixWXqJfjNaeWsYz-lPAMM8nQQ1tNXMIMP6CqyRgOYH93k4P5BWctqDm2vo4GuM2_LwAWvJi7jQtRVXjITukx-WWLjEzwYcc2741NZSu6vRBg=="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        },
+        {
+          "label": "Iran Insight",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdi-DORyg0DeDW3JJyM67d0GNFa35t2026r55WJpgv4Nm3ycgKNSGqBKTdXh4dzYrwzvXSdYwKsaNLq-3fO3eDIYgvfA2xiBcmCbKAvvEj7JRxz0i_VQCOwubjV2qHAEC-Q=="
         }
       ]
     },
@@ -5820,6 +5912,14 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "Project44",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwKEw_vrmWO_VItxJPtwD1TnS1weS5jkj9797kFiHGDqCpH2fbENhT8M_rkyfCRMOHXSLfmkw_oQtrA7b6kvUeuuZVAdQwJ7FBxH0cLH-34GcH2Vd7lq6te5VglKSqSrVukjzOilHRYweEGNhLYvl99yVt2RAO0TVusZ3G05VUgWURQkBN12PHbF8MKd637C47cuPGhT-BaK1AEx3TPQM1MQgIfuQLj4U2XXtqx5aHaxreRcCKjXFe"
+        },
+        {
+          "label": "Iran Insight",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdi-DORyg0DeDW3JJyM67d0GNFa35t2026r55WJpgv4Nm3ycgKNSGqBKTdXh4dzYrwzvXSdYwKsaNLq-3fO3eDIYgvfA2xiBcmCbKAvvEj7JRxz0i_VQCOwubjV2qHAEC-Q=="
         }
       ]
     },
@@ -5904,6 +6004,14 @@
         {
           "label": "The Gulf Conflict and the Return of $100 Oil | Man Group",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvuyNiott16t6QQ0yDzY0kf2Vdcq210QbSwg8jhcIledOuq2vTbmPqWAnPbdoQpCkrLxHFy1LQ5fOVgVqzauOMi44ErySs36SU8-Ghy73uX-ECQvlSuO4ik5u9o9BOXuO0DodRCNNrAoQq2OZkcxq3xFCr-0BBMg=="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        },
+        {
+          "label": "Iran Insight",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdi-DORyg0DeDW3JJyM67d0GNFa35t2026r55WJpgv4Nm3ycgKNSGqBKTdXh4dzYrwzvXSdYwKsaNLq-3fO3eDIYgvfA2xiBcmCbKAvvEj7JRxz0i_VQCOwubjV2qHAEC-Q=="
         }
       ]
     },
@@ -5920,6 +6028,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -5956,6 +6068,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -6012,6 +6128,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqxIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -6060,6 +6180,26 @@
         {
           "label": "新华网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF77rHUmjPpuPiG8ekodldMpLXBajGOnpgDi6bP5FTBGE2vuWsNRZgcsPvljtS9Ffk7aTRm1r7ZgsQMQW5qxFwahFyA5lruuWY_ZtWUHiAxYMm85XNNQbZqQrVBqEWItwFNuix-_5CxxjYg3IYzaIq7KyCYvsF9KR_Vl4U7fZW9DRapas0j"
+        },
+        {
+          "label": "Business Standard",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9VJhttUwFwd5bZ5xQxEAIvQwbPySia-43ndff8BcNaB-5CBnEXJLrPOSfGn781LdJp8w2740COAXBOMTb9aBXkHvy0x3rOJCyR3ygzX_i8xv4fuOOb0CGaEXMkjRmQjPXP3MsjdTpq4CC7QmmrkSMMBeovkS_6dMPtjxhrFZ2eFA0Jh1-C-J8JkZdFBep8tHkLJei9ba0V-dQDOVI3r5tDnpV1nVhfijAPT7zNenMle38XqlnxaF7snTfjQj7N4="
+        },
+        {
+          "label": "India Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWKOJa8KK11zP13Kh5up9znhXwIYfdDqvs12iJ_xuk3VtR8N8x2I0TrVZi04mCeaEc8GYfLyAAMUNUMHlm4MxFx61mkUiyYXZc0TiTevanQQAs-GCxZq1JE00LOV55BSwnyBIUZotOyFh8UiFFb0vT80G5BmvhLkIRBk9PG0dI21E8CL4yfViEXAjomTWHYqZhC1OJS2hJFuV7vwKXjwcKrLAccdR1ZL8iE-DN3SGUxPyDlppKXvBSGqL56aw="
+        },
+        {
+          "label": "LPG shortage shuts Mumbai restaurants as 20% kitchens run out of cooking gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLKqM2eietKW4HWghiEm_8sSbJFZvZi_4eGnVG59FVlsDsLGYi72dERB7TYTW4xN0lqW21TpX7AP6ie-mVN2MiCO6hTM1Xt1SR7wS1wJpzqYvKCePwp5fX7r-q8VBKDgI-LD2VPWCujN-Bnqa9wCB07F1JtR3i9klPXqeFgZNLr1gWIZ2mmbF9qqAk0ACZh5NUFW5TohUwlWyM-k0cEJtQLSvso6BQhcxEoXCGGpu_oVTon-2IzP7c33aqxAnnr7ESGmxJeAAYXdVOVcLzlG4Pkw-6lKrPDHVuaAk-T4pNZHzM8g=="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlxgeJetY9_KudmNdV4i7MVtx8ETN8F014TCIFzzRvd4sru9soLhJjcoHj-4myUys7gH9UUrRDK5a469pztyqdGc3AxU-Je48NeasQRDjGkxBSt1t8lNt0SJ5GtOnUrS3r6gkt9XxzdQxoVEt2hcrDINMNxQWueA_lmWg3YsWt9odfqkJSKT5UUadkOFxjjuOatSOvbMrFPyFHwTvA_2vRMottyH3hNBM0W2QXgnvbSanJg50JgCWYJgPy087KIEu-t2Z2YYJUCOu7Q=="
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFIoy-Q25ljFVz7k72ssxr3wQWJrKx_YrGhfuDOgSG6VBo_Ixi-asqCvj0aWi1zlNQYg6Te8KTXQDRp3Og8e8KchEEGxBy3I44T8j4WgKuVeo7GA68nS9ZFZmyfvaMproQcqM_ay72cOjQeZf8XbkyNJjFXlzv8aza28iNBsK1WWmVxBMSNxpohEfSV_2qbFhesOSDBLFTuW0fLhBAGoz1BP0D5k3UyKnw1JHRQcY0Q=="
         }
       ]
     },
@@ -6088,6 +6228,10 @@
         {
           "label": "The Gulf Shock: Strategic Consequences of the U.S.–Israel War with Iran",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPe-vWhNwBKHfVqQOtfGKinExMgQxzD-8omGnkl8t3QOmSyRYuTKcIZzpBRHsA-GVHRHlWjqvcUkYnmqp840aJgpH2BwmAjZ9AZtYdcYVP_am0konl9bX7CJKVeH0EFrLG_DZJEdVtlVHjzFgGLSkRdJabK_tRV80Ed2Jz0N7b9iuJCcBt6jQJTPePj-hQINR5W4="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ]
     },
@@ -6132,6 +6276,14 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4tP5GyFoEy1MxWSsHwNjkcLWnahTgQetxwWixWXqJfjNaeWsYz-lPAMM8nQQ1tNXMIMP6CqyRgOYH93k4P5BWctqDm2vo4GuM2_LwAWvJi7jQtRVXjITukx-WWLjEzwYcc2741NZSu6vRBg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         }
       ]
     },
@@ -6139,11 +6291,15 @@
       "date": "2026-03-11",
       "title": "伊朗伊斯兰革命卫队宣布重创美军驻科威特和巴林多个基地",
       "type": "军事打击",
-      "text": "11日伊朗伊斯兰革命卫队发布\"真实承诺4\"行动第31号公告，宣布重创美军驻海湾多个基地。美军驻科威特乌代里直升机基地遭两轮密集导弹袭击，造成大量伤亡。巴林米纳萨勒曼港作为美海军第五舰队核心支点设施受损，关键设施被击中。美军驻科威特爱国者营地、穆罕默德·艾哈迈德海军基地及阿里·萨利姆空军基地宿舍与装备库均遭严重破坏。",
+      "text": "11日伊朗伊斯兰革命卫队发布“真实承诺4”行动第31号公告，宣布重创美军驻海湾多个基地。美军驻科威特乌代里直升机基地遭两轮密集导弹袭击，造成大量伤亡。巴林米纳萨勒曼港作为美海军第五舰队核心支点设施受损，关键设施被击中。美军驻科威特爱国者营地、穆罕默德·艾哈迈德海军基地及阿里·萨利姆空军基地宿舍与装备库均遭严重破坏。",
       "sources": [
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ]
     },
@@ -6151,11 +6307,15 @@
       "date": "2026-03-11",
       "title": "伊朗警告将报复美以经济目标，并称有能力封锁霍尔木兹海峡",
       "type": "冲突升级",
-      "text": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美及其盟友的石油通过。伊朗最新警告称，将对美以在中东地区经济目标采取报复行动，并提醒民众远离银行等潜在目标。",
+      "text": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美国及其盟友的石油通过。伊朗最新警告称，将对美以在中东地区经济目标采取报复行动，并提醒民众远离银行等潜在目标。",
       "sources": [
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ]
     },
@@ -6192,6 +6352,30 @@
         {
           "label": "新华网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF77rHUmjPpuPiG8ekodldMpLXBajGOnpgDi6bP5FTBGE2vuWsNRZgcsPvljtS9Ffk7aTRm1r7ZgsQMQW5qxFwahFyA5lruuWY_ZtWUHiAxYMm85XNNQbZqQrVBqEWItwFNuix-_5CxxjYg3IYzaIq7KyCYvsF9KR_Vl4U7fZW9DRapas0j"
+        },
+        {
+          "label": "Business Standard",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9VJhttUwFwd5bZ5xQxEAIvQwbPySia-43ndff8BcNaB-5CBnEXJLrPOSfGn781LdJp8w2740COAXBOMTb9aBXkHvy0x3rOJCyR3ygzX_i8xv4fuOOb0CGaEXMkjRmQjPXP3MsjdTpq4CC7QmmrkSMMBeovkS_6dMPtjxhrFZ2eFA0Jh1-C-J8JkZdFBep8tHkLJei9ba0V-dQDOVI3r5tDnpV1nVhfijAPT7zNenMle38XqlnxaF7snTfjQj7N4="
+        },
+        {
+          "label": "UNI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd3ayBkR8ID-unhIgCmyQRfkynw3QsKIK7Lz0b-3hO0bCKPgDgK1ddswW6gOMYUWd4d7VajeVqbtaaZMCf12Ohg0tmduZ1CxBKNwkwocGiYuzc4DXTcH2YuEl3A9D9EWLI_KXZfDQi-hs2fOTtehE_qDWTAbuewnF_wApy7SL86fLE7Sj2CUUu0ryTDQapaSkjkHO1uCXvKWIbOzUg_LIbSP9p6_Svr4rsIpEzUczt"
+        },
+        {
+          "label": "India Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWKOJa8KK11zP13Kh5up9znhXwIYfdDqvs12iJ_xuk3VtR8N8x2I0TrVZi04mCeaEc8GYfLyAAMUNUMHlm4MxFx61mkUiyYXZc0TiTevanQQAs-GCxZq1JE00LOV55BSwnyBIUZotOyFh8UiFFb0vT80G5BmvhLkIRBk9PG0dI21E8CL4yfViEXAjomTWHYqZhC1OJS2hJFuV7vwKXjwcKrLAccdR1ZL8iE-DN3SGUxPyDlppKXvBSGqL56aw="
+        },
+        {
+          "label": "LPG shortage shuts Mumbai restaurants as 20% kitchens run out of cooking gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLKqM2eietKW4HWghiEm_8sSbJFZvZi_4eGnVG59FVlsDsLGYi72dERB7TYTW4xN0lqW21TpX7AP6ie-mVN2MiCO6hTM1Xt1SR7wS1wJpzqYvKCePwp5fX7r-q8VBKDgI-LD2VPWCujN-Bnqa9wCB07F1JtR3i9klPXqeFgZNLr1gWIZ2mmbF9qqAk0ACZh5NUFW5TohUwlWyM-k0cEJtQLSvso6BQhcxEoXCGGpu_oVTon-2IzP7c33aqxAnnr7ESGmxJeAAYXdVOVcLzlG4Pkw-6lKrPDHVuaAk-T4pNZHzM8g=="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlxgeJetY9_KudmNdV4i7MVtx8ETN8F014TCIFzzRvd4sru9soLhJjcoHj-4myUys7gH9UUrRDK5a469pztyqdGc3AxU-Je48NeasQRDjGkxBSt1t8lNt0SJ5GtOnUrS3r6gkt9XxzdQxoVEt2hcrDINMNxQWueA_lmWg3YsWt9odfqkJSKT5UUadkOFxjjuOatSOvbMrFPyFHwTvA_2vRMottyH3hNBM0W2QXgnvbSanJg50JgCWYJgPy087KIEu-t2Z2YYJUCOu7Q=="
+        },
+        {
+          "label": "The Times of India",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgGlGB9GJHX3X2FsMrwvwqMjzQW1pS1quWhSJMulwSe4qDvpIREcVKQfdRBCA45JosauWSHk8tBtoeNyc4hECDmktSjHi7c5jd1-xodV6nAVP-LgbpFYQIalwWdXyD8Lxgcq1144SnyerWcut5KNS94NtUVnanfPIuWmTkTF7N6OQ7GpEwjmWZGep2giv--RCi3TMSq7HtACXle6R31QTWzliK0a2ch5aRxF4H7qJvIBnTR_nHVNGADDa1n1AiK5WrSLWKZeyQWqwPI_aITWlTg0_i7KOxf_piOrzokEiOiOAukScuxdxAWLoPNvHl7VlpNe8mZjvA3tOnDruDVV8P"
         }
       ]
     },
@@ -6224,6 +6408,14 @@
         {
           "label": "联合早报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3J7YerCU-vbxruRD7o3ZFods1TX_gVaqi1stJsp-F9qhH3GLlC5NMkFp-9WP3uKJGamrFNAGnOExuuAO89_bxGWlfik5ntuybOqk_4MzIt74swg0sQZqAaXN4QxunPyZ0hCx7CL1XgZjTZa-4qzUd58V-9uKFfIY="
+        },
+        {
+          "label": "Gulf News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFltJb97q62yi9Kk2vCpvcDptizzDcu9S6jTy7SKYxOBkb5rEsFAyATKps7ISUIG9MTpXzvTkUoZKHxNv-Ip90upIoN26I2zHSmJQC6BIs-JRnWRnuoSGKDNVqFjlL22LoX69n-gtzdWFMvQoILCEZHszVKn5VkkLUU6S3xvI8CH1VYf3a0z7F4IjMfeQIIVFRbdM8-7FGzUxHQzwLcoaQVHm-l0Scslk-M46LNU_3"
+        },
+        {
+          "label": "Upstox",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3lX-CDiLjBlxBHBmpjx1a2yBBRDZAABE2-XKWrceK_J4-sORbubs9ZcNDgkL2lBkAYl8njPO-f2ZSHLoimZE3bLvHiQ5uqWWMLuALUvyiTFKjJXPPzoaoHEQQuGiMreX4sL05ajcFHTrdVfSftHAth4fleM8EbGSps-2B1L7JWLNQTK3vHNL_AYXE6HM5jVqKeLKXxsydn-LcpAZlZhaxoB0YH96ReJVDVAJoPE6QSy3RTPsMuv961YH3GInzv_eL7zJh5xRNkHt6FIjEG9WxN6xh_mgMwMckXU_FXzoCE8="
         }
       ]
     },
@@ -6256,18 +6448,26 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         }
       ]
     },
     {
       "date": "2026-03-11",
-      "title": "美国要求以色列若打击伊朗石油设施须\"提前告知\"美方",
+      "title": "美国要求以色列若打击伊朗石油设施须“提前告知”美方",
       "type": "政策调整",
-      "text": "美国媒体10日援引知情人士报道，特朗普政府已要求以色列停止打击伊朗能源设施，尤其是石油基础设施。一名以色列官员称，美方要求以色列今后若打击伊朗石油设施须\"提前告知\"。",
+      "text": "美国媒体10日援引知情人士报道，特朗普政府已要求以色列停止打击伊朗能源设施，尤其是石油基础设施。一名以色列官员称，美方要求以色列今后若打击伊朗石油设施须“提前告知”。",
       "sources": [
         {
           "label": "央视网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4AFyoQXd8kre_wRs_vbwW0Yov4XZ7qSv8-qi6D5AZlEbLhq2S2Q3vAbxKU06xtFRjWYSkeYYJ8iCOlr-Nyw-iqSajdTohximCYlYjQswSrMJU1wVK8e2LrWJRtGFdkK_NLr9ijXTdIK5cIDXbRpu1ax9qYIwKe2OcfKcPlZS8"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
         }
       ]
     },
@@ -6280,6 +6480,26 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPy39dAMJ8VlAdEA7t-TkdC3odS-zOa4c57mkt9uVldxIX3D0CBZ_V2o_uJyRqOdATvBBhGsS2SfPkKwXi1JWFFBCF1y_5Amh5-rD-ltNTRqFJBaozzg5j4vKhjg-d4P84ZVQEfQaI1dN7hQ=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
+        },
+        {
+          "label": "Windward.AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBASiWgZsYFgz1I_jOhAyxkXbieFLjsaz611ZONZwzoj5AtYWsOIJIH_B2vJ-5uomorI78CXzHqIKs1zN8uJPs3x4kbURTknoEGV26VfJmW36lUv2SBWZfzX4zVk-bDwcZGU4IasbzfQw2L9K8bqeI9EaFdyutmmU="
+        },
+        {
+          "label": "Fox News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqvjBBOWpHLiZyT3uDgqriME3FYN9dZPDk1pYZnQzNJFu7gCfRJv5tlc7HWrq_Adqe0fUX6PWg4HL5ECJoQ4kEdRukWskAElkACYnmbLnj1pYj4X9SqUb7zB_QIfE7jtVQsQJmpzz0392wlEeYjenkh-RM--0kH8K5ist0z-Pz-Kbbzc23-9z5t5Kv"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTxP6qPiE1jb6hHgyz7Q1zILtFyzKiJC1BgmZqflOF_g9GxwwulT0Q2EFnj5c-Ycd1VK_XAupz3tjSyV-BeBxDWSAIsrxFlERJO6faRFOj6hHYRdh21kOHgNXWTjsgIJWeCp_jeZFZQBiSLfEnWut-hNvH6gcqoITwZok4bwU7NlDIVVLjNzDAvT0hdnZJbB8too9GdN6W8I5fCvQ-OebcjO0SENS6P5m-9wRjYPxJi4zbBXjMPxARFA4C"
+        },
+        {
+          "label": "Seatrade Maritime News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSrxymWKUb8L47nSSmQ4Crm1QbQZB-nA5UzjhQiVUSBfazz8Rg2WLzC7VtCA-ciOmT4NezIxgaL6GOBLsjweWYZMjLrvjIcwcqQknKkjSCA-M7DufVW4SZ8W9n991BLj5ecqNiQ_bBucswrHnHOz8rler9x_fF0ouXHhhgaQNBWtbZItY2rBVoVP8MlY0L0yiy9GPpyw=="
         }
       ]
     }
@@ -6403,6 +6623,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqxIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -6666,6 +6890,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqxIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -6775,6 +7003,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqxIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -7232,6 +7464,26 @@
         {
           "label": "新华网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF77rHUmjPpuPiG8ekodldMpLXBajGOnpgDi6bP5FTBGE2vuWsNRZgcsPvljtS9Ffk7aTRm1r7ZgsQMQW5qxFwahFyA5lruuWY_ZtWUHiAxYMm85XNNQbZqQrVBqEWItwFNuix-_5CxxjYg3IYzaIq7KyCYvsF9KR_Vl4U7fZW9DRapas0j"
+        },
+        {
+          "label": "Business Standard",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9VJhttUwFwd5bZ5xQxEAIvQwbPySia-43ndff8BcNaB-5CBnEXJLrPOSfGn781LdJp8w2740COAXBOMTb9aBXkHvy0x3rOJCyR3ygzX_i8xv4fuOOb0CGaEXMkjRmQjPXP3MsjdTpq4CC7QmmrkSMMBeovkS_6dMPtjxhrFZ2eFA0Jh1-C-J8JkZdFBep8tHkLJei9ba0V-dQDOVI3r5tDnpV1nVhfijAPT7zNenMle38XqlnxaF7snTfjQj7N4="
+        },
+        {
+          "label": "UNI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd3ayBkR8ID-unhIgCmyQRfkynw3QsKIK7Lz0b-3hO0bCKPgDgK1ddswW6gOMYUWd4d7VajeVqbtaaZMCf12Ohg0tmduZ1CxBKNwkwocGiYuzc4DXTcH2YuEl3A9D9EWLI_KXZfDQi-hs2fOTtehE_qDWTAbuewnF_wApy7SL86fLE7Sj2CUUu0ryTDQapaSkjkHO1uCXvKWIbOzUg_LIbSP9p6_Svr4rsIpEzUczt"
+        },
+        {
+          "label": "India Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWKOJa8KK11zP13Kh5up9znhXwIYfdDqvs12iJ_xuk3VtR8N8x2I0TrVZi04mCeaEc8GYfLyAAMUNUMHlm4MxFx61mkUiyYXZc0TiTevanQQAs-GCxZq1JE00LOV55BSwnyBIUZotOyFh8UiFFb0vT80G5BmvhLkIRBk9PG0dI21E8CL4yfViEXAjomTWHYqZhC1OJS2hJFuV7vwKXjwcKrLAccdR1ZL8iE-DN3SGUxPyDlppKXvBSGqL56aw="
+        },
+        {
+          "label": "LPG shortage shuts Mumbai restaurants as 20% kitchens run out of cooking gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLKqM2eietKW4HWghiEm_8sSbJFZvZi_4eGnVG59FVlsDsLGYi72dERB7TYTW4xN0lqW21TpX7AP6ie-mVN2MiCO6hTM1Xt1SR7wS1wJpzqYvKCePwp5fX7r-q8VBKDgI-LD2VPWCujN-Bnqa9wCB07F1JtR3i9klPXqeFgZNLr1gWIZ2mmbF9qqAk0ACZh5NUFW5TohUwlWyM-k0cEJtQLSvso6BQhcxEoXCGGpu_oVTon-2IzP7c33aqxAnnr7ESGmxJeAAYXdVOVcLzlG4Pkw-6lKrPDHVuaAk-T4pNZHzM8g=="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlxgeJetY9_KudmNdV4i7MVtx8ETN8F014TCIFzzRvd4sru9soLhJjcoHj-4myUys7gH9UUrRDK5a469pztyqdGc3AxU-Je48NeasQRDjGkxBSt1t8lNt0SJ5GtOnUrS3r6gkt9XxzdQxoVEt2hcrDINMNxQWueA_lmWg3YsWt9odfqkJSKT5UUadkOFxjjuOatSOvbMrFPyFHwTvA_2vRMottyH3hNBM0W2QXgnvbSanJg50JgCWYJgPy087KIEu-t2Z2YYJUCOu7Q=="
         }
       ]
     },
@@ -7361,6 +7613,10 @@
         {
           "label": "亚洲日报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoQhaA6CtWK4tIs3JjdXCYC2nyUYAT0qTFs1unRaANqfHno7-ZhjgwqIfAV6bTS2hS_15Y-TbTNfgb-zmHSSCbRdFlGVvmiAdf6lC-AHcxXSj5biZCVEfFGRdR4vVJ9grbCiQTKYxzP_wk"
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ]
     },
@@ -7475,6 +7731,14 @@
         {
           "label": "亚洲日报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoQhaA6CtWK4tIs3JjdXCYC2nyUYAT0qTFs1unRaANqfHno7-ZhjgwqIfAV6bTS2hS_15Y-TbTNfgb-zmHSSCbRdFlGVvmiAdf6lC-AHcxXSj5biZCVEfFGRdR4vVJ9grbCiQTKYxzP_wk"
+        },
+        {
+          "label": "Windward.AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBASiWgZsYFgz1I_jOhAyxkXbieFLjsaz611ZONZwzoj5AtYWsOIJIH_B2vJ-5uomorI78CXzHqIKs1zN8uJPs3x4kbURTknoEGV26VfJmW36lUv2SBWZfzX4zVk-bDwcZGU4IasbzfQw2L9K8bqeI9EaFdyutmmU="
+        },
+        {
+          "label": "CMS LawNow",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
         }
       ]
     },
@@ -7808,6 +8072,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNjTLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
         },
         {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
           "label": "Trading Key",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD7iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         },
@@ -7846,6 +8114,10 @@
         {
           "label": "观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwCZkC3mddVIezeyygs-iivsPa0z3skddc1pQQOY5rkXOPPZn06VYQp-fiqDUWl213WBQWiqWfK-2bYe4c-3edz6Ms6Ms4w3z4UfPTWfik0YoxHydr90-AJpFYQxs11FWDpLE1bWp4uGTDA4zlD-saESf2_Us="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         },
         {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
@@ -8274,6 +8546,10 @@
         {
           "label": "永豐金證券",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNjTLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -8362,6 +8638,14 @@
         {
           "label": "观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwCZkC3mddVIezeyygs-iivsPa0z3skddc1pQQOY5rkXOPPZn06VYQp-fiqDUWl213WBQWiqWfK-2bYe4c-3edz6Ms6Ms4w3z4UfPTWfik0YoxHydr90-AJpFYQxs11FWDpLE1bWp4uGTDA4zlD-saESf2_Us="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         }
       ]
     },
@@ -8424,6 +8708,14 @@
         {
           "label": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2qtZwH4ks4_90PDNgBEFiY9Q4vcpT-vcgHENvnTgABVhf0Qc5zRK0WJd1dm3tFouFeyNtprGLGA6Pt2XDGcI1Egnql2UvgKoCH4JJJNkbQA8-1wtHFEzJbWfndcw1YmVqUHioNP97MiSBuT25p9NV6JOxjvKO7duWxtfFRk49_Zq9Hlnq6R59SNZ-OyvNVp5_H-DlgcnFaArYOLxy1WpXgEii4wYGpcX90H9jGJrR7s="
+        },
+        {
+          "label": "Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXgkWbWacyWtN2uZY1ngLb43daPOO7dfzARYAIdDEZYbHITj8xSZw2kLHqZJQ5eqINs17BtEpmHRot8cjEIp0bMbXTapOpckN426gF8htkPW-dEkSl5pnSMN3QBDUCnqNVg0jS6CY77nrha2AMNZ4K3s4OMKCRemc0q_li8kJDFkejoQavjzgYwSyeTZE"
+        },
+        {
+          "label": "ProtoThema English",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjL5HsJ9oMQHlY18PU0SVqRQikYoOVwiseUjpFjEyu9UgkZQOQoQCmc8MT0r8yH8UU4-mw7gp1-VTea3coYHiCzujfWYlXwSgsey7IYgY8IZif4eahsAwZqND5Kmd5vDUgEdKWE9MhBTB-pbkrLW7ZwMBV7qckRN_WmaCEk1ZcsZnQDnULmBL3xbs3BwlBZpyey2uP-8nf0_fgC1P5Xruzqdt3Rplui9aSedD3oi-SHl0RuVOQ-zBIQFR4cv0JQEUdqw=="
         }
       ],
       "potentialLevelValue": null,
@@ -8450,6 +8742,14 @@
         {
           "label": "财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVeMAUz-DaUUHQ3I1NxM9TvMxWWB9HPtx3b91MWNX7sciOXhb16MIcK46WasqLUQvOKw34oZrKJ-b8mqvwxXDMixy-6yEfsx0CkyxPtN8nhv1P6GAmE4ORMOgU"
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         }
       ]
     },
@@ -8582,6 +8882,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqxIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         }
       ]
     },
@@ -8850,6 +9154,14 @@
         {
           "label": "生意社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc7Ujyi09votAdX6BkJ5BshGk6n3sD6r1P6c11w61-ciN9ntvaVHDG69eJ-Ml8GQqBL95ssiOQ--WXi-hP0H1ozGr3dkrM-ou7Jd_ZpPF8OUB66J7tjjVuBzsiPTrmhaHFcAso0_1O0xT_iZABK0Y3frIGdJ5NYZX6RdwUKn6jK72yyw=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ="
         }
       ]
     },
@@ -8922,6 +9234,14 @@
         {
           "label": "财经》客户端",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1HEONuOKTzAG2nZojMU-kqzq39AJP1a81Hda63lzAWKHbTIE24tmlJASQ4N5yX7g2Lp8aWmePeKh2JTin3J4mV7Feu0fTt3vReiNDz9vOyK5l_RTjvZ6QbMjs0XGDmW4LF9GTD9yyYQMpPFWRTrZm9VOEa6XtmOQ_O5U"
+        },
+        {
+          "label": "Taiwan News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-1rzDF9v-pj688d0u0Tj9LlsV7vqvVF71diunVBuUX-ERG6GlH_W8XX94tLl5s-lgm2dLrG3JXP3xc-Pmw9MgSckdVzCTX4z0Qqu2btl66N2VFRW2NG73QcGQfhlpC4FWOc3J8mn2"
+        },
+        {
+          "label": "Taiwan News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZY0oRbvvp282rZYmHTmGSPlLNd36Z3WYd8B-YUFL14V6VZ6zAKGPpX-Z0jis4ew9Gjv5Sq9uqCqt8mfXtrohPhyAgVCnOCaPJoc7Q_MsctZtB9LhJd439KbmmoMV7afrWG_ALK_ox"
         }
       ]
     },
@@ -9078,6 +9398,50 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4tP5GyFoEy1MxWSsHwNjkcLWnahTgQetxwWixWXqJfjNaeWsYz-lPAMM8nQQ1tNXMIMP6CqyRgOYH93k4P5BWctqDm2vo4GuM2_LwAWvJi7jQtRVXjITukx-WWLjEzwYcc2741NZSu6vRBg=="
+        },
+        {
+          "label": "Business Standard",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo9VJhttUwFwd5bZ5xQxEAIvQwbPySia-43ndff8BcNaB-5CBnEXJLrPOSfGn781LdJp8w2740COAXBOMTb9aBXkHvy0x3rOJCyR3ygzX_i8xv4fuOOb0CGaEXMkjRmQjPXP3MsjdTpq4CC7QmmrkSMMBeovkS_6dMPtjxhrFZ2eFA0Jh1-C-J8JkZdFBep8tHkLJei9ba0V-dQDOVI3r5tDnpV1nVhfijAPT7zNenMle38XqlnxaF7snTfjQj7N4="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYQ8YeXYJqaStLE1gvnwMhoKn0dqSXijsICWZ8DhjwPO9CNoElppP6QTpZVkLS35Fr3r1QqxvJpmHSwUBLKVIvLvNRUliqhgt9GbrioqLuQocNRmVGYD6kYD_uq9C2oNEaoin0phc8KU-M0CE2Jz-_p787zdjzEyU-QW1uCefPkAing5idVzddwKdlv2T3KNO7LbxpqzjzuhcmdvyV2Pxq5W8dxKcx-2YWHbMDxehaTpGhEZ3BjmA="
+        },
+        {
+          "label": "Responsible Statecraft",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrpuQS-YfljSScx2J-NVbh-wRM3GVQQJQA3Qc0T3plDOpHvMNnV9fUKXRM4_2e9R2G47fEpVxuI4GdBA-0s5wVfgTrt3_qQ2tof5mEOsdnOwmaFQ1BhbSYsF80vazv9OREq3tBStqedxVa1LSQILPu1YfwQ=="
+        },
+        {
+          "label": "UNI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd3ayBkR8ID-unhIgCmyQRfkynw3QsKIK7Lz0b-3hO0bCKPgDgK1ddswW6gOMYUWd4d7VajeVqbtaaZMCf12Ohg0tmduZ1CxBKNwkwocGiYuzc4DXTcH2YuEl3A9D9EWLI_KXZfDQi-hs2fOTtehE_qDWTAbuewnF_wApy7SL86fLE7Sj2CUUu0ryTDQapaSkjkHO1uCXvKWIbOzUg_LIbSP9p6_Svr4rsIpEzUczt"
+        },
+        {
+          "label": "India Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWKOJa8KK11zP13Kh5up9znhXwIYfdDqvs12iJ_xuk3VtR8N8x2I0TrVZi04mCeaEc8GYfLyAAMUNUMHlm4MxFx61mkUiyYXZc0TiTevanQQAs-GCxZq1JE00LOV55BSwnyBIUZotOyFh8UiFFb0vT80G5BmvhLkIRBk9PG0dI21E8CL4yfViEXAjomTWHYqZhC1OJS2hJFuV7vwKXjwcKrLAccdR1ZL8iE-DN3SGUxPyDlppKXvBSGqL56aw="
+        },
+        {
+          "label": "LPG shortage shuts Mumbai restaurants as 20% kitchens run out of cooking gas",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLKqM2eietKW4HWghiEm_8sSbJFZvZi_4eGnVG59FVlsDsLGYi72dERB7TYTW4xN0lqW21TpX7AP6ie-mVN2MiCO6hTM1Xt1SR7wS1wJpzqYvKCePwp5fX7r-q8VBKDgI-LD2VPWCujN-Bnqa9wCB07F1JtR3i9klPXqeFgZNLr1gWIZ2mmbF9qqAk0ACZh5NUFW5TohUwlWyM-k0cEJtQLSvso6BQhcxEoXCGGpu_oVTon-2IzP7c33aqxAnnr7ESGmxJeAAYXdVOVcLzlG4Pkw-6lKrPDHVuaAk-T4pNZHzM8g=="
+        },
+        {
+          "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlxgeJetY9_KudmNdV4i7MVtx8ETN8F014TCIFzzRvd4sru9soLhJjcoHj-4myUys7gH9UUrRDK5a469pztyqdGc3AxU-Je48NeasQRDjGkxBSt1t8lNt0SJ5GtOnUrS3r6gkt9XxzdQxoVEt2hcrDINMNxQWueA_lmWg3YsWt9odfqkJSKT5UUadkOFxjjuOatSOvbMrFPyFHwTvA_2vRMottyH3hNBM0W2QXgnvbSanJg50JgCWYJgPy087KIEu-t2Z2YYJUCOu7Q=="
+        },
+        {
+          "label": "The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTxP6qPiE1jb6hHgyz7Q1zILtFyzKiJC1BgmZqflOF_g9GxwwulT0Q2EFnj5c-Ycd1VK_XAupz3tjSyV-BeBxDWSAIsrxFlERJO6faRFOj6hHYRdh21kOHgNXWTjsgIJWeCp_jeZFZQBiSLfEnWut-hNvH6gcqoITwZok4bwU7NlDIVVLjNzDAvT0hdnZJbB8too9GdN6W8I5fCvQ-OebcjO0SENS6P5m-9wRjYPxJi4zbBXjMPxARFA4C"
+        },
+        {
+          "label": "Iran Insight",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcdi-DORyg0DeDW3JJyM67d0GNFa35t2026r55WJpgv4Nm3ycgKNSGqBKTdXh4dzYrwzvXSdYwKsaNLq-3fO3eDIYgvfA2xiBcmCbKAvvEj7JRxz0i_VQCOwubjV2qHAEC-Q=="
+        },
+        {
+          "label": "India LPG crisis: 25-day refill rule enforced; commercial supply halted in Mumbai, Bengaluru, Kolkata",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFIoy-Q25ljFVz7k72ssxr3wQWJrKx_YrGhfuDOgSG6VBo_Ixi-asqCvj0aWi1zlNQYg6Te8KTXQDRp3Og8e8KchEEGxBy3I44T8j4WgKuVeo7GA68nS9ZFZmyfvaMproQcqM_ay72cOjQeZf8XbkyNJjFXlzv8aza28iNBsK1WWmVxBMSNxpohEfSV_2qbFhesOSDBLFTuW0fLhBAGoz1BP0D5k3UyKnw1JHRQcY0Q=="
         }
       ]
     },
