@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12 19:47（北京时间）",
+  "lastUpdated": "2026-03-12 19:52（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受威胁",
-      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，不允许有利美及其盟友的石油通过。同日英方报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
+      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美国及其盟友的石油通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -146,7 +146,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已受影响",
-      "current": "10日伊朗军队发表声明，为回应伊油库遭袭，伊空军使用攻击型无人机袭击以色列海法油气精炼厂及燃料存储设施。11日伊方警告或对美以在地区经济目标实施报复，并提醒民众远离银行等潜在目标。",
+      "current": "10日伊朗军队发表声明，为回应伊朗油库遭袭，伊朗空军使用攻击型无人机袭击以色列海法油气精炼厂及燃料存储设施。11日伊朗警告或对美以在地区经济目标实施报复，并提醒民众远离银行等潜在目标。",
       "sources": [
         {
           "label": "华文西贡解放日报",
@@ -964,6 +964,10 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Effect on oil markets could be 'catastrophic' if Hormuz closure continues — Saudi Aramco chief | The Times of Israel",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEymiyo2ua3kNFhWiSBt3tFpVFd2JjcptshuN7hTZJENoJfuQ0DeQTbVlh_bRUBBPK95Rx42rDw2bPtum1cIF3BuGeWugZatq2SBDxiOS9Kg6DrHdy3axMxwgapiSWmY7go5EPzhM1U-g6AIN1JSw2PyME505Uuo_grXL5zi5Lvdz_PHTK9tc33lFRcKGMb2FQFIwRCRTW1G8jzP5xqJj-akuBoMMCciG3MT6sCglC-wvkRmJNsCdIydWiL3EZmT6GumuVA=="
         }
       ],
       "baselineSources": [],
