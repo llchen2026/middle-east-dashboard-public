@@ -346,7 +346,8 @@
           <div class="summary-chip"><span class="summary-chip-label">直接影响原油量</span><span class="summary-chip-value" id="directOilLoss">0 kbpd</span></div>
           <div class="summary-chip"><span class="summary-chip-label">直接影响天然气量</span><span class="summary-chip-value" id="directGasLoss">0 mcm/d</span></div>
           <div class="summary-chip"><span class="summary-chip-label">直接影响 LNG 液化</span><span class="summary-chip-value" id="directLngLoss">0 mtpa</span></div>
-          <div class="summary-chip"><span class="summary-chip-label">炼能影响量</span><span class="summary-chip-value" id="refiningImpactLoss">0 kbpd</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">炼能影响量（原料 / 预防性）</span><span class="summary-chip-value" id="refiningFeedstockImpactLoss">0 kbpd</span></div>
+          <div class="summary-chip"><span class="summary-chip-label">炼能影响量（遭轰炸）</span><span class="summary-chip-value" id="refiningStrikeImpactLoss">0 kbpd</span></div>
           <div class="summary-chip"><span class="summary-chip-label">乙烯产能影响量</span><span class="summary-chip-value" id="ethyleneImpactLoss">0 mtpa</span></div>
         </div>
       </div>
@@ -488,7 +489,8 @@
     const directOilLoss = document.getElementById('directOilLoss');
     const directGasLoss = document.getElementById('directGasLoss');
     const directLngLoss = document.getElementById('directLngLoss');
-    const refiningImpactLoss = document.getElementById('refiningImpactLoss');
+    const refiningFeedstockImpactLoss = document.getElementById('refiningFeedstockImpactLoss');
+    const refiningStrikeImpactLoss = document.getElementById('refiningStrikeImpactLoss');
     const ethyleneImpactLoss = document.getElementById('ethyleneImpactLoss');
     const impactAssetTable = document.getElementById('impactAssetTable');
 
@@ -751,6 +753,19 @@
       return `${item.category || ''}`.includes('炼厂');
     }
 
+    function isStrikeDrivenRefineryAsset(item) {
+      if (!isRefineryAsset(item)) return false;
+      const haystack = `${item.status || ''} ${item.current || ''} ${item.facility || ''}`;
+      if (/预防措施关闭|预防性关闭|预防性停产|预防性削减|防范性关闭|供应分流|作为预防措施|为防止|防止风险/.test(haystack)) {
+        return false;
+      }
+      return /遭轰炸|遭袭|受损|导弹|无人机|空袭|袭击|爆炸|火灾/.test(haystack);
+    }
+
+    function isFeedstockDrivenRefineryAsset(item) {
+      return isRefineryAsset(item) && !isStrikeDrivenRefineryAsset(item);
+    }
+
     function isUpstreamOilAsset(item) {
       return item.normalizedType === 'oil' && !isRefineryAsset(item) && !`${item.category || ''}`.includes('化工');
     }
@@ -794,8 +809,12 @@
           predicate: item => item.normalizedType === 'lng' && classifyStatus(item.status) === 'direct',
           unit: 'mtpa'
         }),
-        refiningImpact: sumSimpleMetric(items, {
-          predicate: item => isRefineryAsset(item),
+        refiningFeedstockImpact: sumSimpleMetric(items, {
+          predicate: item => isFeedstockDrivenRefineryAsset(item),
+          unit: 'kbpd'
+        }),
+        refiningStrikeImpact: sumSimpleMetric(items, {
+          predicate: item => isStrikeDrivenRefineryAsset(item),
           unit: 'kbpd'
         }),
         ethyleneImpact: sumSimpleMetric(items, {
@@ -1096,11 +1115,19 @@
     }
 
     function renderSummary(filtered) {
-      const { directOil, directGas, directLng, refiningImpact, ethyleneImpact } = computeImpactSummary(filtered);
+      const {
+        directOil,
+        directGas,
+        directLng,
+        refiningFeedstockImpact,
+        refiningStrikeImpact,
+        ethyleneImpact
+      } = computeImpactSummary(filtered);
       directOilLoss.textContent = `${formatValue(directOil)} kbpd`;
       directGasLoss.textContent = `${formatValue(directGas)} mcm/d`;
       directLngLoss.textContent = `${formatValue(directLng, 1)} mtpa`;
-      refiningImpactLoss.textContent = `${formatValue(refiningImpact)} kbpd`;
+      refiningFeedstockImpactLoss.textContent = `${formatValue(refiningFeedstockImpact)} kbpd`;
+      refiningStrikeImpactLoss.textContent = `${formatValue(refiningStrikeImpact)} kbpd`;
       ethyleneImpactLoss.textContent = `${formatValue(ethyleneImpact, 2)} mtpa`;
     }
 
@@ -1129,11 +1156,18 @@
           color: '#7c3aed'
         },
         {
-          key: 'refining',
-          label: '炼能',
-          impact: summary.refiningImpact,
+          key: 'refining_feedstock',
+          label: '炼能（原料/预防）',
+          impact: summary.refiningFeedstockImpact,
           benchmark: GLOBAL_BENCHMARKS.refining,
           color: '#dc2626'
+        },
+        {
+          key: 'refining_strike',
+          label: '炼能（遭轰炸）',
+          impact: summary.refiningStrikeImpact,
+          benchmark: GLOBAL_BENCHMARKS.refining,
+          color: '#b91c1c'
         },
         {
           key: 'ethylene',
