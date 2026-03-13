@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13 19:58（北京时间）",
+  "lastUpdated": "2026-03-14 01:57（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -125,6 +125,10 @@
         {
           "label": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK7HfhbslMtRBrKmAu3U-SpK3DZF9QshmlKRwLmiJf081xxkG4pIPiVxzSzNytO58nmlFTUGe8AyHjDOLg0stnypIhaNqkMGAjb_PGUFu44d6wJcP5P1Vs85lS46Kpl9Q-FabueGTa"
+        },
+        {
+          "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVpaJfbVHNlu9Pm60Xu7bw3ukw8p5s94z_8vnMzR07LT4U-rGVrnuW1pSCTL83OvhJ8QWwBlIp1D_hJP0n92muoKP54whNOeGDshbrYGr0P8EO5sPzL2yu8iaNuowPqHB-hSemXg=="
         }
       ],
       "baselineSources": [
@@ -312,6 +316,10 @@
         {
           "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGit4IqUn9KgRPuh2XqOw3i3cqkSJ6rB8Fa5i8MvaNlI0PsYlbBLQSLTMZ2UlGqxX1R4PJqmmBat7tXtvsV9nJqZTJyrDwy_5YfixzBoBEPa3whI-6JGGtzSu7-VVKY4htZXLY_0ka8K6N9-ItPJsvnrWM4ImAOu4zow3bZrMdiDuK8QvEmFduTGQtJHczNqtZeTAFDMSGlg4Bw0amQ1vsrFRjQAGtisaWj4WtdQPP1Kbwu3shJLXAFB9PcdkotqcDvrbff58qQi6E="
         }
       ],
       "baselineSources": [],
@@ -718,10 +726,10 @@
       "facility": "Burgan油田",
       "designValue": 1700,
       "designUnit": "kbpd",
-      "affectedValue": null,
+      "affectedValue": 500,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": null,
+      "normalizedValue": 500,
       "status": "已减产 / 不可抗力",
       "current": "9日科威特产量降至约200万桶/日，预计降至150万桶/日。10日科威特石油产量已削减约50万桶/日。",
       "sources": [
@@ -916,6 +924,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Economic impact of the 2026 Iran war - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkSggfrTBEv9kjlWZITXXAA5rEHDTxr8ZWAcp8QM2HvJ_bXzDVrU24l61XEtrO8YvfhzGNGxdfirLDvu_VgtOxamoYlEhcY9ALZxv4GKtyyd2qI5lSYIMMfgXEXh52O4SefOzJHPWYYohYsUuivT5YuJoSr0CMA-sVKGP"
         }
       ],
       "baselineSources": [],
@@ -1033,6 +1045,14 @@
         {
           "label": "Major UAE refinery shut as Saudi Aramco warns war spells catastrophe for oil | NAMPA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5ePB8mirXZID-Zim3Qh_U_DILp39aQtsYM8IDEdp33ZXgCLK2fQMFDwVC0rLKSAmrXg7wNtmqcw5MQ-sQfyhfIf01FuQEyM5H36LPPCw3ZeNa6Ewj_zZbtVYfDKa4"
+        },
+        {
+          "label": "Saudi Red Sea oil exports to hit record high in March, shipping data shows - ZAWYA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0fKo3in2iihDwnr4F2_1M84y7QmoG3wZLNZsyBoASt2GQ4Y1vj7YCna-8FIJ7ZvLHwyR1esdhynx6krCUS0_gJWZb0kuGvgsy3NJdhLQA69NO4VVc7XFOKPyMO1U82eHSoRDveKj6vpxbPAkFJ3VaXn7-6etm_asc97YAlzIUNWXpmaAmO5YSRCJSn2ktdTQZlqx5nXXLCIYGRd0nyLK9yea4UhLpCzXb3dSwoUneWkvtYjo6"
+        },
+        {
+          "label": "Saudi Red Sea oil exports to hit record high in March, shipping data shows | MarketScreener",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1erzRi24pBUmqiJmRI4lh-CFcSzC7-Wpg2rDbTz3rhUuERQ2uqAw2e6-wVj4ffkiHQFEPpUq8WaHF7AMX3mjlVi2LvNGeog7gyVuF3jUBrIzWoJG_gpZN9sOPUz1iMy6ES31oHFBxdUqzl9SoDBhkLcsOFrhuE07zKghXM9pL5ClHMid9dIH4RnwF47W_5WbUWwPCj2ob-Yxly6_Ig5_-BMRgWBSp-ip7f6rYQ2ZyG46X4vMAut_n"
         }
       ],
       "baselineSources": [],
@@ -1277,6 +1297,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGit4IqUn9KgRPuh2XqOw3i3cqkSJ6rB8Fa5i8MvaNlI0PsYlbBLQSLTMZ2UlGqxX1R4PJqmmBat7tXtvsV9nJqZTJyrDwy_5YfixzBoBEPa3whI-6JGGtzSu7-VVKY4htZXLY_0ka8K6N9-ItPJsvnrWM4ImAOu4zow3bZrMdiDuK8QvEmFduTGQtJHczNqtZeTAFDMSGlg4Bw0amQ1vsrFRjQAGtisaWj4WtdQPP1Kbwu3shJLXAFB9PcdkotqcDvrbff58qQi6E="
         }
       ],
       "baselineSources": [],
@@ -1777,10 +1801,10 @@
       "facility": "上扎库姆油田",
       "designValue": 1000,
       "designUnit": "kbpd",
-      "affectedValue": null,
+      "affectedValue": 530,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": null,
+      "normalizedValue": 530,
       "status": "间接受限",
       "current": "8日阿联酋开始削减石油产量以应对霍尔木兹海峡近乎关闭。3月10日，阿联酋石油产量已削减约50万-80万桶/日。",
       "sources": [
@@ -1899,6 +1923,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Economic impact of the 2026 Iran war - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkSggfrTBEv9kjlWZITXXAA5rEHDTxr8ZWAcp8QM2HvJ_bXzDVrU24l61XEtrO8YvfhzGNGxdfirLDvu_VgtOxamoYlEhcY9ALZxv4GKtyyd2qI5lSYIMMfgXEXh52O4SefOzJHPWYYohYsUuivT5YuJoSr0CMA-sVKGP"
         }
       ],
       "baselineSources": [],
@@ -2001,6 +2029,10 @@
         {
           "label": "2nd LD Writethru: Largest refinery in Mideast closed as precaution after drone attack triggers fire in Abu Dhabi industrial complex - China.org.cn",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhV2bQDUzYscnChnUAYCZDvnh8pK4y2MUg7-EkRw_vFOpMPFx3MKUVbUUZWJaMNIizwqX8U9w8Aic94m4Slz6pvKJ-RxUlnDUb9HiJmgSm4Shy75gLKW1v_rwxBhJaU3dC2KgXQMH5zda1O5vhU1N2dgOeWwjRm0buGnFgT1l9XF2_WbHkrXtc"
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International Australia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WtQLHxhZPQaHDDEwMFY5lZUXLiMnI7zZ3zwIR5CgBVxnh5qE7ueMhaNdwoDS222OHyoWQxU5urL5NtgDZaLad3aRIKNN4SyP7LAqKTRRerWTNBcz8Mb13fUlr-tS6ywDRGKFVXg-sz31_n2k1X0-Njsh1iYzdgUFJ7-O-bBXHFSOYK6yGAJStkQhPJ6_cWMxPSDZQeYIyp30OkeFCAptti-cFaIQkGmGRu9BOAbLQQ0="
         }
       ],
       "baselineSources": [
@@ -2055,6 +2087,10 @@
         {
           "label": "Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - San Francisco Chronicle",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpq0P_J8tpjp6J-9eqB5FufUtxXth7JML03rgkirijHpjYOaGP8oCF2oTvI-6HN4hOOSSXnXFpJb8K0cF00diuAi3uyjG06iy60RLnRgJSclQqsRn9_bUh6WzyX4l4UPCm1mcP2vRT6H2I6ZeDdaVrXDJDX4PxhwWWxSA15Oppioep2CBXskIUlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
         }
       ],
       "baselineSources": [],
@@ -2634,6 +2670,10 @@
         {
           "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGit4IqUn9KgRPuh2XqOw3i3cqkSJ6rB8Fa5i8MvaNlI0PsYlbBLQSLTMZ2UlGqxX1R4PJqmmBat7tXtvsV9nJqZTJyrDwy_5YfixzBoBEPa3whI-6JGGtzSu7-VVKY4htZXLY_0ka8K6N9-ItPJsvnrWM4ImAOu4zow3bZrMdiDuK8QvEmFduTGQtJHczNqtZeTAFDMSGlg4Bw0amQ1vsrFRjQAGtisaWj4WtdQPP1Kbwu3shJLXAFB9PcdkotqcDvrbff58qQi6E="
         }
       ],
       "baselineSources": [],
@@ -2930,6 +2970,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Economic impact of the 2026 Iran war - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkSggfrTBEv9kjlWZITXXAA5rEHDTxr8ZWAcp8QM2HvJ_bXzDVrU24l61XEtrO8YvfhzGNGxdfirLDvu_VgtOxamoYlEhcY9ALZxv4GKtyyd2qI5lSYIMMfgXEXh52O4SefOzJHPWYYohYsUuivT5YuJoSr0CMA-sVKGP"
         }
       ],
       "baselineSources": [
@@ -3062,6 +3106,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Economic impact of the 2026 Iran war - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkSggfrTBEv9kjlWZITXXAA5rEHDTxr8ZWAcp8QM2HvJ_bXzDVrU24l61XEtrO8YvfhzGNGxdfirLDvu_VgtOxamoYlEhcY9ALZxv4GKtyyd2qI5lSYIMMfgXEXh52O4SefOzJHPWYYohYsUuivT5YuJoSr0CMA-sVKGP"
         }
       ],
       "baselineSources": [],
@@ -3199,6 +3247,14 @@
         {
           "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPv-TRGJ4kPvoh3cAzNiPZ1XWw50RQUMEYAzFP9R_Uw0U_plrbY4wPv9vLF4ZkHOc93GY6GmQ4_taNzPoqRv8hUc4eQdpzQXb4G3ixOMT2ANuH_CzSwnrYlSwuKlxPDfaH8pKvg7sakZFsLomWEpoXy7fTLwQBSV2XcNOLiDWddk9yoJh3I__qQF8O0NM="
+        },
+        {
+          "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCJYT0rftJ_zZ57sDpudCtQlucjaa0cWcN6NaA4S6QyV6JMqofNfxp_-4LGrUGwxiNbyz9sHlEffxNPvqZHGA4v91k5osTt61HTadCI4fj9yss5WeFYYYI4IBMBejY56XgrhziJWDGwm1PV9ZxZv6BoZCRf86Mfg_4ZDOGHnIrZCCXa7Vid5pC_4i4sLJ1vmpla26wy-gtCTKZYGcu2hHkph38iP2AvWkB6P2WgD9fQ=="
+        },
+        {
+          "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmgduO0xfsQpiLQmcYOUT1k3zMfYUIr572GMMMAXXOgO0OvyeEP4lePcsr18qQQ6iJB0jCe4Q3RAMVr1Obx_nIlmsEa7tbHPvSceE1XEIWl3WXL0UEq_4WncLfjpUvC_oo0lK7jXOHyFidi-QJZOSmSfYDgxurUWkzI5dIRcIc_UpoYRqTPaKbOThNzA=="
         }
       ],
       "baselineSources": [],
@@ -3292,6 +3348,14 @@
         {
           "label": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFntEe5KJwNrZZ4YvuWtYEvTIay0bvNYsdlDYn1vICCb-W_aK9h3hsPoK-jCemW8t6pJMB-Sgdo_I2ZJBrtCEx-FSYjMDg9SIvNvWhAXvxARHr0qkh-Dc1YB7M1m7_mi9nRHDssmHJYospXUBZBpRZBpeMxBAAfNvpEcioFl6M5Jr2vXmDHpC2XBW628G4mdPKEoAvavM2eBBSb6w76JH4C4OhQ=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
+        },
+        {
+          "label": "In Context: Erika Weinthal and Jeannie Sowers on the Middle East Conflict's Impacts on Civilian Infrastructure - Stimson Center",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHWCtG1XhFOaF7NSjvUrtmLNvOW7CP0QG92qdoRcblXE0-Ss4fdLBN7d3tHQ8cPIXUTmGqHbEKSwhFinDDPZgymhEpGQx-4mqXuBbAU3-Mw7hGwWhh9zDrYi2MEz7EpE26bu7LchJtMAZdQboGQRzTCoFPXKZB6NleQqc4W77RH0uNmWeQ-O-fLlXLdKibbLhCQ17opvqm7ELdf3jC7ERINweXPb-lVBZwrSLeK_esMmqCFrr4EYBd7LC9Ej5q-a0mdUDBEA=="
         }
       ],
       "baselineSources": [],
@@ -3455,6 +3519,10 @@
         {
           "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        },
+        {
+          "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
         }
       ],
       "baselineSources": []
@@ -4069,6 +4137,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
         }
       ],
       "baselineSources": [
@@ -4217,6 +4289,10 @@
         {
           "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGit4IqUn9KgRPuh2XqOw3i3cqkSJ6rB8Fa5i8MvaNlI0PsYlbBLQSLTMZ2UlGqxX1R4PJqmmBat7tXtvsV9nJqZTJyrDwy_5YfixzBoBEPa3whI-6JGGtzSu7-VVKY4htZXLY_0ka8K6N9-ItPJsvnrWM4ImAOu4zow3bZrMdiDuK8QvEmFduTGQtJHczNqtZeTAFDMSGlg4Bw0amQ1vsrFRjQAGtisaWj4WtdQPP1Kbwu3shJLXAFB9PcdkotqcDvrbff58qQi6E="
         }
       ],
       "baselineSources": [
@@ -4644,6 +4720,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Indorama Ventures declares force majeure on European PET supply | ICIS",
+          "url": "https://www.icis.com/explore/resources/news/2026/03/11/10987654-indorama-ventures-declares-force-majeure-on-european-pet-supply/"
         }
       ],
       "baselineSources": [],
@@ -6271,6 +6351,14 @@
         {
           "label": "G7 Finance Chiefs Signal Readiness for Massive Oil Reserve Release to Subdue Energy Market Volatility - The Chronicle-Journal",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57MO5BZq1ojEXvEcfOECdfgW8MZU2uhfHsNyimS5jzN-VsGZOcxQgwXAU8R4vVWqovI6cEQBKXMVcyHaM9079qabDKGxEgqhK5qaGPg961kJ4aoqxrywmKUikLwjqnU4XhPs6MyWfIYmh0bfMP7RDJymeo6lKbrevc1QcCPew57YsoWcjls7b4-dST4QN-UUB9UZVW1sGu4CJEG81pgHlPchZtkEfhhCj8G3rfs6E2rbcgbg_Phzv-av6eU2jhXelLl4gKd0uncQG8RYmPjO_bdq1lHJOXo-sAJMMtBWvQJydUyqLOVnQW5drzqFPOpZAffrVCQ=="
+        },
+        {
+          "label": "G7 weighs historic strategic oil reserve release | CMC Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK3jWaxELsXI-gMeGGmhKlXbeeb3vMzB9q89niBcD000APywvn4ClJXOO_e-51vC30ApuKxBmHHvNbXMSKEfrKUVex1OinbbquLP9XQmIk5VVla97nUY8TtL8uYfxdtMsjVCwdAHy2akA1BNGs2TIogZ39KDGvjnKmQ7KpYx0Ran_Dt5kP7t6-fSVr7DVoGAOF-R2_YEAnHIe9TP4e"
+        },
+        {
+          "label": "G7 Finance Chiefs Signal Readiness for Massive Oil Reserve Release to Subdue Energy Market Volatility - User | chroniclejournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFphTdXT5HVMFHfOSaAvmTVMlh5fUjQjyaVfCQObwgr7PY--GPymENFz0W6jkHI4szJ3yQ5qkiNq0HvBvWX8VqY3hfKz74Y_z7kJKsw86fXpyJhlEGbVebS1toz2o12ijTKnM0AR_JsTMNYLtAIhb_jjR2GsSy8CPnA7nhefX-Oj4Jp1wTSvKmAI5_p0h9xFwoWUZx7TU2juzdtp6BkKBZ-S3X7T_49Ndkx5VryZH5wJKVs2bFlNMMpvV806ZO7PTKMsj2QUqPySX8xZhVPMvreEZs5"
         }
       ]
     },
@@ -6335,6 +6423,14 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE91veYmMhhHAqTpoh5Tu6OUdzMHnB_A5swsCKMZ6HQkVbTKwz4Lmz3OHZCNCDdPH_xJ_J3Uq-0UlI8rOPmx-K17LacEaYB_YDhkcIl_WwMfqU6YObCEHKiMevuEpwUApAe_IxyO_AhlnQBfvad-nPDwA4="
+        },
+        {
+          "label": "Economic impact of the 2026 Iran war - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkSggfrTBEv9kjlWZITXXAA5rEHDTxr8ZWAcp8QM2HvJ_bXzDVrU24l61XEtrO8YvfhzGNGxdfirLDvu_VgtOxamoYlEhcY9ALZxv4GKtyyd2qI5lSYIMMfgXEXh52O4SefOzJHPWYYohYsUuivT5YuJoSr0CMA-sVKGP"
         }
       ]
     },
@@ -6363,6 +6459,10 @@
         {
           "label": "Iraq Reduces Oil Production to 1.2 Million Barrels Per Day - ScanX",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkudbtO5f7oaTx0_Xhk3BHHwbTJJTqviw2dkKQEWMwmWcwb6FJc4fdRX8H-V_cueUwUNo2OBPt0KAhRk1BzFS2uCGPAGNZK_uyCk-YJbETFIVyIyfqzFojKTJfpMxkVMswE1ZKlhuN3nm0IJA2ErW5yxtTybIC7HN3FHg9LZave-cQT_n9Gz0Ar85dfxXZNVdEqA-cF9WLtY92EvgjXfWtS8O38ajc9ABypPLRVzCnOQ=="
+        },
+        {
+          "label": "Iraq Reduces Oil Production to 1.2 Million Barrels Per Day - ScanX",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERuTfEuwqCaUX181TRRPnC4BKfHevvDJ-p4qRO0eRul3IAeB84kYm8j3ZiXfJOJ4txbrXJJa8_U4RHHEkuvSBUz-3ixy_pF5JCNexQBdO1Tu_N-nfpUCsu4HMDDHWzAGi3QiaWiTfnLo2CtL4aaYtnfiAJjlS6LqZul4-cw0wEOmk05msMl6t7DLxtxaUuUG7Xs6XClZ9wquS6aFJqAhXQ4X3KHP3znnHgWyVSr9dv"
         }
       ]
     },
@@ -6407,6 +6507,14 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
+        },
+        {
+          "label": "The Iran War's Hidden Front: Food, Water, and Fertilizer | Council on Foreign Relations",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_VP6kxspoWJQy-QMn2bYBAzV6alOjmivHwFcYujoPFu7tMU20Vyb-xYu7FufTCJvHlThwiKYaLuq43AJZcNBnjGpvDheQmO65bYpJ-TGiADPmzKd1XLemmCQXhThmE6RdCPMqTbIA-gOtxpdAr5qBAXNg5GgqXyGhLVOJDHC6A6_mSk6oyEDlpMzC"
         }
       ]
     },
@@ -6523,6 +6631,14 @@
         {
           "label": "CMS LawNow",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        },
+        {
+          "label": "Asia and the Iran Conflict: Energy Vulnerability and the Imperative for Action",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEHgn8HIWCZXADDdDFFBiNcVDSSvu871OGFVwheny6VBUsF41lVYbvWkL2ZPZt7RI_LxoSJd3UJNbSiaORpG5ZSIOdv7BZJOwcYATb9lm-71asSdKLdEY1UE7SAkYq4O6R4W4AkjsS_tOUBXat2RWjKhnVXJoOEd7k_lZFhrhB_rPOT6JjblXMUP8CXn5XFToHo3H1hc0trF93-VcZL0F5cAddYRoQN0VrsY=="
+        },
+        {
+          "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International Australia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WtQLHxhZPQaHDDEwMFY5lZUXLiMnI7zZ3zwIR5CgBVxnh5qE7ueMhaNdwoDS222OHyoWQxU5urL5NtgDZaLad3aRIKNN4SyP7LAqKTRRerWTNBcz8Mb13fUlr-tS6ywDRGKFVXg-sz31_n2k1X0-Njsh1iYzdgUFJ7-O-bBXHFSOYK6yGAJStkQhPJ6_cWMxPSDZQeYIyp30OkeFCAptti-cFaIQkGmGRu9BOAbLQQ0="
         }
       ]
     },
@@ -6623,6 +6739,18 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE91veYmMhhHAqTpoh5Tu6OUdzMHnB_A5swsCKMZ6HQkVbTKwz4Lmz3OHZCNCDdPH_xJ_J3Uq-0UlI8rOPmx-K17LacEaYB_YDhkcIl_WwMfqU6YObCEHKiMevuEpwUApAe_IxyO_AhlnQBfvad-nPDwA4="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3C5zsxma8Bw9K_soZGVr_PxNd6BRQiyCju0sz9GBPn0_R1KrsOvcBHNFtSq8kB22qG-ElmcVIB3y8Ys52u7Pc8JLfFIK4mYj97t22_QhuJEVsq12CzOrOwoLRF1bS05JYu99Ec5crWAiu45oYujWiErfn52yXyWPMuT061-HVy7jdeLObFYH9OnqY_k3bnI5OGCR-ADUjoKfZ08hnbqFB5qgeU6oCuw=="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
         }
       ]
     },
@@ -6643,6 +6771,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPdhd-lTtV-PUpBPt-yFJpojVmbGSp_UkDeoDP9QGj7zTAav_YBMWzuQaPiNxfHxiE6aLbkhWm4RtwVfF7GLT49lU5E2qk0HBL_qIJqFn1GnJiwxHsU8ycXj8pQW3fXsGVk8O-x6f09dz49fkBFbcVCe25_on3300OkEvVlI8ye5FYXJQP1240UrXg1M6QoFZtQ=="
         }
       ]
     },
@@ -6695,6 +6827,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3C5zsxma8Bw9K_soZGVr_PxNd6BRQiyCju0sz9GBPn0_R1KrsOvcBHNFtSq8kB22qG-ElmcVIB3y8Ys52u7Pc8JLfFIK4mYj97t22_QhuJEVsq12CzOrOwoLRF1bS05JYu99Ec5crWAiu45oYujWiErfn52yXyWPMuT061-HVy7jdeLObFYH9OnqY_k3bnI5OGCR-ADUjoKfZ08hnbqFB5qgeU6oCuw=="
         }
       ]
     },
@@ -6899,6 +7035,18 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVpaJfbVHNlu9Pm60Xu7bw3ukw8p5s94z_8vnMzR07LT4U-rGVrnuW1pSCTL83OvhJ8QWwBlIp1D_hJP0n92muoKP54whNOeGDshbrYGr0P8EO5sPzL2yu8iaNuowPqHB-hSemXg=="
+        },
+        {
+          "label": "2026 Strait of Hormuz crisis - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6c6dCFI7G-FyimZxEvPMkojejaa5UU1uUSfJsuJd46QUpe6JZYs3ArekliBlejg89mnoi7qEwiALCCDW_fCgesq5xycde_bqCDJqkC923Tz-nYzq1fb_piy8j5ap82owKzQIcnSjNk-A1JfGDUCCebKkJxw=="
+        },
+        {
+          "label": "Iran targets fuel facilities, sending oil soaring again - Vanguard News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzhHVg5R71VoNfpT5a9l5_tGDO9lVEExDh8qjDhtf7bKhMWUMdoclRvyX0CM2xBPzDr4PU67xoeqE_ol6KscQb5TLI9GlPTZW60Rj8f7wL8aHQAO9kZotyq5fzyf6RAmHPJUWfBxotHsPVeTMnngVT2b9ZqvXcMngf3mnkpnvqIdR6uRyJZ6p3fc14MRFNPZvw1YE2w=="
         }
       ]
     },
@@ -6927,6 +7075,18 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE91veYmMhhHAqTpoh5Tu6OUdzMHnB_A5swsCKMZ6HQkVbTKwz4Lmz3OHZCNCDdPH_xJ_J3Uq-0UlI8rOPmx-K17LacEaYB_YDhkcIl_WwMfqU6YObCEHKiMevuEpwUApAe_IxyO_AhlnQBfvad-nPDwA4="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3C5zsxma8Bw9K_soZGVr_PxNd6BRQiyCju0sz9GBPn0_R1KrsOvcBHNFtSq8kB22qG-ElmcVIB3y8Ys52u7Pc8JLfFIK4mYj97t22_QhuJEVsq12CzOrOwoLRF1bS05JYu99Ec5crWAiu45oYujWiErfn52yXyWPMuT061-HVy7jdeLObFYH9OnqY_k3bnI5OGCR-ADUjoKfZ08hnbqFB5qgeU6oCuw=="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
         }
       ]
     },
@@ -6947,6 +7107,14 @@
         {
           "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPv-TRGJ4kPvoh3cAzNiPZ1XWw50RQUMEYAzFP9R_Uw0U_plrbY4wPv9vLF4ZkHOc93GY6GmQ4_taNzPoqRv8hUc4eQdpzQXb4G3ixOMT2ANuH_CzSwnrYlSwuKlxPDfaH8pKvg7sakZFsLomWEpoXy7fTLwQBSV2XcNOLiDWddk9yoJh3I__qQF8O0NM="
+        },
+        {
+          "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCJYT0rftJ_zZ57sDpudCtQlucjaa0cWcN6NaA4S6QyV6JMqofNfxp_-4LGrUGwxiNbyz9sHlEffxNPvqZHGA4v91k5osTt61HTadCI4fj9yss5WeFYYYI4IBMBejY56XgrhziJWDGwm1PV9ZxZv6BoZCRf86Mfg_4ZDOGHnIrZCCXa7Vid5pC_4i4sLJ1vmpla26wy-gtCTKZYGcu2hHkph38iP2AvWkB6P2WgD9fQ=="
+        },
+        {
+          "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmgduO0xfsQpiLQmcYOUT1k3zMfYUIr572GMMMAXXOgO0OvyeEP4lePcsr18qQQ6iJB0jCe4Q3RAMVr1Obx_nIlmsEa7tbHPvSceE1XEIWl3WXL0UEq_4WncLfjpUvC_oo0lK7jXOHyFidi-QJZOSmSfYDgxurUWkzI5dIRcIc_UpoYRqTPaKbOThNzA=="
         }
       ]
     },
@@ -6959,6 +7127,10 @@
         {
           "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        },
+        {
+          "label": "The global price tag of war in the Middle East - The World Economic Forum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4H1O8wT2C4-grJhcJMZL5NzwgFqPBZItuFn-qdi1tetYZBhVZuMuuS_RoJlSfs3wwIdIqpegAIDk6GNxtaZQY-igUiUDVIvntVKQQCXivXnzJK_hQXq98rZfXjZPaXVkVHkJivv-j0sbDT1eT2dqLG9rGDEeipGpAt7-0x04ODP7QRN6LAV_GcUaXKp2pikr"
         }
       ]
     },
@@ -6971,6 +7143,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
+        },
+        {
+          "label": "The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPdhd-lTtV-PUpBPt-yFJpojVmbGSp_UkDeoDP9QGj7zTAav_YBMWzuQaPiNxfHxiE6aLbkhWm4RtwVfF7GLT49lU5E2qk0HBL_qIJqFn1GnJiwxHsU8ycXj8pQW3fXsGVk8O-x6f09dz49fkBFbcVCe25_on3300OkEvVlI8ye5FYXJQP1240UrXg1M6QoFZtQ=="
         }
       ]
     }
@@ -7110,6 +7286,14 @@
         {
           "label": "Iran war could leave lasting shock on commodities: report - MINING.COM",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtF399sAvEfKAH5_GmqQ4VA_nSgwFjA7l6-qDB-LhS_Ng6LZDy_D52IpRV5nPhS82RzrstlnwoUADlK1g8PHtxxUNgvHsUIaLsGQFhzf7ITRGI3Vub7rptXcZyG2_g2EYIT5MxkeZ1K6Z32gxgnirdl_FTqOs3LHhhr1srcOlOVfv7lLTH2tVDPw=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
+        },
+        {
+          "label": "What does Middle East conflict mean for battery supply chains? - Benchmark Source",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWNPeq7o6sWRCC75Mwy5dd7jU7ox_2uWbRxRGWmv-Bfw0uhWlyTOYB37Ty2D7liNOaRd_mnn-AZQAh7BeXa-r6zEwfLW9q7VB296UDx20LGQonVFIPxAMRjwYY1-qq3VJ820KsDbzYro0aRzNPy2rxoh7ETh-vQ2z4BgQH0_VcGk6pA4DuxAMYayxk73NdhRgC2qoQmUrgmCo38BLoj1_4uDfN5Rj2ttL"
         }
       ]
     },
@@ -7381,6 +7565,14 @@
         {
           "label": "Middle East conflict jolts energy and metals markets - The Northern Miner",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmQQ1f9DcqczqXel7vNH5wvCMSmP2XVpYijKPyV26LE1Iq8JHKWgOa-9hIkc3eSEuoM4ADrXAqtMTgrB6NB3DszqGDx-LMphn0plXfSgea_0_bUKK_eEO6eiCU6ZUta6WSOLoDmV1VQGd5zWtw4DUv46pXGr5ckbyJPcBkf_S00cuCpHj1vni6I6VMdLS4KxAWXhLydF4BnkN8iFcBA=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
+        },
+        {
+          "label": "The Iran War's Hidden Front: Food, Water, and Fertilizer | Council on Foreign Relations",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_VP6kxspoWJQy-QMn2bYBAzV6alOjmivHwFcYujoPFu7tMU20Vyb-xYu7FufTCJvHlThwiKYaLuq43AJZcNBnjGpvDheQmO65bYpJ-TGiADPmzKd1XLemmCQXhThmE6RdCPMqTbIA-gOtxpdAr5qBAXNg5GgqXyGhLVOJDHC6A6_mSk6oyEDlpMzC"
         }
       ]
     },
@@ -7494,6 +7686,14 @@
         {
           "label": "Middle East conflict jolts energy and metals markets - The Northern Miner",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmQQ1f9DcqczqXel7vNH5wvCMSmP2XVpYijKPyV26LE1Iq8JHKWgOa-9hIkc3eSEuoM4ADrXAqtMTgrB6NB3DszqGDx-LMphn0plXfSgea_0_bUKK_eEO6eiCU6ZUta6WSOLoDmV1VQGd5zWtw4DUv46pXGr5ckbyJPcBkf_S00cuCpHj1vni6I6VMdLS4KxAWXhLydF4BnkN8iFcBA=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
+        },
+        {
+          "label": "The Iran War's Hidden Front: Food, Water, and Fertilizer | Council on Foreign Relations",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_VP6kxspoWJQy-QMn2bYBAzV6alOjmivHwFcYujoPFu7tMU20Vyb-xYu7FufTCJvHlThwiKYaLuq43AJZcNBnjGpvDheQmO65bYpJ-TGiADPmzKd1XLemmCQXhThmE6RdCPMqTbIA-gOtxpdAr5qBAXNg5GgqXyGhLVOJDHC6A6_mSk6oyEDlpMzC"
         }
       ]
     },
@@ -7583,6 +7783,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
         }
       ]
     },
@@ -7837,6 +8041,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Remarks by Minister for Foreign Affairs Dr Vivian Balakrishnan at the Special Emergency Meeting of ASEAN Foreign Ministers on the Situation in the Middle East, 13 March 2026 | Ministry of Foreign Affairs",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS0UlC4ZQCZqyjHileQxnm7K8FGgCjDGPDufFZrLDExg_WuYxQnD9skFwxwvYgdC_KnQJE9gaKjeEfj2sX6BVVTNE5Muxfkg811j7cgjt371C8S0R0idjyasCaNmPdAIUoPDI7uM2mfW2emkm281B7ZTJFIGLTD11FSsNo57G9psOGM-TI-b74N3sXQ5Ygihi0ioEseutxHPPd9qQAHUB7PkLuigFY0Ai4wrofGTVxb4ZqIDIcYY_e8_OPDpLPEJZDkXsqVjF7Gfu4M74L7-4chqWzFgzdBWmOauOwaLXeFKQQ4Q4STXvYPgGnmm7Sk9b6y-ulg5jTEMP03ShwolpKdPk_apim39YRpMiuXUXuXSGFEiNyq2qgYRP37gHfmuMQClpjjRDbO047KC9KY8vI"
         }
       ]
     },
@@ -8047,6 +8255,10 @@
         {
           "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        },
+        {
+          "label": "The global price tag of war in the Middle East - The World Economic Forum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4H1O8wT2C4-grJhcJMZL5NzwgFqPBZItuFn-qdi1tetYZBhVZuMuuS_RoJlSfs3wwIdIqpegAIDk6GNxtaZQY-igUiUDVIvntVKQQCXivXnzJK_hQXq98rZfXjZPaXVkVHkJivv-j0sbDT1eT2dqLG9rGDEeipGpAt7-0x04ODP7QRN6LAV_GcUaXKp2pikr"
         }
       ]
     },
@@ -8204,6 +8416,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
         }
       ]
     },
@@ -8322,6 +8538,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
         }
       ]
     },
@@ -8347,6 +8567,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "The global price tag of war in the Middle East - The World Economic Forum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4H1O8wT2C4-grJhcJMZL5NzwgFqPBZItuFn-qdi1tetYZBhVZuMuuS_RoJlSfs3wwIdIqpegAIDk6GNxtaZQY-igUiUDVIvntVKQQCXivXnzJK_hQXq98rZfXjZPaXVkVHkJivv-j0sbDT1eT2dqLG9rGDEeipGpAt7-0x04ODP7QRN6LAV_GcUaXKp2pikr"
         }
       ]
     }
@@ -8743,6 +8967,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
         },
         {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
+        },
+        {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXW42geEd8zZa1ecucTwv4OgS35sagtbBbPnDR8RF9wVlYYUWS2DTHS0dufxBc66lq_IYQU0QjPLZBu-iGkkK0kRSGaFJcOn32BsTREuJke9WIdwutJZaHWt-zQ=="
         },
@@ -9021,6 +9249,26 @@
         {
           "label": "IEA members agree to release emergency oil reserves amid Mideast conflict - Xinhua",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFweKLvMTLrPW-mBqZRcDQyURaEXWcZkwprucTT1PM5MyfxxfkesFktLOSX7Ym3Z8xNK7WKvpU_4s51oJFuMlUQWXtIwFLpKQ9-AGGnRg7NDIt8wbyzm2qIA5zC0VYIA2Q2A0Lo9pX893uAvj3CKQZ-kMd6gT4nF94rLH2nGUYwONcsrA=="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE91veYmMhhHAqTpoh5Tu6OUdzMHnB_A5swsCKMZ6HQkVbTKwz4Lmz3OHZCNCDdPH_xJ_J3Uq-0UlI8rOPmx-K17LacEaYB_YDhkcIl_WwMfqU6YObCEHKiMevuEpwUApAe_IxyO_AhlnQBfvad-nPDwA4="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3C5zsxma8Bw9K_soZGVr_PxNd6BRQiyCju0sz9GBPn0_R1KrsOvcBHNFtSq8kB22qG-ElmcVIB3y8Ys52u7Pc8JLfFIK4mYj97t22_QhuJEVsq12CzOrOwoLRF1bS05JYu99Ec5crWAiu45oYujWiErfn52yXyWPMuT061-HVy7jdeLObFYH9OnqY_k3bnI5OGCR-ADUjoKfZ08hnbqFB5qgeU6oCuw=="
+        },
+        {
+          "label": "G7 weighs historic strategic oil reserve release | CMC Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK3jWaxELsXI-gMeGGmhKlXbeeb3vMzB9q89niBcD000APywvn4ClJXOO_e-51vC30ApuKxBmHHvNbXMSKEfrKUVex1OinbbquLP9XQmIk5VVla97nUY8TtL8uYfxdtMsjVCwdAHy2akA1BNGs2TIogZ39KDGvjnKmQ7KpYx0Ran_Dt5kP7t6-fSVr7DVoGAOF-R2_YEAnHIe9TP4e"
+        },
+        {
+          "label": "G7 to discuss coordinated oil reserve release, FT says; dollar pulls back",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLXk9-bvNv4QcMyp4l97_fNzddYDSJDxYPt0Nnoe_IKXDuwK-_jqUzxuqn4H6xuFqDAvYlrg0Y5rYuAl6Mm4We0TGm8bQXTYiU6Fgdep1dpd19gdEfNxC0VUqT5ek95YD38HjrGTVnbUxzbrjL6UAs7hCaDY6kHdVL0c9GXlNdbAk_lyzLxlogXpwXB7-jwifXO0JL32YxHezxi0XrfRaktBixkup_rQ=="
+        },
+        {
+          "label": "G7 finance ministers to discuss emergency oil reserve release amid price surge: report",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-z0q6_-L4isAUdb5xL4d13SIhFjPAF_ziBC5zn2KDYDWo5RXBG7LMwgzu02lTOSwv5S1AmBKNgZaWwkpG5ZmIDplNkjRZ1AXyoudYhOgtsvnhZrRachK6SzXTNRfONwdpCh7YzO49pxLQNP8rEqdWc7fO0lBGIP4oAGWgQUjAe3DnNKAfIxZZP6ESbywJwtRuL9MPHTW_WIRlydr3rn3jzJGuKx6ieDTK4swWG0w3Ig="
         }
       ]
     },
@@ -9227,7 +9475,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 80,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "日本首相高市早苗表示，日本将“率先行动”，从3月18日起从其私人和国家石油储备中释放约8000万桶石油，以帮助稳定全球石油市场。",
+      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油。",
       "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可满足约200天进口需求。日本政府已指示准备释放石油储备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油。",
       "sources": [
         {
@@ -9317,6 +9565,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
         }
       ]
     },
@@ -9433,6 +9685,10 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
         }
       ]
     },
@@ -9573,6 +9829,10 @@
         {
           "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCVrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
         }
       ]
     },
@@ -9877,6 +10137,10 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
         }
       ]
     },
@@ -10185,6 +10449,14 @@
         {
           "label": "India's strategic Oil reserve helps tide over the supply disruption - The Indian EYE",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOkX9eSrmyhUxXksAm6PMBXZOF2Ut9vb2vkjmDrS6WXFkznYRt8B6HuelVJhAn8OWRcPNZSR0r-SElDYxEjOk04UUXTNtXkH740QTfuOGOevLkIUSITmd3ECuwLYfRMd24z96Rex0Gztt0ON8vCl9V9I8vTka7NXLI85KS7AU4l5m_H43OSIQA0nTP950kGwralNt1rY2DWfclyCuYNKh1oic="
+        },
+        {
+          "label": "The global price tag of war in the Middle East - The World Economic Forum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4H1O8wT2C4-grJhcJMZL5NzwgFqPBZItuFn-qdi1tetYZBhVZuMuuS_RoJlSfs3wwIdIqpegAIDk6GNxtaZQY-igUiUDVIvntVKQQCXivXnzJK_hQXq98rZfXjZPaXVkVHkJivv-j0sbDT1eT2dqLG9rGDEeipGpAt7-0x04ODP7QRN6LAV_GcUaXKp2pikr"
+        },
+        {
+          "label": "The Iran War's Hidden Front: Food, Water, and Fertilizer | Council on Foreign Relations",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_VP6kxspoWJQy-QMn2bYBAzV6alOjmivHwFcYujoPFu7tMU20Vyb-xYu7FufTCJvHlThwiKYaLuq43AJZcNBnjGpvDheQmO65bYpJ-TGiADPmzKd1XLemmCQXhThmE6RdCPMqTbIA-gOtxpdAr5qBAXNg5GgqXyGhLVOJDHC6A6_mSk6oyEDlpMzC"
         }
       ]
     },
