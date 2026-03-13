@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13 14:14（北京时间）",
+  "lastUpdated": "2026-03-13 19:58（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -117,9 +117,22 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1japBl19parA-Fs-LLLlUJXir1rBTgVLvvmNUWoGSGBUUhaxovpQun0M7sQaLfV3fSdTB9RWrI_m-HnDscIOLloepB-Svp2vsseovoXSmbFVLab3IvByVRqfe6EQsVnxyWt9NQ3Bl"
+        },
+        {
+          "label": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK7HfhbslMtRBrKmAu3U-SpK3DZF9QshmlKRwLmiJf081xxkG4pIPiVxzSzNytO58nmlFTUGe8AyHjDOLg0stnypIhaNqkMGAjb_PGUFu44d6wJcP5P1Vs85lS46Kpl9Q-FabueGTa"
         }
       ],
-      "baselineSources": [],
+      "baselineSources": [
+        {
+          "label": "Reuters 伊朗能源概览",
+          "url": "https://www.reuters.com/world/middle-east/an-overview-irans-energy-industry-infrastructure-2026-02-28/"
+        }
+      ],
       "products": []
     },
     {
@@ -295,6 +308,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
         }
       ],
       "baselineSources": [],
@@ -895,6 +912,10 @@
         {
           "label": "京报网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4FOx6vP8B86sctKKZh7In6bDu1VMpML9YuH-z2AWJy8Gzu2kxNgGi9tJTYlJps1O-C26s1n-NZ_qRwOPWQ6PhtqTPAGgojlIrDmmnv2NJp0XfWdMEQeNvm1BpffAMizf0vTdWhWdx8BrFpYw="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [],
@@ -1000,6 +1021,18 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - San Francisco Chronicle",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpq0P_J8tpjp6J-9eqB5FufUtxXth7JML03rgkirijHpjYOaGP8oCF2oTvI-6HN4hOOSSXnXFpJb8K0cF00diuAi3uyjG06iy60RLnRgJSclQqsRn9_bUh6WzyX4l4UPCm1mcP2vRT6H2I6ZeDdaVrXDJDX4PxhwWWxSA15Oppioep2CBXskIUlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Major UAE refinery shut as Saudi Aramco warns war spells catastrophe for oil | NAMPA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5ePB8mirXZID-Zim3Qh_U_DILp39aQtsYM8IDEdp33ZXgCLK2fQMFDwVC0rLKSAmrXg7wNtmqcw5MQ-sQfyhfIf01FuQEyM5H36LPPCw3ZeNa6Ewj_zZbtVYfDKa4"
         }
       ],
       "baselineSources": [],
@@ -1087,7 +1120,7 @@
       "normalizedType": "oil",
       "normalizedValue": 550,
       "status": "已停产",
-      "current": "10日沙特摧毁两架无人机。沙特阿美警告若霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。IEA报告指出该炼厂25.5万桶/日凝析油分离装置在2月28日前已因维护停运。",
+      "current": "10日沙特摧毁两架无人机。沙特阿美警告若霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。IEA报告指出该炼厂25.5万桶/日凝析油分离装置在2月28日前已因维护停运。该炼厂在无人机撞击后暂时关闭。",
       "sources": [
         {
           "label": "Reuters",
@@ -1232,6 +1265,18 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - SFGATE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPUEdDK8sD1SHL1wQWcAW1tu0a-Ro4HfaGCt5G9feelR92jA-kqHKjgJO81bA68LKNDVI-SHXRuCdYYhLa3lz7v-fZVqrU6pMMl0_JOYJzawERZcWxoJBLiJsMEmi1em4L92aVC4-4XYwfZ0OikvpB_gCxESKWeny_YIznl76w2uIfnMaSzLbdR7g7Th_IxciisD8IYaokAw7z6kuyFa0="
+        },
+        {
+          "label": "Major UAE refinery shut as Saudi Aramco warns war spells catastrophe for oil | NAMPA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5ePB8mirXZID-Zim3Qh_U_DILp39aQtsYM8IDEdp33ZXgCLK2fQMFDwVC0rLKSAmrXg7wNtmqcw5MQ-sQfyhfIf01FuQEyM5H36LPPCw3ZeNa6Ewj_zZbtVYfDKa4"
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [],
@@ -1850,6 +1895,10 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [],
@@ -1944,6 +1993,14 @@
         {
           "label": "Methanol Trade and Maritime Shipping Amidst the Middle East Conflict - SunSirs",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvSYOdpgf1_Je2zKu2HN8TASwcc_Yn-AGjTyK6QwgnP4tFPW0gYvw4VJdfsrbfhM-G5Ye64hrbrJ8aUASwrj9vlcvKFCuwwouI88-bAlEWZnjWq5XEuE8tsSmcRaiOtDKeDYvQXI3CBrx7KctAPMNBoFvJ"
+        },
+        {
+          "label": "Middle East's largest refinery closed as precaution after drone attack - CGTN",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0ykz1sB50gJF4JHHc7PM4MrylZ2iiOPPIEQm3obiirGCfhIubja-ZHHaN3EH7QxvpuFVq6WkMWdHSFRS0Hx1yCwwxzgha1vHCsrxhYORet-TWLlK3xJWY78ojH8qP3toKvcyPfQ4zSU8UH5BiF0dMJjoosAxCHMJoMV_uvRKqOn9i8WvW_LDXEWXiu2j_O7yppgXhxOl3WEWUAcNUbf0OEMAyiUmgS5do8-tVKEJKQTZ9-7PogZgjwqQ=="
+        },
+        {
+          "label": "2nd LD Writethru: Largest refinery in Mideast closed as precaution after drone attack triggers fire in Abu Dhabi industrial complex - China.org.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhV2bQDUzYscnChnUAYCZDvnh8pK4y2MUg7-EkRw_vFOpMPFx3MKUVbUUZWJaMNIizwqX8U9w8Aic94m4Slz6pvKJ-RxUlnDUb9HiJmgSm4Shy75gLKW1v_rwxBhJaU3dC2KgXQMH5zda1O5vhU1N2dgOeWwjRm0buGnFgT1l9XF2_WbHkrXtc"
         }
       ],
       "baselineSources": [
@@ -1994,6 +2051,10 @@
         {
           "label": "Mideast naphtha supply tightens as disruptions mount | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjCXEgssvKcxRBtWm9reKY409bic27-KYZNM4c2D20TkqCWo0QwQqHyz92XZ_86CJ33xiXbULWDJd33uR37spC5o0ADIdPS8zxO_L7uRRbl3GNzswwnDL28eQmXPo0GwHIkV-vJvLT9HX2WUSm5HHWLvbWjpHDgLO74GHTyfTK6R2byn6Qtl4Ow_y_Z2gEGqrhFtv_Qe9_a4skDvL6gV7gO1noh92-W9AqucEg0UawIF_otL3pxWjsbww="
+        },
+        {
+          "label": "Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - San Francisco Chronicle",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpq0P_J8tpjp6J-9eqB5FufUtxXth7JML03rgkirijHpjYOaGP8oCF2oTvI-6HN4hOOSSXnXFpJb8K0cF00diuAi3uyjG06iy60RLnRgJSclQqsRn9_bUh6WzyX4l4UPCm1mcP2vRT6H2I6ZeDdaVrXDJDX4PxhwWWxSA15Oppioep2CBXskIUlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
         }
       ],
       "baselineSources": [],
@@ -2569,6 +2630,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
         }
       ],
       "baselineSources": [],
@@ -2861,6 +2926,10 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [
@@ -2989,6 +3058,10 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [],
@@ -3003,12 +3076,12 @@
       "country": "伊拉克",
       "facility": "全国石油生产",
       "category": "原油生产",
-      "affectedValue": 3000,
+      "affectedValue": 2900,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 3000,
+      "normalizedValue": 2900,
       "status": "减产",
-      "current": "8日因霍尔木兹海峡出口受阻，伊南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊石油产量已削减约290万桶/日。",
+      "current": "8日因霍尔木兹海峡出口受阻，伊南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊石油产量已削减约290万桶/日。12日伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右。",
       "products": [],
       "sources": [
         {
@@ -3110,6 +3183,22 @@
         {
           "label": "Oil Market Report - March 2026 – Analysis - IEA",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIttuYqKJwHWMWWW-d_Oa3J4a2IcE1y4001yCOYHN2X2HAAmex0PW3PBmOuf1nc09ilWxhMGYv1_3WNderK_cjoVjod_rImgPfg5ZYjRRqJf6iFRxj-7MdRl5gM5W7X5e4hBAIZQGytIvwfe-ceUhK4Vlg"
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
+        },
+        {
+          "label": "Iraq Reduces Oil Production to 1.2 Million Barrels Per Day - ScanX",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkudbtO5f7oaTx0_Xhk3BHHwbTJJTqviw2dkKQEWMwmWcwb6FJc4fdRX8H-V_cueUwUNo2OBPt0KAhRk1BzFS2uCGPAGNZK_uyCk-YJbETFIVyIyfqzFojKTJfpMxkVMswE1ZKlhuN3nm0IJA2ErW5yxtTybIC7HN3FHg9LZave-cQT_n9Gz0Ar85dfxXZNVdEqA-cF9WLtY92EvgjXfWtS8O38ajc9ABypPLRVzCnOQ=="
+        },
+        {
+          "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6ezbAS2VKE1ivXtM2ly_e2QJ1hQdESx5JHgpPqN8G86QYs5vPXIkvaDZfuIAAogJDL0a1e00Q_Bo9SuqS_ycYd5ITnqvGJWsZuGDywxYFV-Dv_XBysiKjN7ptHNs45pI_9fOg8Qe_lwVeIdO3zA2_ghw7zKNEMEnlqmymenm42Jxng1tBWtV3vUu-P17l_E_MlhDfDDE4D4ZQ9KIxZzugkhRGXqetBV8cDyCudpZSiE="
+        },
+        {
+          "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPv-TRGJ4kPvoh3cAzNiPZ1XWw50RQUMEYAzFP9R_Uw0U_plrbY4wPv9vLF4ZkHOc93GY6GmQ4_taNzPoqRv8hUc4eQdpzQXb4G3ixOMT2ANuH_CzSwnrYlSwuKlxPDfaH8pKvg7sakZFsLomWEpoXy7fTLwQBSV2XcNOLiDWddk9yoJh3I__qQF8O0NM="
         }
       ],
       "baselineSources": [],
@@ -3199,6 +3288,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFntEe5KJwNrZZ4YvuWtYEvTIay0bvNYsdlDYn1vICCb-W_aK9h3hsPoK-jCemW8t6pJMB-Sgdo_I2ZJBrtCEx-FSYjMDg9SIvNvWhAXvxARHr0qkh-Dc1YB7M1m7_mi9nRHDssmHJYospXUBZBpRZBpeMxBAAfNvpEcioFl6M5Jr2vXmDHpC2XBW628G4mdPKEoAvavM2eBBSb6w76JH4C4OhQ=="
         }
       ],
       "baselineSources": [],
@@ -3358,6 +3451,10 @@
         {
           "label": "Are Feedstock Shortages and War Risks Pushing Petrochemical Prices to New Highs?",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrFf-rVJnMo32JmCxUe6kNAH4M3cVD_SJG5kbAw9s2PJTh-W87uOwWQX7fvoicBksJ8IOk1aYWFTAiQy-qu3_hHNmvCR8TJiEGDPgn2FhM_ZneE_ckctaP3XDV6DsE1rqRayYMqXX7FHoF4KYf1M9SP5mHMrWPw6bxGKNRWTanaM7Lz5bbTFF5rlRTb6DyZ9jwcFkBywwKDT8AXw0zs8pWom6cAL2mcIHq-RJHjL6NFY="
+        },
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
         }
       ],
       "baselineSources": []
@@ -3968,6 +4065,10 @@
         {
           "label": "Mideast naphtha supply tightens as disruptions mount | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjCXEgssvKcxRBtWm9reKY409bic27-KYZNM4c2D20TkqCWo0QwQqHyz92XZ_86CJ33xiXbULWDJd33uR37spC5o0ADIdPS8zxO_L7uRRbl3GNzswwnDL28eQmXPo0GwHIkV-vJvLT9HX2WUSm5HHWLvbWjpHDgLO74GHTyfTK6R2byn6Qtl4Ow_y_Z2gEGqrhFtv_Qe9_a4skDvL6gV7gO1noh92-W9AqucEg0UawIF_otL3pxWjsbww="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [
@@ -4112,6 +4213,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        },
+        {
+          "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
         }
       ],
       "baselineSources": [
@@ -4526,17 +4631,19 @@
       "country": "波兰",
       "category": "化工",
       "facility": "Indorama Venture Wloclawek PET工厂",
-      "products": [
-        "PET"
-      ],
-      "designValue": 230000,
-      "designUnit": "吨/年",
+      "products": [],
+      "designValue": 230,
+      "designUnit": "kbpd",
       "status": "已宣布不可抗力 / 停产",
       "current": "2026年3月2日，Indorama Venture位于波兰Wloclawek的年产23万吨PET工厂因技术问题停产。3月11日，Indorama宣布对欧洲PET供应遭遇不可抗力，将无法交付3月和4月的约定数量。",
       "sources": [
         {
           "label": "INSIGHT: Secondary impacts of Middle East conflict could reshape Europe recycled polymer markets | ICIS",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtql34Szi6YMwXX_of19qFcOKE3y5yTs4T0KzMibdfoTgiWy4btKTwO75jlOFa1wl7rq_9T_36ypkTEiC3Vq4Nsv-huPhGkDWxHPigG8SiZnDMOyedN-zVKXghtRTwPtdhfqR_ii9fMunS7snfFR2xJZ_g9t-UgJAo-Mw34-6B5FM1XEunMeoyuCCdCw5Xmtt6lKcSZ5aZGOyUxKLpRPwprY8Y9TgHeHlKKbhiHWfJH_pyJoEfqf4ijKgPBo9-GVWXYGSlc0o21gi02wAF9bXOMTxIjepQXojSI6w="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ],
       "baselineSources": [],
@@ -6157,6 +6264,18 @@
     },
     {
       "date": "2026-03-10",
+      "title": "G7财长声明准备协调释放战略石油储备",
+      "type": "政策协调",
+      "text": "G7财长声明准备协调释放战略石油储备，以应对霍尔木兹海峡中断导致的油价波动。",
+      "sources": [
+        {
+          "label": "G7 Finance Chiefs Signal Readiness for Massive Oil Reserve Release to Subdue Energy Market Volatility - The Chronicle-Journal",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57MO5BZq1ojEXvEcfOECdfgW8MZU2uhfHsNyimS5jzN-VsGZOcxQgwXAU8R4vVWqovI6cEQBKXMVcyHaM9079qabDKGxEgqhK5qaGPg961kJ4aoqxrywmKUikLwjqnU4XhPs6MyWfIYmh0bfMP7RDJymeo6lKbrevc1QcCPew57YsoWcjls7b4-dST4QN-UUB9UZVW1sGu4CJEG81pgHlPchZtkEfhhCj8G3rfs6E2rbcgbg_Phzv-av6eU2jhXelLl4gKd0uncQG8RYmPjO_bdq1lHJOXo-sAJMMtBWvQJydUyqLOVnQW5drzqFPOpZAffrVCQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
       "title": "中东冲突持续，非洲面临燃料、食品价格上涨风险",
       "type": "外溢影响",
       "text": "能源咨询公司Zero Carbon Analytics分析指出，中东危机可能导致撒哈拉以南非洲地区燃料成本、食品价格和通货膨胀上升。全球约五分之一的石油和液化天然气通过霍尔木兹海峡，冲突持续可能导致能源价格飙升，对严重依赖进口石油和天然气的非洲经济体造成冲击。",
@@ -6232,6 +6351,18 @@
         {
           "label": "京报网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4FOx6vP8B86sctKKZh7In6bDu1VMpML9YuH-z2AWJy8Gzu2kxNgGi9tJTYlJps1O-C26s1n-NZ_qRwOPWQ6PhtqTPAGgojlIrDmmnv2NJp0XfWdMEQeNvm1BpffAMizf0vTdWhWdx8BrFpYw="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "title": "伊拉克石油部宣布削减石油产量",
+      "type": "减产",
+      "text": "伊拉克石油部宣布将该国石油日产量削减至120万桶。",
+      "sources": [
+        {
+          "label": "Iraq Reduces Oil Production to 1.2 Million Barrels Per Day - ScanX",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkudbtO5f7oaTx0_Xhk3BHHwbTJJTqviw2dkKQEWMwmWcwb6FJc4fdRX8H-V_cueUwUNo2OBPt0KAhRk1BzFS2uCGPAGNZK_uyCk-YJbETFIVyIyfqzFojKTJfpMxkVMswE1ZKlhuN3nm0IJA2ErW5yxtTybIC7HN3FHg9LZave-cQT_n9Gz0Ar85dfxXZNVdEqA-cF9WLtY92EvgjXfWtS8O38ajc9ABypPLRVzCnOQ=="
         }
       ]
     },
@@ -6349,6 +6480,22 @@
     },
     {
       "date": "2026-03-10",
+      "title": "沙特阿美警告霍尔木兹海峡关闭的“灾难性后果”",
+      "type": "市场警告",
+      "text": "沙特阿美CEO警告，若霍尔木兹海峡持续关闭，全球石油市场将面临“灾难性后果”。",
+      "sources": [
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
+        },
+        {
+          "label": "Major UAE refinery shut as Saudi Aramco warns war spells catastrophe for oil | NAMPA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5ePB8mirXZID-Zim3Qh_U_DILp39aQtsYM8IDEdp33ZXgCLK2fQMFDwVC0rLKSAmrXg7wNtmqcw5MQ-sQfyhfIf01FuQEyM5H36LPPCw3ZeNa6Ewj_zZbtVYfDKa4"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
       "title": "阿联酋ADNOC Ruwais炼厂因无人机袭击预防性关闭",
       "type": "设施受损",
       "text": "阿布扎比国家石油公司（ADNOC）旗下Ruwais炼厂在无人机袭击后作为预防措施关闭，该综合体日炼油能力达92.2万桶。",
@@ -6376,6 +6523,22 @@
         {
           "label": "CMS LawNow",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "title": "阿联酋Ruwais炼油厂预防性关闭",
+      "type": "设施受损",
+      "text": "阿联酋Ruwais炼油厂（中东最大炼厂）在无人机袭击后作为预防措施关闭。",
+      "sources": [
+        {
+          "label": "Middle East's largest refinery closed as precaution after drone attack - CGTN",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0ykz1sB50gJF4JHHc7PM4MrylZ2iiOPPIEQm3obiirGCfhIubja-ZHHaN3EH7QxvpuFVq6WkMWdHSFRS0Hx1yCwwxzgha1vHCsrxhYORet-TWLlK3xJWY78ojH8qP3toKvcyPfQ4zSU8UH5BiF0dMJjoosAxCHMJoMV_uvRKqOn9i8WvW_LDXEWXiu2j_O7yppgXhxOl3WEWUAcNUbf0OEMAyiUmgS5do8-tVKEJKQTZ9-7PogZgjwqQ=="
+        },
+        {
+          "label": "2nd LD Writethru: Largest refinery in Mideast closed as precaution after drone attack triggers fire in Abu Dhabi industrial complex - China.org.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhV2bQDUzYscnChnUAYCZDvnh8pK4y2MUg7-EkRw_vFOpMPFx3MKUVbUUZWJaMNIizwqX8U9w8Aic94m4Slz6pvKJ-RxUlnDUb9HiJmgSm4Shy75gLKW1v_rwxBhJaU3dC2KgXQMH5zda1O5vhU1N2dgOeWwjRm0buGnFgT1l9XF2_WbHkrXtc"
         }
       ]
     },
@@ -6453,6 +6616,18 @@
     },
     {
       "date": "2026-03-11",
+      "title": "IEA和美国宣布释放紧急石油储备",
+      "type": "政策协调",
+      "text": "国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，美国承诺释放1.72亿桶。",
+      "sources": [
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
       "title": "伊朗伊斯兰革命卫队宣布重创美军驻科威特和巴林多个基地",
       "type": "军事打击",
       "text": "11日伊朗伊斯兰革命卫队发布“真实承诺4”行动第31号公告，宣布重创美军驻海湾多个基地。美军驻科威特乌代里直升机基地遭两轮密集导弹袭击，造成大量伤亡。巴林米纳萨勒曼港作为美海军第五舰队核心支点设施受损，关键设施被击中。美军驻科威特爱国者营地、穆罕默德·艾哈迈德海军基地及阿里·萨利姆空军基地宿舍与装备库均遭严重破坏。",
@@ -6468,6 +6643,38 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxn2MItDGR-6gvxmCBpMWoKTnPIzpmL-Qg2NfRAXAfNmIiN8-hX70EPJz7yud52wCZuX_xuaU6FLZYFuGHyNeoJDSIzhN6nEe1wqLDpbGnmKFqNm5PuV-22r98bIAUP0YhJDtlGysh"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "title": "伊朗升级对海湾地区民用基础设施和运输网络的打击",
+      "type": "冲突升级",
+      "text": "伊朗大幅升级对海湾地区民用基础设施和运输网络的打击，袭击商船并瞄准迪拜国际机场。",
+      "sources": [
+        {
+          "label": "Iran escalates attacks on infrastructure and transport networks across the Gulf",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt2OOfgE_3k2ZrZYUZFuZTtbdcXK6rmOR9mDvSmOfw2P8MK7FKlbduTZrnmZEUXlhIeIanmCFuoLHzcQ6y0Xjf4bC95ZX1ngohs74BMS_FzRMuCfjHyK-_WIfWZqSdo3Em_cjamB-h6GnMKK_BDxnj1r7bDIqqCMFWdXFbab2-egKOtn54ARvo1kR5e1LXNQfrXvrWgi_GHnofOJKIlnXWlMcbTKWX5A_9RvFX5CqIkQekDfekEzOg"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "title": "伊朗新任最高领袖誓言继续关闭霍尔木兹海峡",
+      "type": "冲突升级",
+      "text": "伊朗新任最高领袖Mojtaba Khamenei誓言将继续关闭霍尔木兹海峡，并警告世界油价可能达到200美元/桶。",
+      "sources": [
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
         }
       ]
     },
@@ -6716,6 +6923,54 @@
         {
           "label": "IEA Warns: Hormuz Crisis Triggering Largest Oil Supply Disruption in History - gCaptain",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_WGhAYcN-5cqAW6xWsfrJQOnxdqCCYxBAKTO6e81OeUtb_64OnIiEznMDTftGR1H_lZzGpGc5e9VbGqunYABoNUkWW-v9ztufnj5NkXvsIuDzIVsn4V3mGWcNnNlAqSjk_cvCCME5txPpuxLFACJGxSd6b251k_KYzyLBUDIqZe2khL5KXw2u07rBCqQHzRfcDGdiiUfULa0un1Q="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "title": "伊拉克原油产量稳定在每日140万桶",
+      "type": "减产",
+      "text": "伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右，远低于战前水平。",
+      "sources": [
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
+        },
+        {
+          "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6ezbAS2VKE1ivXtM2ly_e2QJ1hQdESx5JHgpPqN8G86QYs5vPXIkvaDZfuIAAogJDL0a1e00Q_Bo9SuqS_ycYd5ITnqvGJWsZuGDywxYFV-Dv_XBysiKjN7ptHNs45pI_9fOg8Qe_lwVeIdO3zA2_ghw7zKNEMEnlqmymenm42Jxng1tBWtV3vUu-P17l_E_MlhDfDDE4D4ZQ9KIxZzugkhRGXqetBV8cDyCudpZSiE="
+        },
+        {
+          "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPv-TRGJ4kPvoh3cAzNiPZ1XWw50RQUMEYAzFP9R_Uw0U_plrbY4wPv9vLF4ZkHOc93GY6GmQ4_taNzPoqRv8hUc4eQdpzQXb4G3ixOMT2ANuH_CzSwnrYlSwuKlxPDfaH8pKvg7sakZFsLomWEpoXy7fTLwQBSV2XcNOLiDWddk9yoJh3I__qQF8O0NM="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "印度面临LPG短缺，政府要求炼油厂提高产量",
+      "type": "供应危机",
+      "text": "印度面临液化石油气（LPG）短缺，政府已要求炼油厂提高产量并优先保障国内供应。",
+      "sources": [
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "美国考虑军事干预霍尔木兹海峡以恢复石油运输",
+      "type": "政策调整",
+      "text": "美国财政部长表示，一旦军事条件允许，美国海军可能会与国际联盟一起护送船只通过霍尔木兹海峡。",
+      "sources": [
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
         }
       ]
     }
@@ -6730,7 +6985,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "中东冲突导致硫磺供应严重中断，波斯湾滞留大量运载硫磺船只。全球约50%海运硫磺贸易每年约2000万吨源自海湾地区并需通过霍尔木兹海峡。卡塔尔能源公司已暂停硫磺生产。3月5日现货硫磺价格上涨15-21%。8日霍尔木兹海峡关闭威胁全球硫磺供应，导致化肥、金属和半导体行业面临风险。海湾地区占全球硫磺产量44%。10日，中东冲突正通过硫磺短缺威胁非洲铜钴生产，赞比亚和刚果民主共和国约90%的硫磺进口来自中东。",
+      "current": "中东冲突导致硫磺供应严重中断，波斯湾滞留大量运载硫磺船只。全球约50%海运硫磺贸易每年约2000万吨源自海湾地区并需通过霍尔木兹海峡。卡塔尔能源公司已暂停硫磺生产。3月5日现货硫磺价格上涨15-21%。8日霍尔木兹海峡关闭威胁全球硫磺供应，导致化肥、金属和半导体行业面临风险。海湾地区占全球硫磺产量44%。10日，中东冲突正通过硫磺短缺威胁非洲铜钴生产，赞比亚和刚果民主共和国约90%的硫磺进口来自中东。11日，中东冲突可能对电池供应链产生广泛影响，全球硫磺供应减少。",
       "sources": [
         {
           "label": "Middle East Conflict Disrupts Sulfur Supply Chain - Binance",
@@ -6847,6 +7102,14 @@
         {
           "label": "Sulphur exports caught up in conflict shorten market | Latest Market News - Argus Media",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSzbuJpBIP9Su3-MjCcb7UjIq9tgrwMmFPooOEMF2RLjUJhRxtNaBENU9cMYff_IJ035CGkv4PJqwUmMXOGwJ791vO3A6w7TJDWr3YIr5mhE9Xi_YMtToQMDOIYbaoGN0mhujLR7PBKMUupGGinG2X3XCl5__3B49PYMHmyNy0ETKBweOycrxSb3u8gYCeHhKsVn5p9W07ZjLyqdaWRF-6DTJNlNCfG2VspvHZFwPQLU0eq5zVDxAIKTA="
+        },
+        {
+          "label": "What does Middle East conflict mean for battery supply chains? - Benchmark Source",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd49Nzm12OwBc640I75W0B0-mNyh2UdeYAaLdxzDnA9autvt3FV2CaG672gtSOABzg_UBShqX6OomG__yrDfFx7wvss0P0Wc5xemRT0IpkUZiaEyEBOPtvCCpONf8YybzBVCdrxkys_fG9Bx4R-rkMu3OLR0puWuL7OsZSnU_5vdhCxBHqINz-5hNew5xSfhvnufHY9M8IhK_ZpIpWCJ1C9MgzGhb8bfsjcg=="
+        },
+        {
+          "label": "Iran war could leave lasting shock on commodities: report - MINING.COM",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtF399sAvEfKAH5_GmqQ4VA_nSgwFjA7l6-qDB-LhS_Ng6LZDy_D52IpRV5nPhS82RzrstlnwoUADlK1g8PHtxxUNgvHsUIaLsGQFhzf7ITRGI3Vub7rptXcZyG2_g2EYIT5MxkeZ1K6Z32gxgnirdl_FTqOs3LHhhr1srcOlOVfv7lLTH2tVDPw=="
         }
       ]
     },
@@ -7114,6 +7377,10 @@
         {
           "label": "Beyond Oil: The Wider Supply Shocks of the New Gulf War - Policy Magazine",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYyJXBkLyDvukNECywyrxYQhupLLu86gzNlLhZxED0s3XZ3IhpkNXodyCFtoEwXh_gtsoo2GTzhVdzfNHuus1V1yQUry3TLwRrffBHXm0BYXL9m-JyrmXHlWJxe6sD13JZvEWDDTt9rMjsGKULjG-3cdhsRBZowm7PtCZrO4svBJs5Agp-S9k4dVRzy3tSNBM="
+        },
+        {
+          "label": "Middle East conflict jolts energy and metals markets - The Northern Miner",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmQQ1f9DcqczqXel7vNH5wvCMSmP2XVpYijKPyV26LE1Iq8JHKWgOa-9hIkc3eSEuoM4ADrXAqtMTgrB6NB3DszqGDx-LMphn0plXfSgea_0_bUKK_eEO6eiCU6ZUta6WSOLoDmV1VQGd5zWtw4DUv46pXGr5ckbyJPcBkf_S00cuCpHj1vni6I6VMdLS4KxAWXhLydF4BnkN8iFcBA=="
         }
       ]
     },
@@ -7223,6 +7490,10 @@
         {
           "label": "Middle East conflict strains fertilizer supply chains",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDL4ccM-6I7xdc-eidGvU7o0vIbKMNDE9VMOHCfe7zpK6_vEjve9Ef5W7bDvhZH98Oi6v1ypEBH-vL6CMkIjOgob9MfQEvjAkl57Okm9mZDXzF_znA07BFXljwcOwFxv6-jBYenYoW-IGLMY0ouFxgvnPzOSP9euiDfwRxESIR9uL98SyJAIdV5lK3JucESOA_H6ihc-4ucOAlYPk7yOTc7vGnr_celzCXQ=="
+        },
+        {
+          "label": "Middle East conflict jolts energy and metals markets - The Northern Miner",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRmQQ1f9DcqczqXel7vNH5wvCMSmP2XVpYijKPyV26LE1Iq8JHKWgOa-9hIkc3eSEuoM4ADrXAqtMTgrB6NB3DszqGDx-LMphn0plXfSgea_0_bUKK_eEO6eiCU6ZUta6WSOLoDmV1VQGd5zWtw4DUv46pXGr5ckbyJPcBkf_S00cuCpHj1vni6I6VMdLS4KxAWXhLydF4BnkN8iFcBA=="
         }
       ]
     },
@@ -7308,6 +7579,10 @@
         {
           "label": "Methanex sees 18-20 million tonnes/year of Middle East methanol exports shut in – CEO",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYfJC2QhgiQUITWGw8W2B2SUuDX5RMqQoMGBExZPyzHxePsQqdGFXUVHLm_8D9IDgRNN8MAT69dpsBrSYEJfcthg37g-IJwphmJEqgs0vcfY1PPUjl7-B6jD6I4BBVFUrMCpKj6RaL2gqW7jkVJfMjpWxbCtfqTciGMvYQG3WpQTr3PTN0R26Fjpr_4I4m568IsULYYv9IeOvPuaR0qKsvJqO-RXFQ5mX5MPXf53to4-Lnf6Da3k96p7LI6a9CdF5T4-jRB6-nw9jW6yJ9en8="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     },
@@ -7558,6 +7833,10 @@
         {
           "label": "IEA Warns: Hormuz Crisis Triggering Largest Oil Supply Disruption in History - gCaptain",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_WGhAYcN-5cqAW6xWsfrJQOnxdqCCYxBAKTO6e81OeUtb_64OnIiEznMDTftGR1H_lZzGpGc5e9VbGqunYABoNUkWW-v9ztufnj5NkXvsIuDzIVsn4V3mGWcNnNlAqSjk_cvCCME5txPpuxLFACJGxSd6b251k_KYzyLBUDIqZe2khL5KXw2u07rBCqQHzRfcDGdiiUfULa0un1Q="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     },
@@ -7764,6 +8043,10 @@
         {
           "label": "India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrZY75RUEZufK7JETDIS_mss-g9jnj7b7XTmOi2yWGzk6bdK_UqWrQ7rv8brdN1cHxvUneQWAW_XM6R9_oa5_5QpGavoma9BmbbuJ67_T9tLilomWSSeum3isZ7zm5TaTfBe2MnggiO_qUBf50s91yERg_vV2sLnMbXwagKI4cVEDbDqcCkfESDPdcbifrapcGA9ImYlHHtK_9VO6Dzutu7p5BnY60JV4CMGS18YSGI_9XICaprwtZWXrY7MqDiod4NbAB6k29SCYL9qtNqDzAcvULCNYIpyVsElcvRM="
+        },
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
         }
       ]
     },
@@ -7917,6 +8200,10 @@
         {
           "label": "IEA projects global oil supply will drop 8 million barrels/day in March on Middle East conflict",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGwUUMwUfsPxv55KBvKRfHpT2BdsZ_rZjkg0Oq-9OrSJ9uD3ej88K-nOwPm5g-QRsSz5JtW90KUTysWzAslaLaKFel869fd3hfw35k62WBg9vAN7balqFAVA-z2Ocm3EUmJ8cyCiDtWWcy-LSUXvrHtbimIP4H3TXql3222wnUj-DbfR76Vq8aslrzXZs2-kCnfyXd2QQHQu9V0_dQu6UB1DrIl2H5msHKXeKP89Gkj17hAiX2TFKDrq-sSdme58-BG7nKk4iKVw7zVNGlx8fByXg6H2RKSRaAEFs="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     },
@@ -8031,6 +8318,10 @@
         {
           "label": "Are Feedstock Shortages and War Risks Pushing Petrochemical Prices to New Highs?",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrFf-rVJnMo32JmCxUe6kNAH4M3cVD_SJG5kbAw9s2PJTh-W87uOwWQX7fvoicBksJ8IOk1aYWFTAiQy-qu3_hHNmvCR8TJiEGDPgn2FhM_ZneE_ckctaP3XDV6DsE1rqRayYMqXX7FHoF4KYf1M9SP5mHMrWPw6bxGKNRWTanaM7Lz5bbTFF5rlRTb6DyZ9jwcFkBywwKDT8AXw0zs8pWom6cAL2mcIHq-RJHjL6NFY="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     },
@@ -8052,6 +8343,10 @@
         {
           "label": "Are Feedstock Shortages and War Risks Pushing Petrochemical Prices to New Highs?",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrFf-rVJnMo32JmCxUe6kNAH4M3cVD_SJG5kbAw9s2PJTh-W87uOwWQX7fvoicBksJ8IOk1aYWFTAiQy-qu3_hHNmvCR8TJiEGDPgn2FhM_ZneE_ckctaP3XDV6DsE1rqRayYMqXX7FHoF4KYf1M9SP5mHMrWPw6bxGKNRWTanaM7Lz5bbTFF5rlRTb6DyZ9jwcFkBywwKDT8AXw0zs8pWom6cAL2mcIHq-RJHjL6NFY="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     }
@@ -8444,6 +8739,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG72SDWv0_Mha8hwjHqTO_wxTE8tJI1YtelHPgyYfOSi2soad7dETjzGw6rERz0E4hRslFE-Qs-sxm5jDt40QgNUTiLUwo8toke4H4AchkEO0tUq2tzYtk9-qjvjsVVKr2NCHphea6gDzVSKP522UHKO9EJCXhD0oPXV7CUjn5tx8BEvv10AhSPsu9Adu2MVdSrvD5RO_ZkCrYCzfN0LqpQe_IWLb3uMoQBUezLadux0pg0a5tiSQr682rdcA=="
         },
         {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
+        },
+        {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXW42geEd8zZa1ecucTwv4OgS35sagtbBbPnDR8RF9wVlYYUWS2DTHS0dufxBc66lq_IYQU0QjPLZBu-iGkkK0kRSGaFJcOn32BsTREuJke9WIdwutJZaHWt-zQ=="
         },
@@ -8578,6 +8877,10 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF04XOLtSmiNXUHCvc1po1vWR6L6v8gLdgar5xPjY3rcChCLI4lQZ9SkxI6_fXmqiHCIL4NaRWPqACY_Bw7BmlKMwGeKyVP5LPHKhPOAFSy4cZBoaY1CXis4uGgMILyMewzh794-YMK7l9dxN5B0x0_Hfel3mPkOtf35iJTv1WjdFkQb14E8QeS9KLbo3_y7UifEOhLDHt1y28BayRC286e7U3-aEQ3KVvgbGvuEC2O7cXe8wghSM9DzS4CdWE="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -9010,6 +9313,10 @@
         {
           "label": "IEA announces record release of strategic stocks in response to Iran war oil price surge",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG72SDWv0_Mha8hwjHqTO_wxTE8tJI1YtelHPgyYfOSi2soad7dETjzGw6rERz0E4hRslFE-Qs-sxm5jDt40QgNUTiLUwo8toke4H4AchkEO0tUq2tzYtk9-qjvjsVVKr2NCHphea6gDzVSKP522UHKO9EJCXhD0oPXV7CUjn5tx8BEvv10AhSPsu9Adu2MVdSrvD5RO_ZkCrYCzfN0LqpQe_IWLb3uMoQBUezLadux0pg0a5tiSQr682rdcA=="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEVlplf-hAxDpIiQJEcwCfRSM7YrfVULl29j8YczO1Xova8mdAPPJmfLtT7IGLBsN2axGoHzctDqoAZRN6kMcB6u8RS1RnIFTSCGAwPSbJFdSJJXO5A9Xv0lLYHN0LSEsFnO_DG59xt6yG_WgOb2hzTh18h7AYPpkAvjUWK1PS3oj9cdY1LMI2X1UXAlxldVv54Boq62NGCkUogIkoSI_881MOB5r3hCWj1MzafE1y7g=="
         }
       ]
     },
@@ -9122,6 +9429,10 @@
         {
           "label": "War in the Middle East cools polymer trade in the Americas, fuels expectations of rising prices | S&P Global",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP6dUiEvhF9gLj9GSJSrGXkSu_XjaPbmUJuhwUorNlqc_5yTONvVfbnAUaTNGU2uQCH9-gyAxCeb1WfqxBzkH-IwvIj82YR7wBwCDdmMqS9hAzeCgflUDzlM3DXotl1u2UG0E_Z3CYlbHaFWQzFBFXj7t6t0n8c7425hCq46FWlS8bnMqpzZtYf1B0muQrJa3d9VcHrMwZbCEgkCSW-CwpcZ70lMR1muJjifK2wYRBmiAbtFIy8ZMd93IPSBpzWp8UgNKLByjytmZZMAtr5s5Qph2cX55gBaTUsA_TjA29So9wqRzrdQsz"
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
         }
       ]
     },
@@ -9258,6 +9569,10 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "Strait of Hormuz Closure 2026: What It Means for Your Supply Chain and Shipping Routes",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdF7vNTdnC7ci3XAdHuVYqRlcSEjOk5yRLKFyFrx0yhHusTlb6TZtmQ-AtGHKfKZ5Xpd2UtMG6EJ3vqkI1-yLTS9QZJV_68WMYpCzHTyeopbVh5nhePV-vHVrlIQPUlfyWCuIgpqYIcdVVDt6vaYN"
         }
       ]
     },
@@ -9558,6 +9873,10 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF04XOLtSmiNXUHCvc1po1vWR6L6v8gLdgar5xPjY3rcChCLI4lQZ9SkxI6_fXmqiHCIL4NaRWPqACY_Bw7BmlKMwGeKyVP5LPHKhPOAFSy4cZBoaY1CXis4uGgMILyMewzh794-YMK7l9dxN5B0x0_Hfel3mPkOtf35iJTv1WjdFkQb14E8QeS9KLbo3_y7UifEOhLDHt1y28BayRC286e7U3-aEQ3KVvgbGvuEC2O7cXe8wghSM9DzS4CdWE="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
         }
       ]
     },
@@ -9657,7 +9976,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "印度于2026年3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
-      "current": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，也无意限制炼商燃料出口，并拥有充足石油库存。商业原油库存约1亿桶，理论上可支撑约40-45天进口需求。印度还计划从美加获得更多液化石油气供应。政府报告显示，原油及成品总储备可支持约7-8周供应。3月11日，印度面临严重的商用液化石油气和液化天然气短缺。",
+      "current": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，也无意限制炼商燃料出口，并拥有充足石油库存。商业原油库存约1亿桶，理论上可支撑约40-45天进口需求。印度还计划从美加获得更多液化石油气供应。政府报告显示，原油及成品总储备可支持约7-8周供应。3月11日，印度面临严重的商用液化石油气和液化天然气短缺。13日，印度战略石油储备已建立超过500万吨。",
       "sources": [
         {
           "label": "Binance News",
@@ -9846,6 +10165,26 @@
         {
           "label": "India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrZY75RUEZufK7JETDIS_mss-g9jnj7b7XTmOi2yWGzk6bdK_UqWrQ7rv8brdN1cHxvUneQWAW_XM6R9_oa5_5QpGavoma9BmbbuJ67_T9tLilomWSSeum3isZ7zm5TaTfBe2MnggiO_qUBf50s91yERg_vV2sLnMbXwagKI4cVEDbDqcCkfESDPdcbifrapcGA9ImYlHHtK_9VO6Dzutu7p5BnY60JV4CMGS18YSGI_9XICaprwtZWXrY7MqDiod4NbAB6k29SCYL9qtNqDzAcvULCNYIpyVsElcvRM="
+        },
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY="
+        },
+        {
+          "label": "NXT Conclave 2026: PM Modi Unveils India's Energy Strategy - The Tribune",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKaXQLycf99lwmVsZKdJtV_KHBdhK-p44nIuP45j6MTmjO00ITjk7wQei7cVNwEeVcmrftlCrGDhG-5Obl_YeunUDoVaYBsM8Jgl5dTvOdUWgGj8hEZlLVa-iu1LklvZVChzpOOI93NHgPcW52Y3ITLe9nKV5KgUdpofKLdKnNhDZS26qQFKkN_pV6ow8CMvYBhp2sm-oIPywDfn8-EDz2Qk4"
+        },
+        {
+          "label": "India Secures Oil, Gas Reserves Amid Global Uncertainties | DD News On Air - Newsonair",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfsY7rHAhxglydvcGv4a3O23ktZxkDPP-OgBfpPuA7pnqhtY3IdvzMYFEInl9GFZuQNeaTEkRt5WxldbKT3K98TRyXY0sIwjI7Fz8Nb695p4hnPpYNpzqI9DEEliITa19lSkIj1GYkT_6ImbFFzLx4KKNYB6MEMrvbmFnNoepVeVD_IUp90Z_UtMjiy9o-Z-AF"
+        },
+        {
+          "label": "India rules out releasing strategic oil reserves after IEA calls to cool prices",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHoe0XnIRx1L683876ZJ9pu0-SK9Gtb1cVHH4jKH7mYFVf-uNao02WEFsXas7aoc6In5lBQYDgUqlMu6DUT-NctCiyw-SHpXkKD5HLUI3TSM3qw71PDX84KUvO16_lJLVa-rKowfKsF3Mr4FpElqYECA4xxh5t0WXVNFgYq0WE2aIWVvu_C1Kvk6LSzJP2O5Nfg5NXzhFmOxOuO3Kc0jWCLXQmoi6c2YobFKlmawXWiRgm_YImlCm-32tIsIQxBIzwuLPmAyYsNkp11yxAj_SPoOazUO0wU4bXGGNUiYGgK6g="
+        },
+        {
+          "label": "India's strategic Oil reserve helps tide over the supply disruption - The Indian EYE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOkX9eSrmyhUxXksAm6PMBXZOF2Ut9vb2vkjmDrS6WXFkznYRt8B6HuelVJhAn8OWRcPNZSR0r-SElDYxEjOk04UUXTNtXkH740QTfuOGOevLkIUSITmd3ECuwLYfRMd24z96Rex0Gztt0ON8vCl9V9I8vTka7NXLI85KS7AU4l5m_H43OSIQA0nTP950kGwralNt1rY2DWfclyCuYNKh1oic="
         }
       ]
     },
