@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14 19:11（北京时间）",
+  "lastUpdated": "2026-03-15 01:20（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -12,7 +12,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "运营未受影响",
-      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美国及其盟友的石油通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
+      "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，伊朗具备封锁霍尔木兹海峡的能力，不会允许任何有利于美国及其盟友的石油运输通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
           "label": "中国石油新闻中心",
@@ -133,6 +133,22 @@
         {
           "label": "US-Israel-Iran War Live: Iranians want blood revenge for Ali Khamenei's death, says Tehran's envoy in Moscow - India Today",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECJtKhIbZmAtgneapZcIM_gTgcgn4qazakYavlRQkF3dMzYenaSl0kUafDfItCD4y3H01u8VN_4W1lEZO2YtY4m4eR5Di18TEgWzMbvXNfzK0PzzfmkU-5W0J4gJZslpvzV4xEikdKvU-470RjpOXdmh53-aVOAaEtvshTPE5NVQfmNmyRjgjpuyuJvPam2FGZep53iiIJlwrIzR8QkWTvQh66_p6FKsE8ScjCOuaupYLR7S3ZEu_Bp9KuOFx_J7n1bjSUQ4CT6OYOWA1fEfS62qYplbU6wPgTaa4VcLfuSSRn_qq_JwQU-YS04UjbwJTh"
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTxP6qPiE1jb6hHgyz7Q1zILtFyzKiJC1BgmZqflOF_g9GxwwulT0Q2EFnj5c-Ycd1VK_XAupz3tjSyV-BeBxDWSAIsrxFlERJO6faRFOj6hHYRdh21kOHgNXWTjsgIJWeCp_jeZFZQBiSLfEnWut-hNvH6gcqoITwZok4bwU7NlDIVVLjNzDAvT0hdnZJbB8too9GdN6W8I5fCvQ-OebcjO0SENS6P5m-9wRjYPxJi4zbBXjMPxARFA4C"
+        },
+        {
+          "label": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVpaJfbVHNlu9Pm60Xu7bw3ukw8p5s94z_8vnMzR07LT4U-rGVrnuW1pSCTL83OvhJ8QWwBlIp1D_hJP0n92muoKP54whNOeGDshbrYGr0P8EO5sPzL2yu8iaNuowPqHB-hSemXg=="
+        },
+        {
+          "label": "2026 Strait of Hormuz crisis - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6c6dCFI7G-FyimZxEvPMkojejaa5UU1uUSfJsuJd46QUpe6JZYs3ArekliBlejg89mnoi7qEwiALCCDW_fCgesq5xycde_bqCDJqkC923Tz-nYzq1fb_piy8j5ap82owKzQIcnSjNk-A1JfGDUCCebKkJxw=="
+        },
+        {
+          "label": "Iran targets fuel facilities, sending oil soaring again - Vanguard News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzhHVg5R71VoNfpT5a9l5_tGDO9lVEExDh8qjDhtf7bKhMWUMdoclRvyX0CM2xBPzDr4PU67xoeqE_ol6KscQb5TLI9GlPTZW60Rj8f7wL8aHQAO9kZotyq5fzyf6RAmHPJUWfBxotHsPVeTMnngVT2b9ZqvXcMngf3mnkpnvqIdR6uRyJZ6p3fc14MRFNPZvw1YE2w=="
         }
       ],
       "baselineSources": [
