@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15 01:20（北京时间）",
+  "lastUpdated": "2026-03-15 07:08（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -11,7 +11,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "运营未受影响",
+      "status": "运营受威胁 / 航运受袭",
       "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，伊朗具备封锁霍尔木兹海峡的能力，不会允许任何有利于美国及其盟友的石油运输通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
@@ -1101,6 +1101,10 @@
         {
           "label": "Saudi Aramco to restore 70% of oil shipments amid ongoing conflict - Aberdeen & Grampian Chamber of Commerce",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Q75puaDruSo4FgZWrY8Lv0pII4x1iRN7cjxLoRwY72LE9kbflUuzlANJy2hMguffOxaA153C0G5pl_ALnkhSnRW4QJTcgoHIxgary1x3OAAojIAGk8AOI5Ccxar8-gxtRXtfRMX6LVjBgagpcKy4jt6MuEKCTIfGBXiS67c9beOAdBzbWnZPSbEAMqZEswZkdXFqsbKgL-H7WRqg6e54"
+        },
+        {
+          "label": "Energy markets under pressure as Middle East conflict triggers emergency oil measures",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzfcSdsABgGE7cfHOuGzbM6whpPps91lRP23V_HaVYCFDk-WFSTkUQ13Q_5CbikMsdcrydi77o_1rJIf0KWmqtTdUIhREtTt0cIXUwK6NscASX4LMQ-pXHovNqBD5gAoUKYf7yyXz"
         }
       ],
       "baselineSources": [],
@@ -2658,6 +2662,10 @@
         {
           "label": "IEA announces record release of strategic stocks in response to Iran war oil price surge",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL3J0oljiRvpHmLq8kdiKxDxR73NpGmVQ5dHgWA4oaduvnYqlZjyEFdKmjYTZ6SSn9cfM8hfPkEFyNWS2swFxdOmEFIoYVzMv737WqEStkPFJy7cz8zAWL2H4S5Zpdc9bAXgTyETrq4WC9b8Rxx395zcJaIqKRm_e6ngOeh4aCNBwc60t_0Go-oNOZOx4kmZMMJHK-5sMvCFCoZlbKqkxr2Decu2rKVKpMTRmb-F16RZIWeb-ugN-JHk_mQeHV165UHyxoPV76QQ=="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
         }
       ],
       "baselineSources": [],
@@ -3311,6 +3319,10 @@
         {
           "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6ezbAS2VKE1ivXtM2ly_e2QJ1hQdESx5JHgpPqN8G86QYs5vPXIkvaDZfuIAAogJDL0a1e00Q_Bo9SuqS_ycYd5ITnqvGJWsZuGDywxYFV_Dv_XBysiKjN7ptHNs45pI_9fOg8Qe_lwVeIdO3zA2_ghw7zKNEMEnlqmymenm42Jxng1tBWtV3vUu-P17l_E_MlhDfDDE4D4ZQ9KIxZzugkhRGXqetBV8cDyCudpZSiE="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
         }
       ],
       "baselineSources": [],
@@ -4780,6 +4792,61 @@
         {
           "label": "Indorama Ventures declares force majeure on European PET supply | ICIS",
           "url": "https://www.icis.com/explore/resources/news/2026/03/11/10987654-indorama-ventures-declares-force-majeure-on-european-pet-supply/"
+        },
+        {
+          "label": "Indorama Ventures declares force majeure on European PET supply | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfP5ECABVBU5-ER-rltWnLtCTijcpzediOWXolfNva1TkLHUuRO3RrnlnM8lVYcttCCZDZUiC9QemmQPhTg63c1bzCOYM6DSOLWztjam-X8-VG0nib5VGj3E0kvERYox8i3FZ5WEz-v4XZEbkCDxAAgeEt52jAgHtsNCX7ANexLWQGH09wxQHvpD7vfIsTaLCR_EkydTN1mea-cOBFrxh4TumUVb9hLYAC1R3acBuXvFUfHfkBxKU="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "尼日利亚",
+      "category": "炼厂",
+      "facility": "Dangote炼油厂",
+      "products": [
+        "汽油"
+      ],
+      "designValue": 650,
+      "designUnit": "kbpd",
+      "status": "运行受限 / 价格调整",
+      "current": "2026年3月13日，尼日利亚Dangote炼油厂将汽油出厂价上调至1,175奈拉/升，此前3月10日曾下调至1,075奈拉/升。炼厂已暂停装运作业以调整库存和价格，原因是全球原油价格飙升至100美元/桶，导致炼油成本增加。",
+      "sources": [
+        {
+          "label": "Dangote Refinery Raises Petrol Price Hours After Announcing Cut - TVC News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6jE6QmUJwOT7N2LUmH4Xv4pylvLBRpkOALQtXYf06WHKQ3eOR2dOYl1zYepPC2B1F0i5mMqkCqzpMw_I7lXKWyidsSsXWtBXTBATALhhs2hopeXzzAJNATzkFSJfl5FQDNTHMJZY2bVWjrMhVSfvghT3kNpXqAdpQPHFbQPrS_JH4CoS1ZBaaWr7wY_ciW2Og=="
+        },
+        {
+          "label": "Dangote Refinery hikes petrol price to N1,175 per litre as crude oil surges to $100",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6T3ZH-2UI_OtMfwSI_o3dHdDpt944JkaVfhEBW2x6sCMDFWic9-TZSMPlJEfZqc3EglKOtOflOV-J06W8CxiNhame4sEOR5HyCWUjRQh0x8o8U97CxTacG-DPvznTSc4e5h4Y4rTl-Yz4lhdTpN42NvW8BRbEln_aEyMS2yViRwXujoQBvVUJwmOjsn7Sl1pYfJm99_wdEDhuoGPex2Osl0wCM15AGx4mcFLcJvN20eM="
+        }
+      ],
+      "baselineSources": [],
+      "affectedValue": null,
+      "normalizedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil"
+    },
+    {
+      "country": "阿联酋",
+      "category": "港口/储存设施",
+      "facility": "富查伊拉港",
+      "products": [
+        "原油",
+        "成品油"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "status": "遭无人机袭击",
+      "current": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭到无人机袭击，终端冒出浓烟。",
+      "sources": [
+        {
+          "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUwVf1bdo6DzDsbo-VQm4E6uummM8JU157FhSIWUfolqBqwT1VZ38bx3hc2Y4aNo1dqcBz2kSvGqUAHKw-_jpF4n73cgESPylna1AlCq7hb50ivPi4j_Omz2sQs0hphniO0Y2bYse8wyulw6qESvDpR0GY9xYZm5lBZTmFA7IxUGXy8HFWQm9emPigAHrgxNLaV8rF0Z0vUd2OtW8sekDw"
         }
       ],
       "baselineSources": [],
@@ -7140,6 +7207,30 @@
     },
     {
       "date": "2026-03-12",
+      "title": "IEA成员国同意释放4亿桶紧急石油储备",
+      "type": "政策协调",
+      "text": "国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以应对中东冲突造成的石油市场中断。",
+      "sources": [
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-RZMCsURik5ftWdpwjg6IVMLVdYxsT7QsWBrD-9rcM4HMl7IyonGTve29UnFv1oYyzm0J1DJw3oBPdEsjVsDdxqF4Mra2KMWspQwTix_1q5-_Cpz7ErGAHLRNIQlQ1khChBwsawD8hysTe-afMxx7fZ4E"
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "12 March 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
       "title": "IEA警告霍尔木兹危机引发“石油市场史上最大供应中断”",
       "type": "市场警告",
       "text": "国际能源署（IEA）警告称，由于伊朗战争持续阻止油轮运输数百万桶原油，石油市场正面临“史上最大供应中断”。IEA表示，霍尔木兹海峡的有效封锁引发的供应冲击意味着世界面临比1973年赎罪日战争和2022年乌克兰战争爆发后更深的危机。",
@@ -7179,12 +7270,24 @@
         {
           "label": "IEA Warns: Hormuz Crisis Triggering Largest Oil Supply Disruption in History - gCaptain",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_WGhAYcN-5cqAW6xWsfrJQOnxdqCCYxBAKTO6e81OeUtb_64OnIiEznMDTftGR1H_lZzGpGc5e9VbGqunYABoNUkWW-v9ztufnj5NkXvsIuDzIVsn4V3mGWcNnNlAqSjk_cvCCME5txPpuxLFACJGxSd6b251k_KYzyLBUDIqZe2khL5KXw2u07rBCqQHzRfcDGdiiUfULa0un1Q=="
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-RZMCsURik5ftWdpwjg6IVMLVdYxsT7QsWBrD-9rcM4HMl7IyonGTve29UnFv1oYyzm0J1DJw3oBPdEsjVsDdxqF4Mra2KMWspQwTix_1q5-_Cpz7ErGAHLRNIQlQ1khChBwsawD8hysTe-afMxx7fZ4E"
+        },
+        {
+          "label": "12 March 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
         }
       ]
     },
     {
       "date": "2026-03-12",
-      "title": "伊拉克原油产量稳定在每日140万桶",
+      "title": "伊拉克石油部长表示原油产量稳定在每日140万桶",
       "type": "减产",
       "text": "伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右，远低于战前水平。",
       "sources": [
@@ -7211,6 +7314,42 @@
         {
           "label": "Iraq to maintain crude oil production at 1.4 Million barrels per day | The Peninsula Qatar",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6ezbAS2VKE1ivXtM2ly_e2QJ1hQdESx5JHgpPqN8G86QYs5vPXIkvaDZfuIAAogJDL0a1e00Q_Bo9SuqS_ycYd5ITnqvGJWsZuGDywxYFV_Dv_XBysiKjN7ptHNs45pI_9fOg8Qe_lwVeIdO3zA2_ghw7zKNEMEnlqmymenm42Jxng1tBWtV3vUu-P17l_E_MlhDfDDE4D4ZQ9KIxZzugkhRGXqetBV8cDyCudpZSiE="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "title": "海湾地区和霍尔木兹海峡发生五艘船只遇袭事件",
+      "type": "航运安全",
+      "text": "伊朗爆炸物船只袭击了两艘在伊拉克水域的燃料油轮，导致其起火并造成一名船员死亡，此前还有三艘船只在海湾水域遭到炮弹袭击。",
+      "sources": [
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "伊朗新任最高领袖誓言继续关闭霍尔木兹海峡",
+      "type": "冲突升级",
+      "text": "伊朗新任最高领袖Mojtaba Khamenei誓言将继续关闭霍尔木兹海峡，并警告世界油价可能达到200美元/桶。",
+      "sources": [
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "Why the War in Iran Prompted a Global Energy Crisis—and How it Might End",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfgD_G6PUPQSjj0tHPIPQgP-b5HSPDLQG-JanSBvIkcVQCG7ErwRgtt2TmphJRd6YZrr-0XJ-oiy-_RJ_4iJ3O_B0eMxYyAsbkPEDxU1-g22xfgpMswO1-u-3tjpaI60sxGXHSt2pOHbhdfL49bqYxl-F7yGfuXfdfp0OI_mCKSeRQsV61ISE5KbUwDHluvg5_Lr0sFIzXi0DHDZGrulttjQHHzBiHqfo="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
         }
       ]
     },
@@ -7232,6 +7371,22 @@
     },
     {
       "date": "2026-03-13",
+      "title": "尼日利亚Dangote炼油厂上调汽油价格并暂停装运",
+      "type": "市场波动",
+      "text": "2026年3月13日，尼日利亚Dangote炼油厂将汽油出厂价上调至1,175奈拉/升，此前3月10日曾下调至1,075奈拉/升。炼厂已暂停装运作业以调整库存和价格，原因是全球原油价格飙升至100美元/桶，导致炼油成本增加。",
+      "sources": [
+        {
+          "label": "Dangote Refinery Raises Petrol Price Hours After Announcing Cut - TVC News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6jE6QmUJwOT7N2LUmH4Xv4pylvLBRpkOALQtXYf06WHKQ3eOR2dOYl1zYepPC2B1F0i5mMqkCqzpMw_I7lXKWyidsSsXWtBXTBATALhhs2hopeXzzAJNATzkFSJfl5FQDNTHMJZY2bVWjrMhVSfvghT3kNpXqAdpQPHFbQPrS_JH4CoS1ZBaaWr7wY_ciW2Og=="
+        },
+        {
+          "label": "Dangote Refinery hikes petrol price to N1,175 per litre as crude oil surges to $100",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6T3ZH-2UI_OtMfwSI_o3dHdDpt944JkaVfhEBW2x6sCMDFWic9-TZSMPlJEfZqc3EglKOtOflOV-J06W8CxiNhame4sEOR5HyCWUjRQh0x8o8U97CxTacG-DPvznTSc4e5h4Y4rTl-Yz4lhdTpN42NvW8BRbEln_aEyMS2yViRwXujoQBvVUJwmOjsn7Sl1pYfJm99_wdEDhuoGPex2Osl0wCM15AGx4mcFLcJvN20eM="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
       "title": "美国考虑军事干预霍尔木兹海峡以恢复石油运输",
       "type": "政策调整",
       "text": "美国财政部长表示，一旦军事条件允许，美国海军可能会与国际联盟一起护送船只通过霍尔木兹海峡。",
@@ -7243,6 +7398,66 @@
         {
           "label": "The Latest: US hits Iran with intense strikes as Iranian air campaign drives oil prices higher",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPdhd-lTtV-PUpBPt-yFJpojVmbGSp_UkDeoDP9QGj7zTAav_YBMWzuQaPiNxfHxiE6aLbkhWm4RtwVfF7GLT49lU5E2qk0HBL_qIJqFn1GnJiwxHsU8ycXj8pQW3fXsGVk8O-x6f09dz49fkBFbcVCe25_on3300OkEvVlI8ye5FYXJQP1240UrXg1M6QoFZtQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "美国财政部长表示美海军可能护送船只通过霍尔木兹海峡",
+      "type": "政策调整",
+      "text": "美国财政部长Scott Bessent表示，一旦军事条件允许，美国海军可能会与国际联盟一起护送船只通过霍尔木兹海峡。",
+      "sources": [
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "title": "美国驻巴格达大使馆遭无人机袭击",
+      "type": "冲突升级",
+      "text": "2026年3月14日，美国驻巴格达大使馆遭到无人机袭击。",
+      "sources": [
+        {
+          "label": "Oil targets in spotlight as Iran war enters second week – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xhzKzWa--viu7Z7Xf_SGn523S-x_tDrbLQixr9o7yQtujZheX8TmoguDniiQsQr3vy-iWUq_sD631D3sS_9B0fxGviBAP2ue_6DOlUa3LyKjv0GkI4GpKo2FzahBUtrSxflcq5c1_AApjVIYFkJLYwY0GH4IxEODTiBWlz7ynpASd38_aICtBhGTK-qkqOLwDj19F73tztedAAbo9PvFQ_v-NyT2snBS8QIT"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "title": "英国政府准备对低收入家庭提供有针对性的能源支持",
+      "type": "政策调整",
+      "text": "2026年3月14日，英国政府正在准备有针对性的支持措施，以帮助低收入家庭应对飙升的能源费用，因为受伊朗战争影响，油价已超过100美元/桶。",
+      "sources": [
+        {
+          "label": "Reeves Weighs Targeted Energy Support as Oil Prices Surge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE90azab2K2uU5YxhHFK04mVic-RhfSjb638kubb4QMIqyiVaDUaBYH5ZnYAdhPrLAwN-ArhK8zpLyw_NhxfQXtWsv3vf6qzDOnaLB-I2814S9W5o_3wCwkzXqfrCWz45u0cYPFxrtbY-FMPrWYAzxaSZhua8XLPPMRrgH47CGn0gK0QK2Cfg1vchXBoEJTo4vdgi_sqLGt3jQHpsoc52uvj-MkzZagfOFwq2D9wMo="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "title": "阿联酋富查伊拉港遭无人机袭击",
+      "type": "设施受袭",
+      "text": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭到无人机袭击，终端冒出浓烟。",
+      "sources": [
+        {
+          "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUwVf1bdo6DzDsbo-VQm4E6uummM8JU157FhSIWUfolqBqwT1VZ38bx3hc2Y4aNo1dqcBz2kSvGqUAHKw-_jpF4n73cgESPylna1AlCq7hb50ivPi4j_Omz2sQs0hphniO0Y2bYse8wyulw6qESvDpR0GY9xYZm5lBZTmFA7IxUGXy8HFWQm9emPigAHrgxNLaV8rF0Z0vUd2OtW8sekDw"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "title": "韩国考虑提供能源券并增加核电和燃煤发电",
+      "type": "政策调整",
+      "text": "2026年3月14日，韩国政府表示，如果中东危机导致全球燃料价格上涨推高电费，韩国正考虑提供额外的能源券以补贴弱势家庭。韩国还在准备增加核电和燃煤发电，以防油价居高不下和液化天然气供应中断。",
+      "sources": [
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 14, 2026) | GMA News Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsJ8RCh_XqCo-Xbxl4HsMJJMlQLKvShvik3Eon77YYgyjvXhB61Bg4dJYm_Ri_EN-BioyYJHuYoYUzpX8ggGm9cz2YgU6HAYoitdfHL-wfHJLd5oAv6MaPAwKPfvcKUsI-nY6YV41rZb6Me4Ow3_Rj_LdFS4vQT7hW-nFhIxx6rMlpCY2YK3Vh6JvgUULRAZ9AF_JMBJVZOmiP2pTLIc6jNjcQuuF0bOQhyGDR3IM-VKc="
         }
       ]
     }
@@ -7899,7 +8114,7 @@
       "directImpactUnit": "",
       "indirectImpactValue": null,
       "indirectImpactUnit": "",
-      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。3月7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产，其中包括聚合物。",
+      "current": "卡塔尔3月2日暂停聚合物生产，影响聚乙烯供应。亚洲石化商面临石脑油等原料短缺。大连商品交易所发布风险提示函，近期国际形势复杂多变，大宗商品特别是乙二醇、聚丙烯、线型低密度聚乙烯等品种波动较大。3月7日卡塔尔能源公司宣布已停止液化天然气及相关产品生产，其中包括聚合物。3月11日，欧洲再生聚合物市场可能受到相关市场价格波动和物流中断的二次影响。",
       "sources": [
         {
           "label": "ChemNet News",
@@ -7988,6 +8203,10 @@
         {
           "label": "Iran War, Oil Shock, and Chemical Supply Chain Disruption: What the Hormuz and Red Sea Threat Means for Industry",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc5GzHryB8EwuauFPdAJURwoL0FGKmEL12Q9Qvs8gYYHjCpDEnrxGLlVIEGnPgz8vpm9cBCdN9Ek6CFH3fD83Iffis7nCBK7GDwA-GP4Fr958YKYEVabPRZC6JbOHQ89_Atox8Pt4Eu1VJJOKIj8ZoSquKQP_0x9M2s6i3DyjZf8OReEksqEAEQw8pnNekanRl9r2tZP9iGzNOw_GiPQVpSU2pVX_o10phzTz84t_0X-ymn5zGF0kLwyAAuqHuLqWpQXsQDpeAIQ-2N6_4eJEFww=="
+        },
+        {
+          "label": "INSIGHT: Secondary impacts of Middle East conflict could reshape Europe recycled polymer markets | ICIS",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtql34Szi6YMwXX_of19qFcOKE3y5yTs4T0KzMibdfoTgiWy4btKTwO75jlOFa1wl7rq_9T_36ypkTEiC3Vq4Nsv-huPhGkDWxHPigG8SiZnDMOyedN-zVKXghtRTwPtdhfqR_ii9fMunS7snfFR2xJZ_g9t-UgJAo-Mw34-6B5FM1XEunMeoyuCCdCw5Xmtt6lKcSZ5aZGOyUxKLpRPwprY8Y9TgHeHlKKbhiHWfJH_pyJoEfqf4ijKgPBo9-GVWXYGSlc0o21gi02wAF9bXOMTxIjepQXojSI6w=="
         }
       ]
     },
@@ -8650,6 +8869,10 @@
         {
           "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
+        },
+        {
+          "label": "重要原材料断供，日本尝到“苦果”-观察者网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWWuyRwP8MP4nU3IYgc6rxM9f0PIQ0rKhPlo9xtniPYbwy63U-e-o3-F9W0WV1drSsiT25Bi_u5GB9LsNchKNqd9LpQONzIz_ZHjNRsMs_GgIOUIvfx5RISC4KkeC07uxe61uX5MrpFmIoWluvl4BKDKzUQ=="
         }
       ]
     },
@@ -9083,6 +9306,10 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD3iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
         },
         {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXW42geEd8zZa1ecucTwv4OgS35sagtbBbPnDR8RF9wVlYYUWS2DTHS0dufxBc66lq_IYQU0QjPLZBu-iGkkK0kRSGaFJcOn32BsTREuJke9WIdwutJZaHWt-zQ=="
         },
@@ -9221,6 +9448,14 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc7QIQMpac8QJo917jLg8LWXam6gPNjn1wFm4Sb-qKNiTtLckoLZW0hNhxWxSBgUKec_N7Asy5-fJXxfNUWDO374c6I4TY9Z8s8Wn69-RpaRKE8s3Q_hhIwjeBnN1bJ05B9t5JSsgMXHvbGXuPiL7DoHbSJZ7g4XMdTH_71AaMCLrULULgTFLKfgHG4hCxiO6wMQDdoTR1M8Z6Q0V-v1uzRkyKkj00syaJ79Q8Pmyhd2rHqE9u3SOrEjNI_lY="
+        },
+        {
+          "label": "Energy markets under pressure as Middle East conflict triggers emergency oil measures",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzfcSdsABgGE7cfHOuGzbM6whpPps91lRP23V_HaVYCFDk-WFSTkUQ13Q_5CbikMsdcrydi77o_1rJIf0KWmqtTdUIhREtTt0cIXUwK6NscASX4LMQ-pXHovNqBD5gAoUKYf7yyXz"
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -9381,6 +9616,14 @@
         {
           "label": "G7 finance ministers to discuss emergency oil reserve release amid price surge: report",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-z0q6_-L4isAUdb5xL4d13SIhFjPAF_ziBC5zn2KDYDWo5RXBG7LMwgzu02lTOSwv5S1AmBKNgZaWwkpG5ZmIDplNkjRZ1AXyoudYhOgtsvnhZrRachK6SzXTNRfONwdpCh7YzO49pxLQNP8rEqdWc7fO0lBGIP4oAGWgQUjAe3DnNKAfIxZZP6ESbywJwtRuL9MPHTW_WIRlydr3rn3jzJGuKx6ieDTK4swWG0w3Ig="
+        },
+        {
+          "label": "Oil Market Report - March 2026 – Analysis - IEA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-RZMCsURik5ftWdpwjg6IVMLVdYxsT7QsWBrD-9rcM4HMl7IyonGTve29UnFv1oYyzm0J1DJw3oBPdEsjVsDdxqF4Mra2KMWspQwTix_1q5-_Cpz7ErGAHLRNIQlQ1khChBwsawD8hysTe-afMxx7fZ4E"
+        },
+        {
+          "label": "12 March 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
         }
       ]
     },
@@ -9685,6 +9928,10 @@
         {
           "label": "Trading Key",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8MXEErB_w8BW5jIXWhVp8v7gAzaYL8bCqdl0PWjYmIuWP9rGNx53vvGuX1NnuMD3iNLPIQHhcyna8HIBTRTbPQXgGkURrW7DXULdLlhk5zIWxsio2xIy8nYEFQPCIE8bAxXyBGZFvGKaiRJTLTcAp1plVaKSkj41CXX96-1XVgKxvwqNkZqmsS4L2R1aetf2jWM900zmW0OQiinGh_bJeuO4gn7upNsFoAV4j6coS8m_JHqITsAgqbH29gd-MwfTlRZw6Tnhcpwy6hqcq"
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
         }
       ]
     },
@@ -9813,6 +10060,10 @@
         {
           "label": "Los Angeles Times",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ=="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
         }
       ]
     },
@@ -10265,6 +10516,18 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
+        },
+        {
+          "label": "Energy markets under pressure as Middle East conflict triggers emergency oil measures",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzfcSdsABgGE7cfHOuGzbM6whpPps91lRP23V_HaVYCFDk-WFSTkUQ13Q_5CbikMsdcrydi77o_1rJIf0KWmqtTdUIhREtTt0cIXUwK6NscASX4LMQ-pXHovNqBD5gAoUKYf7yyXz"
+        },
+        {
+          "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
         }
       ]
     },
@@ -10589,6 +10852,10 @@
         {
           "label": "India Today",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWKOJa8KK11zP13Kh5up9znhXwIYfdDqvs12iJ_xuk3VtR8N8x2I0TrVZi04mCeaEc8GYfLyAAMUNUMHlm4MxFx61mkUiyYXZc0TiTevanQQAs-GCxZq1JE00LOV55BSwnyBIUZotOyFh8UiFFb0vT80G5BmvhLkIRBk9PG0dI21E8CL4yfViEXAjomTWHYqZhC1OJS2hJFuV7vwKXjwcKrLAccdR1ZL8iE-DN3SGUxPyDlppKXvBSGqL56aw=="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
         }
       ]
     },
