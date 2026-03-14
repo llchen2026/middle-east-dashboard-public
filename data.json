@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14 14:24（北京时间）",
+  "lastUpdated": "2026-03-14 19:11（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -11,7 +11,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "已受威胁",
+      "status": "运营未受影响",
       "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人警告，伊朗完全有能力封锁霍尔木兹海峡，绝不允许任何有利于美国及其盟友的石油通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
@@ -129,6 +129,10 @@
         {
           "label": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis | UN News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVpaJfbVHNlu9Pm60Xu7bw3ukw8p5s94z_8vnMzR07LT4U-rGVrnuW1pSCTL83OvhJ8QWwBlIp1D_hJP0n92muoKP54whNOeGDshbrYGr0P8EO5sPzL2yu8iaNuowPqHB-hSemXg=="
+        },
+        {
+          "label": "US-Israel-Iran War Live: Iranians want blood revenge for Ali Khamenei's death, says Tehran's envoy in Moscow - India Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECJtKhIbZmAtgneapZcIM_gTgcgn4qazakYavlRQkF3dMzYenaSl0kUafDfItCD4y3H01u8VN_4W1lEZO2YtY4m4eR5Di18TEgWzMbvXNfzK0PzzfmkU-5W0J4gJZslpvzV4xEikdKvU-470RjpOXdmh53-aVOAaEtvshTPE5NVQfmNmyRjgjpuyuJvPam2FGZep53iiIJlwrIzR8QkWTvQh66_p6FKsE8ScjCOuaupYLR7S3ZEu_Bp9KuOFx_J7n1bjSUQ4CT6OYOWA1fEfS62qYplbU6wPgTaa4VcLfuSSRn_qq_JwQU-YS04UjbwJTh"
         }
       ],
       "baselineSources": [
@@ -2612,8 +2616,8 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "考虑减产 / 调整出口 / 呼吁释储",
-      "current": "中东危机持续，日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备。3月5日，日本炼油商请求政府释放国家战略石油储备，至少一家日本炼厂取消3月汽油、航空燃油和柴油出口装载以优先保供国内。",
+      "status": "考虑减产 / 调整出口 / 呼吁释储 / 计划释放储备",
+      "current": "中东危机持续，日本政府于3月8日指示做好释放国家石油储备的技术与物流准备。3月5日，日本炼油商请求政府释放战略石油储备，至少一家炼厂取消3月汽煤柴油出口以优先保供国内。3月11日，日本首相表示将率先释放约8000万桶石油。",
       "sources": [
         {
           "label": "Trading Key",
@@ -2634,6 +2638,10 @@
         {
           "label": "日经中文网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW2L8xPIH8_BeeB3F1OeoGZ5oQIMuqG-NdlbV6DVPbuC2f-htTZwVlaUjbB-1d4Pl3b4fif8lwjXkEyNAhWG464dLt11QPw6G4uzPSLSdtQZGdZoueCYs1rywd4yLRQ6ZCvSJRcfPbAhrbxZsGHFgg0_SoV_fULmp_-OhS4W0SKcSlDsI3"
+        },
+        {
+          "label": "IEA announces record release of strategic stocks in response to Iran war oil price surge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL3J0oljiRvpHmLq8kdiKxDxR73NpGmVQ5dHgWA4oaduvnYqlZjyEFdKmjYTZ6SSn9cfM8hfPkEFyNWS2swFxdOmEFIoYVzMv737WqEStkPFJy7cz8zAWL2H4S5Zpdc9bAXgTyETrq4WC9b8Rxx395zcJaIqKRm_e6ngOeh4aCNBwc60t_0Go-oNOZOx4kmZMMJHK-5sMvCFCoZlbKqkxr2Decu2rKVKpMTRmb-F16RZIWeb-ugN-JHk_mQeHV165UHyxoPV76QQ=="
         }
       ],
       "baselineSources": [],
@@ -3156,7 +3164,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": 2900,
-      "status": "减产",
+      "status": "已减产",
       "current": "8日因霍尔木兹海峡出口受阻，伊南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊石油产量已削减约290万桶/日。12日伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右。",
       "products": [],
       "sources": [
@@ -6783,6 +6791,26 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets'",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPtu7WYt26JtMQ25Y0vso_2m5E4kEEmgtUU3GcF-g1dkYKZs4qPuNZTeU4XhmwyQjtVRCbPGMyMoHcdkgJHZtDUGT3XI95yE7helzGiX_f5inyezD25BLuokUJHMYSweEerQnZOVUIVvdv5syKpiPF58lp1IlZgQJf1gfzDCG7DWs453ky-W-YCiLM8pOgGyUaYUf6w2D4jNTOLVrF-UhPpIkOtrD_jGp5VtTRCWjppogM7HsfN3CodK3Xqg=="
+        },
+        {
+          "label": "Strategic Petroleum Reserve Release Impacts Global Markets - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYkqcUioM-MwVS6VlzgYaheVDN2O3VbMaU2EfAQpL4gfoPDaUSAD1W8DUSJl2RuPQ7HOXRBNn-BohC4gTyRZMTRCWTS7VVhOe3ks12v95ycYyjMm0PiRke6n6nTeJbidGSHGNfeWMLDr2JXO_zX-Csw-6UziFrgZ2XSJ1iOVU9hs26kmKf-Twx9XlvWOsBPw=="
+        },
+        {
+          "label": "IEA Proposes Record Release of Strategic Oil Stocks to Stabilize Global Markets - LN24",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbTSaJcKr7Tb59riR7srjUCmweAbvXrto7YsI0B-tuxfeiSuoFDcss2BkghFDLJre0AabVU88XDUc9NBsryqxiwP1i9Q1rERnoBnfv_wVBMW37JMOWBoWg2_ZQhSonSPIxblaBYgKkjOgcyUKxBvW7Svs_JGpTmmHePO__8j1wFYgWnvQImLO_aXU22g4fGrU26yO8j2voXSW7z9nAbbg_-Dc5uUH9rKIMRwtGSlQc_8_9MY="
+        },
+        {
+          "label": "Unprecedented Intervention: Crude Near $80 as IEA Proposes Historic Oil Stockpile Flood",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZiDr-WDFzeDVj69O4xRj-Rr9rgVB1KZNNM-QwiITy0rwQS826X8vprBrxMnnJHCsBBZQNPGSwZZe8lJimBGXYMSCr4fuYcSHkbzhzjfZN3Cq9TT57VZ-rdOPhKHgo5yQ_r8sZIM_nr8Z9Rof2fHagDHoufejUsWDC9fl74HJDGN0v-q1Mx3GCzEQ2rnopiU8P-Co9Ja_jm8lRdiDS5n6HOr1nqU03u7Yqt3eADoU="
+        },
+        {
+          "label": "IEA announces record release of strategic stocks in response to Iran war oil price surge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL3J0oljiRvpHmLq8kdiKxDxR73NpGmVQ5dHgWA4oaduvnYqlZjyEFdKmjYTZ6SSn9cfM8hfPkEFyNWS2swFxdOmEFIoYVzMv737WqEStkPFJy7cz8zAWL2H4S5Zpdc9bAXgTyETrq4WC9b8Rxx395zcJaIqKRm_e6ngOeh4aCNBwc60t_0Go-oNOZOx4kmZMMJHK-5sMvCFCoZlbKqkxr2Decu2rKVKpMTRmb-F16RZIWeb-ugN-JHk_mQeHV165UHyxoPV76QQ=="
+        },
+        {
+          "label": "IEA proposes release of record 400 million barrels of oil from strategic stocks - ETEnergyworld",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs_1aAXYs-WpVhYubCb0rhLoi--_ryE3YWh05y3gghmkMVxnAD-g5govvPLAIM8YY6J1j5-iSPp_ZR9ULMKRTtQWAt120vjGSccKaBzTLLQIQYnYIyK1MENu5EAlhzy4ZoSDEy9hyX2KPndYKR0AZvtLOQ9Xv3G5AOgkitPIzsSO4za8P4JS0nsasusbOTcKwE8bjE3XjbfISmPMMliWmr_irgNpKoemfG0zlwlqegJ_H_jolo6J3vP-BlOvjvb4aBw0h3tyJ_xhGjalv57qDVh2I="
         }
       ]
     },
