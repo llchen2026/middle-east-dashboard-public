@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16 01:06（北京时间）",
+  "lastUpdated": "2026-03-16 07:18（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -4927,8 +4927,8 @@
       "products": [],
       "designValue": null,
       "designUnit": "kbpd",
-      "status": "遭无人机袭击",
-      "current": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭到无人机袭击，终端冒出浓烟。",
+      "status": "遭无人机袭击 / 部分装运暂停",
+      "current": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭无人机袭击，终端冒出浓烟，部分石油装运作业已暂停。",
       "sources": [
         {
           "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
@@ -4941,6 +4941,14 @@
         {
           "label": "Trump Calls on Other Nations to Secure the Strait of Hormuz - TIME",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4v42NHnC1V4E5o6GD_dhE1iT3G6e7DOS8y20R8RJiBCoSzuH5vL9ySXyBsjqkmCr8MHf0qhEZhljEyH1XAScq8yEpews_dl9uZ73nr_8W6C_qKjZh8F7MxT9YG2IKc0p3jr34PPYQ_ggbQsH9KjDDj1On-bQ2j-urVcY="
+        },
+        {
+          "label": "The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHikpfDXdvJbW3Zoeo5BxlBdnC2L5sv69Oz_ZiYsjTuulG6lJxSqx78dLx6KpvX7qbMVOYB7FZjpNM8y7e6DlmzduFQAEXEW4cQThWJoR3romXb3NOz3KHzSFqdSPsWskzzBIc2HQwrkFZhYZiNd3ZXrdngZo09ElITvhTYxxG_cTTolJHg4MnbD6yF6Q3oeNhWRZC46hdpuSeCM2CuJVGMqE4M8raHmgidCGPKCGlwUyE2zwhAEV0="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 15, 2026) | GMA News Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRVjnS44zNHWbQmukcOrnXDufwBp7l0FUvtpklE5dqknNLbY25cPCW4sKtBGG8Hc1PNnObreAMsGWrq2FRtdzOAluqnRqPITm625J0Ne1qadLZgmEr0_pHk8plFFHhz5hTeuhoNmt_a3fNDK7e3xyJ1l3fLKRGzal89bolbe08XmyaA9RSwfDC8AoPVUTZw3S5QrKL-GQSDLCXM8Xwgzq_tsnrG4JhAEG86XJXd-1NYg=="
         }
       ],
       "baselineSources": [],
@@ -5032,7 +5040,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停止 / 正在停止",
-      "current": "2026年3月12日，法国能源巨头道达尔能源公司宣布，因中东冲突持续，已停止或正在停止在卡塔尔的部分海上油气生产。",
+      "current": "2026年3月13日，道达尔能源宣布因中东冲突持续，已停止或正在停止卡塔尔部分海上油气生产，预计影响全球产量15%。",
       "sources": [
         {
           "label": "21经济网",
@@ -5041,6 +5049,10 @@
         {
           "label": "道达尔能源、科威特国家石油公司等多家能源企业停减产 - 21经济网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdStGE_UIGOfsog4K9mNNggucKt97t_amHeqIFP5G00dKBnmvfsuBxri3WSkafBKzAOYUTRMb9lbtoF_flVUiXvC-RYcHbjK_0ZKwSxDoXdR8mxo2s4kW0q1n-Zi2zadYNyUeVSGGlE0tpGD68FI6o4RO9aydcCA9Y3ipAjK1xgRxSbEoxRyxLH4PNQejWstXa"
+        },
+        {
+          "label": "Impact of Middle East conflict on TotalEnergies Activities",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsFF6t1hEnHaQg0YQ9hL1SI595bihBt7955kPbwdtqIG7w9PlJ51MUKfaMKf1Ueaa5GAbHjg7Tbmti_NoxBY9ZrK7R2dyzxxDuYAEf4wGRW8Emds8nxLR_1aA07KzFZ-DS6IHvu1qx6VIly5cns3Vz-PR1OoXI5K9xChAoSw7fpxzufuojfUB-s2O24PFigb7km6lCODhl3h9KeM="
         }
       ],
       "baselineSources": []
@@ -5060,7 +5072,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停止 / 正在停止",
-      "current": "2026年3月12日，法国能源巨头道达尔能源公司宣布，因中东冲突持续，已停止或正在停止在伊拉克的部分海上油气生产。",
+      "current": "2026年3月13日，道达尔能源宣布因中东冲突持续，已停止或正在停止伊拉克部分海上油气生产，预计影响全球产量15%。",
       "sources": [
         {
           "label": "21经济网",
@@ -5069,6 +5081,10 @@
         {
           "label": "道达尔能源、科威特国家石油公司等多家能源企业停减产 - 21经济网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdStGE_UIGOfsog4K9mNNggucKt97t_amHeqIFP5G00dKBnmvfsuBxri3WSkafBKzAOYUTRMb9lbtoF_flVUiXvC-RYcHbjK_0ZKwSxDoXdR8mxo2s4kW0q1n-Zi2zadYNyUeVSGGlE0tpGD68FI6o4RO9aydcCA9Y3ipAjK1xgRxSbEoxRyxLH4PNQejWstXa"
+        },
+        {
+          "label": "Impact of Middle East conflict on TotalEnergies Activities",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsFF6t1hEnHaQg0YQ9hL1SI595bihBt7955kPbwdtqIG7w9PlJ51MUKfaMKf1Ueaa5GAbHjg7Tbmti_NoxBY9ZrK7R2dyzxxDuYAEf4wGRW8Emds8nxLR_1aA07KzFZ-DS6IHvu1qx6VIly5cns3Vz-PR1OoXI5K9xChAoSw7fpxzufuojfUB-s2O24PFigb7km6lCODhl3h9KeM="
         }
       ],
       "baselineSources": []
@@ -5088,7 +5104,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "已停止 / 正在停止",
-      "current": "2026年3月12日，法国能源巨头道达尔能源公司宣布，因中东冲突持续，已停止或正在停止在阿联酋的部分海上油气生产。",
+      "current": "2026年3月13日，道达尔能源宣布因中东冲突持续，已停止或正在停止阿联酋部分海上油气生产，预计影响全球产量15%。",
       "sources": [
         {
           "label": "21经济网",
@@ -5097,6 +5113,10 @@
         {
           "label": "道达尔能源、科威特国家石油公司等多家能源企业停减产 - 21经济网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdStGE_UIGOfsog4K9mNNggucKt97t_amHeqIFP5G00dKBnmvfsuBxri3WSkafBKzAOYUTRMb9lbtoF_flVUiXvC-RYcHbjK_0ZKwSxDoXdR8mxo2s4kW0q1n-Zi2zadYNyUeVSGGlE0tpGD68FI6o4RO9aydcCA9Y3ipAjK1xgRxSbEoxRyxLH4PNQejWstXa"
+        },
+        {
+          "label": "Impact of Middle East conflict on TotalEnergies Activities",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsFF6t1hEnHaQg0YQ9hL1SI595bihBt7955kPbwdtqIG7w9PlJ51MUKfaMKf1Ueaa5GAbHjg7Tbmti_NoxBY9ZrK7R2dyzxxDuYAEf4wGRW8Emds8nxLR_1aA07KzFZ-DS6IHvu1qx6VIly5cns3Vz-PR1OoXI5K9xChAoSw7fpxzufuojfUB-s2O24PFigb7km6lCODhl3h9KeM="
         }
       ],
       "baselineSources": []
@@ -5124,6 +5144,10 @@
         {
           "label": "联合早报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEB6znfH179Emzw5NEaKmEZg0PFgDUz5RkXQlealn5bxp6Fv9uLExxMIhc9fKtPJpy4ce3776cG8pkO8XwJFcDm9wjXZTR56Lzl8AeDdwGq7smc84Ycbp_Cn-F0R5n2CSA45me7z2x6qD41Y2NRHPP5NLsrTF10siP0M="
+        },
+        {
+          "label": "Middle East Conflict Triggers Fuel Restrictions Across Asia | THE DAILY TRIBUNE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddbg9MU-Cc4J1-q9EBvmjOLMKzZ5LtKqWiNAuEHhNCTl3DlrbMA2iZwXHZHYxXRsrbKpkit6dao0J1vQKvoXWkD8RvxefItETAJ1kDkpPakyxHigNMAdSwru4MOddVcQgNHRnGYEflEU="
         }
       ],
       "baselineSources": []
@@ -5145,6 +5169,10 @@
         {
           "label": "证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSddWp-1XwREtBQzUgmFBKng7EWB1SNcooTvn8hvUTCZAryC_Hk4wgIiFBYY4H2OCpiJj77fx4T1Y0riE_a_INZ9xOdcspIuW6HMS_WltyH6cVDqFIGIeKaNspmIA6R8xfnMlIDJMure8_w=="
+        },
+        {
+          "label": "March 15, 2026: Iran War Maritime Intelligence Daily - Windward",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtW2MUZd07tiNINZhwviz5zSRH8ifO9ZRUAJ6rVB9uK33_Zqv-jclcKHh99EvfWModkne16r-YWsQJzyLegZj0QSGvA-JtTigmLsejducoKhCkTuvkN3wpUfzho4JJx87D9TRLANC77CQvU0yuJpnXehtgZCrkKCE="
         }
       ],
       "baselineSources": [],
@@ -7779,6 +7807,18 @@
     },
     {
       "date": "2026-03-13",
+      "title": "伊朗新任最高领袖誓言继续袭击美以目标",
+      "type": "冲突升级",
+      "text": "2026年3月13日，伊朗新任最高领袖Mojtaba Khamenei发表首次声明，警告除非关闭中东美军基地，否则将继续袭击以美军事资产。",
+      "sources": [
+        {
+          "label": "Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKnYdxdwYxPzgFbpif5j91yaxSWtMgl9V6DMqE2P3rI1ud9JNJzudDd0LzW-uFsg0pVAXfbjA-5tEdFj93HoC2DOS9z_SXlh6AX5kpShZT15WReZ_VL3WA7UgyY4IMotlaL5cdiu3Ne5eZOfhKCM22edHvvQhDcz26NIA_OPw-_pzkZ3EexZzF_YwQePJVvkggfNPLF6USzZrti9c="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
       "title": "印度面临LPG短缺，政府要求炼油厂提高产量",
       "type": "供应危机",
       "text": "印度面临液化石油气（LPG）短缺，政府已要求炼油厂提高产量并优先保障国内供应。",
@@ -7790,6 +7830,18 @@
         {
           "label": "The global price tag of war in the Middle East - The World Economic Forum",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4H1O8wT2C4-grJhcJMZL5NzwgFqPBZItuFn-qdi1tetYZBhVZuMuuS_RoJlSfs3wwIdIqpegAIDk6GNxtaZQY-igUiUDVIvntVKQQCXivXnzJK_hQXq98rZfXjZPaXVkVHkJivv-j0sbDT1eT2dqLG9rGDEeipGpAt7-0x04ODP7QRN6LAV_GcUaXKp2pikr"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "国际油价布伦特原油突破100美元/桶",
+      "type": "市场波动",
+      "text": "2026年3月13日，布伦特原油价格突破100美元/桶，市场担忧加剧。",
+      "sources": [
+        {
+          "label": "Market under pressure amid West Asia conflict; European mrkt decline - ICICI Direct",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrLuu5CneCWNj6p6mWOgJcYh1tnp4HVOIrDhMRdmtL9Zualk3OOSp-nFKiU0rjglP7dJwIrGcloY2w_8LTQAENVPlUpy6xUPi-2kYR1ONnOukY9Uo58OxcGcDBikA59X9qaM-RUBj5tbcRziqDALP9tsqGyv1_O4yUF_hIWYJz3LkEEJe6sbJsB-sXTQm7c0Z5VABud_0FotTC__M6AsmWKKL3E5S7DWRdg9izhBHbYka5i-MKBg8Kh0ctITpLu_M6GCfv0fxe0Uc481E="
         }
       ]
     },
@@ -7858,6 +7910,30 @@
       ]
     },
     {
+      "date": "2026-03-13",
+      "title": "道达尔能源停止中东近海油气生产",
+      "type": "减产",
+      "text": "2026年3月13日，道达尔能源宣布因中东冲突持续，已停止卡塔尔、伊拉克和阿联酋近海部分油气生产，预计影响全球产量15%。",
+      "sources": [
+        {
+          "label": "Impact of Middle East conflict on TotalEnergies Activities",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsFF6t1hEnHaQg0YQ9hL1SI595bihBt7955kPbwdtqIG7w9PlJ51MUKfaMKf1Ueaa5GAbHjg7Tbmti_NoxBY9ZrK7R2dyzxxDuYAEf4wGRW8Emds8nxLR_1aA07KzFZ-DS6IHvu1qx6VIly5cns3Vz-PR1OoXI5K9xChAoSw7fpxzufuojfUB-s2O24PFigb7km6lCODhl3h9KeM="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "title": "霍尔木兹海峡及波斯湾多艘船只遇袭",
+      "type": "航运安全",
+      "text": "2026年3月13日，48小时内至少六七艘船只（包括油轮）在霍尔木兹海峡和波斯湾遭炮弹或炸药船只袭击。",
+      "sources": [
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOp9MNdUxPRLr7LxKZrSMxoy4n1xCRSE_F7lpA1TrElgx6nicsEtxW24IplRmkvm5ZQy4Fp1ynHDf5KoFkPkGWbFFWNo1YimCCQPrZhgFhgTlXVP6fKZ9GLa1TqTXPZxRN6iav_Ff9l8tTC880uccZh97cnXsULuOwXt_6pNmbkBoBJ2rcQXikbl8S3PAIgCEUYjOc0SZshE6akCoQvuwh9QQhlpLILRb42SwC22z3rxyPiak="
+        }
+      ]
+    },
+    {
       "date": "2026-03-14",
       "title": "美国驻巴格达大使馆遭无人机袭击",
       "type": "冲突升级",
@@ -7882,6 +7958,10 @@
         {
           "label": "Drone Strike Hits U.S. Embassy Baghdad, C-RAM Air Defense Disabled as Iran-Linked Proxy War Exposes American Force Posture Vulnerability - Defence Security Asia",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1hWGXgbus-QTZ5RORpPEPnkM5M59CfytP3JJwFdsnsJDy1s2BOzkQHBaWMz0Apo61Ltrbw3p6DVw5SVd7qbjEIlRLJvzii75mn-jLHp6Xg9O-BJG5IGbkWooVKT75wLp_1gtR15DtXKeZ_yDzBwWIFSIbDYfgg51YGLHOva8Y49ocVd5D2JkkpFue2MDJ0N9DjnyYIRQlMthapwILfor-LvA2gIP3ZEW8i54s6rXEvY0dDoEB0DU="
+        },
+        {
+          "label": "Oil targets in spotlight as Iran war enters second week – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNS6Xjz9niErCefnhNo2KJoquXIF_2F5VjDxiqIE4k3Ues_JR7CYyzeps50FcQUhYtKqFfX7XtY8Tt28pf0q81Zor3Cp7hcSZhb19GOEg_Nwz7oNn4kBn122DyXe9QzE6rsOar7WHx5p-w2E6TL7VljD5mKpqlKfi2448hRaQ1mqvICNRl3NhDMNUgmX_vMgRSsZ1M7hZkG-csEJ3NGZBh2wn_zXLLWi-RB0I="
         }
       ]
     },
@@ -7901,7 +7981,7 @@
       "date": "2026-03-14",
       "title": "阿联酋富查伊拉港遭无人机袭击",
       "type": "设施受袭",
-      "text": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭到无人机袭击，终端冒出浓烟。",
+      "text": "2026年3月14日，阿联酋东海岸主要石油港口富查伊拉港遭无人机袭击，终端冒浓烟，部分装运作业暂停。",
       "sources": [
         {
           "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
@@ -7910,6 +7990,14 @@
         {
           "label": "Trump Calls on Other Nations to Secure the Strait of Hormuz - TIME",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4v42NHnC1V4E5o6GD_dhE1iT3G6e7DOS8y20R8RJiBCoSzuH5vL9ySXyBsjqkmCr8MHf0qhEZhljEyH1XAScq8yEpews_dl9uZ73nr_8W6C_qKjZh8F7MxT9YG2IKc0p3jr34PPYQ_ggbQsH9KjDDj1On-bQ2j-urVcY="
+        },
+        {
+          "label": "Iran-Israel war updates on March 14, 2026: Trump says other countries 'must take care' of Hormuz - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHikpfDXdvJbW3Zoeo5BxlBdnC2L5sv69Oz_ZiYsjTuulG6lJxSqx78dLx6KpvX7qbMVOYB7FZjpNM8y7e6DlmzduFQAEXEW4cQThWJoR3romXb3NOz3KHzSFqdSPsWskzzBIc2HQwrkFZhYZiNd3ZXrdngZo09ElITvhTYxxG_cTTolJHg4MnbD6yF6Q3oeNhWRZC46hdpuSeCM2CuJVGMqE4M8raHmgidCGPKCGlwUyE2zwhAEV0="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 15, 2026) | GMA News Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRVjnS44zNHWbQmukcOrnXDufwBp7l0FUvtpklE5dqknNLbY25cPCW4sKtBGG8Hc1PNnObreAMsGWrq2FRtdzOAluqnRqPITm625J0Ne1qadLZgmEr0_pHk8plFFHhz5hTeuhoNmt_a3fNDK7e3xyJ1l3fLKRGzal89bolbe08XmyaA9RSwfDC8AoPVUTZw3S5QrKL-GQSDLCXM8Xwgzq_tsnrG4JhAEG86XJXd-1NYg=="
         }
       ]
     },
@@ -7922,6 +8010,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 14, 2026) | GMA News Online",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsJ8RCh_XqCo-Xbxl4HsMJJMlQLKvShvik3Eon77YYgyjvXhB61Bg4dJYm_Ri_EN-BioyYJHuYoYUzpX8ggGm9cz2YgU6HAYoitdfHL-wfHJLd5oAv6MaPAwKPfvcKUsI-nY6YV41rZb6Me4Ow3_Rj_LdFS4vQT7hW-nFhIxx6rMlpCY2YK3Vh6JvgUULRAZ9AF_JMBJVZOmiP2pTLIc6jNjcQuuF0bOQhyGDR3IM-VKc="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 14, 2026) | GMA News Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqQM9DTNibMy57130CYRQM8lRuLn-FpHRLLR_LuVlBgNgMvPpi2U4PG6ZT3LTGTGUa9HamIKMMbuTDw2YcH6Cqq_Sh4thyWuS5CR_Y1t4xxvF9SI4VpVbUkE2uLmJT2JrMSKNnxUjyURf4jFpul-IYd5NilAUFHeDdCBPxhqjPH8FcZOcnpWfU9LlLtfv2FToSyeGb35Y6GugZw4WSZ6SNH_l8rFwT5yC_eI67Kw-h5g=="
         }
       ]
     },
@@ -7938,6 +8030,10 @@
         {
           "label": "事关霍尔木兹海峡！特朗普发声！伊朗重申 - 21财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgEVuGNN2GyGyu00bs68dWRDEuwu8gg89i7HWJd1u3eDAOdEg8mJZKNU1uCojoTD0UmAUxTDtODhRzruP-3cYxvZ9i_VgK1J5Zx8Unq_uMvMkb2L9j-qKRy4cmt3hSqY11qD7926V5GflsUkD7diPOVJdywbLDqD0qNV-Z5Xo9tIZMufz6A9TSDlYh-EOCI-Ud"
+        },
+        {
+          "label": "March 15, 2026: Iran War Maritime Intelligence Daily - Windward",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtW2MUZd07tiNINZhwviz5zSRH8ifO9ZRUAJ6rVB9uK33_Zqv-jclcKHh99EvfWModkne16r-YWsQJzyLegZj0QSGvA-JtTigmLsejducoKhCkTuvkN3wpUfzho4JJx87D9TRLANC77CQvU0yuJpnXehtgZCrkKCE="
         }
       ]
     },
@@ -7999,6 +8095,18 @@
     },
     {
       "date": "2026-03-15",
+      "title": "特朗普重申确保霍尔木兹海峡开放和安全",
+      "type": "政策调整",
+      "text": "2026年3月14日，美国总统特朗普称多国将与美国共同派军舰确保霍尔木兹海峡开放和安全。",
+      "sources": [
+        {
+          "label": "Trump threatens further strikes on Iran's key oil export hub as war enters third week",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvtNa84eXN7jnzI10IvE-ebugO4lkQHJWukgY8My9GP4ejIbYu_Tf8SWym1CbGGIQSeA0oGKNZlw8fRjPDTjWQjS4oPGzRKc3RuVcgwqAPzE5g__2BOIc4ilJAT44-PdbacsO-g3nGSb5kV9Jf6vE3Y1JvktOZbPYWNAY5MTerxIzOdXJDErd4w4DMSAMRVYiByseFfEiU3UlyhXO_lMH6Rk7tjYBHGWwMuCdOCQ=="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
       "title": "美国总统特朗普重申将确保霍尔木兹海峡开放和安全",
       "type": "政策调整",
       "text": "2026年3月14日，美国总统特朗普在社交平台发文称，多国尤其是受伊朗试图关闭霍尔木兹海峡影响的国家，将与美国共同派遣军舰，以确保该海峡保持开放和安全。",
@@ -8006,6 +8114,18 @@
         {
           "label": "事关霍尔木兹海峡！特朗普发声！伊朗重申 - 21财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgEVuGNN2GyGyu00bs68dWRDEuwu8gg89i7HWJd1u3eDAOdEg8mJZKNU1uCojoTD0UmAUxTDtODhRzruP-3cYxvZ9i_VgK1J5Zx8Unq_uMvMkb2L9j-qKRy4cmt3hSqY11qD7926V5GflsUkD7diPOVJdywbLDqD0qNV-Z5Xo9tIZMufz6A9TSDlYh-EOCI-Ud"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "title": "霍尔木兹海峡商业航运首次停滞",
+      "type": "航运安全",
+      "text": "2026年3月14日，霍尔木兹海峡商业运输降至新低，无AIS确认船只双向通过，为冲突以来首次可见停滞。",
+      "sources": [
+        {
+          "label": "March 15, 2026: Iran War Maritime Intelligence Daily - Windward",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtW2MUZd07tiNINZhwviz5zSRH8ifO9ZRUAJ6rVB9uK33_Zqv-jclcKHh99EvfWModkne16r-YWsQJzyLegZj0QSGvA-JtTigmLsejducoKhCkTuvkN3wpUfzho4JJx87D9TRLANC77CQvU0yuJpnXehtgZCrkKCE="
         }
       ]
     }
@@ -8157,6 +8277,10 @@
         {
           "label": "2026 Strait of Hormuz crisis - Wikipedia",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkcDLQ63qLMeXkvfb0NO4fgeMJwYmCPF_bd_Bnws_qRSw0awPdodt8DmdyMTVgOJ6fHOOldmqb3-PaJv9HotzlF5mSbq1DiGAa1Buk-8S-SD25L4dEVOn2RsAz1a2ZmsBpgyGg9j7kGGHg4ZjL6Cfk2yMHOeY="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOp9MNdUxPRLr7LxKZrSMxoy4n1xCRSE_F7lpA1TrElgx6nicsEtxW24IplRmkvm5ZQy4Fp1ynHDf5KoFkPkGWbFFWNo1YimCCQPrZhgFhgTlXVP6fKZ9GLa1TqTXPZxRN6iav_Ff9l8tTC880uccZh97cnXsULuOwXt_6pNmbkBoBJ2rcQXikbl8S3PAIgCEUYjOc0SZshE6akCoQvuwh9QQhlpLILRb42SwC22z3rxyPiak="
         }
       ]
     },
@@ -9138,6 +9262,10 @@
         {
           "label": "LPG crisis: OMCs told to meet household demand first; several states report shortage",
           "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQFbjrNoMTm32QwN3qVf4-yfkri2AOPaC9bbn-yHIMWidLUe9cewdKVGjglWgeUV9M1S9BKg8v3gJEhYIsuKS0QvIuSRQzITUcAmM2EzmmlEysloRfv5tFmU3ID5N1n1BtfHPuHaP183Q5yX5KzaA0t65arSRIXF2EB_8XTzoslIcFvBf1WiF9OQdGmlSNFMED1PbZy3szamlrUZrJciJupchF5G7c60Q-BTvYnV-cEGH_SglyH-xDzNIR7UoTMYs1ubDQ=="
+        },
+        {
+          "label": "Middle East Conflict Triggers Fuel Restrictions Across Asia | THE DAILY TRIBUNE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddbg9MU-Cc4J1-q9EBvmjOLMKzZ5LtKqWiNAuEHhNCTl3DlrbMA2iZwXHZHYxXRsrbKpkit6dao0J1vQKvoXWkD8RvxefItETAJ1kDkpPakyxHigNMAdSwru4MOddVcQgNHRnGYEflEU="
         }
       ]
     },
@@ -9684,6 +9812,10 @@
         {
           "label": "China increased its crude oil imports by 15.8% in the first two months of 2026.",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyq-1JWdJCuCRsKISUK5fDLnhaIYbhekzLi9wciX5gZle6OjR43fjmb9NUiQGm-qYgIJtagTH5Au_Gq7ea-tLVQ68T0e0Mf8ttHaMjp449Bm_gdKhbxszCUWvJJ9RQaN4AX7jQMKAlAkU-prNkgGVKxAYNxi5BZmMCG4sybnBjePhBq28hnSym5jnhGvzY1V27muAy3FAbW1mgm5sOavKo9fDhaxHnYwCg=="
+        },
+        {
+          "label": "The Middle East conflict: Key insights - 13th March, 2026 | Capital Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYDAzjN8nlEYgiWGpYV9GwsfojpqEoAGx5GPmPeVCnLcKdFxmAzaHfcJyYhTUkJ7K5Z65p-9Y7kDHd5ZnuVN-rE50J6ifUP539OqIX1TXsIIVwL1BdVcCmcS401u27RiPh1BfFUTzTrVuAa4qukIjESMA6vZu6xGFYy6z8t-MP9AlS_iw21WPaWSTWaYSZBJODZ"
         }
       ]
     },
@@ -9826,8 +9958,20 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
         },
         {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQFRjaiNM3GvYlc2UvrsgRrE3yKjglumKNqhx1SmPYOhA9Qml_crBetVeI6qALZdO6W7d68R7MaT3LtoZfeoEwY9kOz4mDGZFUaUF1YZib9BgW0K6p2TiM57Llxdjz7b2cGLW_rOZ9FjbNFUqWz_8JlvZiu6Lu8Ii125yA=="
+        },
+        {
+          "label": "永豐金證券",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNTLLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
+        },
+        {
           "label": "金投网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkPe16tZlbjqzP6wXe_LXoLPpwVxXoI-yIA6qmGtkGznNzzFFH6lMoq8HzBm5Uh_7qTuLb40B2WOSAk8f2j6SJ0wOD8ELCPtiPLQy2VHw8EVOIgDP5kSX14laRAMk0XPmUkJmMYA56SMjcxgbAS0E="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOp9MNdUxPRLr7LxKZrSMxoy4n1xCRSE_F7lpA1TrElgx6nicsEtxW24IplRmkvm5ZQy4Fp1ynHDf5KoFkPkGWbFFWNo1YimCCQPrZhgFhgTlXVP6fKZ9GLa1TqTXPZxRN6iav_Ff9l8tTC880uccZh97cnXsULuOwXt_6pNmbkBoBJ2rcQXikbl8S3PAIgCEUYjOc0SZshE6akCoQvuwh9QQhlpLILRb42SwC22z3rxyPiak="
         },
         {
           "label": "Trading Key",
@@ -9904,6 +10048,14 @@
         {
           "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
+        },
+        {
+          "label": "Weekly market update - 13-03-2026 - AMP",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzDT5RM5GSV89XpAkgCYzQQa9vB5rszfIsIgKVkviy59B8RbAWoK9eCzOBasPbSjJHJJk0RlIe9_xhoRGw8q3qwcp9HyZaokfHqtUanR4hD4kGADsJbB3mQzK9sAD78R3VFDR2Zp9ioQdTdbzaqRAE2Iq6G9C0nI3qxK9VKpy4gavDNOGxaI="
+        },
+        {
+          "label": "Oil targets in spotlight as Iran war enters second week – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNS6Xjz9niErCefnhNo2KJoquXIF_2F5VjDxiqIE4k3Ues_JR7CYyzeps50FcQUhYtKqFfX7XtY8Tt28pf0q81Zor3Cp7hcSZhb19GOEg_Nwz7oNn4kBn122DyXe9QzE6rsOar7WHx5p-w2E6TL7VljD5mKpqlKfi2448hRaQ1mqvICNRl3NhDMNUgmX_vMgRSsZ1M7hZkG-csEJ3NGZBh2wn_zXLLWi-RB0I="
         },
         {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
@@ -10118,6 +10270,14 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrzo1wb8fGlQsEeCVVRKMG0IURGEQIXHefVjzgxcdkZ2wm3oJsk6YtDvpi9hd_UeHt2CrKwQLnRdRNDI0g9yCIxfCe1iI2Qn6aIdS_W7q003bx_hZxysCESeeooRrhuOwi_EAWmi89AMoTdtjL12iecy4AD7FnT3LwJpLvFQMFbkksnfq36GF2f6bM7RBdNFm1YxhWUhdLY0byHAqMuDKlvGPVXQ64Nl1uKePHuXl4BU=="
         },
         {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ=="
+        },
+        {
+          "label": "United States to Release 172 Million Barrels of Oil From the Strategic Petroleum Reserve",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4LdDEnVqwk434DS82NJwlgu7r5PevTvLNutYwIKKEZcT0fIXeNK0D71kc_lR7BLrUKTVDw81wp51T8cp7Wxr1JM0zZqmpyF_w_4jbFL3bkC4MpvHMnEo7CL-W3DKKPNSA9IiIUj2kmTFf3wHyuTXmCYgC2zWljjCubJZamzzTl2xnDFfzKXS_UyECbBesirbKoKyVIP6yTwZkmJUMcFC8iih0VQ=="
+        },
+        {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bDMpIBMRjzozoCAGsZUGMLfooIOTyU3ykbhwFmVxvURJdu4dyIIHmKQjcI6PfukDAnjAgHhmlkg46viUFidM0TBmQ91lEP1F6sEE5koznf2Rl9u2D0SRl6LlOdMUbEU8UAU0-eUc-M6tIy7Y6k_Pr1Urd1tuYY90OqE="
         },
@@ -10324,6 +10484,22 @@
         {
           "label": "油价飙升多国启动应对措施中东多国开辟新商路替代霍尔木兹 - 21财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMpvR85Z2lUFNq4Kl_lzjFCwjlWnPw38sODu0u2qaQJQKHl7XiJRJeY3h6Ctj9oZmAjdkJ0ruMy-1G8VEJo_RwQIWwf72CuAG7MeR6k4pV1qsTX_pFoAEf9fg043FwgTHHGP_bzUNRxXV7ButH71VoR9UplmPKVnFzPatO-ugfZP-iFUWf_gtxfXcWs16LKq2D"
+        },
+        {
+          "label": "Update on IEA collective action decision of 11 March 2026 - News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0YEJzuUE2p52JqbnzQv0d9Xe686exiLyvj4M863BIBbR2xzxFsmBqt7vfhQbOa5Fb-69PAwGVO5-MvflBbIOwD2HT2_5At_ktvW3b2zwCCiOdgf1RHvcKRuR390R8m8sWjmRda5IBo7u4xrcpHa_twoepFZs5q1y1SbL8NToe4gLLzasZrUXqJ-7CUA=="
+        },
+        {
+          "label": "Energy Department to Draw Down SPR as Part of IEA Coordinated Oil Release",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa70hYlJcFJ5OlZbwFl__j9ZZBFM791tZkH9YDAwE5S0vLlR1X050QNLlkWQqYsIIB8Uk_iNyI9xM1kKfh5OxqZMy7QgmEsqGFLYaDOAv_BMPSmyw7zKiEgddG-S5zUdGS6lzFy4bEClaBjEKZLVq2uOo3pVcIk5GZxnifM_Q9i7oUJSUDGvWF_05dgbfuOupYNL1r29XdqBYFKNIznLAaaRLWJAQax1zEz-FkmQ9IIVtKUQWk1w=="
+        },
+        {
+          "label": "Explained: G7 announces historic release of emergency reserves - Energy Connects",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBWAWO0Xizik_Paqq9SoCUNF6u3mK21SoX0hgYsVsO0zKKOwOEPzcq5U3n1YYoJTr7oQeZMfZViwdwgtpbRaXhbRZ-K-i-xc17-uqwNjS-1R_EzVP1HUBT-LXYj65QQaWiCxKNPPX3X95F3CE4qIzJFEYqYEuvxIE0IMyxfflT9wQ5bPQOIrvdLet7R76jXDA0hFjxkXO-0MLU2iPddzgXdNB6OvYNm7brcGejCcRcUt0EjtJLfNEPt1mCnQuQJXGK1_Plpw=="
+        },
+        {
+          "label": "Ahead of video conference: IEA to launch largest-ever release of oil reserves - RTL Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV3GF-KoASAMu0ToXzfP-vl0HNA6KDQjX5FHAUcS_WXbMzUAUoaQzTvPfAcEYzSJmYdgJpj04Awm_SxDtVbAQcvsNW1bUukrVRn42Fa04aeAhMSr_LJcxDN8PX09hZmpbMmOEiFgOq6_kdb6joCPwxTTMzFzqvErEkPISZvhXF2kNyA3A9Km3r7kH8pT4kEju6GtslOw9bBAWKkC_HldttV4I="
         }
       ]
     },
@@ -10430,7 +10606,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油，或于3月16日开始单独释放国家石油储备。",
+      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相宣布将率先释放约8000万桶石油，或于3月16日开始单独释放国家石油储备。",
       "current": "截至2026年2月28日当周，日本商业原油库存较前一周增加37.85万千升。炼厂平均开工率86.2%，较前一周下跌4.3%。按IEA及EIA近12个月需求均值估算，总油品库存可用天数约123.4天，对中东油价波动具备较强缓冲。",
       "sources": [
         {
@@ -10512,13 +10688,21 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQFRjaiNM3GvYlc2UvrsgRrE3yKjglumKNqhx1SmPYOhA9Qml_crBetVeI6qALZdO6W7d68R7MaT3LtoZfeoEwY9kOz4mDGZFUaUF1YZib9BgW0K6p2TiM57Llxdjz7b2cGLW_rOZ9FjbNFUqWz_8JlvZiu6Lu8Ii125yA=="
+        },
+        {
+          "label": "永豐金證券",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQDmzfx2tIuAPW-jf_mpb--LiNKrZ_z2Bn6T-dceUO5JgWpi_8hCjy9_J2Svz_B6fSjJ46CJxcWV9YEXMnrLAbCJSBma4qxcRWRKdou7gcNh4ib7_cTcz71e0mONlkWl8dQVMj6E8yRVqCsXkcD2fwr6M3POgVuzJRnPMhaABU0Q36uYYmeBTBASBVC4Fc7Q6twEthZbQFnYkDSTrMl2B-z8Qeng5qxN2Wz8BIj0ZdF9OgRlE9j7EvDoX1zFApPRi1jNMm8m99K9O6Sl4msNqY8mWRc5-X1ri6JL2rq053VBMMc03kVARu1fbVLBGJt5fM43-WYqzUv-Tr_XU5PPAns_AfjGNlI3baXefIJp3-8Af1SbKirAh_YII92CN_4PqnBkOZxkteFSxJn3mfh5etkULBpvXZQgs2zSTJgy16Hb0UnO_bO2T4xZWB0Oe71E0LTGUORrbk6-I80y1NcoiC0QfcdRBMRSrdmtonyYZ6Otb0daDNnWVmv3PkS1Fo2QEfJHFGr6BnAIIDbb2myyeDlI3OPYI8y463bbXPZUNTLLd0YBYHe5tePlRk-uraTQ8JNGp20ofYHwF_BjIW5mM1t6svNgzcgy9rVNII4Vj62wB-q6IZDphE-1FH1HLtmmMLqswObnHaxg=="
         }
       ]
     },
     {
       "country": "Japan",
       "market": "商业原油库存",
-      "period": "2026-03-07 PAJ数据",
+      "period": "2026-03-07 PAJ数据 / 近12个月EIA需求均值",
       "status": "库存下降",
       "levelValue": 10515.722,
       "levelUnit": "千吨",
@@ -10536,6 +10720,10 @@
         {
           "label": "金投网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkPe16tZlbjqzP6wXe_LXoLPpwVxXoI-yIA6qmGtkGznNzzFFH6lMoq8HzBm5Uh_7qTuLb40B2WOSAk8f2j6SJ0wOD8ELCPtiPLQy2VHw8EVOIgDP5kSX14laRAMk0XPmUkJmMYA56SMjcxgbAS0E="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOp9MNdUxPRLr7LxKZrSMxoy4n1xCRSE_F7lpA1TrElgx6nicsEtxW24IplRmkvm5ZQy4Fp1ynHDf5KoFkPkGWbFFWNo1YimCCQPrZhgFhgTlXVP6fKZ9GLa1TqTXPZxRN6iav_Ff9l8tTC880uccZh97cnXsULuOwXt_6pNmbkBoBJ2rcQXikbl8S3PAIgCEUYjOc0SZshE6akCoQvuwh9QQhlpLILRb42SwC22z3rxyPiak="
         }
       ]
     },
@@ -10554,7 +10742,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 80,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "2026年3月11日，日本首相表示将“率先行动”释放约8000万桶石油，或于3月16日单独释放国家石油储备，这是其自1978年以来首次单独释放。",
+      "potentialReason": "2026年3月11日，日本首相表示将“率先行动”释放约8000万桶石油，或于3月16日开始单独释放国家石油储备，这是其自1978年以来首次单独释放。",
       "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可满足约200天进口需求。日本政府已指示准备释放石油储备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油。",
       "sources": [
         {
@@ -10664,6 +10852,10 @@
         {
           "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
+        },
+        {
+          "label": "Weekly market update - 13-03-2026 - AMP",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrzDT5RM5GSV89XpAkgCYzQQa9vB5rszfIsIgKVkviy59B8RbAWoK9eCzOBasPbSjJHJJk0RlIe9_xhoRGw8q3qwcp9HyZaokfHqtUanR4hD4kGADsJbB3mQzK9sAD78R3VFDR2Zp9ioQdTdbzaqRAE2Iq6G9C0nI3qxK9VKpy4gavDNOGxaI="
         }
       ]
     },
@@ -10681,7 +10873,7 @@
       "coverDays": 48,
       "potentialCoverDays": null,
       "potentialReason": "中东冲突导致油价飙升，韩国政府于2026年3月9日召集四大炼油商负责人要求稳定市场油价，并考虑实施近30年来首次石油价格上限制度。韩国政府还计划加强确保替代进口来源，并已决定从阿联酋购买超过600万桶原油，并制定分阶段储备油释放计划以应对局势恶化。",
-      "current": "按IEA库存与EIA近12个月需求均值估算，韩国总油品库存可用天数约48天，对炼厂高开工和进口依赖仍较敏感。韩国政府正考虑实施油价上限制度，并可能启动战略储备。",
+      "current": "按IEA及EIA近12个月需求均值估算，韩国总油品库存可用天数约48天。韩国政府正考虑实施油价上限制度并可能启动战略储备。2026年3月14日政府表示若中东危机推高电费，将提供额外能源券并增加核电和燃煤发电。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -10742,6 +10934,14 @@
         {
           "label": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2qtZwH4ks4_90PDNgBEFiY9Q4vcpT-vcgHENvnTgABVhf0Qc5zRK0WJd1dm3tFouFeyNtprGLGA6Pt2XDGcI1Egnql2UvgKoCH4JJJNkbQA8-1wtHFEzJbWfndcw1YmVqUHioNP97MiSBuT25p9NV6JOxjvKO7duWxtfFRk49_Zq9Hlnq6R59SNZ-OyvNVp5_H-DlgcnFaArYOLxy1WpXgEii4wYGpcX90H9jGJrR7s=="
+        },
+        {
+          "label": "【金十期货一周精选】韩媒：据悉韩国正考虑30年来首次实施石油价格上限制度-市场参考",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHIsTv5yGSt0EckKITCmTDKuJ4r9x_ovIRY_s7vb0jJrM43S0EdzhgNmit6BhhZ_IT7LCBAbTzq8naPA2zSlRv8Ex1CLkqRjOhFoQ8BX8Q0KXJL4L1naBWOUQrS6lCwiwc="
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 14, 2026) | GMA News Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqQM9DTNibMy57130CYRQM8lRuLn-FpHRLLR_LuVlBgNgMvPpi2U4PG6ZT3LTGTGUa9HamIKMMbuTDw2YcH6Cqq_Sh4thyWuS5CR_Y1t4xxvF9SI4VpVbUkE2uLmJT2JrMSKNnxUjyURf4jFpul-IYd5NilAUFHeDdCBPxhqjPH8FcZOcnpWfU9LlLtfv2FToSyeGb35Y6GugZw4WSZ6SNH_l8rFwT5yC_eI67Kw-h5g=="
         }
       ],
       "potentialLevelValue": null,
@@ -10883,7 +11083,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "中东冲突持续升级，市场对高硫燃料油供应减少的担忧情绪继续增加对新加坡市场基本面的支撑。中东战事限制了流向亚洲的套利货量，市场参与者预期新加坡地区供应将愈发紧张。新加坡炼油厂生产活动大幅减少，产能利用率降至50%-60%。",
-      "current": "截至2026年3月4日当周，新加坡燃料总库存为4996.5万桶，较前一周增加252.2万桶。其中，燃料油库存上涨65.4万桶至2328.6万桶，中间馏分油库存上涨12万桶至764.7万桶，轻馏分油库存上涨174.8万桶至1903.2万桶。",
+      "current": "截至2026年3月4日当周，新加坡燃料总库存为4996.5万桶，较前一周增加252.2万桶。其中燃料油2328.6万桶，中间馏分油764.7万桶，轻馏分油1903.2万桶。2026年3月15日受中东冲突影响，炼油厂产能利用率降至50%-60%。",
       "sources": [
         {
           "label": "汇通网",
@@ -10916,6 +11116,10 @@
         {
           "label": "联合早报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEB6znfH179Emzw5NEaKmEZg0PFgDUz5RkXQlealn5bxp6Fv9uLExxMIhc9fKtPJpy4ce3776cG8pkO8XwJFcDm9wjXZTR56Lzl8AeDdwGq7smc84Ycbp_Cn-F0R5n2CSA45me7z2x6qD41Y2NRHPP5NLsrTF10siP0M="
+        },
+        {
+          "label": "Middle East Conflict Triggers Fuel Restrictions Across Asia | THE DAILY TRIBUNE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddbg9MU-Cc4J1-q9EBvmjOLMKzZ5LtKqWiNAuEHhNCTl3DlrbMA2iZwXHZHYxXRsrbKpkit6dao0J1vQKvoXWkD8RvxefItETAJ1kDkpPakyxHigNMAdSwru4MOddVcQgNHRnGYEflEU="
         }
       ]
     },
@@ -11000,6 +11204,10 @@
         {
           "label": "中国石油报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmquy2h5TXWT2jQp3aupEGq3dqMoCTzBp5x7yq6ZaX_WyNJv0YU89eLbQgQz8oGOX7289_emsZTzKkr_6kVt9K9a7dRTxUbGCcNktQm97Zta1K9OlX8o6XshzMZxqyIOU54SMw6GT5_vkJ9QO3aXgtKabGzg=="
+        },
+        {
+          "label": "Middle East crisis impact on civilians reverberates across globe – Türk | OHCHR",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0ckQtIhmrb2E3MvHbnyqn8-8sNVgWdf79R7yBng2Fge5HdtoGCPVQSgzz7SB6awWCBBYyYPjRhc7chDkyjDZu5SD00Wd10GBGzrS1MTNM3olZcCZAb2r7GSVvsKOuC4Xu7gjgEYRPVIV7tI9t-fo0oe9nhhZ9VXBn4s20-MCvrtfetPP0bELtKQsK8XI5bB1DfWdsOiVJ9JQN8SD9od-g7k6LcUAutr7oKX0"
         }
       ]
     },
@@ -11019,7 +11227,7 @@
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
       "potentialReason": "",
-      "current": "按IEA库存及EIA近12个月需求均值估算，英国总油品库存可用天数约20.2天，在主要发达经济体中偏低。通过法定商业库存维持满足IEA标准（90天净进口量）的底线储备。",
+      "current": "按IEA及EIA近12个月需求均值估算，英国总油品库存可用天数约20.2天，在主要发达经济体中偏低。通过法定商业库存维持满足IEA标准（90天净进口量）的底线储备。2026年3月14日政府准备有针对性支持措施帮助低收入家庭。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -11032,6 +11240,10 @@
         {
           "label": "G7战略石油储备规模明细_新浪新闻",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiG1DGJkZ0gJu6xxvJeD9_ZIVGhbwccoRvG7irpIV2Y9JZno_RTh7NNMVQ0-lpHljC7ACST6bwQCabY8M1EsHMe9aH82tDJUObCrGKaix2QCIzRyiijtBVry7IltYo3IhhORKfpxoLh4QWYciks4c="
+        },
+        {
+          "label": "Oil targets in spotlight as Iran war enters second week – as it happened - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNS6Xjz9niErCefnhNo2KJoquXIF_2F5VjDxiqIE4k3Ues_JR7CYyzeps50FcQUhYtKqFfX7XtY8Tt28pf0q81Zor3Cp7hcSZhb19GOEg_Nwz7oNn4kBn122DyXe9QzE6rsOar7WHx5p-w2E6TL7VljD5mKpqlKfi2448hRaQ1mqvICNRl3NhDMNUgmX_vMgRSsZ1M7hZkG-csEJ3NGZBh2wn_zXLLWi-RB0I="
         }
       ]
     },
@@ -11244,6 +11456,10 @@
         {
           "label": "US crude oil inventories up by 0.9% for week ending March 3 - Anadolu Ajansı",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-lVgPfCU__pilVbUASGjtKAq1fQLmRkfcV8C5DZemzDW7oAKSQUFE1SqmJC809vjFbnOkW0jAlze8WjkZLiHMA7KAuG-1T7-Dr5zPDDz54LwKFLLX8gzjO-d9ujMbOwcbbew1fzx4H3Xos8kjCWc0CCwfV9lfyhEFIFxUdZEwjUoQg-V35LF6XH-mAU3o29OghVqC0apgQwvFDWHWg=="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOp9MNdUxPRLr7LxKZrSMxoy4n1xCRSE_F7lpA1TrElgx6nicsEtxW24IplRmkvm5ZQy4Fp1ynHDf5KoFkPkGWbFFWNo1YimCCQPrZhgFhgTlXVP6fKZ9GLa1TqTXPZxRN6iav_Ff9l8tTC880uccZh97cnXsULuOwXt_6pNmbkBoBJ2rcQXikbl8S3PAIgCEUYjOc0SZshE6akCoQvuwh9QQhlpLILRb42SwC22z3rxyPiak="
         }
       ]
     },
@@ -11392,6 +11608,14 @@
         {
           "label": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrzo1wb8fGlQsEeCVVRKMG0IURGEQIXHefVjzgxcdkZ2wm3oJsk6YtDvpi9hd_UeHt2CrKwQLnRdRNDI0g9yCIxfCe1iI2Qn6aIdS_W7q003bx_hZxysCESeeooRrhuOwi_EAWmi89AMoTdtjL12iecy4AD7FnT3LwJpLvFQMFbkksnfq36GF2f6bM7RBdNFm1YxhWUhdLY0byHAqMuDKlvGPVXQ64Nl1uKePHuXl4BU=="
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNHhW7kZTs6_U7J1MmXjZuu-02J-VxUX8Ak7diOFNNeNEztgtM_6LZRBaUw4FUVTsKK73Mf_VMC1eAvyP1VCBmMxAYh39W9TG2jpot_k6d2YqdLRz7LzfUzmRpbGk_VNvtkmZ9e0b-l5-J_f4j0WM5-DdMRqXwKaF5i4yni3L9HE2NtWy0GrUs6CV1LJW7LkRHJ0yHzIsUVT0NDfCtcLGw-Hv0uNtws7oNhkU2To-m2TvS8UmsPZ_iOMWH5oH8lP3pKVldcQ=="
+        },
+        {
+          "label": "United States to Release 172 Million Barrels of Oil From the Strategic Petroleum Reserve",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4LdDEnVqwk434DS82NJwlgu7r5PevTvLNutYwIKKEZcT0fIXeNK0D71kc_lR7BLrUKTVDw81wp51T8cp7Wxr1JM0zZqmpyF_w_4jbFL3bkC4MpvHMnEo7CL-W3DKKPNSA9IiIUj2kmTFf3wHyuTXmCYgC2zWljjCubJZamzzTl2xnDFfzKXS_UyECbBesirbKoKyVIP6yTwZkmJUMcFC8iih0VQ=="
         }
       ]
     },
@@ -11488,6 +11712,10 @@
         {
           "label": "大紀元",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA3ueaywZuLP7CTh3NR3cf4A1YF2piH1rUu20A6bOYEZceAezPBIOT6Dg9jyS9-m-fIh6BxyTy1jkuS36tDV8X4B9hWZbXvADpSy3H4b8jQYSMCcnWVlBnLaEY2vzFs7_C5JTnFiRi7YBep1o="
+        },
+        {
+          "label": "Taiwan says oil, gas stockpiles above regulatory requirements - Longbridge",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi7T9N_5kywN07EAMkF7mzLgNqm02dJuL2wzmGcDXz0-FlGsksf4oYLvx14MYsMSUW8Z8fBytiQPIjqcyRGrXv2XlLDzF5bgXQqIULRq-3SjYejGnjDT1ZQkwzO8Yb6uPsXPU="
         }
       ]
     },
@@ -11772,6 +12000,14 @@
         {
           "label": "India's Strategic Oil Reserves Can Support Supply for Nearly Two Months, Government Report Indicates",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZWrrFiKz1PC443O-9roYywzFTV8WteuRcWGOvJTvzER6T55oKvKqs_X-Wc1JIJYksgzZhtVVSsmmPv9P4nKWJhjJhVFSwrH2d7h1u0EdiCckyF46KkQcjnQZb839SaopZLDx-xGp_gUjZp69TMT50dfkgZ6nYdgLpNJdJV6gJ7K4yPRJ0_tf4YtMu1V-OEOC6AP4stfiJ_7j5RbQTymFtOp9hB6xLDYQFApRX3k4a98urSgUz5GSQ4MIyZANszXwhVX6T"
+        },
+        {
+          "label": "Middle East Conflict Triggers Fuel Restrictions Across Asia | THE DAILY TRIBUNE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddbg9MU-Cc4J1-q9EBvmjOLMKzZ5LtKqWiNAuEHhNCTl3DlrbMA2iZwXHZHYxXRsrbKpkit6dao0J1vQKvoXWkD8RvxefItETAJ1kDkpPakyxHigNMAdSwru4MOddVcQgNHRnGYEflEU="
+        },
+        {
+          "label": "Market under pressure amid West Asia conflict; European mrkt decline - ICICI Direct",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrLuu5CneCWNj6p6mWOgJcYh1tnp4HVOIrDhMRdmtL9Zualk3OOSp-nFKiU0rjglP7dJwIrGcloY2w_8LTQAENVPlUpy6xUPi-2kYR1ONnOukY9Uo58OxcGcDBikA59X9qaM-RUBj5tbcRziqDALP9tsqGyv1_O4yUF_hIWYJz3LkEEJe6sbJsB-sXTQm7c0Z5VABud_0FotTC__M6AsmWKKL3E5S7DWRdg9izhBHbYka5i-MKBg8Kh0ctITpLu_M6GCfv0fxe0Uc481E="
         }
       ]
     },
@@ -11812,6 +12048,10 @@
         {
           "label": "泰國實施石油出口禁令並啟動能源緊急監測中心AASTOCKS 財經新聞- 外圍市場",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfYLRJz-liRc-GuLxfphB2xPT6DedLi16nlNFqQRDdzglqaYNmIjVbMD41qYm7AHWpseGq9YXpNXsI6dOt9W-_JuDh9KXooOhAmEEGXo18W4PDjj2E9m0UtKjpvSp7J8wkxK3qgGtAlIJodEEZAbDBrzNcgbhrBFMjX8IlLbQBikLMoH1vuHC"
+        },
+        {
+          "label": "Middle East Conflict Triggers Fuel Restrictions Across Asia | THE DAILY TRIBUNE",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHddbg9MU-Cc4J1-q9EBvmjOLMKzZ5LtKqWiNAuEHhNCTl3DlrbMA2iZwXHZHYxXRsrbKpkit6dao0J1vQKvoXWkD8RvxefItETAJ1kDkpPakyxHigNMAdSwru4MOddVcQgNHRnGYEflEU="
         }
       ]
     }
