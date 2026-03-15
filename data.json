@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15 07:08（北京时间）",
+  "lastUpdated": "2026-03-15 15:28（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -11,7 +11,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": null,
-      "status": "运营受威胁 / 航运受袭",
+      "status": "遭袭击 / 军事目标被摧毁",
       "current": "11日伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，伊朗具备封锁霍尔木兹海峡的能力，不会允许任何有利于美国及其盟友的石油运输通过。同日英国海上贸易行动办公室报告，一艘货船在霍尔木兹海峡遭不明发射物击中。",
       "sources": [
         {
@@ -149,6 +149,14 @@
         {
           "label": "Iran targets fuel facilities, sending oil soaring again - Vanguard News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzhHVg5R71VoNfpT5a9l5_tGDO9lVEExDh8qjDhtf7bKhMWUMdoclRvyX0CM2xBPzDr4PU67xoeqE_ol6KscQb5TLI9GlPTZW60Rj8f7wL8aHQAO9kZotyq5fzyf6RAmHPJUWfBxotHsPVeTMnngVT2b9ZqvXcMngf3mnkpnvqIdR6uRyJZ6p3fc14MRFNPZvw1YE2w=="
+        },
+        {
+          "label": "伊朗石油命脈哈格島成焦點專家：川普若攻擊油價恐飆到150美元",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVCA7Gaw6m6b3LoUbsF6ZlrNTCo_EJX67bvd9mZejfSC3a1bgRmzY9RWl1GeUsfY-mGvBM4XV1yXYnExpetz1D0KeAV5gxDwGys_T6k-8qTmHbxA9DYiU4TPqb-HOaC6TruuSVwbod8io="
+        },
+        {
+          "label": "美軍轟伊朗石油命脈哈格島中國重要能源供應地 - 中央社CNA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe44O3xPQXBV-XWw1_L3j4ABXVWLrZbxDBIQsMsV86S4_NzsQCGqYl-_AFSQbWg-Ag57JYpEqjMDd0kf2KYcKAW40ARiZWR3tRu-prL7eC3wBNZ4Pyr60bGBmtzcc4xnJ1P5yoUSTL8NFqjfaU"
         }
       ],
       "baselineSources": [
@@ -670,13 +678,13 @@
       "category": "气田",
       "facility": "Khor Mor气田",
       "designValue": 750,
-      "designUnit": "百万标准立方英尺/日",
-      "affectedValue": null,
-      "affectedUnit": "百万标准立方英尺/日",
+      "designUnit": "mcm/d",
+      "affectedValue": 750,
+      "affectedUnit": "mcm/d",
       "normalizedType": "gas",
-      "normalizedValue": null,
-      "status": "已受影响",
-      "current": "地区安全局势导致预防性停产或暂停，但未披露精确受影响量。",
+      "normalizedValue": 750,
+      "status": "已停产",
+      "current": "2026年3月12日，库尔德自治区霍尔莫气田停产，发电量削减近三分之二，每日供电仅4至6小时。",
       "sources": [
         {
           "label": "ZAWYA-PROJECTS",
@@ -685,6 +693,10 @@
         {
           "label": "ReliefWeb",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECBGLxpGYP0iAFNVyUrBSl7bd40RvIxXqNhXdvQcRTSXsi9XGwbI5EkvPJM7Y0V28DzEHQZ6meAWu2lWld5kS6d1mM_19GKLToZ43ZSN28gv1D-cGWLptHG2WdySNyLrzjpj1mJ4gnkA8iKm19TqyGOvp5yJlpxh6SFn8XsKHyvB-QhPjTmLdSuRcA6z2JwQEIesfGKA0-olJryrviRnF-J0AdbULy2eyPe4ak8sAu0wad"
+        },
+        {
+          "label": "伊拉克陷伊朗戰爭夾縫遭美伊雙方夾擊面臨經濟崩潰危機 - 巴士的報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs715owHL6vA8jwZuZviM0E4F_j1IPNlkhogciKygy0MjW5JIvlaTQY9gCgk9ydA74ZiU4I0fPnvomoukTkJAi2N6n5yB1lJNp5Zf7sWNjtBPxphg--apOHyLNzGQMJZM6TsQdW6ZSJM1f1wGmhS5oMALrYfagskWzOc7VGvwx1oBsVWof9AY-PYzvWJbPrUm28XcoCduMvus6bfCzw-d2g4fqrUDhm0sjJT1tJgclw1yPh6CKx8P5u1-Lq4AUpAUoKVQYAPlf1768eSLlFnnJeL9dFX2gQRQHqto3cUFo8hQ3191ujaAdeH5lB2td9Zf3g6MLR2NxS3f1KH7r825VtRkwn4dVB40Um4T8V2uXGeE3sx0YD4zy_hvh-HiZAXH9B8h_1yAB_M4fwkJeQWTes7Mrf520sqi4"
         }
       ],
       "baselineSources": [],
@@ -2031,7 +2043,7 @@
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
       "normalizedValue": 922,
-      "status": "已停产",
+      "status": "暂时关闭",
       "current": "3月10日ADNOC正在将供应分流至Ruwais炼油厂综合体。同日阿布扎比国家石油公司旗下Ruwais炼厂在无人机袭击后作为预防措施关闭。",
       "sources": [
         {
@@ -2085,6 +2097,10 @@
         {
           "label": "Middle East: All Parties to the Conflict Must Refrain from Unlawful Attacks on Energy Infrastructure - Amnesty International Australia",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WtQLHxhZPQaHDDEwMFY5lZUXLiMnI7zZ3zwIR5CgBVxnh5qE7ueMhaNdwoDS222OHyoWQxU5urL5NtgDZaLad3aRIKNN4SyP7LAqKTRRerWTNBcz8Mb13fUlr-tS6ywDRGKFVXg-sz31_n2k1X0-Njsh1iYzdgUFJ7-O-bBXHFSOYK6yGAJStkQhPJ6_cWMxPSDZQeYIyp30OkeFCAptti-cFaIQkGmGRu9BOAbLQQ0="
+        },
+        {
+          "label": "道达尔能源、科威特国家石油公司等多家能源企业停减产 - 21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdStGE_UIGOfsog4K9mNNggucKt97t_amHeqIFP5G00dKBnmvfsuBxri3WSkafBKzAOYUTRMb9lbtoF_flVUiXvC-RYcHbjK_0ZKwSxDoXdR8mxo2s4kW0q1n-Zi2zadYNyUeVSGGlE0tpGD68FI6o4RO9aydcCA9Y3ipAjK1xgRxSbEoxRyxLH4PNQejWstXa"
         }
       ],
       "baselineSources": [
@@ -3184,11 +3200,11 @@
       "country": "伊拉克",
       "facility": "全国石油生产",
       "category": "原油生产",
-      "affectedValue": 2900,
+      "affectedValue": 1400,
       "affectedUnit": "kbpd",
       "normalizedType": "oil",
-      "normalizedValue": 2900,
-      "status": "已减产",
+      "normalizedValue": 1400,
+      "status": "产量稳定在低位",
       "current": "8日因霍尔木兹海峡出口受阻，伊南部油田产量降至130万桶/日，较战前430万桶/日减少约300万桶。9日产量骤降近70%，平均约80万桶/日。10日伊石油产量已削减约290万桶/日。12日伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右。",
       "products": [],
       "sources": [
@@ -3323,6 +3339,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        },
+        {
+          "label": "伊拉克石油部長：決定將原油日產量維持在140萬桶的水平 - AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZV6QhOt2lwMnS1rkl28G9T6jx_-g-kQtmmMEmHezyTr0vN-2F25x2YQh2xvltsxwK_bisgSOtqA32Fe0lqKv25UGbY5qUwstsEaKjraL_QoJaC1rMyF-Cu_gcuFR5Jxu4d6yKYgdMPJlqzKPjw9AR9_tRjqUdbJk5KlVJ5iUOSX7xkN5U0i4f"
+        },
+        {
+          "label": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。 - 财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgPtWaeVkyDBv2JYv7oiQ41DBm7buVCiHKYTZVsUEUupTJxpr4H9DemQ8TwsUfuXfjz6pNzZ41u49o8rrg3lg8vd3nwSn30Kq7b1UViyxwamUTiv1UgMa97g8Rw=="
         }
       ],
       "baselineSources": [],
@@ -4808,12 +4832,10 @@
       "country": "尼日利亚",
       "category": "炼厂",
       "facility": "Dangote炼油厂",
-      "products": [
-        "汽油"
-      ],
+      "products": [],
       "designValue": 650,
       "designUnit": "kbpd",
-      "status": "运行受限 / 价格调整",
+      "status": "运行受限 / 价格调整 / 暂停装运",
       "current": "2026年3月13日，尼日利亚Dangote炼油厂将汽油出厂价上调至1,175奈拉/升，此前3月10日曾下调至1,075奈拉/升。炼厂已暂停装运作业以调整库存和价格，原因是全球原油价格飙升至100美元/桶，导致炼油成本增加。",
       "sources": [
         {
@@ -4835,10 +4857,7 @@
       "country": "阿联酋",
       "category": "港口/储存设施",
       "facility": "富查伊拉港",
-      "products": [
-        "原油",
-        "成品油"
-      ],
+      "products": [],
       "designValue": null,
       "designUnit": "kbpd",
       "status": "遭无人机袭击",
@@ -7226,12 +7245,20 @@
         {
           "label": "12 March 2026",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
+        },
+        {
+          "label": "史上最大规模抛储，为何压不住油价？ - 证券时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyZO1tWgJG3C2GQkVcNzNoArgDAAYJh0GPaK0hYJUHRfMzS0J33n0LGxhQwAQXivcGe4w87Y6hOii3C9JJDe-ckRKGsKYNSBSSCjLwe2_sPzIoyX-tZuDadhkzKrzVzORt24PyyGF9tK3PA=="
+        },
+        {
+          "label": "IEA创纪录释放4亿桶石油多国积极跟进，市场担忧力度不足 - 黄金网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNhrMmTyVpecnefZhz5eOSva60K-2y8R7owuGJ5vzCwO79GXvjk1BjFNqlcg8ZC2j08AgGKpwE0LZ5IKfcB9FCiM6hNXGuvBFZoIbk20hBgFzdCJOtvD02VNop_XLJEirVwpT0Ge0clh8fL2Q58K4ckzWQreEUVQ=="
         }
       ]
     },
     {
       "date": "2026-03-12",
-      "title": "IEA警告霍尔木兹危机引发“石油市场史上最大供应中断”",
+      "title": "IEA警告霍尔木兹危机引发\"石油市场史上最大供应中断\"",
       "type": "市场警告",
       "text": "国际能源署（IEA）警告称，由于伊朗战争持续阻止油轮运输数百万桶原油，石油市场正面临“史上最大供应中断”。IEA表示，霍尔木兹海峡的有效封锁引发的供应冲击意味着世界面临比1973年赎罪日战争和2022年乌克兰战争爆发后更深的危机。",
       "sources": [
@@ -7282,6 +7309,14 @@
         {
           "label": "12 March 2026",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
+        },
+        {
+          "label": "中东战事引发最大规模石油危机释放战略储备或难稳市场 - 联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELXTm9S0YmpC_3UZZCaCAtabW0PsPoO6zzI7Dx0QdpKlLo2bGzO0CiTp2nIIClSHQ__8OXT4AbfZZV7U5TpN6bfHMTTHRk5DWJvyD-yyU9C8CT8mXdiwvPFxH8R0QwfaJXcJfR580Htdm4F8GJ0cZWSk5IjNc="
+        },
+        {
+          "label": "国际能源署：全球石油市场面临史上最严重供应梗阻 - 华文西贡解放日报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyap0VUQh2xKcKKzSiJ3sNs47H2oXT63HedCwJ2Hso5kMrtkJx6afzDGX4GKzCmo582PDhJc7YzQPaRspdSkMVfFstIlSwN2xRSFltfsR4uSnndbx2wG2xdjN4kM48kWEokbCLvzao5VUu_dGslpuaSxEIDQ2x5EY9Cpev41qInXkjDJsPjuJIGBaEFtgWCHbVYTt0oe0iGyG40m7TLw0HAOnPL6Y4SOlNaaQn4hlhrAeBM3JTxb0pm38pjLqzJaV5hBGdazLRxKarUDLV55w-k-FxbDoZ4SlFtvcVucOVCgjkuO9gWz3tZh4R7HosK-EozVteoYxYYOHa8jDjuYkvto2YlznIZO7OdfoswsYmpHL0Kj3EeTPc17ECpLIqm_CwS_W5_-dw1g0="
         }
       ]
     },
@@ -7289,7 +7324,7 @@
       "date": "2026-03-12",
       "title": "伊拉克石油部长表示原油产量稳定在每日140万桶",
       "type": "减产",
-      "text": "伊拉克石油部长表示，该国原油产量已稳定在每日140万桶左右，远低于战前水平。",
+      "text": "伊拉克石油部长表示该国原油产量将维持在每日140万桶，南部地区石油出口业务已暂停，正寻找替代出口方案。",
       "sources": [
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
@@ -7318,6 +7353,14 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        },
+        {
+          "label": "伊拉克石油部長：決定將原油日產量維持在140萬桶的水平 - AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZV6QhOt2lwMnS1rkl28G9T6jx_-g-kQtmmMEmHezyTr0vN-2F25x2YQh2xvltsxwK_bisgSOtqA32Fe0lqKv25UGbY5qUwstsEaKjraL_QoJaC1rMyF-Cu_gcuFR5Jxu4d6yKYgdMPJlqzKPjw9AR9_tRjqUdbJk5KlVJ5iUOSX7xkN5U0i4f"
+        },
+        {
+          "label": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。 - 财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgPtWaeVkyDBv2JYv7oiQ41DBm7buVCiHKYTZVsUEUupTJxpr4H9DemQ8TwsUfuXfjz6pNzZ41u49o8rrg3lg8vd3nwSn30Kq7b1UViyxwamUTiv1UgMa97g8Rw=="
         }
       ]
     },
@@ -7330,6 +7373,22 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "中东战事引发最大规模石油危机释放战略储备或难稳市场 - 联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELXTm9S0YmpC_3UZZCaCAtabW0PsPoO6zzI7Dx0QdpKlLo2bGzO0CiTp2nIIClSHQ__8OXT4AbfZZV7U5TpN6bfHMTTHRk5DWJvyD-yyU9C8CT8mXdiwvPFxH8R0QwfaJXcJfR580Htdm4F8GJ0cZWSk5IjNc="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "title": "道达尔能源公司停止或正在停止卡塔尔、伊拉克和阿联酋近海部分油气生产",
+      "type": "减产",
+      "text": "法国能源巨头道达尔能源公司12日发布声明称，因中东冲突持续，已停止或正在停止卡塔尔、伊拉克和阿联酋近海部分油气生产，预计影响全球油气总产量15%，但经阿联酋富查伊拉港出口的阿联酋陆上石油产量未受影响。",
+      "sources": [
+        {
+          "label": "道达尔能源、科威特国家石油公司等多家能源企业停减产 - 21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdStGE_UIGOfsog4K9mNNggucKt97t_amHeqIFP5G00dKBnmvfsuBxri3WSkafBKzAOYUTRMb9lbtoF_flVUiXvC-RYcHbjK_0ZKwSxDoXdR8mxo2s4kW0q1n-Zi2zadYNyUeVSGGlE0tpGD68FI6o4RO9aydcCA9Y3ipAjK1xgRxSbEoxRyxLH4PNQejWstXa"
         }
       ]
     },
@@ -7350,6 +7409,18 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        },
+        {
+          "label": "刚刚！以色列，发动大规模空袭！原油暴涨，美股全线大跌！ - 21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGneEvHxZeq7OKREM1GcQufYBdJKkYBXvalSuRyaoN5oRHwWwcfhnmqF0TsB75vun01G0rZScKYjNeMkppfD4oNcb7UxLhbGcMNcBIiA7Jg8IhttTTR6OHIpt2L1tyZxL8x-_jk3wqQZ4YDeq9u-HhFRcUHNAOjM5MBu40yQPC6TIxyZo5jtzkSjCPQdHzCd9uc"
+        },
+        {
+          "label": "伊朗外长：霍尔木兹海峡实际开放仅对敌人关闭 - 广州日报大洋网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTHFqD47a-XyoPckaWE3E_oCU7u4-GDzirtIkYpkGAGTq67-yquIqoU2-lzjEl5pc6QKvAzFUwGFiSQvNR05eO-o9kSOLwXIPR82-ti5DrH_s5OUUbxM2fMiqMscMVbRnLa0AbeNSlTXqHMODle7wcu67B4Ig="
+        },
+        {
+          "label": "史上最大规模抛储，为何压不住油价？ - 证券时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyZO1tWgJG3C2GQkVcNzNoArgDAAYJh0GPaK0hYJUHRfMzS0J33n0LGxhQwAQXivcGe4w87Y6hOii3C9JJDe-ckRKGsKYNSBSSCjLwe2_sPzIoyX-tZuDadhkzKrzVzORt24PyyGF9tK3PA=="
         }
       ]
     },
@@ -7410,6 +7481,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 13, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUkpAQb2XWWcRO0t0qqHIXaY69X8elTVxZaDGJIK0CJapmy9zVPz9GWcDD-kxHDTlAGGbnn-82UINbgvoGzmh6NrWs6KL4b8rDCKPtlud6cH5jco8FvBuZbi4wjNfxpgzKYRVH7TSkpat_uwUdXbz40pyAPqumoLpypdX1UIXrLbxwMXOL3qLBjYG5v51LHie40TJ6I_JSAn9OAfYVLUM9FU2D26mdRxFdVGgeilsMjQ=="
+        },
+        {
+          "label": "国际观察丨在霍尔木兹海峡护航？美方有心无力 - 人民网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF22kAE1o901myEBEzPLirJ6zUtFJ4iC6IptgohgZOM8LZiza3gCPVIGVaelI9koA9gnClSdexI8SItJms0bVxv8d6a7brOGWEC1du1EPpsTaU1dRgBoXoYOogrzRqbRyAJv9-OvkusyxPtBuAO5AE_2YfG2tBAhA=="
         }
       ]
     },
@@ -7458,6 +7533,34 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 14, 2026) | GMA News Online",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsJ8RCh_XqCo-Xbxl4HsMJJMlQLKvShvik3Eon77YYgyjvXhB61Bg4dJYm_Ri_EN-BioyYJHuYoYUzpX8ggGm9cz2YgU6HAYoitdfHL-wfHJLd5oAv6MaPAwKPfvcKUsI-nY6YV41rZb6Me4Ow3_Rj_LdFS4vQT7hW-nFhIxx6rMlpCY2YK3Vh6JvgUULRAZ9AF_JMBJVZOmiP2pTLIc6jNjcQuuF0bOQhyGDR3IM-VKc="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "title": "伊朗外交部长重申霍尔木兹海峡对敌人关闭",
+      "type": "冲突升级",
+      "text": "2026年3月14日，伊朗外交部长阿拉格齐接受采访时称，霍尔木兹海峡实际上开放，仅对伊朗敌人（美国和以色列）及其盟友的油轮和船只关闭。",
+      "sources": [
+        {
+          "label": "伊朗外长：霍尔木兹海峡实际开放仅对敌人关闭 - 广州日报大洋网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTHFqD47a-XyoPckaWE3E_oCU7u4-GDzirtIkYpkGAGTq67-yquIqoU2-lzjEl5pc6QKvAzFUwGFiSQvNR05eO-o9kSOLwXIPR82-ti5DrH_s5OUUbxM2fMiqMscMVbRnLa0AbeNSlTXqHMODle7wcu67B4Ig="
+        },
+        {
+          "label": "事关霍尔木兹海峡！特朗普发声！伊朗重申 - 21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgEVuGNN2GyGyu00bs68dWRDEuwu8gg89i7HWJd1u3eDAOdEg8mJZKNU1uCojoTD0UmAUxTDtODhRzruP-3cYxvZ9i_VgK1J5Zx8Unq_uMvMkb2L9j-qKRy4cmt3hSqY11qD7926V5GflsUkD7diPOVJdywbLDqD0qNV-Z5Xo9tIZMufz6A9TSDlYh-EOCI-Ud"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "title": "美国总统特朗普重申将确保霍尔木兹海峡开放和安全",
+      "type": "政策调整",
+      "text": "2026年3月14日，美国总统特朗普在社交平台发文称，多国尤其是受伊朗试图关闭霍尔木兹海峡影响的国家，将与美国共同派遣军舰，以确保该海峡保持开放和安全。",
+      "sources": [
+        {
+          "label": "事关霍尔木兹海峡！特朗普发声！伊朗重申 - 21财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgEVuGNN2GyGyu00bs68dWRDEuwu8gg89i7HWJd1u3eDAOdEg8mJZKNU1uCojoTD0UmAUxTDtODhRzruP-3cYxvZ9i_VgK1J5Zx8Unq_uMvMkb2L9j-qKRy4cmt3hSqY11qD7926V5GflsUkD7diPOVJdywbLDqD0qNV-Z5Xo9tIZMufz6A9TSDlYh-EOCI-Ud"
         }
       ]
     }
@@ -8747,6 +8850,10 @@
         {
           "label": "Global Methanol Market Turns Volatile Amid Strait of Hormuz Disruption and Rising Supply Concerns - Nexizo",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnLypdQwzuqRk1gwnYUQUAGKMlQjFfXOs97BDI9DbvoHDyeM66jXaU8Mw3uOdvvlbdL9vKAbwxbqjoKxXbNJYybumiUxncvixXNerVdN26F_x4BOHlF9YkKEq-NJ5M8VEEr6TQyjOKThHoKRb5WzndbYVBNs65oKbTLgwQDGYEtcGgZ6KNNgWOCk4-nnKeoIZAX3W-XV4KOkYFG-RdFHpz8Nb1LOzWqbshW1vQpaTBSXQvfZ-m83wQ8eX9"
+        },
+        {
+          "label": "伊拉克石油部長：決定將原油日產量維持在140萬桶的水平 - AASTOCKS.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZV6QhOt2lwMnS1rkl28G9T6jx_-g-kQtmmMEmHezyTr0vN-2F25x2YQh2xvltsxwK_bisgSOtqA32Fe0lqKv25UGbY5qUwstsEaKjraL_QoJaC1rMyF-Cu_gcuFR5Jxu4d6yKYgdMPJlqzKPjw9AR9_tRjqUdbJk5KlVJ5iUOSX7xkN5U0i4f"
         }
       ]
     },
@@ -9154,7 +9261,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 400,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "2026年3月11日，国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以应对中东冲突造成的石油市场中断。G7领导人会议也讨论了这一问题，并表示已准备采取必要措施，包括释放石油库存。",
+      "potentialReason": "2026年3月12日，国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以应对中东冲突造成的石油市场中断。G7财长声明准备协调释放战略石油储备。",
       "current": "按G7成员国现有库存基线合计，当前总油品库存代理约206070千吨、库存可用天数约46.8天；另有潜在库存行动新闻需单独观察。",
       "sources": [
         {
@@ -9624,6 +9731,14 @@
         {
           "label": "12 March 2026",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh_4BTQqYmMuB3FaQaz8fGpE8-YrByR1eZJIZ0Z9wxdb5yyJ9Oio1HLagZ6dvprLIhMHuVQmvrqGdnQaKMdknVDML-liiFMRJH12OyFMjfWVsB_kw6zkrYtHs5m2bt-7czW086IVRtlZAOD4ekEPW0dylqCNeYLveA_AZGSOEWfgWm4yk_pftbgDcvKV7U2MYop1Xp5qrckQKKX33m6jF4AGW7tXBQGQ=="
+        },
+        {
+          "label": "史上最大规模抛储，为何压不住油价？ - 证券时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyZO1tWgJG3C2GQkVcNzNoArgDAAYJh0GPaK0hYJUHRfMzS0J33n0LGxhQwAQXivcGe4w87Y6hOii3C9JJDe-ckRKGsKYNSBSSCjLwe2_sPzIoyX-tZuDadhkzKrzVzORt24PyyGF9tK3PA=="
+        },
+        {
+          "label": "IEA创纪录释放4亿桶石油多国积极跟进，市场担忧力度不足 - 黄金网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNhrMmTyVpecnefZhz5eOSva60K-2y8R7owuGJ5vzCwO79GXvjk1BjFNqlcg8ZC2j08AgGKpwE0LZ5IKfcB9FCiM6hNXGuvBFZoIbk20hBgFzdCJOtvD02VNop_XLJEirVwpT0Ge0clh8fL2Q58K4ckzWQreEUVQ=="
         }
       ]
     },
@@ -9830,7 +9945,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 80,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "中东危机持续，日本炼油商于2026年3月5日请求政府释放国家战略石油储备。日本政府于2026年3月8日指示相关机构做好释放国家石油储备的技术与物流准备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油。",
+      "potentialReason": "2026年3月12日，日本或于16日单独释放国家石油储备，这是其自1978年以来首次单独释放。",
       "current": "截至2026年3月8日，日本政府持有约2.6亿桶战略原油储备，加上企业库存与联合储油安排，总计约4.4亿桶，可满足约200天进口需求。日本政府已指示准备释放石油储备，但内阁官房长官于3月9日表示尚未决定动用战略石油储备。3月11日，日本首相表示将“率先行动”释放约8000万桶石油。",
       "sources": [
         {
@@ -10022,8 +10137,8 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 22.46,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "3月11日，韩国政府宣布将释放2246万桶石油储备，以响应IEA4亿桶石油供应计划。",
-      "current": "3月11日，韩国政府宣布将释放2246万桶石油储备，以响应IEA4亿桶石油供应计划。截至2月底，韩国保有1亿桶原油储备，可保障208天供应。政府正考虑行使原油优先购买权，锁定逾600万桶储备油，并计划实施石油价格上限制度以稳定国内油价。",
+      "potentialReason": "2026年3月12日，韩国释放2246万桶战略石油储备。",
+      "current": "3月11日，韩国政府宣布将释放2246万桶石油储备，以响应IEA 4亿桶石油供应计划。截至2月底，韩国保有1亿桶原油储备，可保障208天供应。政府正考虑行使原油优先购买权，锁定逾600万桶储备油，并计划实施石油价格上限制度以稳定国内油价。",
       "sources": [
         {
           "label": "财联社",
@@ -10426,7 +10541,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 172,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "3月11日，美国能源部（DOE）将从战略石油储备（SPR）中释放1.72亿桶石油，作为IEA努力的一部分。此次释放将于下周开始，预计需要约120天才能交付。",
+      "potentialReason": "2026年3月12日，美国将释放1.72亿桶战略石油储备。",
       "current": "截至2026年3月11日，美国战略石油储备连续数周保持在4.154亿桶不变。11日国际能源署（IEA）同意从紧急石油储备中释放4亿桶石油，其中包括规模最大的缓冲——美国的战略石油储备（SPR）。美国能源部将从SPR中释放1.72亿桶石油。",
       "sources": [
         {
@@ -10626,8 +10741,8 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "印度于2026年3月9日表示不会参与IEA释放战略石油储备的提议，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
-      "current": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，也无意限制炼商燃料出口，并拥有充足石油库存。商业原油库存约1亿桶，理论上可支撑约40-45天进口需求。印度还计划从美加获得更多液化石油气供应。政府报告显示，原油及成品总储备可支持约7-8周供应。3月11日，印度面临严重的商用液化石油气和液化天然气短缺。13日，印度战略石油储备已建立超过500万吨。",
+      "potentialReason": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，认为油价上涨并非其造成，且储备仅用于实际供应中断而非影响市场价格。",
+      "current": "2026年3月9日，印度政府官员表示该国不会释放战略原油储备平抑油价，也无意限制炼商燃料出口，并拥有充足石油库存。商业原油库存约1亿桶，理论上可支撑约40至45天进口需求。印度还计划从美加获得更多液化石油气供应。政府报告显示原油及成品总储备可支持约7至8周供应。3月11日，印度面临严重商用液化石油气和液化天然气短缺。3月13日，印度战略石油储备已建立超过500万吨。",
       "sources": [
         {
           "label": "Binance News",
@@ -10856,6 +10971,10 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "伊拉克陷伊朗戰爭夾縫遭美伊雙方夾擊面臨經濟崩潰危機 - 巴士的報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs715owHL6vA8jwZuZviM0E4F_j1IPNlkhogciKygy0MjW5JIvlaTQY9gCgk9ydA74ZiU4I0fPnvomoukTkJAi2N6n5yB1lJNp5Zf7sWNjtBPxphg--apOHyLNzGQMJZM6TsQdW6ZSJM1f1wGmhS5oMALrYfagskWzOc7VGvwx1oBsVWof9AY-PYzvWJbPrUm28XcoCduMvus6bfCzw-d2g4fqrUDhm0sjJT1tJgclw1yPh6CKx8P5u1-Lq4AUpAUoKVQYAPlf1768eSLlFnnJeL9dFX2gQRQHqto3cUFo8hQ3191ujaAdeH5lB2td9Zf3g6MLR2NxS3f1KH7r825VtRkwn4dVB40Um4T8V2uXGeE3sx0YD4zy_hvh-HiZAXH9B8h_1yAB_M4fwkJeQWTes7Mrf520sqi4"
         }
       ]
     },
