@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15 19:14（北京时间）",
+  "lastUpdated": "2026-03-15 22:13（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -2590,13 +2590,13 @@
       "facility": "丽川NCC乙烯裂解装置",
       "category": "炼厂 / 化工",
       "designValue": 2.285,
-      "designUnit": "百万吨/年",
+      "designUnit": "kbpd",
       "affectedValue": 0.47,
-      "affectedUnit": "百万吨/年",
-      "normalizedType": "chemicals",
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
       "normalizedValue": 0.47,
-      "status": "已减产 / 不可抗力",
-      "current": "2026年3月4日，丽川NCC因霍尔木兹海峡封锁致石脑油供应中断宣布不可抗力，生产设施降至最低负荷运行，第三工厂已停产，年产乙烯47万吨。",
+      "status": "无限期停车",
+      "current": "2026年3月6日，丽川NCC因霍尔木兹海峡封锁导致石脑油供应中断宣布不可抗力，年产47万吨乙烯裂解装置已降至最低负荷运行并宣布无限期停车。",
       "sources": [
         {
           "label": "群益期貨",
@@ -2613,6 +2613,14 @@
         {
           "label": "流程工业",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESJfC_bQ08T86IFM_0vc20Na2ZNueELFzN8LZ1cw38YdTSrgSjuTlznc6XB00Xc1kmVvsLIFxJosAIdm40moHQhvYi2sjiabMLx_PEZ4Rubi8prJCINIXA1Dmce7x4HOo="
+        },
+        {
+          "label": "中国石油石化工程信息网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG2UvhI3mJBdtLvxxQLN1Y6fL27W2_OmO0ePSSgLGZt4a1f8C1Btghz5y_XUi_wzF6XJj38N0afqyGVIMhJje_edcwBcaegwOYoXRJSbaG0H8ST9IXiwgOlKcgR37SHu0geF8Qajpt"
+        },
+        {
+          "label": "韩石化遭受中东战争直接打击",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_QIC_TzMjKnHMdn8mB0cHkfjMVKyryvGr6JTYpu1VfO25EI2s-_286TAzYnSIf2cgTMocipWE88AgGFKALvC9Gf6kzOuGWysBmXDg_BZjZthF3bFZq6Ni3xfh367zs2ccDDk="
         }
       ],
       "baselineSources": [
@@ -2621,12 +2629,7 @@
           "url": "https://www.yncc.co.kr/eng/company/company_01.asp"
         }
       ],
-      "products": [
-        "乙烯",
-        "丙烯",
-        "混合C4",
-        "石脑油"
-      ]
+      "products": []
     },
     {
       "country": "韩国",
@@ -2677,7 +2680,7 @@
       "normalizedType": "oil",
       "normalizedValue": null,
       "status": "考虑减产 / 调整出口 / 呼吁释储 / 计划释放储备",
-      "current": "中东危机持续，日本政府于3月8日指示做好释放国家石油储备的技术与物流准备。3月5日，日本炼油商请求政府释放战略石油储备，至少一家炼厂取消3月汽煤柴油出口以优先保供国内。3月11日，日本首相表示将率先释放约8000万桶石油。",
+      "current": "中东危机持续，日本政府于3月8日指示做好释放国家石油储备的技术与物流准备。3月5日，日本炼油商请求政府释放战略石油储备，至少一家炼厂取消3月汽煤柴油出口以优先保供国内。3月11日，日本首相宣布将率先释放约8000万桶石油。日本大型化工企业亦接连减产并上调石油相关产品价格。",
       "sources": [
         {
           "label": "Trading Key",
@@ -2706,6 +2709,14 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "欧洲时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjVe9zBlbUd3CIQznlgZKsLU709qWgl1B8LUJAzflbVZldZ7-egsoKeoA4pwnn6xGapJYs4mwwb8_RLvcHdvbeidRxcL0lpuyS3Ze3sBGmfEF4mhMZRTii3kj59cvbK82PCyCbew96m0DhSe1GKHC2L8tBb5Zw5h-MGD_45spMUqdUlfkTeLXoXpPi8xxNyFMib8_crK7A2mMi4hnt"
+        },
+        {
+          "label": "旅日侨网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnYV43zovAAoKHuzHdpb4ZVkaet_S6_7dI2-WRw4zTnvjzPZ9U5WgXD3g-pUVHBKGLnc_eCCL9T9k36ppjDLEJREN-DeO7-XcyuloCoECT8z0XrE-H041veu-pkIzYgGGfcSDr_UZXXX5F4s5FzbMOVZx08CKeyEbAVwP1a687l-wy6brBNVhNKWgHTA=="
         }
       ],
       "baselineSources": [],
@@ -3950,6 +3961,10 @@
         {
           "label": "CMS LawNow",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN_PftLseAkDn29p2dHZPPXmf8BHg1CHJryP0IR6Yea97rGkfZo9221RRFUo9Zhmyryuu-EU1fysiXJNQ8Ai2-T5O55Lu4DC1NCItDmWYUkyBEIdgYCAh6HmH6K0oFnhMT2y1aWS8znovivrn1x2ysP-BrGaFx1kqr2Te4qRS6ssbv9IMJSemFrPrCAfA8TKxyfOpyjjxCs6vBhT5L3_-h2yiEkIpi"
+        },
+        {
+          "label": "moneydj新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4pmm-fRyG6JIeeW7hazErZLx5kl1YBaCSaZ7rHbOhzpguqOtxhg-Dx4K5RJ8jwEk3G0aqvboYuRMAcVl3CT5giXsiMUNRRguD81-D_slAeEoWW6HHpSNmcdTemrM7L4eTLy-NosOxdka22W2lMntGLXcIUijNxdhh22QsE2r5sGlminnserPOCuNFoCSgukXIOp77XItcNS9DYcCKTyPq_O6zQIFf0EBExbIxyuuUY2W7ftRYZMdsw=="
         }
       ],
       "baselineSources": []
@@ -4905,6 +4920,196 @@
       "normalizedValue": null,
       "affectedUnit": "kbpd",
       "normalizedType": "oil"
+    },
+    {
+      "country": "日本",
+      "category": "化工",
+      "facility": "三井化学千叶工厂 / 大阪工厂",
+      "products": [
+        "乙烯",
+        "石脑油"
+      ],
+      "designValue": 1,
+      "designUnit": "百万吨/年",
+      "affectedValue": null,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已减产",
+      "current": "2026年3月10日，三井化学宣布因中东局势紧张及霍尔木兹海峡封锁导致石脑油采购量减少，已下调千叶县和大阪府两座乙烯设备稼动率进行减产，合计年产乙烯约100万吨。",
+      "sources": [
+        {
+          "label": "moneydj新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4pmm-fRyG6JIeeW7hazErZLx5kl1YBaCSaZ7rHbOhzpguqOtxhg-Dx4K5RJ8jwEk3G0aqvboYuRMAcVl3CT5giXsiMUNRRguD81-D_slAeEoWW6HHpSNmcdTemrM7L4eTLy-NosOxdka22W2lMntGLXcIUijNxdhh22QsE2r5sGlminnserPOCuNFoCSgukXIOp77XItcNS9DYcCKTyPq_O6zQIFf0EBExbIxyuuUY2W7ftRYZMdsw=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "日本",
+      "category": "化工",
+      "facility": "三菱化学与旭化成水岛工厂",
+      "products": [
+        "乙烯"
+      ],
+      "designValue": null,
+      "designUnit": "百万吨/年",
+      "affectedValue": null,
+      "affectedUnit": "百万吨/年",
+      "normalizedType": "chemicals",
+      "normalizedValue": null,
+      "status": "已减产",
+      "current": "2026年3月11日，三菱化学和旭化成表示，为应对伊朗局势影响下原油稳定供应的不确定性，已开始减少冈山县水岛工业区联合生产的乙烯产量。",
+      "sources": [
+        {
+          "label": "旅日侨网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnYV43zovAAoKHuzHdpb4ZVkaet_S6_7dI2-WRw4zTnvjzPZ9U5WgXD3g-pUVHBKGLnc_eCCL9T9k36ppjDLEJREN-DeO7-XcyuloCoECT8z0XrE-H041veu-pkIzYgGGfcSDr_UZXXX5F4s5FzbMOVZx08CKeyEbAVwP1a687l-wy6brBNVhNKWgHTA=="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "阿联酋",
+      "category": "炼厂",
+      "facility": "阿布扎比鲁韦斯炼油厂",
+      "products": [],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "暂时关闭",
+      "current": "2026年3月12日，路透社援引消息人士报道，阿联酋阿布扎比鲁韦斯炼油厂遇袭后，阿布扎比国家石油公司已暂时关闭该炼油厂。",
+      "sources": [
+        {
+          "label": "21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6pTSS0tsI81-a992NiuFtYMoQ5ZORXjG-KVGdujOF_oRp9g4IO-MOwxjVgOQe6VMepXusj0TALG9T4x9IJWxnAf4Or0Feg9iL6gqg8CAjKqBu_4ZpvPBtyEXJ0L_GVRcOrn-5sEFogFgGZaT0LTuZMtqoUr-ax0jla1ycyXhj2cy2ynOU6wXpyS1Baedo4I="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "卡塔尔",
+      "category": "油气生产",
+      "facility": "道达尔能源公司（部分海上油气生产）",
+      "products": [
+        "原油",
+        "天然气"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已停止 / 正在停止",
+      "current": "2026年3月12日，法国能源巨头道达尔能源公司声明，因中东冲突持续，已停止或正在停止在卡塔尔的部分海上油气生产。",
+      "sources": [
+        {
+          "label": "21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6pTSS0tsI81-a992NiuFtYMoQ5ZORXjG-KVGdujOF_oRp9g4IO-MOwxjVgOQe6VMepXusj0TALG9T4x9IJWxnAf4Or0Feg9iL6gqg8CAjKqBu_4ZpvPBtyEXJ0L_GVRcOrn-5sEFogFgGZaT0LTuZMtqoUr-ax0jla1ycyXhj2cy2ynOU6wXpyS1Baedo4I="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "伊拉克",
+      "category": "油气生产",
+      "facility": "道达尔能源公司（部分海上油气生产）",
+      "products": [
+        "原油",
+        "天然气"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已停止 / 正在停止",
+      "current": "2026年3月12日，法国能源巨头道达尔能源公司声明，因中东冲突持续，已停止或正在停止在伊拉克的部分海上油气生产。",
+      "sources": [
+        {
+          "label": "21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6pTSS0tsI81-a992NiuFtYMoQ5ZORXjG-KVGdujOF_oRp9g4IO-MOwxjVgOQe6VMepXusj0TALG9T4x9IJWxnAf4Or0Feg9iL6gqg8CAjKqBu_4ZpvPBtyEXJ0L_GVRcOrn-5sEFogFgGZaT0LTuZMtqoUr-ax0jla1ycyXhj2cy2ynOU6wXpyS1Baedo4I="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "阿联酋",
+      "category": "油气生产",
+      "facility": "道达尔能源公司（部分海上油气生产）",
+      "products": [
+        "原油",
+        "天然气"
+      ],
+      "designValue": null,
+      "designUnit": "kbpd",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已停止 / 正在停止",
+      "current": "2026年3月12日，法国能源巨头道达尔能源公司声明，因中东冲突持续，已停止或正在停止在阿联酋的部分海上油气生产。",
+      "sources": [
+        {
+          "label": "21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6pTSS0tsI81-a992NiuFtYMoQ5ZORXjG-KVGdujOF_oRp9g4IO-MOwxjVgOQe6VMepXusj0TALG9T4x9IJWxnAf4Or0Feg9iL6gqg8CAjKqBu_4ZpvPBtyEXJ0L_GVRcOrn-5sEFogFgGZaT0LTuZMtqoUr-ax0jla1ycyXhj2cy2ynOU6wXpyS1Baedo4I="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "卡塔尔",
+      "category": "天然气生产",
+      "facility": "卡塔尔能源公司拉斯拉凡工业城液化天然气生产设施",
+      "products": [
+        "液化天然气"
+      ],
+      "designValue": null,
+      "designUnit": "mcm/d",
+      "affectedValue": null,
+      "affectedUnit": "mcm/d",
+      "normalizedType": "gas",
+      "normalizedValue": null,
+      "status": "已暂停运营",
+      "current": "2026年3月初，卡塔尔能源公司宣布，因设施遭袭及霍尔木兹海峡航运受阻，已暂停拉斯拉凡工业城液化天然气生产设施运营。",
+      "sources": [
+        {
+          "label": "21经济网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6pTSS0tsI81-a992NiuFtYMoQ5ZORXjG-KVGdujOF_oRp9g4IO-MOwxjVgOQe6VMepXusj0TALG9T4x9IJWxnAf4Or0Feg9iL6gqg8CAjKqBu_4ZpvPBtyEXJ0L_GVRcOrn-5sEFogFgGZaT0LTuZMtqoUr-ax0jla1ycyXhj2cy2ynOU6wXpyS1Baedo4I="
+        }
+      ],
+      "baselineSources": []
+    },
+    {
+      "country": "新加坡",
+      "category": "炼厂",
+      "facility": "新加坡炼油厂（整体影响）",
+      "products": [
+        "汽油",
+        "柴油",
+        "航空燃油",
+        "燃料油",
+        "石脑油"
+      ],
+      "designValue": 1.1,
+      "designUnit": "百万桶/日",
+      "affectedValue": null,
+      "affectedUnit": "kbpd",
+      "normalizedType": "oil",
+      "normalizedValue": null,
+      "status": "已减产 / 不可抗力",
+      "current": "2026年3月15日，受中东冲突影响，新加坡炼油厂生产活动大幅减少，产能利用率降至50%-60%。其中亚狮达公司已发布不可抗力声明，新加坡炼油公司已将作业率降至约60%。",
+      "sources": [
+        {
+          "label": "联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEB6znfH179Emzw5NEaKmEZg0PFgDUz5RkXQlealn5bxp6Fv9uLExxMIhc9fKtPJpy4ce3776cG8pkO8XwJFcDm9wjXZTR56Lzl8AeDdwGq7smc84Ycbp_Cn-F0R5n2CSA45me7z2x6qD41Y2NRHPP5NLsrTF10siP0M="
+        }
+      ],
+      "baselineSources": []
     }
   ],
   "timeline": [
@@ -9482,19 +9687,19 @@
       "country": "G7",
       "market": "总油品库存代理",
       "period": "2025-11 IEA库存 / 近12个月EIA需求均值",
-      "status": "已授权释放",
-      "levelValue": 206070,
+      "status": "已同意释放",
+      "levelValue": 216585.722,
       "levelUnit": "千吨",
-      "changeValue": 2520.324,
+      "changeValue": 2364.736,
       "changeUnit": "千吨",
       "demandValue": 32255.4,
       "demandUnit": "tbpd",
-      "coverDays": 46.8,
+      "coverDays": 49.2,
       "potentialCoverDays": null,
       "potentialLevelValue": 400,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "2026年3月12日，国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以应对中东冲突造成的石油市场中断。G7财长声明准备协调释放战略石油储备。",
-      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约206070千吨、库存可用天数约46.8天；另有潜在库存行动新闻需单独观察。",
+      "potentialReason": "2026年3月11日，国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以弥补因海湾地区霍尔木兹海峡实际关闭而导致的供应损失。G7领导人举行会议，强调协调释放战略石油储备。",
+      "current": "按G7成员国现有库存基线合计，当前总油品库存代理约216585.722千吨、库存可用天数约49.2天；另有潜在库存行动新闻需单独观察。",
       "sources": [
         {
           "label": "IEA Oil Information",
@@ -9579,6 +9784,10 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        },
+        {
+          "label": "金投网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkPe16tZlbjqzP6wXe_LXoLPpwVxXoI-yIA6qmGtkGznNzzFFH6lMoq8HzBm5Uh_7qTuLb40B2WOSAk8f2j6SJ0wOD8ELCPtiPLQy2VHw8EVOIgDP5kSX14laRAMk0XPmUkJmMYA56SMjcxgbAS0E="
         },
         {
           "label": "Trading Key",
@@ -9787,6 +9996,22 @@
         {
           "label": "US crude oil inventories up by 0.9% for week ending March 3 - Anadolu Ajansı",
           "url": "https://vertexaisaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-lVgPfCU__pilVbUASGjtKAq1fQLmRkfcV8C5DZemzDW7oAKSQUFE1SqmJC809vjFbnOkW0jAlze8WjkZLiHMA7KAuG-1T7-Dr5zPDDz54LwKFLLX8gzjO-d9ujMbOwcbbew1fzx4H3Xos8kjCWc0CCwfV9lfyhEFIFxUdZEwjUoQg-V35LF6XH-mAU3o29OghVqC0apgQwvFDWHWg=="
+        },
+        {
+          "label": "新浪",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk9Npga87QN4HYcJe0kaUqcpM8KnjGWsnR35gCiAJVU5n-jKTNWxomhiUNJUZdaDQtUff9-zPYRxYlEzpHFUHbC-EsML0APL3NgnE7w_XINnGaoSGmcSSICB8BIKc_Pdzqy8cvavuYKMkg8ndNgBcl1RCTVAyoZvkH"
+        },
+        {
+          "label": "黄金",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCu3pkSiPpOZS9Gi2tUSxBwwvpU-0FW9aRK3dL_PCGpYDcsLziqMpg8qdy5djE5a5zAFvfJVAPrHbpnKLo_uvNgBVi_qufhedExQ0zWxoPpkllZyX41SsOr9M2C52hRafHFKA90XazJTPdl3OWuMu4lOUnUS2V"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG1P2nL-ZLGq0cTWaFixiDlTabzgjO_OHxXRIdDCkMTCROWVRxYiJQu1AT9J82fFD2twBwLJoF_mEPeg3hQvWYb_dJJm9aMBBeYiZdPA_BJjhqvZl-X8vZxRWb"
+        },
+        {
+          "label": "AASTOCKS新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQIlQ-d575nEeSz6nIXguc3A-Ua5puaIhFhkXh4aYJ1QLzRkiLFk3jZJoaGbqmo3ynOA8-OMOt4Gr27SpEoBnYZg1ht7qXBPR8_YFxeo8AbpJvrwGVITgPlNh11mAux9Q_EL_5-7echfyeVyCmYD2womAc0HLFrg=="
         },
         {
           "label": "Binance",
@@ -10027,6 +10252,18 @@
         {
           "label": "Oil shock from Iran war prompts International Energy Agency to release largest ever volume of emergency oil - CommBank",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgeADpNihT2iOqXSEFHsC2XduerovRPQaqEGD2tu72vBGOt5O0vB_wApoAUW3ZaJWxm3pDTvFV4u_GnMfxyHP2T_xYV1nOQa6_vwqYdb68fHBl07GnNE6QpYkBkKJcLcYCoCmUbkuk1gicbRcKDsdAARjlNu5q50hyu5kE_1I2QefEPR6FHc83KC5XaxYSV8cA8hmAFLLSCfsFqaLK1Q=="
+        },
+        {
+          "label": "欧洲时报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjVe9zBlbUd3CIQznlgZKsLU709qWgl1B8LUJAzflbVZldZ7-egsoKeoA4pwnn6xGapJYs4mwwb8_RLvcHdvbeidRxcL0lpuyS3Ze3sBGmfEF4mhMZRTii3kj59cvbK82PCyCbew96m0DhSe1GKHC2L8tBb5Zw5h-MGD_45spMUqdUlfkTeLXoXpPi8xxNyFMib8_crK7A2mMi4hnt"
+        },
+        {
+          "label": "AASTOCKS新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpkiOLIT60axSI97spJ0gWGfWBxCh-Q1CKoWBwuZ3-NBR27nYrfZDI2iqlifXuCJdy7pa0DYwViZpqlOku1hdMM2jRNkPQ8v8rRAcI9V-BI1gEkQG-HlNLon91fl-hCO0U40c0DABguHkcfdejJjR0GAIuXVthSr6R5oBxD5XsVUUn-9WjtpvQhu40WJw_dBId8IJ8"
+        },
+        {
+          "label": "中财网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNeuaSEfUgU0c0Py_rXlPAFZQ8riS0hdtOWm_BisgQjG7PgwRQUl8_VX5F2kOiHclbHOBloC3Q8jq24lcovj1m190MUA-IaN0Ba-0OBdXVF0Gf4t6-3qYwcKTwWPUCmJYzguWZxA=="
         }
       ]
     },
@@ -10215,6 +10452,30 @@
         {
           "label": "The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7KGx8LKdRbK0LAj9Fq_VRC9r3sHkp-2V2v_uwb8O8WGAZkPEUYJNTZqk_8AnkFCzSc_DYWAIjiufc2IzhTTVXyIC3tVgh4xF-4MyT6D1-aggALveao0zCq7Wo3rkcprCKeLJXF_OyGzunIIdmpSNOLf8Jk3kC4Okjs2rToY1TRaZ51WyUICH6aBOmOJmXeO0vigw7DbEYVkSOSZvMAxieGERq-f_NbwSTFpjLZ5LiqpZJppmAwC4veMG8w=="
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "market": "商业原油库存",
+      "period": "2026-03-07 PAJ数据",
+      "status": "库存下降",
+      "levelValue": 10515.722,
+      "levelUnit": "千吨",
+      "changeValue": -155.688,
+      "changeUnit": "千升",
+      "demandValue": null,
+      "demandUnit": "",
+      "coverDays": null,
+      "potentialCoverDays": null,
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "",
+      "current": "截至2026年3月7日当周，日本商业原油库存较前一周下降15.6万千升，至1051.6万千升。炼油厂平均开工率从86.2%降至80.9%。",
+      "sources": [
+        {
+          "label": "金投网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkPe16tZlbjqzP6wXe_LXoLPpwVxXoI-yIA6qmGtkGznNzzFFH6lMoq8HzBm5Uh_7qTuLb40B2WOSAk8f2j6SJ0wOD8ELCPtiPLQy2VHw8EVOIgDP5kSX14laRAMk0XPmUkJmMYA56SMjcxgbAS0E="
         }
       ]
     },
@@ -10541,8 +10802,8 @@
     {
       "country": "Singapore",
       "market": "燃料总库存",
-      "period": "2026-03-04 ESG数据",
-      "status": "库存增加",
+      "period": "2026-03-11 ESG数据",
+      "status": "燃料油库存增加 / 炼厂减产",
       "levelValue": 49.965,
       "levelUnit": "百万桶",
       "changeValue": 2.522,
@@ -10553,7 +10814,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": null,
       "potentialLevelUnit": "",
-      "potentialReason": "中东冲突持续升级，市场对高硫燃料油供应减少的担忧情绪继续增加对新加坡市场基本面的支撑。中东战事限制了流向亚洲的套利货量，市场参与者预期新加坡地区供应将愈发紧张。",
+      "potentialReason": "中东冲突持续升级，市场对高硫燃料油供应减少的担忧情绪继续增加对新加坡市场基本面的支撑。中东战事限制了流向亚洲的套利货量，市场参与者预期新加坡地区供应将愈发紧张。新加坡炼油厂生产活动大幅减少，产能利用率降至50%-60%。",
       "current": "截至2026年3月4日当周，新加坡燃料总库存为4996.5万桶，较前一周增加252.2万桶。其中，燃料油库存上涨65.4万桶至2328.6万桶，中间馏分油库存上涨12万桶至764.7万桶，轻馏分油库存上涨174.8万桶至1903.2万桶。",
       "sources": [
         {
@@ -10579,6 +10840,14 @@
         {
           "label": "石油化工产业协作联盟网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt0TrdOKg1kEHp0Kfl6FYwEiPWCEKHkXbo_gOmXOhVROnTBzPLNXG9IWF07nhCo073WnTWXcH3LrKe3Ato3iCThlcsV0Mvi9R2UTPUuo7dSiwEcVsjYAYu15ZM72gMZ72xlByn7PyINjke"
+        },
+        {
+          "label": "同花顺财经",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv0R_9lcC4F9zt6aaA5N-hM7Foquw2QVlQ9CoJPOsEPXupPZMwHgO2vc2ofVxJ0hl54g4qjrMOsoBXSqIWgLq27JGzDcDtlD2tMtOwpbjgX-id1Y0h4Ib8ji3PiyMGiGrs3J0mDwbDxDcPXA=="
+        },
+        {
+          "label": "联合早报",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBEB6znfH179Emzw5NEaKmEZg0PFgDUz5RkXQlealn5bxp6Fv9uLExxMIhc9fKtPJpy4ce3776cG8pkO8XwJFcDm9wjXZTR56Lzl8AeDdwGq7smc84Ycbp_Cn-F0R5n2CSA45me7z2x6qD41Y2NRHPP5NLsrTF10siP0M="
         }
       ]
     },
@@ -10879,6 +11148,22 @@
         {
           "label": "US crude oil inventories up by 0.9% for week ending March 3 - Anadolu Ajansı",
           "url": "https://vertexaisaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-lVgPfCU__pilVbUASGjtKAq1fQLmRkfcV8C5DZemzDW7oAKSQUFE1SqmJC809vjFbnOkW0jAlze8WjkZLiHMA7KAuG-1T7-Dr5zPDDz54LwKFLLX8gzjO-d9ujMbOwcbbew1fzx4H3Xos8kjCWc0CCwfV9lfyhEFIFxUdZEwjUoQg-V35LF6XH-mAU3o29OghVqC0apgQwvFDWHWg=="
+        },
+        {
+          "label": "新浪",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk9Npga87QN4HYcJe0kaUqcpM8KnjGWsnR35gCiAJVU5n-jKTNWxomhiUNJUZdaDQtUff9-zPYRxYlEzpHFUHbC-EsML0APL3NgnE7w_XINnGaoSGmcSSICB8BIKc_Pdzqy8cvavuYKMkg8ndNgBcl1RCTVAyoZvkH"
+        },
+        {
+          "label": "黄金",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCu3pkSiPpOZS9Gi2tUSxBwwvpU-0FW9aRK3dL_PCGpYDcsLziqMpg8qdy5djE5a5zAFvfJVAPrHbpnKLo_uvNgBVi_qufhedExQ0zWxoPpkllZyX41SsOr9M2C52hRafHFKA90XazJTPdl3OWuMu4lOUnUS2V"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG1P2nL-ZLGq0cTWaFixiDlTabzgjO_OHxXRIdDCkMTCROWVRxYiJQu1AT9J82fFD2twBwLJoF_mEPeg3hQvWYb_dJJm9aMBBeYiZdPA_BJjhqvZl-X8vZxRWb"
+        },
+        {
+          "label": "AASTOCKS新闻",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQIlQ-d575nEeSz6nIXguc3A-Ua5puaIhFhkXh4aYJ1QLzRkiLFk3jZJoaGbqmo3ynOA8-OMOt4Gr27SpEoBnYZg1ht7qXBPR8_YFxeo8AbpJvrwGVITgPlNh11mAux9Q_EL_5-7echfyeVyCmYD2womAc0HLFrg=="
         }
       ]
     },
@@ -10889,7 +11174,7 @@
       "status": "计划释放",
       "levelValue": 415.4,
       "levelUnit": "百万桶",
-      "changeValue": 0,
+      "changeValue": 0.1,
       "changeUnit": "百万桶",
       "demandValue": null,
       "demandUnit": "",
@@ -10897,7 +11182,7 @@
       "potentialCoverDays": null,
       "potentialLevelValue": 172,
       "potentialLevelUnit": "百万桶",
-      "potentialReason": "2026年3月12日，美国将释放1.72亿桶战略石油储备。",
+      "potentialReason": "2026年3月12日，美国能源部长克里斯·赖特宣布，美国将从战略石油储备中释放1.72亿桶石油，以应对伊朗战争期间的能源成本上升。",
       "current": "截至2026年3月11日，美国战略石油储备连续数周保持在4.154亿桶不变。11日国际能源署（IEA）同意从紧急石油储备中释放4亿桶石油，其中包括规模最大的缓冲——美国的战略石油储备（SPR）。美国能源部将从SPR中释放1.72亿桶石油。",
       "sources": [
         {
@@ -11015,13 +11300,21 @@
         {
           "label": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrzo1wb8fGlQsEeCVVRKMG0IURGEQIXHefVjzgxcdkZ2wm3oJsk6YtDvpi9hd_UeHt2CrKwQLnRdRNDI0g9yCIxfCe1iI2Qn6aIdS_W7q003bx_hZxysCESeeooRrhuOwi_EAWmi89AMoTdtjL12iecy4AD7FnT3LwJpLvFQMFbkksnfq36GF2f6bM7RBdNFm1YxhWUhdLY0byHAqMuDKlvGPVXQ64Nl1uKePHuXl4BU="
+        },
+        {
+          "label": "新浪",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk9Npga87QN4HYcJe0kaUqcpM8KnjGWsnR35gCiAJVU5n-jKTNWxomhiUNJUZdaDQtUff9-zPYRxYlEzpHFUHbC-EsML0APL3NgnE7w_XINnGaoSGmcSSICB8BIKc_Pdzqy8cvavuYKMkg8ndNgBcl1RCTVAyoZvkH"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG1P2nL-ZLGq0cTWaFixiDlTabzgjO_OHxXRIdDCkMTCROWVRxYiJQu1AT9J82fFD2twBwLJoF_mEPeg3hQvWYb_dJJm9aMBBeYiZdPA_BJjhqvZl-X8vZxRWb"
         }
       ]
     },
     {
       "country": "中国台湾",
       "market": "原油储备",
-      "period": "2026年3月4日",
+      "period": "2026年3月5日",
       "status": "储备充足 / 要求提高库存",
       "levelValue": null,
       "levelUnit": "",
@@ -11107,14 +11400,18 @@
         {
           "label": "大紀元",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5dsIFlmf-5hj57jYemH3ayA7iD1OCxdeR9-RJi6pDTK5QfLPq8PXCZGWBppkNvojaFlj3L68Ivj9i_e5h9MPoy8NZyuLD-o-FHflBEAhZUWNh9H5qOISOTc3u8B8JJR9Qc4VUfbeIgGjrlgw=="
+        },
+        {
+          "label": "大紀元",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA3ueaywZuLP7CTh3NR3cf4A1YF2piH1rUu20A6bOYEZceAezPBIOT6Dg9jyS9-m-fIh6BxyTy1jkuS36tDV8X4B9hWZbXvADpSy3H4b8jQYSMCcnWVlBnLaEY2vzFs7_C5JTnFiRi7YBep1o="
         }
       ]
     },
     {
       "country": "印度",
       "market": "原油库存",
-      "period": "2026年3月11日",
-      "status": "库存可维持25天 / 拒绝释放战略储备",
+      "period": "2026年3月13日",
+      "status": "库存充足 / 拒绝释放战略储备",
       "levelValue": 100,
       "levelUnit": "百万桶",
       "changeValue": null,
@@ -11363,6 +11660,14 @@
         {
           "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY=="
+        },
+        {
+          "label": "金十数据",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg2nE53PL-1inUUPTN028qryFrNwuP8dJGi_kft8hIf-L5_lgKe3gbdlRjMtohXHMV4dOuFL_ftE73oG1OSTzJvbx11DjfFbgvexMEly1MvD0aDmNIJh0dy5JakO3bEy-Fz7cnoefAmJQRUOdb"
+        },
+        {
+          "label": "财联社",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAjx9Y6juNbR_CGR2Ouu7pFysrb3OB2hyVFP7kffWVzUytU9k10MwyNtWASFDdPFQ-KZRYHkZbtaUBos4Fa6jyrwIYLsIlXAPbjtz7BhPtsibV8zf7CLZes2W_"
         }
       ]
     },
