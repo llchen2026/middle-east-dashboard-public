@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15 15:28（北京时间）",
+  "lastUpdated": "2026-03-15 19:14（北京时间）",
   "assets": [
     {
       "country": "伊朗",
@@ -684,7 +684,7 @@
       "normalizedType": "gas",
       "normalizedValue": 750,
       "status": "已停产",
-      "current": "2026年3月12日，库尔德自治区霍尔莫气田停产，发电量削减近三分之二，每日供电仅4至6小时。",
+      "current": "2026年3月12日，库尔德自治区霍尔莫气田停产，发电量削减近三分之二，供电每日仅4至6小时。该气田自2月28日因地区安全局势暂停生产，现处于待命状态。",
       "sources": [
         {
           "label": "ZAWYA-PROJECTS",
@@ -697,6 +697,30 @@
         {
           "label": "伊拉克陷伊朗戰爭夾縫遭美伊雙方夾擊面臨經濟崩潰危機 - 巴士的報",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs715owHL6vA8jwZuZviM0E4F_j1IPNlkhogciKygy0MjW5JIvlaTQY9gCgk9ydA74ZiU4I0fPnvomoukTkJAi2N6n5yB1lJNp5Zf7sWNjtBPxphg--apOHyLNzGQMJZM6TsQdW6ZSJM1f1wGmhS5oMALrYfagskWzOc7VGvwx1oBsVWof9AY-PYzvWJbPrUm28XcoCduMvus6bfCzw-d2g4fqrUDhm0sjJT1tJgclw1yPh6CKx8P5u1-Lq4AUpAUoKVQYAPlf1768eSLlFnnJeL9dFX2gQRQHqto3cUFo8hQ3191ujaAdeH5lB2td9Zf3g6MLR2NxS3f1KH7r825VtRkwn4dVB40Um4T8V2uXGeE3sx0YD4zy_hvh-HiZAXH9B8h_1yAB_M4fwkJeQWTes7Mrf520sqi4"
+        },
+        {
+          "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "Dana Gas says Khor Mor field ready to resume production once safe - 964media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGahgbmoTGBurobEq_UX4I051aZHBhqREFnsuxw7Fcq_ArAoNE2g8uInZdi4Ih0mklpCXmGohN45fq7J65CJwLTq9y-01j-z1HUAm6Kc-y8I3OTu2yk5H3yWA=="
+        },
+        {
+          "label": "Dana Gas Temporarily Suspends Khor Mor Field Operations Amid Regional Security Concerns - Kurdistan24",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFySXVzy2LSNrMNWCarJY_cTQIcHllkXs3O2Gl94B8CEeyKjjlNBXHtTFIcDu0e8UuZO0QMVae2AW4KIXlWSKuzGtdKqXuOWmdEHSV_pa4TYkXF-n1yy7JuY_rxF0oZ0LLbDskP030ONuJb8jE1d78Fzdn6sX4cB9rOUrTA4OJs969i9-UysTDTLYpht3bjzz-ZH2eXI4VvTXAgK98gScS_WC0ZWQQPz0ddqImPlwICKg7lXi2WRAU_XoRAQ9HF4A=="
+        },
+        {
+          "label": "Dana Gas Temporarily Suspends Khor Mor Field Operations Amid Regional Security Concerns - Kurdistan24",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFySXVzy2LSNrMNWCarJY_cTQIcHllkXs3O2Gl94B8CEeyKjjlNBXHtTFIcDu0e8UuZO0QMVae2AW4KIXlWSuzGtdKqXuOWmdEHSV_pa4TYkXF-n1yy7JuY_rxF0oZ0LLbDskP030ONuJb8jE1d78Fzdn6sX4cB9rOUrTA4OJs969i9-UysTDTLYpht3bjzz-ZH2eXI4VvTXAgK98gScS_WC0ZWQQPz0ddqImPlwICKg7lXi2WRAU_XoRAQ9HF4A=="
+        },
+        {
+          "label": "Dana Gas temporarily halts production at Iraq's Khor Mor field - ZAWYA",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECFwEdFHESu3UCnvnvA8A-YbzSyGgyPHuONVSPzx2prTJJC2sehZvYne_eG5SaCvLvCupQleC5DJdUhjeZi3EYQBV0AB7c5LtmfbPmRbDc9efl4bdfaVIQ927MjH7M15Nxiuugsnzr0hDp_e1xJuYj7qHqcKBfOpnZg7pLs_HZzmibn3qJeiTf5k2IB-JrJQFu5ZybnPIdUcz7JfMuz1JG-LL8c1PJAQXuSldHPsa"
+        },
+        {
+          "label": "Dana Gas suspends production at Iraq's Khor Mor field - The Energy Year",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNwfrGFYToMlaXkEuxlfYdmOLKUEm3N1M3C79NP2A6x4FSO8WsD2mhvHsnusM89MhH0-KSstcnIAQ_Y1yE6vtp1us1gGuMYkr2TthhuQJIcIz4InYBBlwFP_cHDsAJ0sufyTcrF5oI46wpV6UjRFBfOhgNeTHwLvKm0r1m-gXxemkS4oFhammulm65B6gaKQ=="
         }
       ],
       "baselineSources": [],
@@ -3347,6 +3371,10 @@
         {
           "label": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。 - 财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgPtWaeVkyDBv2JYv7oiQ41DBm7buVCiHKYTZVsUEUupTJxpr4H9DemQ8TwsUfuXfjz6pNzZ41u49o8rrg3lg8vd3nwSn30Kq7b1UViyxwamUTiv1UgMa97g8Rw=="
+        },
+        {
+          "label": "Iraq Oil Production Cuts: Market Impact & Supply Crisis - Discovery Alert",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPv-TRGJ4kPvoh3cAzNiPZ1XWw50RQUMEYAzFP9R_Uw0U_plrbY4wPv9vLF4ZkHOc93GY6GmQ4_taNzPoqRv8hUc4eQdpzQXb4G3ixOMT2ANuH_CzSwnrYlSwuKlxPDfaH8pKvg7sakZFsLomWEpoXy7fTLwQBSV2XcNOLiDWddk9yoJh3I__qQF8O0NM=="
         }
       ],
       "baselineSources": [],
@@ -4866,6 +4894,10 @@
         {
           "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUwVf1bdo6DzDsbo-VQm4E6uummM8JU157FhSIWUfolqBqwT1VZ38bx3hc2Y4aNo1dqcBz2kSvGqUAHKw-_jpF4n73cgESPylna1AlCq7hb50ivPi4j_Omz2sQs0hphniO0Y2bYse8wyulw6qESvDpR0GY9xYZm5lBZTmFA7IxUGXy8HFWQm9emPigAHrgxNLaV8rF0Z0vUd2OtW8sekDw"
+        },
+        {
+          "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUwVf1bdo6DzDsbo-VQm4E6uummM8JU157FhSIWUfolqBqwT1VZ38bx3hc2Y4aNo1dqcBz2kSvGqUAHKw-_jpF4n73cgESPylna1AlCq7hb50ivPi4j_Omz2sQs0hphniO0Y2bYse8wyulw6qESvDpR0GY9xYZm5lBZTmFA7IxUGXy8HFWQm9emPigAHrgxNLaV8rF0Z0vUd2OtW8sekDw=="
         }
       ],
       "baselineSources": [],
@@ -7228,7 +7260,7 @@
       "date": "2026-03-12",
       "title": "IEA成员国同意释放4亿桶紧急石油储备",
       "type": "政策协调",
-      "text": "国际能源署（IEA）32个成员国一致同意向市场投放4亿桶紧急石油储备，以应对中东冲突造成的石油市场中断。",
+      "text": "国际能源署（IEA）32个成员国同意向市场投放4亿桶紧急石油储备，以应对中东冲突导致的石油市场供应中断。",
       "sources": [
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
@@ -7253,6 +7285,50 @@
         {
           "label": "IEA创纪录释放4亿桶石油多国积极跟进，市场担忧力度不足 - 黄金网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNhrMmTyVpecnefZhz5eOSva60K-2y8R7owuGJ5vzCwO79GXvjk1BjFNqlcg8ZC2j08AgGKpwE0LZ5IKfcB9FCiM6hNXGuvBFZoIbk20hBgFzdCJOtvD02VNop_XLJEirVwpT0Ge0clh8fL2Q58K4ckzWQreEUVQ=="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicwdNnC06ZOmIgVb4IJvy55OVzfU6XMzd8nmliM1rP-bfCvs9RxdgwmI3-M4fwyEK6PXpzIxIIsmKxCLSYfCmA5ZaUoFznTs4O3Yjnw8a0OyImtRY9OHYM_HZ3Il0dO8lWunkmGEZFAJXRv1N6PXw3WokQKwNHsnGWYxByuHPrD3nPd8ACI4rTUKg8a7_Kyrvhlrh1d_3x_7XBgm2kwkfjTZXGlvlvRg=="
+        },
+        {
+          "label": "IEA Member countries to carry out largest ever oil stock release amid market disruptions from Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsXlvC3kEY2F1JWCiozsvOKvto1hDrSAp5C_HUHx3idQOUFaC_ommTJgNbun7hpzYAgMhJgY7KICQkvuOrFTC8wEjsiG6eKJoGUZqa62hHUVRBk11EoG2bm_RFACIhfmiquTXMI5gs9Cc4DprdTYqm3yMolE6K-z3Bu9tORDuUZJhf8rsl1FohjiB4TmwBy_eK0Bv3tH8nilKbTtMubY2CW1RYis1wGYEE56j9EXI4hy0Wp9Cq2Jaj4yAh1Sfua1xIHE3ZmVnM=="
+        },
+        {
+          "label": "IEA Decides on the Largest Ever Coordinated Release of Emergency Oil Stocks to Stabilize the International Petroleum Market",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF7PLDEFwccn2vfr6sENQyZlX4RrfPQMRoHfcsxwYQQADHRJIUBy-4YObZvRH1Q-v6ANa7DOKGzoL2w3jQkTVtjCfG0oWkf53jzWKBijGn070P1eS0vufTs0Q4t_huZwk3xDU=="
+        },
+        {
+          "label": "Oil shock from Iran war prompts International Energy Agency to release largest ever volume of emergency oil - CommBank",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgeADpNihT2iOqXSEFHsC2XduerovRPQaqEGD2tu72vBGOt5O0vB_wApoAUW3ZaJWxm3pDTvFV4u_GnMfxyHP2T_xYV1nOQa6_vwqYdb68fHBl07GnNE6QpYkBkKJcLcYCoCmUbkuk1gicbRcKDsdAARjlNu5q50hyu5kE_1I2QefEPR6FHc83KC5XaxYSV8cA8hmAFLLSCfsFqaLK1Q=="
+        },
+        {
+          "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "title": "IEA警告霍尔木兹危机引发\"史上最大供应中断\"",
+      "type": "市场警告",
+      "text": "国际能源署（IEA）警告，由于伊朗战争持续阻止油轮运输，石油市场正面临“史上最大供应中断”。霍尔木兹海峡封锁引发的供应冲击意味着全球面临比1973年石油危机和2022年俄乌冲突更严峻的形势。",
+      "sources": [
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicwdNnC06ZOmIgVb4IJvy55OVzfU6XMzd8nmliM1rP-bfCvs9RxdgwmI3-M4fwyEK6PXpzIxIIsmKxCLSYfCmA5ZaUoFznTs4O3Yjnw8a0OyImtRY9OHYM_HZ3Il0dO8lWunkmGEZFAJXRv1N6PXw3WokQKwNHsnGWYxByuHPrD3nPd8ACI4rTUKg8a7_Kyrvhlrh1d_3x_7XBgm2kwkfjTZXGlvlvRg=="
+        },
+        {
+          "label": "2026 Strait of Hormuz crisis - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkcDLQ63qLMeXkvfb0NO4fgeMJwYmCPF_bd_Bnws_qRSw0awPdodt8DmdyMTVgOJ6fHOOldmqb3-PaJv9HotzlF5mSbq1DiGAa1Buk-8S-SD25L4dEVOn2RsAz1a2ZmsBpgyGg9j7kGGHg4ZjL6Cfk2yMHOeY="
+        },
+        {
+          "label": "Oil shock from Iran war prompts International Energy Agency to release largest ever volume of emergency oil - CommBank",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgeADpNihT2iOqXSEFHsC2XduerovRPQaqEGD2tu72vBGOt5O0vB_wApoAUW3ZaJWxm3pDTvFV4u_GnMfxyHP2T_xYV1nOQa6_vwqYdb68fHBl07GnNE6QpYkBkKJcLcYCoCmUbkuk1gicbRcKDsdAARjlNu5q50hyu5kE_1I2QefEPR6FHc83KC5XaxYSV8cA8hmAFLLSCfsFqaLK1Q=="
+        },
+        {
+          "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
         }
       ]
     },
@@ -7361,6 +7437,26 @@
         {
           "label": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。 - 财联社",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgPtWaeVkyDBv2JYv7oiQ41DBm7buVCiHKYTZVsUEUupTJxpr4H9DemQ8TwsUfuXfjz6pNzZ41u49o8rrg3lg8vd3nwSn30Kq7b1UViyxwamUTiv1UgMa97g8Rw=="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFdMBJV3RLMo0ry59-BG7tcQtaLvWhnLIWne621AWbdyzc9dYoHSRoz9QeYl6yug6deLL6iUi3qh_HMt19ZhFixR0iew41A0FtTpaE0WiSF-b0AzthHL3Da8UUPC59y43pHWtp07a_efC4wnWgOUpnPJSxC0ta8ncRpiLnKfGLzycI4Q1nCBzDynx-Sm0SNTlftUdL3qFhy6lNiql8EOkcKtmqbyAJAdmLgb1ZJdgS100Y4mD"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "title": "海湾及霍尔木兹海峡五艘船只遇袭",
+      "type": "航运安全",
+      "text": "伊朗爆炸物船只袭击两艘伊拉克水域燃料油轮，致其起火并造成一名船员死亡。此前三艘船只已在海湾水域遭炮弹袭击。",
+      "sources": [
+        {
+          "label": "'Maximum disruption' in Strait of Hormuz as 16 vessels are hit during US-Israel war on Iran",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTMZGz-2zINIT28Zyt64NHkKbZnBnIbCTrOsa15QhZ5xw9Uuwat1UvSXcsBVO9OXG-N35SKPq-B9T6LMSIFFCqdxggSIh5ZXGoPv3V4K4xwrMyYdsKA7gtnScy58Z1H10rAadiovCU1hdtJB_OKHXxOKoyGW6XAryuubxZYhShIH7EfB-QCBUhp__Cn086S_PgXKJVIdCTOW_nQYRsdGPk8mXIYo4TrNWinTlgU92nydvX4165QBPd26-IcFQTZzp3eFhagGIPLFdPgssixl0="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFdMBJV3RLMo0ry59-BG7tcQtaLvWhnLIWne621AWbdyzc9dYoHSRoz9QeYl6yug6deLL6iUi3qh_HMt19ZhFixR0iew41A0FtTpaE0WiSF-b0AzthHL3Da8UUPC59y43pHWtp07a_efC4wnWgOUpnPJSxC0ta8ncRpiLnKfGLzycI4Q1nCBzDynx-Sm0SNTlftUdL3qFhy6lNiql8EOkcKtmqbyAJAdmLgb1ZJdgS100Y4mD"
         }
       ]
     },
@@ -7421,6 +7517,18 @@
         {
           "label": "史上最大规模抛储，为何压不住油价？ - 证券时报",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCyZO1tWgJG3C2GQkVcNzNoArgDAAYJh0GPaK0hYJUHRfMzS0J33n0LGxhQwAQXivcGe4w87Y6hOii3C9JJDe-ckRKGsKYNSBSSCjLwe2_sPzIoyX-tZuDadhkzKrzVzORt24PyyGF9tK3PA=="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicwdNnC06ZOmIgVb4IJvy55OVzfU6XMzd8nmliM1rP-bfCvs9RxdgwmI3-M4fwyEK6PXpzIxIIsmKxCLSYfCmA5ZaUoFznTs4O3Yjnw8a0OyImtRY9OHYM_HZ3Il0dO8lWunkmGEZFAJXRv1N6PXw3WokQKwNHsnGWYxByuHPrD3nPd8ACI4rTUKg8a7_Kyrvhlrh1d_3x_7XBgm2kwkfjTZXGlvlvRg=="
+        },
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFdMBJV3RLMo0ry59-BG7tcQtaLvWhnLIWne621AWbdyzc9dYoHSRoz9QeYl6yug6deLL6iUi3qh_HMt19ZhFixR0iew41A0FtTpaE0WiSF-b0AzthHL3Da8UUPC59y43pHWtp07a_efC4wnWgOUpnPJSxC0ta8ncRpiLnKfGLzycI4Q1nCBzDynx-Sm0SNTlftUdL3qFhy6lNiql8EOkcKtmqbyAJAdmLgb1ZJdgS100Y4mD"
+        },
+        {
+          "label": "Strait of Hormuz not closed but under Iran's control: IRGC commander - Chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH73CQOwtx608fik37ELJ245i9Yj_N16BnZMIzmxreVC26wVIsYJAi3rERKrMAjcsCZn_HwxxOX8Alnhoy7vJavjtDMeRmf6xADiIVxcLYlORkqpr3kbFHwnSHBjzEV05qFbwuL6RWIKgwUwOQ2RJ-QXABZKGAlxcACM05qitJYVsHTIwgZTto="
         }
       ]
     },
@@ -7474,6 +7582,22 @@
     },
     {
       "date": "2026-03-13",
+      "title": "美国财政部长：美海军或护送船只通过霍尔木兹海峡",
+      "type": "政策调整",
+      "text": "美国财政部长Scott Bessent表示，一旦军事条件允许，美国海军可能与国际联盟共同护送船只通过霍尔木兹海峡。",
+      "sources": [
+        {
+          "label": "Oil tankers hit, GPS spoofed and ships stranded: confusion spreads across Strait of Hormuz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFdMBJV3RLMo0ry59-BG7tcQtaLvWhnLIWne621AWbdyzc9dYoHSRoz9QeYl6yug6deLL6iUi3qh_HMt19ZhFixR0iew41A0FtTpaE0WiSF-b0AzthHL3Da8UUPC59y43pHWtp07a_efC4wnWgOUpnPJSxC0ta8ncRpiLnKfGLzycI4Q1nCBzDynx-Sm0SNTlftUdL3qFhy6lNiql8EOkcKtmqbyAJAdmLgb1ZJdgS100Y4mD"
+        },
+        {
+          "label": "Iran, the Strait of Hormuz, and an Unprecedented Energy Crunch | Council on Foreign Relations - CFR.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBfJnex3G0waGDGvFuXbtZqkdSEK5xZoxjMXuuLaf01bLLphkEXisiq97Vu8fVmx7ScgvzyZH4peuJbdM5RggXq_4lcb2YQ4zWAU7H8Xpb0vDVm3pdLfhJ1H2vWlHJ18hS7Pbv9utG4bosA2FydGEjcJKkfs-Kqn98cqDLaviMEHv0qXFM7T-J3ZwYvprXjapr-14j"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
       "title": "美国财政部长表示美海军可能护送船只通过霍尔木兹海峡",
       "type": "政策调整",
       "text": "美国财政部长Scott Bessent表示，一旦军事条件允许，美国海军可能会与国际联盟一起护送船只通过霍尔木兹海峡。",
@@ -7492,11 +7616,27 @@
       "date": "2026-03-14",
       "title": "美国驻巴格达大使馆遭无人机袭击",
       "type": "冲突升级",
-      "text": "2026年3月14日，美国驻巴格达大使馆遭到无人机袭击。",
+      "text": "2026年3月14日，美国驻巴格达大使馆遭无人机袭击，暂无人员伤亡报告。",
       "sources": [
         {
           "label": "Oil targets in spotlight as Iran war enters second week – as it happened - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xhzKzWa--viu7Z7Xf_SGn523S-x_tDrbLQixr9o7yQtujZheX8TmoguDniiQsQr3vy-iWUq_sD631D3sS_9B0fxGviBAP2ue_6DOlUa3LyKjv0GkI4GpKo2FzahBUtrSxflcq5c1_AApjVIYFkJLYwY0GH4IxEODTiBWlz7ynpASd38_aICtBhGTK-qkqOLwDj19F73tztedAAbo9PvFQ_v-NyT2snBS8QIT"
+        },
+        {
+          "label": "US urges citizens to leave Iraq after attack on embassy in Baghdad | The Times of Israel",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYluY3GtO9QjEUkQ_15NXkABv1ZwJpimx-iBUQMgnf7Fl7ow3_hSXUZwldej-ZV4FWG9xcGXMKAyJjZAwGgVUYQpTZPAb4q09XzauNJkjnY9P_iQxMFseGeX_exQCyX8eKmckciGqD48nA7cooF7nm1wx75PP82FrhdtBmxI64bQziyEi9BglvLyKCyucpPJE7uaw7PppVnJNBDrg=="
+        },
+        {
+          "label": "U.S. embassy in Baghdad hit by drone, no casualties reported so far - Xinhua",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDBjxQxDGnU9GHvq19AvVmn-Nk7UBpRxd8UDhSn0QdIO-3azB1ftS5eORRaexEQ0tfKtdqlPqYfWTHfA7B8RWsukxFqMGEGdrEGQL7Xz0PRrdQ1GxAQZk2V4J7slBWdLUM6V-4WMqVEmcEC6InsDmfBVP_gAMeTzZSCC6otr1mgt1r9w=="
+        },
+        {
+          "label": "Drone strikes U.S. Embassy compound in Baghdad",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2A0j4dTW_uAP8e-nJtZpWwPoE0xte7tY8_Z2wf1JBPoLSrC09hzh6mhKgmIzF2a299NqXw6VwpobakwgfkO6aYZcpHK_eWyyXV0aMH3gjQDcdmK-M1NhAaBxJxHJ-VaLCN1ll"
+        },
+        {
+          "label": "Drone Strike Hits U.S. Embassy Baghdad, C-RAM Air Defense Disabled as Iran-Linked Proxy War Exposes American Force Posture Vulnerability - Defence Security Asia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1hWGXgbus-QTZ5RORpPEPnkM5M59CfytP3JJwFdsnsJDy1s2BOzkQHBaWMz0Apo61Ltrbw3p6DVw5SVd7qbjEIlRLJvzii75mn-jLHp6Xg9O-BJG5IGbkWooVKT75wLp_1gtR15DtXKeZ_yDzBwWIFSIbDYfgg51YGLHOva8Y49ocVd5D2JkkpFue2MDJ0N9DjnyYIRQlMthapwILfor-LvA2gIP3ZEW8i54s6rXEvY0dDoEB0DU="
         }
       ]
     },
@@ -7521,6 +7661,10 @@
         {
           "label": "'Worst nightmare': anger and frustration as Gulf states bear brunt of war they did not start",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUwVf1bdo6DzDsbo-VQm4E6uummM8JU157FhSIWUfolqBqwT1VZ38bx3hc2Y4aNo1dqcBz2kSvGqUAHKw-_jpF4n73cgESPylna1AlCq7hb50ivPi4j_Omz2sQs0hphniO0Y2bYse8wyulw6qESvDpR0GY9xYZm5lBZTmFA7IxUGXy8HFWQm9emPigAHrgxNLaV8rF0Z0vUd2OtW8sekDw"
+        },
+        {
+          "label": "Trump Calls on Other Nations to Secure the Strait of Hormuz - TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4v42NHnC1V4E5o6GD_dhE1iT3G6e7DOS8y20R8RJiBCoSzuH5vL9ySXyBsjqkmCr8MHf0qhEZhljEyH1XAScq8yEpews_dl9uZ73nr_8W6C_qKjZh8F7MxT9YG2IKc0p3jr34PPYQ_ggbQsH9KjDDj1On-bQ2j-urVcY="
         }
       ]
     },
@@ -7549,6 +7693,62 @@
         {
           "label": "事关霍尔木兹海峡！特朗普发声！伊朗重申 - 21财经",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgEVuGNN2GyGyu00bs68dWRDEuwu8gg89i7HWJd1u3eDAOdEg8mJZKNU1uCojoTD0UmAUxTDtODhRzruP-3cYxvZ9i_VgK1J5Zx8Unq_uMvMkb2L9j-qKRy4cmt3hSqY11qD7926V5GflsUkD7diPOVJdywbLDqD0qNV-Z5Xo9tIZMufz6A9TSDlYh-EOCI-Ud"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "title": "伊朗外长：霍尔木兹海峡对敌人关闭",
+      "type": "冲突升级",
+      "text": "2026年3月14日，伊朗外长阿拉格齐表示，霍尔木兹海峡实际上仅对伊朗敌人（美国及以色列）及其盟友的油轮和船只关闭。",
+      "sources": [
+        {
+          "label": "Iran's FM Abbas Araghchi says Strait of Hormuz open but bars US, Israel-linked vessels",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0eVZmkhLrcDdGPLnSCRyTKFjoiVs9Zf6hin5zpbyzFmlLpiM-fztB_haOrA-plUeWIrjh_Q0Nu3im-6FPqfSqOAdeqB5-0t2IudIKmEjcMFH-hDh3i5mQqbhAI4EX5vJxUY6vvP6-HQzuHMAFzAsnDPYjShEtEyTOEQ-fQiiQ380_NnYnYqLP6L2D0ZyLr9AZefY1suU0xwZZ-si9Gnr3NVov-Ajol8tm3BwYDg=="
+        },
+        {
+          "label": "Strait of Hormuz not closed but under Iran's control: IRGC commander - Chinadaily.com.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH73CQOwtx608fik37ELJ245i9Yj_N16BnZMIzmxreVC26wVIsYJAi3rERKrMAjcsCZn_HwxxOX8Alnhoy7vJavjtDMeRmf6xADiIVxcLYlORkqpr3kbFHwnSHBjzEV05qFbwuL6RWIKgwUwOQ2RJ-QXABZKGAlxcACM05qitJYVsHTIwgZTto="
+        },
+        {
+          "label": "Strait of Hormuz open to all except US, Israel: Iranian foreign minister - Business Standard",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgBHtr5-x9GrOZTj9QH7HDC1abasNwS2-DIsfNUV2aon57M9Esg_1oK5WN_wd2w3da9qB4UcvFykX7CDkrjFgc0otQqRi3BQAuPyaK1KGCucMp7wmtvkIk5CgFXqE0BKbEadS0W2woDxEbHENyoiu9Jvm70Eci-crT98MUUGziL6Rk82j9HV_FI8zFVpgyOXsc5dMoLeFkY_BRUgrWqtduJEE7PlEeh99DGP1DnhwJNI3aQ5YbUEO4MqjHJWwvJkSh"
+        },
+        {
+          "label": "Amid Iran foreign minister Abbas Araghchi's Strait of Hormuz update comes a Chinese yuan report | World News - Hindustan Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUrxkOhoZMF2YBgDzuMdA4mlH36J9Fk3TBki8peQLTvnbc2XOvcfeWL6qqc1xG3BwTEWya4Iip5_8yDskPDZr5yfaJmmjJOs7bl_qaM-WzgUHgT4jy1_s9rg1SIZSDFDVDgmnONeIHdgoJ-SY4NRM_NJFFamKSts37dAr_i1hcbZLs6aLX8fIcgpocMriBYmtRVCpnsGVC94WwOd0xl7H5OX_7TfLdhYZwbgfpO9ssj-K_lOtgiqxxEwssePztQSBK9cWmC6vuZ28HUb1g6qO98WvgFa_-MIk5PXU0043VIkd81LAqx1dGwbYx1mfo2oM="
+        },
+        {
+          "label": "Strait of Hormuz open to everyone but US, Israel, Iranian FM Araghchi says",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvgTdCVIW0B_Z4y4vHirv4QhhD1iuNZXPHdoiaOj_00DQH_iucAK1KejhqGh87jaVxjymCY3FKQJ9vCoYvWb4Do20m_zO0B4b7NAlsXftUfsu108fpk1gmLUoJ4_zwhvbVcMmL-UAiDY3kzukYb6u5AQ2L3oc="
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "title": "特朗普：多国将共同派遣军舰确保霍尔木兹海峡安全",
+      "type": "政策调整",
+      "text": "2026年3月14日，美国总统特朗普表示，多国将与美国共同派遣军舰，确保霍尔木兹海峡保持开放和安全。",
+      "sources": [
+        {
+          "label": "Trump Calls on Other Nations to Secure the Strait of Hormuz - TIME",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4v42NHnC1V4E5o6GD_dhE1iT3G6e7DOS8y20R8RJiBCoSzuH5vL9ySXyBsjqkmCr8MHf0qhEZhljEyH1XAScq8yEpews_dl9uZ73nr_8W6C_qKjZh8F7MxT9YG2IKc0p3jr34PPYQ_ggbQsH9KjDDj1On-bQ2j-urVcY="
+        },
+        {
+          "label": "Donald Trump calls for ships to keep the Strait of Hormuz open | Morning Bulletin 15 March 2026 | SBS News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ-Y5FJKkW_qBUgXVUVrgBBuzoiYHGqlPcGzamIUXD5xt99TfBJJg7gRD8rvkDnsiAxOHnQfOq7mv0W5xukHH4nywaVMbDE2DpqkuhLESCxwmbD5Px4obJFlYRs_ekuyDYzhe5zCbjB4cRVwstySrgnLBr9wypZE9kAVIJyAARMAiQrbZgtRAHrWhym-2IcRkR5d7eodlzWCysMpng5oiP9rRv0wwKaiBceQ9TXm57l4Z1q0T_7D97Vxfcqf4q7SEuWvuNno8Qsyju1Kxi4Y8="
+        },
+        {
+          "label": "Donald Trump: US will open Strait of Hormuz 'one way or another' | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-hSb4xAk4ucuNdAnZwc6Lh9M9s7qyssiL0FpU_LqcoEppiacMYkX1fbG-j1pmItR9D0QLFPt7fT-6uprNnJjyr8_4M17eUsOOLDb4QY0EnThu1NB767qrI7S2go3Cz2i2odeO9cqvKwVu1NvihaeA085kd-U="
+        },
+        {
+          "label": "Trump vows to reopen Hormuz Strait soon, says many allies will send warships",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3OdWEsScpxMUiiZ3VVPw94EeeF4ao55Nw7AFEpPffuLJ7ZsQnRnSJkYGhkaTVjB6hCamznVWLjs-Wvpu86oI7QdJXCbE4XRQJIzbaBuFOtwB3styrwfB0YSHTSpPSbRsx-Xc="
+        },
+        {
+          "label": "Trump calls for international naval mission to keep Strait of Hormuz open",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeeHao9cD8p3j_7CDGdjMmyRCngybpbKW85igSWNbznH_efUruzjNj1C0nV_WQJhELkk5LznnKFib0kapVoRwPDa4Z6zXtB9R9Dc8OGEhQ1XMC8EImpFc5KeD0Yt_mgkrG063sTpoEU0ZoCL6Nf0xCf1NPgL7niXkOyAnkgVK08YPj7cgDt1rDn7P_Dj7iEOdko_naEglzyNcBN90ZQUXAy5VI"
         }
       ]
     },
@@ -7708,6 +7908,10 @@
         {
           "label": "What does Middle East conflict mean for battery supply chains? - Benchmark Source",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWNPeq7o6sWRCC75Mwy5dd7jU7ox_2uWbRxRGWmv-Bfw0uhWlyTOYB37Ty2D7liNOaRd_mnn-AZQAh7BeXa-r6zEwfLW9q7VB296UDx20LGQonVFIPxAMRjwYY1-qq3VJ820KsDbzYro0aRzNPy2rxoh7ETh-vQ2z4BgQH0_VcGk6pA4DuxAMYayxk73NdhRgC2qoQmUrgmCo38BLoj1_4uDfN5Rj2ttL"
+        },
+        {
+          "label": "2026 Strait of Hormuz crisis - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkcDLQ63qLMeXkvfb0NO4fgeMJwYmCPF_bd_Bnws_qRSw0awPdodt8DmdyMTVgOJ6fHOOldmqb3-PaJv9HotzlF5mSbq1DiGAa1Buk-8S-SD25L4dEVOn2RsAz1a2ZmsBpgyGg9j7kGGHg4ZjL6Cfk2yMHOeY="
         }
       ]
     },
@@ -8980,6 +9184,18 @@
         {
           "label": "重要原材料断供，日本尝到“苦果”-观察者网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWWuyRwP8MP4nU3IYgc6rxM9f0PIQ0rKhPlo9xtniPYbwy63U-e-o3-F9W0WV1drSsiT25Bi_u5GB9LsNchKNqd9LpQONzIz_ZHjNRsMs_GgIOUIvfx5RISC4KkeC07uxe61uX5MrpFmIoWluvl4BKDKzUQ=="
+        },
+        {
+          "label": "Are Feedstock Shortages and War Risks Pushing Petrochemical Prices to New Highs?",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPNorlcG72LuVa_i6GMWZ3-hyV6bJuBLsfAeObkjIWtLSFIHOsveRLHhvXkSzAdI8ntls2pZjMKPhVFGfFTrLm9KBPneHD69tGaQ8BoIM0TgkQretXLHWJqvTDQz8UdNghtEcxsmvsYmGHPlKUNs1cwRRW0BMRk-k70rkTPtcWcbjyLWdtHPLZwqv_ZgLt23XFShPkAfiTQCHqQLEuYSBT7WT1NAX01wk5q-1uk4Ah2Y=="
+        },
+        {
+          "label": "Petrochemical News - Ethylene prices race higher in Asia on supply disruptions and higher energy costs - Polymerupdate",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGem0atPp171xJIY47ZvrHB6W4KZBQKEGhr03RRDhYVR1WvpFnS299pY4uLnxVLqe4gCy7HLwc4JLjPkoLD0CRxM9NIn1VaYI5-NOOolHs__iDLh-QWhKJg961Ki3znQBy5gdWOa9H9BLG8Ghp2"
+        },
+        {
+          "label": "APIC-Online",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlktdHcJ0FOU5Ik7s31FyaQ-kIGqfnb1dB6S1wEvS7wrz1bYnkFtdzY59G5fUYiucfEfjLajBU0Js6O01dW1DQEkPaaiG7LgbTsdmNDgEFv7D8bM1OA__VDP3FldR9xTLGsotT43vQ6mqkyU="
         }
       ]
     },
@@ -9207,6 +9423,22 @@
         {
           "label": "China increased its crude oil imports by 15.8% in the first two months of 2026.",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyq-1JWdJCuCRsKISUK5fDLnhaIYbhekzLi9wciX5gZle6OjR43fjmb9NUiQGm-qYgIJtagTH5Au_Gq7ea-tLVQ68T0e0Mf8ttHaMjp449Bm_gdKhbxszCUWvJJ9RQaN4AX7jQMKAlAkU-prNkgGVKxAYNxi5BZmMCG4sybnBjePhBq28hnSym5jnhGvzY1V27muAy3FAbW1mgm5sOavKo9fDhaxHnYwCg"
+        },
+        {
+          "label": "分析：中國能源自給率達84.4%，可降低中東局勢衝擊 - TechNews 科技新報",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHidVA7tLsQTCfGn2fw_9ldiEnLXUF2SrdMmnhSihHltJ__7rTjJWwQ2c6425vNIPtl15orKjEmpXfL7E8gBpyV7KlUvE-M99jZAIc9k9UEgSTAYt6FLdBFn10-VBYjoFUa9pN5NiGj_dhizW4Ap8dDG3qiXMfxwlYvAPkK3crzdrZI6ZdpsVKM1RVC1e20hyzELwcuiAINHtuo-zl4cik=="
+        },
+        {
+          "label": "China slashes oil product exports to ensure domestic supply: sources | S&P Global",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9hbKeQ1FWc8yfFCGNq93N-VRBDCTBk38Iqe3KUKgBlmliduL19Tn0M79J3958GND46iVZGUHRwHhBGU4euQ-xjYIZoYSTKJxMlTyGo8Tgciex7WyXc5RuJVpMvfuskozDFToaEauuUHTUWI3FxPTduQHcl63kE3CJHWx2V1EQOYrOiYoqvJruo8q5rYSPzJA2JbJK_uO-iy8iQmferMCjRBH2l4f4uilzhK-PrEtH1XhapklwkgOqGsQz80P4s4JACRnzG7uFt7SA0O8=="
+        },
+        {
+          "label": "China Stockpiles Soften the Blow of the Global Oil Shock | Investing.com UK",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4OupTaho7RA6Kfl6JPiP1SpX_fJLcJvUi3p2oy9ChGmrfzJdVpDLpNj0a5FoRW6WbIcp8K-LQiDbWUj26V_7RfsKaYs5NiczA3mg_Qp6HCToILHCykIb-lhGgretyOXnBLtptJyQcLEk1J_9X-drdHuaq6hnrdk0OCp7hhHsV49CPQ1DzsrdVMNbYzw-x-bYpl_myhr07SX8PI_G6N4U="
+        },
+        {
+          "label": "China increased its crude oil imports by 15.8% in the first two months of 2026.",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyq-1JWdJCuCRsKISUK5fDLnhaIYbhekzLi9wciX5gZle6OjR43fjmb9NUiQGm-qYgIJtagTH5Au_Gq7ea-tLVQ68T0e0Mf8ttHaMjp449Bm_gdKhbxszCUWvJJ9RQaN4AX7jQMKAlAkU-prNkgGVKxAYNxi5BZmMCG4sybnBjePhBq28hnSym5jnhGvzY1V27muAy3FAbW1mgm5sOavKo9fDhaxHnYwCg=="
         }
       ]
     },
@@ -9417,6 +9649,14 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
         },
         {
+          "label": "IEA Decides on the Largest Ever Coordinated Release of Emergency Oil Stocks to Stabilize the International Petroleum Market",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF7PLDEFwccn2vfr6sENQyZlX4RrfPQMRoHfcsxwYQQADHRJIUBy-4YObZvRH1Q-v6ANa7DOKGzoL2w3jQkTVtjCfG0oWkf53jzWKBijGn070P1eS0vufTs0Q4t_huZwk3xDU=="
+        },
+        {
+          "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
+        },
+        {
           "label": "一文读懂：若IEA协调释放战略油储能否缓解历史性供应冲击？ - 上海有色网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXW42geEd8zZa1ecucTwv4OgS35sagtbBbPnDR8RF9wVlYYUWS2DTHS0dufxBc66lq_IYQU0QjPLZBu-iGkkK0kRSGaFJcOn32BsTREuJke9WIdwutJZaHWt-zQ=="
         },
@@ -9525,6 +9765,30 @@
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoEInSPvxsKecYoKIMdTT20i9gZYxwVuUtWLKWoEuyXjGyIKsItkrM9-cTCsXKUTU_jDIMHii-Twr5ZORUyiqqF-yfgnASFoVaAOG2IITjRjMQRzMQEsJT2cNcYpQtueXPu-AL1qUSHunrboixzb3iBr-JX50ZpoQRXYiWvwCW8rkKFky8CCyC9lflXwV8AMicVHhsEfLUL1S-KF_WqZc7VO2UgJBSuwltYc4gJowow91zD2B4"
         },
         {
+          "label": "United States Crude Oil Stocks Change - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5fb9Y2YQWz1439a7sUEgGuN_5oJKWFpSrS7rw0WIGIN_EqKPSxqLaKgn4YqjjR5h-O5z2x6brX_hNKRXDbCKohrm5LyEvkGjRKgxUobxKESMdJmjVThB5poFWmwKdA2Gww2K8CrqEP2Pl2ZWFjgUF7ALIBv7kXmrY07HvQ=="
+        },
+        {
+          "label": "US commercial crude oil inventories increase by 3.475 million barrels - Apa.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnFKRMJsGhO8xNOk3dHrVyhBkzs47KreDbRn2nBwqjO2wE3JgjA94LkkkzUqnwHk-385LnYyXirlkwHeouKzljI5gH6XbcqdWTbqwd5I03pvwg7Kqk4xQEhjf_7rpZg-6HiGjStsmWq_vwNAEQPa_BRNAuRwhzbttFb31tlo4FrGa1RDwqP8JpZPrY-7CfZlGXZ54HWSkMDhgUFPUzIXWP_yXfXOc5T7-9RcPY"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Almost 4MM Barrels WoW | Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuk6rpAgSBMwTnutCl437M2ZzOU4Fb7FXQQbAcfKfa5F4I6fBg2rde4uFFIqV9nVEQxsMw3VaH5ZWUMgH_byJHbnvH_6aOwLEsFf85F12FQ-Vz1H80lBECw9KIXTIfQ6XZQPW8dkjroUev8yFQUhzKziljVHLg103zV-wcp2uD1krYKVGxvvb1J_xdz1-LCCqQz86FNT2JvhyJflTUnY97uZ6YAw=="
+        },
+        {
+          "label": "Hormuz, Oil Flows, and the US Strategic Petroleum Reserve | FTPortfolios.com - Three on Thursday",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp2d-mBVuAbWBBaUM7-8nKP2z8GKtk1t4UnoHjgwutiJ3diD0sItePfmDfLzW3KPMHO4hG5O7IwSzLqCOB3YGn3sXW5bXrX4SP0HlNPP22vXjRG8mKoF9agBH_8toiZl8x1xcQELlBx1GB4QeIKATyAIROhPXeau7u4myNdWh3GFJpEv4bm1FEAXbMtjRH6AsBqJww8tMnE_mq6HzQcn_yg_O6GO8m9OdUrJChO0ZNC-18Z31QJrjGlg=="
+        },
+        {
+          "label": "US EIA reports crude oil inventories rose 3.824 million, exceeding forecasts of 1.1 million in early March - VT Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnI9ClfX0nZiI6nbNwgDDcnpQE7zTqG1F1ct6bmUVf7FGvT6drpgYXvZhcNfD0a7OTFTZv137io0aVhpN9YSpS1OQjduDX5RipI5E8-hW4chDb_MSr0CXHRjdAeQJqIRNdeaJGnQ-yxMT_vTbJRUoKnadDc8onjlff3_DInVzyxOb4RreT1DwUd7sTFPutqlY9fta4Bczre37grqr20BquHMosLrIxDibRuDm2XN9mNv-K8w0QdTND1aYMW5bOF7NciCjF6pfmwJLHg_yJ"
+        },
+        {
+          "label": "US crude oil inventories up by 0.9% for week ending March 3 - Anadolu Ajansı",
+          "url": "https://vertexaisaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-lVgPfCU__pilVbUASGjtKAq1fQLmRkfcV8C5DZemzDW7oAKSQUFE1SqmJC809vjFbnOkW0jAlze8WjkZLiHMA7KAuG-1T7-Dr5zPDDz54LwKFLLX8gzjO-d9ujMbOwcbbew1fzx4H3Xos8kjCWc0CCwfV9lfyhEFIFxUdZEwjUoQg-V35LF6XH-mAU3o29OghVqC0apgQwvFDWHWg=="
+        },
+        {
           "label": "Binance",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpyIybW7YM1ojEfw-FCUgdnHg-sxmtIz4KG8BMVjWgHhifxj1gsmlns0K5gt6JO4M-KQXCltme4LfrUO19QSK5i3MtcT9EuE3P3_ZULW077xO0oe5jg-lJKkZkXznu9omSLwYRakbM_8jnyj21bdCOsf-qeWXNT0VftKxR"
         },
@@ -9563,6 +9827,22 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicwdNnC06ZOmIgVb4IJvy55OVzfU6XMzd8nmliM1rP-bfCvs9RxdgwmI3-M4fwyEK6PXpzIxIIsmKxCLSYfCmA5ZaUoFznTs4O3Yjnw8a0OyImtRY9OHYM_HZ3Il0dO8lWunkmGEZFAJXRv1N6PXw3WokQKwNHsnGWYxByuHPrD3nPd8ACI4rTUKg8a7_Kyrvhlrh1d_3x_7XBgm2kwkfjTZXGlvlvRg=="
+        },
+        {
+          "label": "U.S. Strategic Petroleum Reserve Release: Impact & Policy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXeOwVaQF34tX7hlqYqnad6om0xNRKFSc02bHI85v_Dxb95a3jtgeaNT15YDtNTVz66bawUOVO9il88EuU9xWlnuZfC6lgpq40aSSvIGXMwg9wd2xpsDyH34KY69Ig9EyHMiObUy66kugwgoj_tqzoDYws_sfJUbOb0XK-PdOQQUILvQ7rjO2Vj5jcw=="
+        },
+        {
+          "label": "United States to Release 172 Million Barrels of Oil From the Strategic Petroleum Reserve",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4LdDEnVqwk434DS82NJwlgu7r5PevTvLNutYwIKKEZcT0fIXeNK0D71kc_lR7BLrUKTVDw81wp51T8cp7Wxr1JM0zZqmpyF_w_4jbFL3bkK4MpvHMnEo7CL-W3DKKPNSA9IiIUj2kmTFf3wHyuTXmCYgC2zWljjCubJZamzzTl2xnDFfzKXS_UyECbBesirbKoKyVIP6yTwZkmJUMcFC8iih0VQ=="
+        },
+        {
+          "label": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrzo1wb8fGlQsEeCVVRKMG0IURGEQIXHefVjzgxcdkZ2wm3oJsk6YtDvpi9hd_UeHt2CrKwQLnRdRNDI0g9yCIxfCe1iI2Qn6aIdS_W7q003bx_hZxysCESeeooRrhuOwi_EAWmi89AMoTdtjL12iecy4AD7FnT3LwJpLvFQMFbkksnfq36GF2f6bM7RBdNFm1YxhWUhdLY0byHAqMuDKlvGPVXQ64Nl1uKePHuXl4BU="
         },
         {
           "label": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war",
@@ -9739,6 +10019,14 @@
         {
           "label": "IEA创纪录释放4亿桶石油多国积极跟进，市场担忧力度不足 - 黄金网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNhrMmTyVpecnefZhz5eOSva60K-2y8R7owuGJ5vzCwO79GXvjk1BjFNqlcg8ZC2j08AgGKpwE0LZ5IKfcB9FCiM6hNXGuvBFZoIbk20hBgFzdCJOtvD02VNop_XLJEirVwpT0Ge0clh8fL2Q58K4ckzWQreEUVQ=="
+        },
+        {
+          "label": "IEA Member countries to carry out largest ever oil stock release amid market disruptions from Middle East conflict",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsXlvC3kEY2F1JWCiozsvOKvto1hDrSAp5C_HUHx3idQOUFaC_ommTJgNbun7hpzYAgMhJgY7KICQkvuOrFTC8wEjsiG6eKJoGUZqa62hHUVRBk11EoG2bm_RFACIhfmiquTXMI5gs9Cc4DprdTYqm3yMolE6K-z3Bu9tORDuUZJhf8rsl1FohjiB4TmwBy_eK0Bv3tH8nilKbTtMubY2CW1RYis1wGYEE56j9EXI4hy0Wp9Cq2Jaj4yAh1Sfua1xIHE3ZmVnM=="
+        },
+        {
+          "label": "Oil shock from Iran war prompts International Energy Agency to release largest ever volume of emergency oil - CommBank",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgeADpNihT2iOqXSEFHsC2XduerovRPQaqEGD2tu72vBGOt5O0vB_wApoAUW3ZaJWxm3pDTvFV4u_GnMfxyHP2T_xYV1nOQa6_vwqYdb68fHBl07GnNE6QpYkBkKJcLcYCoCmUbkuk1gicbRcKDsdAARjlNu5q50hyu5kE_1I2QefEPR6FHc83KC5XaxYSV8cA8hmAFLLSCfsFqaLK1Q=="
         }
       ]
     },
@@ -10047,6 +10335,14 @@
         {
           "label": "Middle East war creating 'largest supply disruption in the history of oil markets', as Brent crude hits $100 again – as it happened - The Guardian",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeQ5nyt3pbZZhZ_COsqRSVjYOAdnD1-hBzfElMquFxwz71OrlpcsUBr-Rzvrzq5rysRPKV8g2FLYU-KKgtHUOZwKMkRuQptfFMeVKSJgBtwBVpzZ8fUlAts6xrM8irYo_TvX4rvrHh2DalZpShD_cE-7o3pJO9jLUEb_bLAZr-s5oBoe_cNdTRS1o95u56Yj6-giQugipb6Gpjtg5WSnPsGpChSRI_YAnfKWsWayHhbMOvkoBp9yb7PNav4p--7uaZJB7kQ5bBoeXdtedL8Sxt7A0dDM0Ev6e9nzU="
+        },
+        {
+          "label": "IEA Decides on the Largest Ever Coordinated Release of Emergency Oil Stocks to Stabilize the International Petroleum Market",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF7PLDEFwccn2vfr6sENQyZlX4RrfPQMRoHfcsxwYQQADHRJIUBy-4YObZvRH1Q-v6ANa7DOKGzoL2w3jQkTVtjCfG0oWkf53jzWKBijGn070P1eS0vufTs0Q4t_huZwk3xDU=="
+        },
+        {
+          "label": "IEA orders largest ever release of stockpiled oil to reduce crude price | Oil - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqDT-jUpZhnIg_FsstHZr1iuVSGEaq1nSzdasUPYJJew02q5Vk2rcseW2Hv2DKtmgP89R5eWXZFXo7pYKFSVt8B0TPj9DyndYoqKidlIrnAosAy3IN_VS7g3hO0PH2VGKWB3J1C4nBeFAZEqkpW1WJ8nNWa3TZgqS-rENp9KU1nBF6WvIL6TpBk0xxesRHXZOeisbLjRJc_EfZIdzxe1TiKe9xMNL"
         }
       ]
     },
@@ -10117,6 +10413,14 @@
         {
           "label": "ProtoThema English",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjL5HsJ9oMQHlY18PU0SVqRQikYoOVwiseUjpFjEyu9UgkZQOQoQCmc8MT0r8yH8UU4-mw7gp1-VTea3coYHiCzujfWYlXwSgsey7IYgY8IZif4eahsAwZqND5Kmd5vDUgEdKWE9MhBTB-pbkrLW7ZwMBV7qckRN_WmaCEk1ZcsZnQDnULmBL3xbs3BwlBZpyey2uP-8nf0_fgC1P5Xruzqdt3Rplui9aSedD3oi-SHl0RuVOQ-zBIQFR4cv0JQEUdqw=="
+        },
+        {
+          "label": "【金十期货一周精选】韩媒：据悉韩国正考虑30年来首次实施石油价格上限制度-市场参考",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHIsTv5yGSt0EckKITCmTDKuJ4r9x_ovIRY_s7vb0jJrM43S0EdzhgNmit6BhhZ_IT7LCBAbTzq8naPA2zSlRv8Ex1CLkqRjOhFoQ8BX8Q0KXJL4L1naBWOUQrS6lCwiwc=="
+        },
+        {
+          "label": "US stock markets close on high after Iran war drove oil prices above $100 a barrel",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD2qtZwH4ks4_90PDNgBEFiY9Q4vcpT-vcgHENvnTgABVhf0Qc5zRK0WJd1dm3tFouFeyNtprGLGA6Pt2XDGcI1Egnql2UvgKoCH4JJJNkbQA8-1wtHFEzJbWfndcw1YmVqUHioNP97MiSBuT25p9NV6JOxjvKO7duWxtfFRk49_Zq9Hlnq6R59SNZ-OyvNVp5_H-DlgcnFaArYOLxy1WpXgEii4wYGpcX90H9jGJrR7s=="
         }
       ],
       "potentialLevelValue": null,
@@ -10127,7 +10431,7 @@
       "market": "战略石油储备",
       "period": "2026-03-11",
       "status": "已决定释放",
-      "levelValue": 100,
+      "levelValue": 77.64,
       "levelUnit": "百万桶",
       "changeValue": -22.46,
       "changeUnit": "百万桶",
@@ -10135,9 +10439,9 @@
       "demandUnit": "",
       "coverDays": 208,
       "potentialCoverDays": null,
-      "potentialLevelValue": 22.46,
-      "potentialLevelUnit": "百万桶",
-      "potentialReason": "2026年3月12日，韩国释放2246万桶战略石油储备。",
+      "potentialLevelValue": null,
+      "potentialLevelUnit": "",
+      "potentialReason": "",
       "current": "3月11日，韩国政府宣布将释放2246万桶石油储备，以响应IEA 4亿桶石油供应计划。截至2月底，韩国保有1亿桶原油储备，可保障208天供应。政府正考虑行使原油优先购买权，锁定逾600万桶储备油，并计划实施石油价格上限制度以稳定国内油价。",
       "sources": [
         {
@@ -10179,6 +10483,26 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "South Korea to release record 22.46 million barrels of oil reserves in emergency action",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4n1Q3SufqeInI2h7zZJLZJAmEtFv14TnSi2enWv2OsgO0J2iUwywWZXNhKxLJrxJsaPP4PZn4deXcYIfGoF3ZllG9rpKPelkGEe0KTEACVGWO0LpnR3cXqfAlM50o3MOroOg2Xgb_4uSwhwdVOj_c3LQivWK_LzFqA2M5bwjhNNG59398X0-J6KvW-JwrkHMwsA5EFs_0wMCukSrxLX6zXlUOSE_A29Ff9WgqvN6iLZ3taiNokvO2rVRgpC8lWQP5NkGXiG6gDJKhTk0qfYRnTs4ETVPNCZ2-ZotSMZlxlQ=="
+        },
+        {
+          "label": "South Korea to release 22.46mn bl of oil from reserves | Latest Market News - Argus Media",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLnHy_XgAztOAO9G5MA3vOb5olRAAxJYfZCS_PWTnWY_C1BKGSDkDHdvzTFNg7UEFJFu6lyWIdYHLCteU99M9gH7-FvN5NzSc4mR4WUIZ6E9X540_yRbYFzyrqTmRPyJrtBhewzvNCExcECFgH9Lr-2esOzHyiCOCyjCNIIIJwT0MhLRc-0qx6FXsPd4QjMk_Wn90fUKaqaYwHAQZhF_4UB1HZBlmsK7yHskAvH5mRazEQ_d0K6XxSO9fH6Cc=="
+        },
+        {
+          "label": "Seoul to release 22.46mn barrels from oil reserves - Eastern Europe | Eurasia | Middle East",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhFx4okNKLnwUUTxqEqDgs2X05MTG_CvbPFxJNfJG26pkQxHUJ-OKSuQpcikdqjiAYD5P6zYNX86NyZN6rbugAlYkTZXWRKjw0iYgY-oOPiu_BqEJ3Ba3Hb2h8qWrRZove20JH2nBpu-JoRpJo6CW2FyKhPbpDEX3auOz4TKyeQH3TjxfGLrfbJ2KGJbV1yB8W1tERh0cnhVkGK6wOLtEvS4BTjg=="
+        },
+        {
+          "label": "S. Korea to release 22.46 mil. barrels from oil reserves under IEA plan",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDCNt8kREnqdgeosbZzZeGFXIPV3odUKPkZtk9iNiFMucP7syw_LKtMnb1alj9l0QXuARSXpJ8M7zeb4mVx7WHM8B2MVD-TupMDM0nhScUBZPrpatZsWcTI2fSv5I0zBrnZ_EF-8I9fPZ7L7zNigQ1DQ5wi7XGKl_XeG5mZMBi0HqK2XfwCK-c3F7ssz1y4xW9E8KOKCUPFUG52DOjnSBERVCP2AsrGTHRNvPhU2KjcA=="
+        },
+        {
+          "label": "South Korea to Release 22.46 Million Barrels of Oil Reserves — OPIS | Morningstar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdzDUJwfBtIM8_7uD7VEy7J_jucHLxEmqwVRw4R-PHJxW3J29mNAoM0x9EhONy75fzjaOyUOgshJAly3_QcB1n4SZufa9z-heGoHAZQJgvkC3T5eOV6I6rq9uj8PURWSy-Ky4UZblwn0GfSUkgbpSgqlh2imaFeRJV4bMrIKpTEoUym1Y4kKK6oAZxaOLnts-O8UM-vobUNgco3AnrMeJxJ016cZM-TYvFnmXEQBJ5WV4=="
         }
       ]
     },
@@ -10247,6 +10571,14 @@
         {
           "label": "石油化工产业协作联盟网",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNklWbhqbdqAHSDwlQ4nzscM3Ob-KWqmWvD-8UE8v2GUoD3AdrFsOdYssWbK6H7H4BJI5h4YOQRQ5a-odPq1vBVF0x_iWSmEVWWi8acwxWX06LiUSWpzd6gWUvF9hfA_WEPW_qxao="
+        },
+        {
+          "label": "金投原油网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg-EviHbxKVZhwTk8c3UW2v-pzlrvb8EJnQoXKabR5eTbnVOuRdyKobsk0q2q87Ty3-CHHyBUEah197intP1ZDR9HfJ3cr6EUHyBFsHr2r82muJMcMgFlz9NmVoEVXj4fNDJy0SlklirHma3mo9Ec="
+        },
+        {
+          "label": "石油化工产业协作联盟网",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt0TrdOKg1kEHp0Kfl6FYwEiPWCEKHkXbo_gOmXOhVROnTBzPLNXG9IWF07nhCo073WnTWXcH3LrKe3Ato3iCThlcsV0Mvi9R2UTPUuo7dSiwEcVsjYAYu15ZM72gMZ72xlByn7PyINjke"
         }
       ]
     },
@@ -10523,6 +10855,30 @@
         {
           "label": "Oil slightly up amid Iran tensions and US EIA inventories report - XTB.com",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoEInSPvxsKecYoKIMdTT20i9gZYxwVuUtWLKWoEuyXjGyIKsItkrM9-cTCsXKUTU_jDIMHii-Twr5ZORUyiqqF-yfgnASFoVaAOG2IITjRjMQRzMQEsJT2cNcYpQtueXPu-AL1qUSHunrboixzb3iBr-JX50ZpoQRXYiWvwCW8rkKFky8CCyC9lflXwV8AMicVHhsEfLUL1S-KF_WqZc7VO2UgJBSuwltYc4gJowow91zD2B4"
+        },
+        {
+          "label": "United States Crude Oil Stocks Change - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5fb9Y2YQWz1439a7sUEgGuN_5oJKWFpSrS7rw0WIGIN_EqKPSxqLaKgn4YqjjR5h-O5z2x6brX_hNKRXDbCKohrm5LyEvkGjRKgxUobxKESMdJmjVThB5poFWmwKdA2Gww2K8CrqEP2Pl2ZWFjgUF7ALIBv7kXmrY07HvQ=="
+        },
+        {
+          "label": "US commercial crude oil inventories increase by 3.475 million barrels - Apa.az",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnFKRMJsGhO8xNOk3dHrVyhBkzs47KreDbRn2nBwqjO2wE3JgjA94LkkkzUqnwHk-385LnYyXirlkwHeouKzljI5gH6XbcqdWTbqwd5I03pvwg7Kqk4xQEhjf_7rpZg-6HiGjStsmWq_vwNAEQPa_BRNAuRwhzbttFb31tlo4FrGa1RDwqP8JpZPrY-7CfZlGXZ54HWSkMDhgUFPUzIXWP_yXfXOc5T7-9RcPY"
+        },
+        {
+          "label": "USA Crude Oil Stocks Rise Almost 4MM Barrels WoW | Rigzone",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuk6rpAgSBMwTnutCl437M2ZzOU4Fb7FXQQbAcfKfa5F4I6fBg2rde4uFFIqV9nVEQxsMw3VaH5ZWUMgH_byJHbnvH_6aOwLEsFf85F12FQ-Vz1H80lBECw9KIXTIfQ6XZQPW8dkjroUev8yFQUhzKziljVHLg103zV-wcp2uD1krYKVGxvvb1J_xdz1-LCCqQz86FNT2JvhyJflTUnY97uZ6YAw=="
+        },
+        {
+          "label": "Hormuz, Oil Flows, and the US Strategic Petroleum Reserve | FTPortfolios.com - Three on Thursday",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp2d-mBVuAbWBBaUM7-8nKP2z8GKtk1t4UnoHjgwutiJ3diD0sItePfmDfLzW3KPMHO4hG5O7IwSzLqCOB3YGn3sXW5bXrX4SP0HlNPP22vXjRG8mKoF9agBH_8toiZl8x1xcQELlBx1GB4QeIKATyAIROhPXeau7u4myNdWh3GFJpEv4bm1FEAXbMtjRH6AsBqJww8tMnE_mq6HzQcn_yg_O6GO8m9OdUrJChO0ZNC-18Z31QJrjGlg=="
+        },
+        {
+          "label": "US EIA reports crude oil inventories rose 3.824 million, exceeding forecasts of 1.1 million in early March - VT Markets",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnI9ClfX0nZiI6nbNwgDDcnpQE7zTqG1F1ct6bmUVf7FGvT6drpgYXvZhcNfD0a7OTFTZv137io0aVhpN9YSpS1OQjduDX5RipI5E8-hW4chDb_MSr0CXHRjdAeQJqIRNdeaJGnQ-yxMT_vTbJRUoKnadDc8onjlff3_DInVzyxOb4RreT1DwUd7sTFPutqlY9fta4Bczre37grqr20BquHMosLrIxDibRuDm2XN9mNv-K8w0QdTND1aYMW5bOF7NciCjF6pfmwJLHg_yJ"
+        },
+        {
+          "label": "US crude oil inventories up by 0.9% for week ending March 3 - Anadolu Ajansı",
+          "url": "https://vertexaisaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-lVgPfCU__pilVbUASGjtKAq1fQLmRkfcV8C5DZemzDW7oAKSQUFE1SqmJC809vjFbnOkW0jAlze8WjkZLiHMA7KAuG-1T7-Dr5zPDDz54LwKFLLX8gzjO-d9ujMbOwcbbew1fzx4H3Xos8kjCWc0CCwfV9lfyhEFIFxUdZEwjUoQg-V35LF6XH-mAU3o29OghVqC0apgQwvFDWHWg=="
         }
       ]
     },
@@ -10643,6 +10999,22 @@
         {
           "label": "LIVE UPDATES: Conflict in the Middle East (March 12, 2026) - GMA Network",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj6G48yZiM86g4O1s0g7tSmzv27xS8uRC8IjVoCgQrC7HqwxxDDv1BBkk_qKjGEB6SC2d8hvaWiBPugdeNazbDkqZzbUTiDXUzueU_l2zaYI-RJu3sHudQ3mOKbKDR3odDRS8TsJGkRovhS86lWV9G6vC8pU6aSVwQgzqcbl5Ob1HGpROWKxv9rxFY8YAExF-evzzDbj-BjmgvXxfpP4vFoBDkCvtIyE-vHSGsI7D14uw=="
+        },
+        {
+          "label": "IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicwdNnC06ZOmIgVb4IJvy55OVzfU6XMzd8nmliM1rP-bfCvs9RxdgwmI3-M4fwyEK6PXpzIxIIsmKxCLSYfCmA5ZaUoFznTs4O3Yjnw8a0OyImtRY9OHYM_HZ3Il0dO8lWunkmGEZFAJXRv1N6PXw3WokQKwNHsnGWYxByuHPrD3nPd8ACI4rTUKg8a7_Kyrvhlrh1d_3x_7XBgm2kwkfjTZXGlvlvRg=="
+        },
+        {
+          "label": "U.S. Strategic Petroleum Reserve Release: Impact & Policy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUXeOwVaQF34tX7hlqYqnad6om0xNRKFSc02bHI85v_Dxb95a3jtgeaNT15YDtNTVz66bawUOVO9il88EuU9xWlnuZfC6lgpq40aSSvIGXMwg9wd2xpsDyH34KY69Ig9EyHMiObUy66kugwgoj_tqzoDYws_sfJUbOb0XK-PdOQQUILvQ7rjO2Vj5jcw=="
+        },
+        {
+          "label": "United States to Release 172 Million Barrels of Oil From the Strategic Petroleum Reserve",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4LdDEnVqwk434DS82NJwlgu7r5PevTvLNutYwIKKEZcT0fIXeNK0D71kc_lR7BLrUKTVDw81wp51T8cp7Wxr1JM0zZqmpyF_w_4jbFL3bkK4MpvHMnEo7CL-W3DKKPNSA9IiIUj2kmTFf3wHyuTXmCYgC2zWljjCubJZamzzTl2xnDFfzKXS_UyECbBesirbKoKyVIP6yTwZkmJUMcFC8iih0VQ=="
+        },
+        {
+          "label": "Planned release of strategic reserve would put U.S. supplies at lowest levels in 44 years",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBrzo1wb8fGlQsEeCVVRKMG0IURGEQIXHefVjzgxcdkZ2wm3oJsk6YtDvpi9hd_UeHt2CrKwQLnRdRNDI0g9yCIxfCe1iI2Qn6aIdS_W7q003bx_hZxysCESeeooRrhuOwi_EAWmi89AMoTdtjL12iecy4AD7FnT3LwJpLvFQMFbkksnfq36GF2f6bM7RBdNFm1YxhWUhdLY0byHAqMuDKlvGPVXQ64Nl1uKePHuXl4BU="
         }
       ]
     },
@@ -10723,6 +11095,18 @@
         {
           "label": "Taiwan News",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZY0oRbvvp282rZYmHTmGSPlLNd36Z3WYd8B-YUFL14V6VZ6zAKGPpX-Z0jis4ew9Gjv5Sq9uqCqt8mfXtrohPhyAgVCnOCaPJoc7Q_MsctZtB9LhJd439KbmmoMV7afrWG_ALK_ox"
+        },
+        {
+          "label": "Taiwan says oil, gas stockpiles above regulatory requirements - Taipei Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSER2LDByJcDxOQ_uC36YAr3oHzRYZQcrmRt1hZ8tazRIlJ7OVOLvwQoipl7Fi9K74RC6dsWAmh7dlHmAGyRtzqwsRrlHjPBM1Y7jjyllgxJabqdOGWPVG3hhp5hH5DsUT3oQmMv-eaWXkqWHye--fVmHNnlc1DApWeBPi4oM=="
+        },
+        {
+          "label": "Taiwan economy ministry: has asked petroleum companies to raise their oil and gas inventory levels and to update inventory and shipping schedule data daily | MarketScreener",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9YIq6eCqjw-lyXy0EZczReYAd60ONtbZtUd18YgUYhe88c8kqxtzeDBjfqXHF4Iz9aM8s36SLF36xLSDqRAnJu6WvkP3W9_2n9qdLkv6yMRjd2M028Tfh-YUjsuxcO5gOHJfuVYIg2DUsaRZZ49lFjce1wfYu4LOYZ02AzrE2jQpEx9jt6f_7zCg_4ntDDasCNYZum3lFiDk8PJZv24MGytXsHVpiEmaXZQHGB58w5QrrzXWt5lrC8IDp6qiTbfGlcTC4a9DnsI9a70FDkYI1H-iMg=="
+        },
+        {
+          "label": "大紀元",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5dsIFlmf-5hj57jYemH3ayA7iD1OCxdeR9-RJi6pDTK5QfLPq8PXCZGWBppkNvojaFlj3L68Ivj9i_e5h9MPoy8NZyuLD-o-FHflBEAhZUWNh9H5qOISOTc3u8B8JJR9Qc4VUfbeIgGjrlgw=="
         }
       ]
     },
@@ -10975,6 +11359,10 @@
         {
           "label": "伊拉克陷伊朗戰爭夾縫遭美伊雙方夾擊面臨經濟崩潰危機 - 巴士的報",
           "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs715owHL6vA8jwZuZviM0E4F_j1IPNlkhogciKygy0MjW5JIvlaTQY9gCgk9ydA74ZiU4I0fPnvomoukTkJAi2N6n5yB1lJNp5Zf7sWNjtBPxphg--apOHyLNzGQMJZM6TsQdW6ZSJM1f1wGmhS5oMALrYfagskWzOc7VGvwx1oBsVWof9AY-PYzvWJbPrUm28XcoCduMvus6bfCzw-d2g4fqrUDhm0sjJT1tJgclw1yPh6CKx8P5u1-Lq4AUpAUoKVQYAPlf1768eSLlFnnJeL9dFX2gQRQHqto3cUFo8hQ3191ujaAdeH5lB2td9Zf3g6MLR2NxS3f1KH7r825VtRkwn4dVB40Um4T8V2uXGeE3sx0YD4zy_hvh-HiZAXH9B8h_1yAB_M4fwkJeQWTes7Mrf520sqi4"
+        },
+        {
+          "label": "How Israel-US war on Iran puts $50bn in Indian remittances at risk - Al Jazeera",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtryoODnKZgo-3lj6wJfuRp3pSwoceBOPxoVauYJdkjoN8nvbibM_KtJzb7dHRDGajuGE3ULbhRVGQYC4C9M5Mnjq1p2Sn1Z1TLMGvthh4EYDBxIOsk-HfsSXcuO3kHN7tTAkn5R7osy_9s3M3Glhegxs9MjVTcXT6IyO1zm0KDlg7YonAzIqwjSmRPNbLdBGk1dBEKzqNN32iGE7jJ9sREEx3wFY=="
         }
       ]
     },
